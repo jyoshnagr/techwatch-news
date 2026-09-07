@@ -86,7 +86,7 @@ async function fetchRss(source) {
     category: source.category,
     title: cleanText(item.title),
     link: item.link,
-    summary: cleanText(item.contentSnippet || item.summary || ""),
+    summary: truncate(cleanText(item.contentSnippet || item.summary || item.content || ""), MAX_SUMMARY_CHARS),
     publishedAt: item.isoDate || item.pubDate || null,
   }));
 }
@@ -149,9 +149,26 @@ async function fetchScrape(source) {
 // 3. Helpers
 // ---------------------------------------------------------------------
 
+const MAX_SUMMARY_CHARS = 220;
+
 function cleanText(s) {
-  return (s || "").replace(/\s+/g, " ").trim();
+  return (s || "")
+    .replace(/<[^>]*>/g, " ") // strip HTML tags
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&") // must come after other entities that contain "&"
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/\s+/g, " ")
+    .trim();
 }
+
+function truncate(text, maxChars) {
+  if (text.length <= maxChars) return text;
+  return text.slice(0, maxChars).trim() + "…";
+}
+
 
 function escapeRegex(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
