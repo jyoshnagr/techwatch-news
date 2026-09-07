@@ -1,0 +1,13 @@
+{
+  "name": "Dispatch — Tech & AI News",
+  "short_name": "Dispatch",
+  "description": "A personal, daily-updated feed of tech and AI news.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDEBE1",
+  "theme_color": "#EDEBE1",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

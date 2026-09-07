@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log*
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+
+# local env files, if you ever add any
+.env
+.env.local

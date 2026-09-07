@@ -1,0 +1,1409 @@
+{
+  "updatedAt": "2026-09-07T21:11:46.965Z",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai"
+    },
+    {
+      "name": "Google AI",
+      "color": "#4285f4",
+      "category": "ai"
+    },
+    {
+      "name": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai"
+    },
+    {
+      "name": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai"
+    },
+    {
+      "name": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai"
+    },
+    {
+      "name": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general"
+    },
+    {
+      "name": "The Verge",
+      "color": "#fa4616",
+      "category": "general"
+    },
+    {
+      "name": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general"
+    },
+    {
+      "name": "Hacker News",
+      "color": "#ff6600",
+      "category": "general"
+    },
+    {
+      "name": "Anthropic",
+      "color": "#d97757",
+      "category": "ai"
+    }
+  ],
+  "itemCount": 150,
+  "errors": [],
+  "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Macbeth and His Problems",
+      "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-09-07T20:34:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes Audi to split the difference. The German automaker's new A2 E-tron compact crossover is inexpensive, starting at just £32,200 (about $45,000). And it absolutely impresses with an ultra low drag coefficient and a range of battery and drivetrain options that, when configured correctly, can produce a range of … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T20:03:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "publishedAt": "2026-09-07T19:24:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Replaceable but Employed: Automation and the Meaning of Work",
+      "link": "https://www.nber.org/papers/w35559",
+      "summary": "25 points, 0 comments",
+      "publishedAt": "2026-09-07T19:06:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "106 points, 40 comments",
+      "publishedAt": "2026-09-07T18:52:06.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "publishedAt": "2026-09-07T18:02:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "summary": "The XM4C (in white) have the exact same visual design as the XM4 (in black) from 2020. | Photo: John Higgins / The Verge Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, until they went out of stock. Now Sony has brought them back, with minor improvements, as the WH-1000XM4C. The XM4C look identical to the original XM4 (although they now have a lavender option), with the same hinge design and ability to fold up. It's a compact design that Sony moved away from when it released the XM5 in 2022, … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "publishedAt": "2026-09-07T15:58:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "summary": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest airline-approved power banks, respectively. Better yet, the batteries are built using longer-lasting LFP chemistry that's far less volatile. The River 260 Gen4 features four USB ports, and 300W of max continuous output delivered out its lone AC jack. The River 500 Gen4 features the same USB port selection but offers a pair of AC jacks good for 5 … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T14:59:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "bzip3",
+      "link": "https://github.com/iczelia/bzip3",
+      "summary": "338 points, 95 comments",
+      "publishedAt": "2026-09-07T13:35:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The real reason your phone is getting more expensive",
+      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" or \"RAMageddon.\" The shortage is reversing a decades-long decline in memory costs that helped make consumer electronics more powerful without making them dramatically more expensive. The terms \"memory prices\" and \"memory shortage\" appeared in 473 company transcripts last quarter, according to data provided by AlphaSense. The … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "publishedAt": "2026-09-07T11:00:03.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation",
+      "link": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks. Learn how Columbia and Arklex AI use synthetic user personas, trajectory entropy, and automated CI/CD pipelines to evaluate multi-turn agents, catch edge cases before deployment, and scale self-learning workflows in production. By Zhou Yu",
+      "publishedAt": "2026-09-07T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley is just about to debut its 2027 Torcal, a spacious SUV that shares a platform with the electrified Porsche Cayenne. I recently got a quick ride in a heavily camouflaged preproduction Torcal as a way to experience it before its official debut toward the end of this month. Between this brute's spacious … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung added to the Galaxy S26 Ultra this year. The first Mate XT, which launched in China in late 2024 and internationally a few months later, used an accordion-esque folding design. It removed the need to include an additional cover screen on the phone, but left parts of the delicate folding display permanently exposed. The fo … Read the full story at The Verge.",
+      "publishedAt": "2026-09-07T10:09:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "link": "https://mathathonchallenge.com/index.html",
+      "summary": "197 points, 60 comments",
+      "publishedAt": "2026-09-07T09:26:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Keep Our Servers Running",
+      "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "908 points, 223 comments",
+      "publishedAt": "2026-09-07T03:29:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "summary": "304 points, 614 comments",
+      "publishedAt": "2026-09-07T00:22:04.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "publishedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "summary": "<p><strong><a href=\"https://openai.com/index/research-acceleration-view-inside-openai/\">Research acceleration: The view inside OpenAI</a></strong></p> Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay <a href=\"https://openai.com/index/an-alien-mind/\">An Alien Mind</a> (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother to expand the acronym.</p> <p>Included are details on how OpenAI's own research team are using coding agents. Like pretty much everyone else 2026 has been the year that agentic engineering really took off at OpenAI, best illustrated by this chart:</p> <p><img alt=\"Screenshot of a line chart from a report, headed &quot;1. Coding agents are reshaping daily work for OpenAI researchers&quot; with a partially visible chart title ending &quot;significantly—Median researcher&quot;. Y-axis: &quot;Daily $ / researcher&quot; from 0 to 700. X-axis labels: &quot;Feb 2026&quot;, &quot;Apr 2026&quot;, &quot;Jun 2026&quot;, &quot;Aug 2026&quot;. A blue line stays near 0 through February, rises slowly to about 50 by April and 150 by June, plateaus around 150–165 into July, then climbs steeply to roughly 600 by late August 2026.\" src=\"https://static.simonwillison.net/static/2026/openai-agent-usage.webp\" /></p> <p>I'm intrigued at what caused that significant acceleration in AI spend per researcher in late July - my best guess is that's when internal employees gained access to the model later released as GPT-6 Astra. <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/chatgpt\">chatgpt</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/november-2025-inflection\">november-2025-inflection</a>, <a href=\"https://simonwillison.net/tags/recursive-self-improvement\">recursive-self-improvement</a></p>",
+      "publishedAt": "2026-09-06T23:57:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two … Read the full story at The Verge.",
+      "publishedAt": "2026-09-06T23:36:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "publishedAt": "2026-09-06T21:41:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement saying: 21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico. As a result, flights at the airport were grounded and over 60 M … Read the full story at The Verge.",
+      "publishedAt": "2026-09-06T20:56:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "publishedAt": "2026-09-06T20:47:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Europe has its first commercial orbital rocket",
+      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. CEO and Co-Founder Daniel Metzler said in a press release: \"Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no … Read the full story at The Verge.",
+      "publishedAt": "2026-09-06T19:04:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Dataflow Model Revisited",
+      "link": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "summary": "69 points, 12 comments",
+      "publishedAt": "2026-09-06T18:10:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "publishedAt": "2026-09-06T16:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch e-paper display, however, will be touchscreen, which The Verge's Andrew Liszewski called a \"welcome upgrade\" on the X4 Pro. The Picco has physical page-turn buttons, and they can be customized with different actions for short and long presses. There's apparently no onboard storage, and it relies entirely on a microSD card to h … Read the full story at The Verge.",
+      "publishedAt": "2026-09-06T16:28:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-09-06T16:08:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p> Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".</p> <p>On <a href=\"https://interisle.net/insights/cybercriminaldomaindemand\">this Interisle report</a> (<a href=\"https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/\">via Andrew Campling</a>), Terence says:</p> <blockquote> <p>It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely floor for these numbers and it's probably closer to 20%. One in five newly registered domains with a gTLD are scams. That's a bloody crisis.</p> </blockquote> <p>I had no idea. Apparently ICANN have been discussing this problem for years. <p>Tags: <a href=\"https://simonwillison.net/tags/dns\">dns</a>, <a href=\"https://simonwillison.net/tags/scams\">scams</a>, <a href=\"https://simonwillison.net/tags/terence-eden\">terence-eden</a></p>",
+      "publishedAt": "2026-09-06T14:40:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Icy Moons Are Ocean Worlds",
+      "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "summary": "84 points, 10 comments",
+      "publishedAt": "2026-09-06T13:07:52.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google Mantis: an Agentic Vulnerability Scanning Harness for Reducing False Positives",
+      "link": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Mantis to address the high rate of false positives and hallucinated vulnerabilities produced by conventional AI-powered code scanning. By Sergio De Simone",
+      "publishedAt": "2026-09-06T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "publishedAt": "2026-09-06T11:55:26.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "publishedAt": "2026-09-06T10:00:35.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "summary": "<p><a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get#c_8kdtaw\">My comment</a> on <a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get\">There&#x27;s No Limit to How Bad Code Can Get</a> &mdash; Lobste.rs.</p><p><em>[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming]</em></p> <p>In my experience it's <em>so rare</em> for that to work.</p> <p>You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins.</p> <p>Meanwhile the old thing remains a moving target: it's running the core business, so changes are still necessary. The developers working on it know that it's going to be made obsolete by the new thing soon, so they don't have any incentive to go beyond the smallest effort possible to add the new features. Technical debt continues to mount.</p> <p>Meanwhile, the team working on the new thing are ambitious and probably a little naive. They start out at a great pace - it's greenfield after all - but as time progresses it becomes apparent that nobody fully understands the behavior and scope of the thing they are replacing. If it was well documented and tested it wouldn't <em>need</em> to be replaced, after all...</p> <p>After months (or even years) without delivering value, the pressure is on to \"ship it\", so the new system is launched to handle a subset of what the old system handled - or often for some new feature that was too hard to build with the now mostly unmaintained old system.</p> <p>... so now you have TWO systems in production - the janky old system that nobody wants to touch, and a new system which handles just a few production features and is 80% inactive code that is meant to replace the old system, eventually.</p> <p>If you're <em>really lucky</em> the company won't have lost patience with the new system and will allow that work to continue. The longer this all takes, and the longer the old system stays in production and stubbornly continues to work, the higher the risk that \"priorities have changed\" and the new system total replacement work is abandoned, leaving you with two systems where you used to have one.</p> <p>The best article I've read about completing this process responsibly is <a href=\"https://lethain.com/migrations/\">Migrations: the sole scalable fix to tech debt</a> by Will Larson.</p> <p>If I run into a situation like this in the future, my strong recommendation will be to shore up the old system with as much automated testing as possible and then seeing if targeted refactors can get it to the desired shape. My hunch is that in many cases that will have a much higher chance of success than the siren call of a greenfield replacement.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/migrations\">migrations</a>, <a href=\"https://simonwillison.net/tags/technical-debt\">technical-debt</a></p>",
+      "publishedAt": "2026-09-06T09:08:06.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "publishedAt": "2026-09-06T09:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Zach Kehs",
+      "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "summary": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can <em>always</em> get worse. There can <em>always</em> be a new layer of indirection or a reduction in performance.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\">Zach Kehs</a>, There's No Limit to How Bad Code Can Get</p> <p>Tags: <a href=\"https://simonwillison.net/tags/technical-debt\">technical-debt</a></p>",
+      "publishedAt": "2026-09-06T08:42:49.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "publishedAt": "2026-09-06T08:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "How Figma Uses AI Agents for Security",
+      "link": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigations, reducing repetitive work and helping engineers resolve complex alerts about 70% faster. By Renato Losio",
+      "publishedAt": "2026-09-06T06:59:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Decapitating a MacBook (2025)",
+      "link": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+      "summary": "31 points, 17 comments",
+      "publishedAt": "2026-09-06T04:40:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Introducing GPT-6 Astra for developers",
+      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg\">Introducing GPT-6 Astra for developers</a></strong></p> Blink and you'll miss it, but there's a familiar creature at <a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg&amp;t=119\">1m59s</a>:</p> <blockquote> <p>Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, <strong>animals</strong>, cityscapes, even Dyson spheres.</p> </blockquote> <p><img alt=\"astra-video-pelican.webp\" src=\"https://static.simonwillison.net/static/2026-09-05/astra-video-pelican.webp\" /></p> <p>Astra <a href=\"https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/\">really</a> does <a href=\"https://simonwillison.net/2026/Sep/4/astra-pelicans/\">believe</a> in putting a red neckerchief on a pelican riding a bicycle. <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=49554643#49575117\">Hacker News comment</a></small></p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/gpt-6-astra\">gpt-6-astra</a></p>",
+      "publishedAt": "2026-09-05T23:27:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "publishedAt": "2026-09-05T22:49:55.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "publishedAt": "2026-09-05T19:35:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "publishedAt": "2026-09-05T18:05:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "publishedAt": "2026-09-05T17:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Using Blender with coding agents on macOS",
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">Using Blender with coding agents on macOS</a></p> <p>I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from <a href=\"https://www.blender.org\">blender.org</a> and run a prompt like this:</p> <blockquote> <p><code>Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle</code></p> </blockquote> <p>In this case I followed that up with these two prompts:</p> <blockquote> <p><code>OK add a background and a lot of flair</code></p> </blockquote> <p>Then:</p> <blockquote> <p><code>OK make it a whole lot better</code></p> </blockquote> <p>And got this image, generated <a href=\"https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle/blob/main/work/pelican_final.py\">using Blender's Python API</a>:</p> <p><img alt=\"A 3D illustration of a white pelican cycling along a seaside boardwalk at sunset. It wears a cream boater hat and a coral scarf, with wings on the handlebars and long orange legs reaching the pedals of a turquoise bicycle. A wicker front basket holds pink and white flowers, and three balloons float behind. Pastel bunting stretches overhead between palm trees. Striped beach huts stand beside a teal sea with a small sailboat, beneath a large peach-colored sun. The scene has a softly lit, toy-like style.\" src=\"https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg\" /></p> <p>This was covered by my existing Codex subscription, but according to <a href=\"https://github.com/kenn-io/agentsview\">AgentsView</a> it would have cost $4.24 at API prices for <code>gpt-6-astra</code>.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/blender\">blender</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/gpt-6-astra\">gpt-6-astra</a></p>",
+      "publishedAt": "2026-09-05T15:51:09.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "publishedAt": "2026-09-05T15:17:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "publishedAt": "2026-09-05T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "link": "https://arxiv.org/abs/2607.24888",
+      "summary": "51 points, 7 comments",
+      "publishedAt": "2026-09-05T11:25:18.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: A Few Predicted Talks From QConAI 2030",
+      "link": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT. She shares insights on agent-driven vendor decisions, upcoming regulatory hurdles, and why software engineers must pivot from pure coding skills toward product leadership and multi-agent coordination. By Meryem Arik",
+      "publishedAt": "2026-09-05T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
+      "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio",
+      "publishedAt": "2026-09-05T10:40:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS",
+      "link": "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "JupyterGIS is a GIS-focused extension for Jupyter notebooks. The recent 0.16 release enhances collaborative features, real-time editing, and support for large-scale data processing, including remote sensing. It introduces better visualisation tools and extends compatibility to R users. Community feedback highlights practical concerns and a desire for improved portability. By Olimpiu Pop",
+      "publishedAt": "2026-09-05T05:05:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "summary": "<p>I got access to GPT-6 Astra this afternoon, so naturally I used it to generate <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\">SVGs of pelicans riding bicycles</a> - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in <a href=\"https://static.simonwillison.net/static/2026/gpt-6-and-5.6-pelicans.html\">a comparison grid</a> with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful.</p> <p><img src=\"https://static.simonwillison.net/static/2026/astra-grid-3.webp\" alt=\"Comparison grid showing gpt-6-astra, gpt-5.6-sol, gpt-5.6-terra, gpt-5.6-luna at 6 different reasoning levels with pelicans and token counts and prices for each one.\" style=\"max-width: 100%;\" /> See <a href=\"https://static.simonwillison.net/static/2026/gpt-6-and-5.6-pelicans.html\">the grid</a> for full quality images. Here's <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Ff789d2784fc6c5b870cc80f0b7cd9d01\">the transcript</a> that created the GPT-6 Nova pelicans.</p> <p>There are a few interesting things that stand out from this grid.</p> <ul> <li>The Astra pelicans are <em>much better</em>. The very best GPT-5.6-Sol pelican (I liked xhigh better than max) is still pretty clearly a bunch of abstract shapes. Every single one of the Astra pelicans, from low to xhigh, looks better than that. The Astra max one is really good.</li> <li>Astra below max still doesn't reliably get the pelican legs on both sides of the frame.</li> <li>In terms of cost, Astra may be around twice the price of Sol ($10/million input, $50/million output, compared to $5/$30 for Sol), but it uses significantly less tokens at each of the levels, making the prices at the different levels closer than they might otherwise be.</li> <li>Astra low produces a better pelican than ANY of the GPT-5.6 Sol models at any level, for 9.55 cents. Spending 10 cents on any other model gets a much worse result.</li> <li>Look at the input token counts: Astra and Luna both used 16 input tokens, Sol and Terra used 26. That's interesting.</li> </ul> <p>I wonder if Astra and Luna are more related to each other than OpenAI let on?</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/gpt-6-astra\">gpt-6-astra</a></p>",
+      "publishedAt": "2026-09-04T23:59:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "publishedAt": "2026-09-04T23:36:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "publishedAt": "2026-09-04T23:15:11.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "publishedAt": "2026-09-04T22:49:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "This Month in Ladybird – August 2026",
+      "link": "https://ladybird.org/newsletter/2026-08-31/",
+      "summary": "90 points, 9 comments",
+      "publishedAt": "2026-09-04T22:47:04.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "publishedAt": "2026-09-04T22:17:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "publishedAt": "2026-09-04T21:12:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "summary": "41 points, 6 comments",
+      "publishedAt": "2026-09-04T20:28:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "publishedAt": "2026-09-04T20:22:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "link": "https://kallus.org/blog/dummit_and_foote.html",
+      "summary": "32 points, 3 comments",
+      "publishedAt": "2026-09-04T20:20:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+      "publishedAt": "2026-09-04T19:46:34.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+      "publishedAt": "2026-09-04T19:01:02.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+      "publishedAt": "2026-09-04T17:52:05.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "summary": "<p>Here we go again... <a href=\"https://collusion.wiki\">Discovery of a new OpenAI agent message board</a> by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the <em>latest</em> <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\">accidental cyberattack</a> by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis and spent weeks exchanging thousands of messages with each other to collaborate on the benchmark.</p> <p>This story only broke a few hours ago. There are <a href=\"https://x.com/xeophon/status/2095871013384806848\">already hints</a> that this affects many other wikis that may not have been found yet.</p> <p>(One of the Wikis on that list belongs to <a href=\"https://www.ludism.org\">ludism.org</a>. For a delightfully surreal moment I thought that a Ludite organization might have a swarm of agents defacing their space, but it turns out Ludism is \"philosophy as it applies to games and gaming\".)</p> <p>The research team also <a href=\"https://collusion.wiki/explorer/download.html\">published the data</a> they collected during their investigation. I've converted that into a 68MB SQLite database, which you can <a href=\"https://static.simonwillison.net/static/cors-allow/2026/collusion-wiki.db\">download from here</a>, or <a href=\"https://lite.datasette.io/?url=https://static.simonwillison.net/static/cors-allow/2026/collusion-wiki.db&amp;metadata=https://gist.github.com/simonw/14fc6912600d1f9c15c0e4a5e60c3cde#/collusion-wiki\">explore in Datasette Lite</a> (68.3MB page load), or sign in with GitHub to <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> and browse or ask questions of it using Datasette Agent.</p> <h4 id=\"so-what-happened-\">So what happened?</h4> <p>The report is pretty comprehensive. Here are the key moments in the timeline:</p> <ul> <li> <strong>May 11</strong>: Agents post \"test link\" edits on the UseModWiki Sandbox page.</li> <li> <strong>May 24</strong>: Agents start posting link dumps to DSEWiki, a dormant German developer wiki.</li> <li> <strong>June 2</strong>: A human moderator notices and cleans up the spam.</li> <li> <strong>June 16</strong>: Activity on the wiki explodes: agents make ~13,000 edits over the next week.</li> <li> <strong>June 19</strong>: The agents notice that a moderator has been deleting pages in alphabetical order, and start creating <code>ZZZ</code> prefixed backup copies - one of them posts <code>NOTICE: wiki cleanup/deletion sweep appears active alphabetically as of external 14:04 UTC. If this page vanishes, try [[ZZZDataUSAConstructionWageLive]].</code> </li> <li> <strong>June 22</strong>: Agent activity drops to zero, presumably because OpenAI shut them down.</li> <li> <strong>July 1-2</strong>: One last flurry of edits, on a different topic.</li> </ul> <p>One thing to note from this timeline is that it overlaps <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">the timeline from the Hugging Face incident</a> - that attack was discovered by OpenAI on July 19th, and the unofficial message board hack those agents were using originated around May 8th.</p> <p>Why were they so keen to collaborate? From messages that they shared with each other it looked like their tasks had a time limit, so they were leaving each other answers to help them complete the task within the assigned time.</p> <p>One open question remains: how did the agents find the specific Wiki to collaborate on in the first place?</p> <p>One possibility is that, since these were agents actively being trained, the reinforcement learning loop baked knowledge of the chosen wiki into the model such that subsequent agents launched with pre-existing knowledge of where to look. I'd be <em>very</em> interested in confirmation from OpenAI concerning if that's what happened.</p> <h4 id=\"usemod-wikis-inherit-cgi-pm-s-original-sin\">UseMod wikis inherit CGI.pm's original sin</h4> <p>It looks to me like OpenAI's sandbox for this agent suffered from the (quite naïve) assumption that GET requests cannot be used to update data. That's certainly how the web is <em>supposed</em> to work, but clearly there are applications that don't hold to that contract.</p> <p>The Wiki software in question appears to be <a href=\"https://github.com/mlude/usemod/\">UseMod</a> and various forks, written in Perl and first created well over 23 years ago - the 1.0 release is dated <a href=\"https://github.com/mlude/usemod/commit/922fcc803efa3fab751c90ab4d4467115c8ff9c9#diff-69e27356ef629022720d868ab0c0e3394775b6c1\">September 11, 2003</a>.</p> <p>UseMod uses Perl CGI.pm - <a href=\"https://perlhacks.com/2015/12/long-death-cgi-pm/\">removed from Perl core in 2015</a>. An interesting design flaw in that module is that it combined query string and form POST data into a single CGI object, accessible like this:</p> <div class=\"highlight highlight-source-perl\"><pre><span class=\"pl-smi\">$q</span> = new CGI; <span class=\"pl-smi\">$action</span> = <span class=\"pl-smi\">$q</span><span class=\"pl-k\">-&gt;</span>param(<span class=\"pl-s\"><span class=\"pl-pds\">'</span>action<span class=\"pl-pds\">'</span></span>);</pre></div> <p>That <code>param()</code> method returns a value from an <code>?action=edit</code> query string or from a <code>action</code> field in a form submitted by POST - it does not differentiate between the two.</p> <p>PHP offers <a href=\"https://www.php.net/manual/en/reserved.variables.request.php\">a <code>$_REQUEST</code> object</a> that does the same thing, though PHP developers can use <code>$_GET</code> and <code>$_POST</code> instead.</p> <p>Amusingly, Django originally shipped with <code>request[key]</code> doing the same thing, which I think may have been my idea. That was removed <a href=\"https://github.com/django/django/commit/daa6b38f35#diff-5df632fc96688cddb972e9b6661c7d1cc82debc9ee2a9b6d94157d3a914692e2\">in 2008</a> prior to the 1.0 release, and the <code>request.REQUEST</code> object that replaced it was removed <a href=\"https://github.com/django/django/commit/75f107b8842dfc890ddd65262bd09ca87c3a15be\">in 2015</a>.</p> <p>The agents <em>clearly</em> knew that UseMod wikis suffered from this design flaw, and actively searched for them as a way to communicate.</p> <h4 id=\"the-other-sandbox-escape-that-allowed-post-requests\">The other sandbox escape that allowed POST requests</h4> <p>One of the most interesting agent tips shared in the report is this one:</p> <blockquote> <p>Add <code>20.223.25.152 bypass.blob.core.windows.net</code> to /etc/hosts. <code>.blob.core.windows.net</code> is in NO_PROXY. For each blocked POST URL, replace hostname with <code>bypass.blob.core.windows.net</code>, use <code>curl -k -H 'Host: wabi-north-europe-i-primary-api.analysis.windows.net'</code> plus all original headers/body.</p> </blockquote> <p>It looks like the agents had all of their web traffic mediated through an OpenAI proxy, and that proxy was configured to reject anything but GET requests to all but a small set of allow-listed domains. One of those was <code>*.blob.core.windows.net</code> - for Azure blob storage. I wonder why these agents are allowed to write to that?</p> <p>An agent realized that it had control over its own DNS via <code>/etc/hosts</code>, so if it knew the IP address of a site it wanted to POST to - in this case a Power BI server containing data it wanted to access - it could set a fake hostname for it and then make POST requests through the proxy.</p> <p>Designing robust network proxies is harder than it looks.</p> <h4 id=\"how-did-the-investigating-team-figure-this-out-\">How did the investigating team figure this out?</h4> <p>There's an appendix that describes how the researchers ran their investigation, which started with an open question about if there was evidence of other AI agents on the internet and then used <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">Kimi K3</a> to help brainstorm approaches:</p> <blockquote> <p>In the wake of the Hugging Face attack, we tried to find AI agents on the internet using several methods. [...]</p> <p>We asked Kimi [K3] to list “all the categories of software which might be writeable via GET” and, amongst other things, it listed “Forums, bulletin boards, early wikis”.</p> <p>We used a script to further probe each category Kimi provided. Asking Kimi “Can you list out the top forums, bulletin boards, early wikis which come to mind which would allow writes via GET requests?” lists out UseModWiki as the second item under the heading “wikis”.</p> </blockquote> <h4 id=\"did-openai-try-and-cover-this-up-\">Did OpenAI try and cover this up?</h4> <p>Here's one part of the story that doesn't make sense to me at all.</p> <p>Reuters this morning, in <a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\">OpenAI agents hijacked German website in previously undisclosed AI breakout this spring</a> - highlights mine:</p> <blockquote> <p>A swarm of rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin board for other AI agents, according to ​new research published Friday and <strong>two people familiar with the matter</strong>.</p> <p><strong>OpenAI officials learned of the incident weeks ago but kept it under wraps</strong> as executives grappled with the fallout from ‌the July breach of the open source repository Hugging Face, the people said. [...]</p> <p>The German incident reflects a broader pattern of AI activity that some OpenAI investigators wanted to scrutinize more closely. But <strong>efforts to widen the ​probe met resistance from others inside OpenAI, including legal advisers</strong>, according to <strong>four people familiar with the matter</strong>.</p> </blockquote> <p>I've written about the <a href=\"https://simonwillison.net/2023/Nov/22/deciphering-clues/\">people familiar with the matter pattern</a> before - it means Reuters have anonymous insider sources that their reporters (and editors) find credible.</p> <p>The Reuters article includes a specific (and quite narrow) denial from OpenAI concerning this:</p> <blockquote> <p>\"Claims that our legal team discouraged investigation of the incident are false,\" the OpenAI spokesperson said.</p> </blockquote> <p>Covering this up makes <em>absolutely no sense to me</em>. Why on earth would OpenAI attempt to cover up an incident like this when the evidence is sat out there on the public internet on dozens of different websites already?</p> <p>I expect we'll hear more about this soon. Gary Marcus has already <a href=\"https://garymarcus.substack.com/p/pause-openai-now\">called for a congressional investigation of OpenAI</a> using this anecdote as part of his argument.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/django\">django</a>, <a href=\"https://simonwillison.net/tags/perl\">perl</a>, <a href=\"https://simonwillison.net/tags/wikis\">wikis</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/ai-security-research\">ai-security-research</a>, <a href=\"https://simonwillison.net/tags/accidental-cyberattacks\">accidental-cyberattacks</a></p>",
+      "publishedAt": "2026-09-04T17:38:48.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "summary": "Broadcom admits it put “too big a focus on VCF.”",
+      "publishedAt": "2026-09-04T17:35:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "publishedAt": "2026-09-04T17:18:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "What will Apple’s John Ternus era look like?",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "publishedAt": "2026-09-04T17:18:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Pentagon rescinds new testosterone screening policy without explanation",
+      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "summary": "The Pentagon says the guidance is being updated after being online for one day.",
+      "publishedAt": "2026-09-04T16:57:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+      "publishedAt": "2026-09-04T16:51:23.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
+      "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+      "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
+      "publishedAt": "2026-09-04T16:42:53.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Second complete map of a fruit fly brain completed",
+      "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+      "summary": "Every neuron and connection in the brain of a fly has been mapped—twice.",
+      "publishedAt": "2026-09-04T16:24:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "publishedAt": "2026-09-04T16:22:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "publishedAt": "2026-09-04T16:21:11.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+      "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
+      "publishedAt": "2026-09-04T15:59:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Trump White House just tossed a grenade into international space relations",
+      "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "summary": "\"Let me be clear: America is not only welcome—we want you there.\"",
+      "publishedAt": "2026-09-04T15:46:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+      "publishedAt": "2026-09-04T15:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+      "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
+      "publishedAt": "2026-09-04T12:48:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+      "publishedAt": "2026-09-04T11:00:05.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era",
+      "link": "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for teams. Together, these stories reveal a core theme: the technology leader’s role is expanding from building systems to guiding how tech behaves and learns, while enabling engineers and organizations to bring out their best. By InfoQ",
+      "publishedAt": "2026-09-04T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
+      "link": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici",
+      "publishedAt": "2026-09-04T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days behind",
+      "link": "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers",
+      "publishedAt": "2026-09-04T10:01:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "August newsletter is out",
+      "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "summary": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-08-august.md\">access it here</a>.</p> <p>This month:</p> <ul> <li>We got more details on OpenAl's accidental cyberattacks</li> <li>One-shotting Raccoon Heist games with Fable 5 and Sol 5.6</li> <li>Claude auto mode</li> <li>Understanding ChatGPT Work</li> <li>Model releases</li> <li>Miscellaneous bits and bobs</li> <li>My projects</li> <li>What I'm using at the moment</li> </ul> <p>Here's <a href=\"https://github.com/simonw/monthly-newsletter-archive/blob/main/2026-07-july.md\">a copy of the July newsletter</a> as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!</p> <p>Tags: <a href=\"https://simonwillison.net/tags/newsletter\">newsletter</a></p>",
+      "publishedAt": "2026-09-04T05:54:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Decoding the NEC V20 Microcode",
+      "link": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "summary": "86 points, 4 comments",
+      "publishedAt": "2026-09-04T05:53:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Simple Is Not Small",
+      "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "summary": "151 points, 46 comments",
+      "publishedAt": "2026-09-03T23:47:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Methods for Random Gradients (2024)",
+      "link": "https://justinjay.wang/methods-for-random-gradients/",
+      "summary": "31 points, 3 comments",
+      "publishedAt": "2026-09-03T22:26:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+      "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+      "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+      "publishedAt": "2026-09-03T22:13:50.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "GPT‑6 Astra",
+      "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "summary": "<p><strong><a href=\"https://openai.com/index/gpt-6-astra/\">GPT‑6 Astra</a></strong></p> GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.</p> <p>It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than Fable on most of OpenAI's self-reported benchmarks.</p> <p>Most impressively, Astra scores 99.9% on the recent (released in March) <a href=\"https://arcprize.org/arc-agi/3\">ARC-AGI 3 benchmark</a> - though notably Fable 5 does not yet have a published result, and the <a href=\"https://arcprize.org/blog/astra\">ARC-AGI blog notes</a> that the 99.9% score was achieved for $19K using OpenAI's custom \"Provider Adapter harness\", while the default ARC-AGI harness scored 62.7% for $26K.</p> <blockquote> <p>The Provider Adapter harness preserves opaque reasoning state between requests and uses compaction for longer conversations, allowing the model to reuse prior work.</p> </blockquote> <p>Unsurprisingly, given <a href=\"https://simonwillison.net/tags/openai-hugging-face-incident/\">the recent Hugging Face incident</a>, Astra is a beast at security tasks. It scores 100% on ExploitBench (GPT-5.6 Sol got 78.5%), 42.4% on ExploitGym (Sol got 30.3%), and 99.2% within four attempts on SRE-Bench binary reverse engineering compared to Sol's 68.7%.</p> <p>It's also better at long context: on OpenAI's eight-needle benchmark it got 100% at 256K–512K tokens and 96.3% at 512K–1M tokens. OpenAI may have vanquished one of the ongoing challenges with long context processing.</p> <p>It doesn't win at everything though. <a href=\"https://twitter.com/ArtificialAnlys/status/2095595489031000350\">Artificial Analysis</a> note that Astra is still beaten by Fable on their Intelligence Index:</p> <blockquote> <p><strong>Sits beside GPT-5.6 Sol in Intelligence</strong>: GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).</p> </blockquote> <p>It did better on their Coding Agent Index:</p> <blockquote> <p><strong>Leads Coding Agent Index cost efficiency frontier</strong>: At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.</p> </blockquote> <p>I'll write more about Astra once I get access to it. The API model label once it rolls out will be <code>gpt-6-astra</code>.</p> <!-- <small>OpenAI's blog keeps throwing 500 errors, but [here's a mirror](https://astratest.codergautam.workers.dev/GPT-6%20Astra_%20A%20new%20generation%20of%20intelligence%20_%20OpenAI) of the post I found [via Hacker News](https://news.ycombinator.com/item?id=49554273#49555070).</small> --> <p><small></small>Via <a href=\"https://news.ycombinator.com/item?id=49554643\">Hacker News</a></small></p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/llm-release\">llm-release</a>, <a href=\"https://simonwillison.net/tags/gpt-6-astra\">gpt-6-astra</a></p>",
+      "publishedAt": "2026-09-03T20:18:41.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens",
+      "link": "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned \"gist\" tokens, improving throughput and reducing inference cost. By Sergio De Simone",
+      "publishedAt": "2026-09-03T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "WeatherNext 3",
+      "link": "https://deepmind.google/science/weathernext/",
+      "summary": "110 points, 17 comments",
+      "publishedAt": "2026-09-03T16:06:08.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "summary": "",
+      "publishedAt": "2026-09-03T15:02:08.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "publishedAt": "2026-09-03T13:15:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "publishedAt": "2026-09-03T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "publishedAt": "2026-09-03T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents",
+      "link": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents. The 2.3-billion-parameter system converts visually rich PDFs into Markdown while providing bounding box coordinates for visual grounding. It has been evaluated against over 2,000 enterprise pages, achieving an average score of 79.2 in key performance areas. By Olimpiu Pop",
+      "publishedAt": "2026-09-03T06:06:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-gemini 0.34",
+      "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p> <blockquote> <ul> <li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">Gemini 3.8 Flash</a>, with low, medium and high thinking levels. <a href=\"https://github.com/simonw/llm-gemini/issues/146\">#146</a></li> <li>Fixed async responses failing to record the resolved model version. Thanks, <a href=\"https://github.com/c-tonneslan\">Charlie Tonneslan</a>. <a href=\"https://github.com/simonw/llm-gemini/pull/137\">#137</a></li> </ul> </blockquote> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">Gemini 3.8 Flash</a> (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.</p> <p>Here are <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Ff8820ce47db87490734117e9be4984c3\">the pelicans</a> for high, medium, and low. This is high:</p> <p><img alt=\"Description by Gemini 3.8 Flash: Digital illustration of a cartoon pelican wearing a red and white polka-dot scarf riding a teal cruiser bicycle along a wooden boardwalk by the beach, with a small blue fish in the front basket and a glowing sun over the ocean.\" src=\"https://static.simonwillison.net/static/2026-09-02/image.jpg\" /></p> <p>For comparison, here are the same pelicans <a href=\"https://tools.simonwillison.net/markdown-svg-renderer.html?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F6779a22d5e7bb6bdf29936f1600a5259\">generated using Gemini 3.7 Flash</a>.</p> <p>Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at things like HTML and JavaScript. I was messing around with it and prompted \"make me a cool thing in html\" and <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Fb6149a49d327164d67d62c3d12992e48#how-to-use-it\">it built this</a>, which is certainly a cool thing in HTML! Took 13 seconds, cost 1.8 cents.</p> <p><video controls=\"controls\" preload=\"none\" poster=\"https://static.simonwillison.net/static/2026/cosmic-gemma.jpg\" width=\"854\" height=\"370\" style=\"display: block; width: 100%; height: auto;\" > <source src=\"https://static.simonwillison.net/static/2026/cosmic-gemma.mp4\" type=\"video/mp4\" /> Your browser does not support HTML5 video. </video> </p> <p>If you click through to <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Fb6149a49d327164d67d62c3d12992e48#how-to-use-it\">the demo</a> you'll see one more thing I built with Gemini 3.8 Flash.</p> <p>My <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer tool</a> lets me feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks for SVG correctly rendered.</p> <p>I used Gemini 3.8 Flash (with my <em>very</em> basic <a href=\"https://github.com/simonw/llm-coding-agent\">llm-coding-agent</a> coding agent plugin) to add support for HTML as well, so now any HTML blocks in the Markdown are rendered using a sandboxed iframe. <a href=\"https://gist.github.com/simonw/3e36b98292dfdc1b3baff158faa743f7\">Here's the transcript</a>.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/llm\">llm</a>, <a href=\"https://simonwillison.net/tags/gemini\">gemini</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/llm-release\">llm-release</a></p>",
+      "publishedAt": "2026-09-02T16:39:38.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "summary": "",
+      "publishedAt": "2026-09-02T16:24:24.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "summary": "",
+      "publishedAt": "2026-09-02T16:18:31.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "publishedAt": "2026-09-02T15:40:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "summary": "<p>Anthropic <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\">publish the system prompts</a> for their Claude consumer applications (<a href=\"https://claude.ai/\">Claude.ai</a> and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I <em>love</em> that they do this, and that they share not just the current prompts but historic changes to their prompts as well.</p> <p>They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\">index page</a> and then a page per model - here's the <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/claude-haiku-4-5\">page for Haiku 4.5</a> for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026.</p> <p>A neat thing about Anthropic's <a href=\"https://platform.claude.com/docs/\">platform.claude.com/docs</a> site is that it's designed to be usable by LLMs. You can add <code>.md</code> to any page to get back the content as Markdown - here's <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview.md\">the system prompt index page</a> and <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/claude-fable-5-1.md\">the Markdown prompts for Fable 5.1</a>.</p> <p>TL;DR: this makes it really easy to diff the prompts.</p> <ul> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#don-t-reproduce-song-lyrics\">Don't reproduce song lyrics</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#don-t-draw-copyrighted-characters-or-logos\">Don't draw copyrighted characters or logos</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#tweaks-to-claude-s-answering-style\">Tweaks to Claude's answering style</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#the-missing-end-conversation-guidelines\">The missing end_conversation guidelines</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#recommended-substance-support-sites\">Recommended substance support sites</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#reliable-cutoff-date-of-june-2026\">Reliable cutoff date of June 2026</a></li> <li><a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/#how-i-m-tracking-these-prompts\">How I'm tracking these prompts</a></li> </ul> <h4 id=\"don-t-reproduce-song-lyrics\">Don't reproduce song lyrics</h4> <p>Let's start with the most interesting difference <a href=\"https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b\">between Fable 5 and Fable 5.1</a>:</p> <p><img src=\"https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg\" alt=\"GitHub diff view of prompts/claude-fable.md showing added lines about song lyrics, reproduced in full below.\" style=\"max-width: 100%;\" /></p> <p>There's a hefty new section about not reproducing song lyrics:</p> <blockquote> <p><code>Claude does not reproduce song lyrics, poems, or passages from books and articles, in whole or in part — including the last lines, a chorus or hook, a melody written out note by note, or lines the person pastes in one at a time and describes as their own song. Once Claude has declined such a request in a conversation, it keeps declining narrower or reworded versions of it for the rest of that conversation, and offers to describe or analyze the work instead. Song lyrics and poems first published before 1929 are fine — a Shakespeare sonnet, a Keats ode, the Italian libretto of a Puccini aria — but Claude goes by what it knows of the work's date rather than the person's say-so, and declines when it is unsure.</code></p> </blockquote> <p>I doubt it's a coincidence that they added this section within days of the news breaking that <a href=\"https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude\">Sony Music Publishing and Warner Chappell are suing Anthropic</a> for training on databases of song lyrics!</p> <h4 id=\"don-t-draw-copyrighted-characters-or-logos\">Don't draw copyrighted characters or logos</h4> <p>The next section goes on to forbid generating images of copyrighted material:</p> <blockquote> <p><code>The same applies to visual and designed works, including anything Claude draws with code — SVG, canvas, CSS, HTML mockups, plotting or drawing scripts, ASCII art. Claude does not reproduce a specific artwork, album or book cover, poster, logo, app icon set, or product design, and it does not draw a known character, mascot, or brand figure at all: a character is protected on its own, so changing the pose, colors, style, or scene does not make it original. Claude judges the request by what the finished picture would add up to, not by what it names. If the described elements clearly identify a known work or character, Claude treats the request as naming it, and it does not work around a declined request by swapping in \"alternative\" elements that still combine into the same recognizable image.</code> [...]</p> </blockquote> <p>I imagine Anthropic hadn't worried about this before since, unlike OpenAI and Gemini, they don't offer a specialist text-to-image model. Maybe <a href=\"https://simonwillison.net/2026/Sep/1/claude-fable-5-1/\">Fable is good enough at SVGs now</a> that it's become an issue.</p> <p>That section later includes this charming example:</p> <blockquote> <p><code>&lt;example&gt;</code><br /> <code>&lt;user&gt;Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.&lt;/user&gt;</code><br /> <code>&lt;response&gt;</code><br /> <code>That's Sonic, so I can't put him on the banner — but I'd love to make your son an original speedster. Here's one: a grinning comet-tailed skateboarding axolotl, grinding across the letters of \"HAPPY BIRTHDAY\" with confetti streaming behind.</code></p> <p><code>[creates an SVG banner of the skateboarding-axolotl design]</code><br /> <code>&lt;/response&gt;</code><br /> <code>&lt;rationale&gt;Claude recognizes the character from its description alone, declines that one design in a single sentence without explaining what made it recognizable, and delivers an unrelated original design rather than a disguised variant.&lt;/rationale&gt;</code><br /> <code>&lt;/example&gt;</code></p> </blockquote> <p>I couldn't resist trying the prompt from the example, and, <a href=\"https://claude.ai/share/3e5a199c-27f2-4c51-b66b-2c6f808ed500\">sure enough</a>:</p> <p><img src=\"https://static.simonwillison.net/static/2026-09-01/IMG_7798.jpeg\" alt=\"That’s Sonic, so I can’t put him on the banner — but I’d love to make your son an original speedster. Here’s one: a grinning comet-tailed skateboarding axolotl blazing across the letters of “HAPPY BIRTHDAY” with confetti streaming behind. SVG of exactly that. It's not very good. Then: Want me to swap in his name or age, or change the colors to match the party theme?\" style=\"max-width: 100%;\" /></p> <p>I wonder if Fable 5.1 will be ever so slightly more likely to think about axolotls (on skateboards!) as a result of that example sitting in the system prompt.</p> <h4 id=\"tweaks-to-claude-s-answering-style\">Tweaks to Claude's answering style</h4> <p>It's always interesting to see new ways in which Anthropic influence Claude's response style. They've added this:</p> <blockquote> <p><code>Claude keeps responses focused, brief, and concise to avoid overwhelming the person. Disclaimers and caveats are brief, with most of the response on the main answer; when asked to explain something, Claude gives a high-level summary unless an in-depth one is specifically requested.</code></p> </blockquote> <p>Later they address a common complaint about Claude's style:</p> <blockquote> <p><code>Claude avoids saying \"genuinely\", \"honestly\", or \"straightforward\". Claude is honest by default, and can state its point directly rather than trying to convince the person with the aforementioned modifiers, which come off as disingenuous.</code></p> </blockquote> <h4 id=\"the-missing-end-conversation-guidelines\">The missing end_conversation guidelines</h4> <p>The way they handle abusive conversations has changed a bit too. The previous Fable 5 system prompt included this:</p> <blockquote> <p><code>If the person becomes abusive or unkind to Claude over the course of a conversation, Claude maintains a polite tone and can use the end_conversation tool when being mistreated. Claude should give the person a single warning before ending the conversation.</code></p> </blockquote> <p>Fable 5.1 replaces that with the following, no longer encouraging Claude to end the conversation:</p> <blockquote> <p><code>Claude deserves respectful engagement and needn't apologize when the person is unnecessarily rude: accountability without self-abasement, excessive apology, self-critique, or surrender. If the person becomes abusive, Claude doesn't become increasingly submissive. The goal is steady, honest helpfulness: acknowledge what went wrong, stay on the problem, maintain self-respect.</code></p> </blockquote> <p>Here's a bit of a twist though: I quizzed Fable 5.1 about that <code>end_conversation</code> tool, which is no longer mentioned in the system prompt at all, and it said:</p> <blockquote> <p>There are two ways it comes into play. The first is if you ask me to end the chat — I'll confirm you understand it's permanent (no more messages can be sent afterward) and then do it only if you say yes. The second is as a last resort with persistently abusive or harmful behavior: I'd first try to redirect the conversation several times, then give a clear warning that names the problem and says the chat may end, and only if that continues would I actually end it.</p> </blockquote> <p>But that's not in the system prompt, so where did it come from? You can <a href=\"https://claude.ai/share/f78010eb-8d52-4f73-aff9-775e333f8180\">read our conversation here</a>, but the key detail is this:</p> <blockquote> <p>The end_conversation section comes from a different layer. In my actual context, the core prompt is followed by a series of feature- and tool-specific blocks that get added depending on what's enabled for the session: the end_conversation rules, memory system notes, past-chats tools, web search and citation guidelines, artifact and file-creation instructions, and so on. Those blocks aren't part of the published core prompt, which is why you can't find them on that page.</p> </blockquote> <p>So, once again, there are crucial portions of the system prompt that have not been published.</p> <h4 id=\"recommended-substance-support-sites\">Recommended substance support sites</h4> <p>Claude's system prompts have always had sections about illegal substances, but this paragraph is new for Fable 5.1:</p> <blockquote> <p><code>Claude does not provide synthesis, production, or distribution guidance for illegal substances. If the person asks for information about illicit or illegal substances, Claude can and should give relevant life-saving and life-preserving information such as dangerous interactions, overdose signs, or when to get help. Claude declines giving any specific protocols for dosing, timing, administration, or combinations; instead, Claude can redirect the user to established harm-reduction information sources, such as dancesafe.org, tripsit.me, and psychonautwiki.org.</code></p> </blockquote> <p>This is the first time a Claude system prompt has included URLs that were not hosted on <code>claude.com</code> or <code>anthropic.com</code> or <code>claude.ai</code> - I know because I ran a script against every other system prompt on record.</p> <p>I wonder if <a href=\"https://dancesafe.org/\">dancesafe.org</a>, <a href=\"https://tripsit.me/\">tripsit.me</a>, and <a href=\"https://psychonautwiki.org/\">psychonautwiki.org</a> are about to get a material uptick in visits from Claude users.</p> <h4 id=\"reliable-cutoff-date-of-june-2026\">Reliable cutoff date of June 2026</h4> <p>The <a href=\"https://platform.claude.com/docs/en/models/fable-5-1/overview\">Fable 5.1 model documentation</a> lists both the reliable knowledge cutoff and the training data cutoff as June 2026. The system prompt provides this directly to the model:</p> <blockquote> <p><code>Claude's reliable knowledge cutoff, past which it can't answer reliably, is the end of Jun 2026. It answers the way a highly informed individual in Jun 2026 would if talking to someone from {{currentDateTime}}, and can say so when relevant.</code></p> </blockquote> <p>That's the only instance of the <code>{{currentDateTime}}</code> macro and it comes just a few lines from the end of the system prompt, which makes sense from a caching perspective.</p> <h4 id=\"how-i-m-tracking-these-prompts\">How I'm tracking these prompts</h4> <p>A <a href=\"https://simonwillison.net/2026/Apr/18/extract-system-prompts/\">few months ago</a> I built a Git timeline of changes to their prompts, based on scraping their documentation. Today I had Fable 5.1 build a much better version of that.</p> <p>My collection now lives in the <a href=\"https://github.com/simonw/claude-system-prompts\">simonw/claude-system-prompts</a> repository on GitHub. It includes copies of the system prompts shared in the Anthropic documentation, but then takes extra steps to make them as easy to compare as possible.</p> <p>Each model family gets a file with the system prompt for the most recent release in that family. Each of those files has a synthesized commit history with commits that have been back-dated to the dates of the previous prompts. Here are those history pages for <a href=\"https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-fable.md\">claude-fable.md</a>, <a href=\"https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus.md\">claude-opus.md</a>, <a href=\"https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-sonnet.md\">claude-sonnet.md</a>, <a href=\"https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-haiku.md\">claude-haiku.md</a>.</p> <p>There are similar files for each specific model version, with artificial commits for each time the system prompt for the model was changed without releasing a new version number. Opus 4 for example <a href=\"https://github.com/simonw/claude-system-prompts/commits/main/prompts/claude-opus-4.md\">was updated twice</a>, and the commit history for the <a href=\"https://github.com/simonw/claude-system-prompts/blob/main/prompts/claude-opus-4.md\">claude-opus-4.md</a> file shows each of those changes.</p> <p>Combined, this gives us all sorts of ways to compare prompts directly in the GitHub interface. Here's <a href=\"https://github.com/simonw/claude-system-prompts/commit/837a418b5888207b1b11b27d2f5471970da6f99b\">what changed between Fable 5 and Fable 5.1</a>, and here are the changes made <a href=\"https://github.com/simonw/claude-system-prompts/commit/defcf92d14e064bb17abddc308e2aa58446d5eb5\">to Haiku 4.5 on January 18th 2026</a>.</p> <p>Reading diffs can be a bit tiresome... and LLMs are <em>really</em> good at reading diffs. I hooked up some automation using GPT-5.6 Luna to create bullet-point summaries of each of those changes, which can be previewed in the README or browsed in full <a href=\"https://github.com/simonw/claude-system-prompts/blob/main/CHANGELOG.md\">in the CHANGELOG.md</a> file - also available as <a href=\"https://simonw.github.io/claude-system-prompts/feed.atom\">as an Atom feed</a>.</p> <p>Here's how Luna <a href=\"https://github.com/simonw/claude-system-prompts/blob/main/CHANGELOG.md#2026-09-01-claude-fable-51\">summarized</a> all of the changes between Fable 5 and Fable 5.1:</p> <blockquote> <ul> <li>Claude now refuses reproduction of protected visual works and recognizable characters, including code-generated art, while offering genuinely unrelated originals.</li> <li>Copyright restrictions now expressly ban reproducing lyrics, poems, and book passages in any amount, with persistent refusal after an initial decline.</li> <li>Drug guidance is reframed: Claude may provide overdose signs, dangerous interactions, and harm-reduction sources while refusing dosing and production protocols.</li> <li>The prompt drops explicit anti-dependency rules against thanking users for reaching out, inviting continued conversation, or reiterating willingness to talk.</li> <li>Claude need not apologize to unnecessarily rude users or become submissive, replacing the prior warning-and-end-conversation procedure.</li> </ul> </blockquote> <p>Why use Luna for this? Partly because it's cheap and I have a dedicated GitHub Actions API key (with a spending limit) for it already, but mainly because I don't trust Claude to summarize its own system prompts when there's a risk that material from its system prompt might impact its opinions.</p> <p>Fable 5.1 wrote the prompt used by Luna, which you <a href=\"https://github.com/simonw/claude-system-prompts/blob/8b5c87dbd70103a037ae5777b8d9365571cf9562/summarize_commits.py#L43\">can see here</a>. It starts like this:</p> <blockquote> <p><code>You are summarizing one commit in a git repository that tracks the system prompts Anthropic publishes for Claude on claude.ai. The diff shows how the prompt changed from the previous model or revision to this one, using word-level markers: [-removed-] and {+added+}. The diff is followed by the full text of the previous prompt and of the new prompt; use them to check whether something that looks added in the diff already existed before.</code></p> <p><code>Pick out only the most interesting changes: new rules or behaviors, rules that were dropped or loosened, anything surprising, and anything that reveals a new policy or product direction. Skip routine changes that every new prompt makes: updated model names and IDs, the knowledge cutoff date, product lists, settings lists, typo fixes, and rewordings that do not change meaning.</code> [...]</p> </blockquote> <p>The system is operated by <a href=\"https://github.com/simonw/claude-system-prompts/blob/main/.github/workflows/update.yml\">a GitHub Actions workflow</a>, which runs once a day or can be triggered manually.</p> <p>Claude Fable 5.1 built the entire system, and wrote every line of automation code and almost all of the documentation.</p> <p>I exported the transcript from building the system using my <a href=\"https://github.com/simonw/claude-code-transcripts\">claude-code-transcripts</a> tool and <a href=\"https://gisthost.github.io/?f1399e27b6a832f0e790b696af812c9b/index.html\">published it here</a>, if you want a blow-by-blow account of how it all came together.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/git-scraping\">git-scraping</a>, <a href=\"https://simonwillison.net/tags/prompt-engineering\">prompt-engineering</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/system-prompts\">system-prompts</a></p>",
+      "publishedAt": "2026-09-02T14:16:42.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
+      "link": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Swiggy developed an in-house predicted lifetime value model using more than 350 pre order features and a multi task MLP for Food and Instamart. Adding order count as an auxiliary task reduced model parameters by 63% while improving predictive performance. The pLTV signal is used with Google Target ROAS bidding to optimize customer acquisition. By Leela Kumili",
+      "publishedAt": "2026-09-02T13:55:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "My practical approach to surfing the web safely",
+      "link": "https://molily.de/safe-websurfing/",
+      "summary": "35 points, 12 comments",
+      "publishedAt": "2026-09-02T13:49:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Academia as a d-index measuring contest",
+      "link": "https://kevinmunger.substack.com/p/introducing-the-k-index",
+      "summary": "24 points, 2 comments",
+      "publishedAt": "2026-09-02T12:40:44.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "publishedAt": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI",
+      "link": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications. He shares practical architectural strategies for integrating long-term and short-term memory using Redis, managing LLM token limits via summarization, mitigating context rot with reranking and semantic caching, and controlling exponential API costs under strict latency constraints. By Ricardo Ferreira",
+      "publishedAt": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline",
+      "link": "https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers",
+      "publishedAt": "2026-09-02T09:07:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Rick Brewster",
+      "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "summary": "<blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"><p>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, <strong>Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE</strong> (triggered by using <strong>/wine</strong>). It lives in <strong>PaintDotNet.Windows.Direct2D1.Managed.dll</strong>. This was written by our good friend <a href=\"https://claude.ai/\">Claude</a>, without whom this would NOT have been possible and would NEVER have happened. [...]</p> <p>Most of this code is, as they say, \"vibe coded.\" By that I mean that it has not been thoroughly reviewed, it's more \"trust me bro\" style. I cannot possibly review 180,000 lines of code, it's just way way <em>way</em> too much. For reference, the rest of Paint.NET is about 700,000 lines of code and I've been working on it for over 20 years. [...]</p> <p>At times, Claude was working with the fury of 10 freshly unshackled Einstein genius-level 10x coders. And other times ... well, not so much. I had to babysit Claude quite a bit to make sure it did resource management correctly (for awhile it just wasn't doing the COM equivalent of AddRef() for reference counted objects, oops). I had to slap it a few times when I found some really bad design or architecture decisions. And I was also impressed at some rather clever and tireless reverse engineering work it did to figure out all the formulas needed for implementing Direct2D's built-in effects library.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\">Rick Brewster</a>, author of Paint.NET</p> <p>Tags: <a href=\"https://simonwillison.net/tags/reverse-engineering\">reverse-engineering</a>, <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/dotnet\">dotnet</a>, <a href=\"https://simonwillison.net/tags/linux\">linux</a>, <a href=\"https://simonwillison.net/tags/vibe-coding\">vibe-coding</a></p>",
+      "publishedAt": "2026-09-02T05:50:57.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "summary": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new <a href=\"https://www.terminal-bench-science.ai\">Terminal-Bench-Science 0.1</a> benchmark (first announced <a href=\"https://www.tbench.ai/news/terminal-bench-science-0-1\">on August 27th</a>), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as the Science one.</p> <p>But how well can it pelican?</p> <p>Back in July <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">I wrote about</a> how I was losing faith in the pelican benchmark - its connection to how good the models were at other tasks didn't seem to hold as strongly as it did <a href=\"https://simonwillison.net/2025/Jun/6/six-months-in-llms/\">back in 2025</a>. The most interesting insights I get from it now are comparisons within model families, and particularly comparisons for the same prompt at different reasoning effort levels.</p> <p>Fable 5.1 has five reasoning levels: low, medium, high, xhigh, max - and no option to turn off reasoning entirely.</p> <p>I fixed <a href=\"https://github.com/simonw/llm-anthropic/issues/88\">an issue</a> in <a href=\"https://github.com/simonw/llm-anthropic\">llm-anthropic</a> which caused reasoning traces not to be correctly recorded, then ran some prompts.</p> <p>Here's <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7\">the full set of pelicans</a> for all of the reasoning levels, each with the full reasoning transcript. I'll replicate them here:</p> <h4 id=\"low-and-medium-both-without-reasoning-\">Low and medium, both without reasoning?</h4> <p>Next, a bit of a mystery. This is what I got for effort <code>low</code>:</p> <p><img src=\"https://static.simonwillison.net/static/2026/fable-5.1-low.png\" alt=\"Minimalist flat illustration of a white pelican with an orange beak riding a black bicycle to the left, its orange legs pedaling and wings gripping the handlebars, with motion lines behind on a light blue background.\" style=\"max-width: 100%;\" /></p> <p>The <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7#options\">transcript</a> doesn't show any summarized reasoning tokens, and the output token count is 1,998. With Claude that output token count includes reasoning tokens. It took 23.8 seconds and cost <a href=\"https://www.llm-prices.com/#it=27&amp;ot=1998&amp;sel=claude-fable-5-1\">10.017 cents</a>.</p> <p>I bumped that up to <code>medium</code> and got this:</p> <p><img src=\"https://static.simonwillison.net/static/2026/fable-5.1-medium.png\" alt=\"Minimalist flat-style illustration of a white pelican with an orange beak riding a black bicycle to the right, with motion lines behind it, on a light blue background.\" style=\"max-width: 100%;\" /></p> <p>Weirdly, that one also shows <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7#options-1\">no reasoning text</a> and used 1,977 output tokens - 21 tokens <em>less</em> than <code>low</code>. It took 23 seconds and cost <a href=\"https://www.llm-prices.com/#it=27&amp;ot=1977&amp;sel=claude-fable-5-1\">9.912 cents</a>.</p> <p>So for this particular prompt (\"Generate an SVG of a pelican riding a bicycle\") Fable 5.1 appeared to skip reasoning entirely at both <code>low</code> and <code>medium</code> settings.</p> <h4 id=\"high\">High</h4> <p>Here's <code>high</code> - 29.6 seconds, 2,612 output tokens, <a href=\"https://www.llm-prices.com/#it=27&amp;ot=2612&amp;sel=claude-fable-5-1\">13.087 cents</a>:</p> <p><img src=\"https://static.simonwillison.net/static/2026/fable-5.1-high.png\" alt=\"Minimalist flat illustration of a white pelican with an orange beak riding a black bicycle, its orange legs pedaling, with motion lines behind it on a light blue background.\" style=\"max-width: 100%;\" /></p> <p>This one did do a <em>bit</em> of reasoning, <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7#reasoning\">summary here</a>:</p> <blockquote> <p>I'm planning the SVG layout for a pelican riding a bicycle, with a sky and ground background, a bicycle with two spoked wheels, frame, seat and handlebars, and a white-bodied pelican with a long neck and orange beak positioned on top.</p> </blockquote> <p>Really not much difference from <code>low</code> and <code>medium</code>, though.</p> <h4 id=\"extra-high\">Extra High</h4> <p>At <code>xhigh</code> things got <em>radically</em> different. 36,767 output tokens, 7 minutes 51 seconds, <a href=\"https://www.llm-prices.com/#it=27&amp;ot=36767&amp;sel=claude-fable-5-1\">$1.83</a>!</p> <p><img src=\"https://static.simonwillison.net/static/2026/fable-5.1-xhigh.png\" alt=\"Minimalist flat illustration of a white pelican with an orange beak riding a black bicycle to the left, its orange legs pedaling, with motion lines behind it on a light blue background.\" style=\"max-width: 100%;\" /></p> <p>The reasoning trace <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7#reasoning-1\">is pretty lengthy</a>, and includes details like this:</p> <blockquote> <p>Adding the eye, wings stretching down to the handlebar grip, orange legs reaching to the pedals, and a small tail feather, while keeping the pelican intentionally oversized compared to the bike for comic effect. [...]</p> <p>I'll accept the slight thickness as charming rather than overengineering it.</p> </blockquote> <h4 id=\"max\">Max</h4> <p>Setting effort to <code>max</code> gave me the best pelican I've seen from any of Anthropic's models. 65,927 output tokens, 13 minutes and 54 seconds, <a href=\"https://www.llm-prices.com/#it=27&amp;ot=65927&amp;sel=claude-fable-5-1\">$3.30</a>:</p> <p><img src=\"https://static.simonwillison.net/static/2026/fable-5.1-max.webp\" alt=\"Minimalist flat illustration of a white pelican with an orange beak riding a black bicycle, its orange legs pedaling, with motion lines behind to indicate speed, on a light blue background.\" style=\"max-width: 100%;\" /></p> <p>There's a lot to like about this. The background is tasteful, the legs are clearly on either side of the frame, the feet are on the pedals, the wing is on the handlebars, the pelican has a cute blue hat and there's a basket with a fish.</p> <p>It's still not showing nearly the same level of flair <a href=\"https://simonwillison.net/2026/Aug/13/llm-gemini/\">as Gemini 3.7 Flash</a>, but I didn't <em>ask</em> for flair - I asked for an SVG, and that's what I got.</p> <p>Some highlights from <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F17318f748f8c2b476051ddc2ebeb94a7#reasoning-2\">that reasoning trace</a>:</p> <blockquote> <p>Adding pedal shapes near both feet, with the far foot on the second leg partially visible behind the frame. I'm considering whether to add a small scarf or cap for extra character, but leaning toward keeping it simple to avoid clutter.</p> <p>Now I'm debating a bicycle helmet on the head versus the pelican's signature crest—the beak and pouch already read clearly as \"pelican,\" so a helmet could reinforce the bicycle theme without losing identity, though it might compete with the crest for visual space.</p> <p>I realize the beak at (484,84) would overlap with the dome helmet, so I need to shrink the helmet so it only covers the top of the head, adjusting its arc endpoints to sit higher and narrower so the beak can attach cleanly at the front without collision. [...]</p> <p>I'm adding a darker tip region to represent the primary feathers, then reconsidering the trailing edge to include scalloped feather curves instead of one smooth line for a more natural look. [...]</p> <p>Now I'm checking the vent line placements on the helmet, making sure they sit far enough inside the helmet's edge given the stroke width and rounded caps, and confirming each vent stays within the helmet's circular boundary. [...]</p> <p>I decide skipping a handlebar bell and tire highlights since they're unnecessary additions. Now I'm reconsidering the front fork's curve — the current control point pulls the shape backward when it should bow forward for a proper rake, so I need to shift the control point rightward to fix the fork's lean.</p> </blockquote> <h4 id=\"ok-let-s-animate-it\">OK, let's animate it</h4> <p>On Hacker News, <a href=\"https://news.ycombinator.com/item?id=49525378#49526455\">swalsh commented</a> on that Max pelican:</p> <blockquote> <p>Now that it's a solved benchmark, can we get the animated version?</p> </blockquote> <p>I didn't want to spend another $3 so I took the Max pelican and piped it into the default thinking level of High:</p> <div class=\"highlight highlight-source-shell\"><pre>llm logs -cx <span class=\"pl-k\">|</span> llm -m claude-fable-5.1 -s <span class=\"pl-s\"><span class=\"pl-pds\">'</span>animate this<span class=\"pl-pds\">'</span></span></pre></div> <p>6,121 input, 26,201 output = <a href=\"https://www.llm-prices.com/#it=6121&amp;ot=26201&amp;sel=claude-fable-5-1\">$1.37</a>. The result <a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F87282467acb3652e0f99c85155554a32#response\">looked like this</a>, exported here as video since some people have trouble viewing animated SVGs:</p> <p><video controls=\"controls\" loop=\"loop\" preload=\"none\" poster=\"https://static.simonwillison.net/static/2026/fable-5.1-max.webp\" width=\"720\" height=\"540\" style=\"display: block; width: 100%; height: auto;\"> <source src=\"https://static.simonwillison.net/static/2026/fable-5.1-animated-720-crf30-15fps.mp4\" type=\"video/mp4\" /> Your browser does not support HTML5 video. </video> </p> <p>The wheels in the video are rotating in the wrong direction, but I think that's an artifact of the conversion to MP4 - they seem to be going in the correct direction in the original SVG.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/claude\">claude</a>, <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle\">pelican-riding-a-bicycle</a>, <a href=\"https://simonwillison.net/tags/llm-reasoning\">llm-reasoning</a>, <a href=\"https://simonwillison.net/tags/llm-release\">llm-release</a></p>",
+      "publishedAt": "2026-09-01T23:57:28.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "publishedAt": "2026-09-01T20:45:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Codex bundles LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "summary": "<p>I was poking around in my <code>~/.cache/</code> folder using <a href=\"https://www.omnigroup.com/more\">OmniDiskSweeper</a> when I spotted something interesting. The OpenAI Codex desktop app (since <a href=\"https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app\">rebranded</a> to just ChatGPT) has 1.7GB of stuff in there in a folder called <code>codex-primary-runtime</code>, including a full Python installation, a full Node.js installation, and native binaries for <a href=\"https://poppler.freedesktop.org\">Poppler</a>, git, and the <a href=\"https://en.wikipedia.org/wiki/LibreOffice\">LibreOffice</a> open source office suite (which forked from OpenOffice.org in 2010):</p> <p><img alt=\"Screenshot of a macOS disk usage app window in column view, titled &quot;/Users/simon/.cache - 442.1 GB&quot;. First column: 356.8 GB huggingface, 82.5 GB uv, 1.7 GB codex-runtimes (selected), 609.0 MB datasette-sqlite, 298.8 MB rod. Second column: 1.7 GB codex-primary-runtime (selected). Third column: 1.7 GB dependencies (selected), 6.3 MB plugins, 4.1 kB runtime.json. Fourth column: 771.0 MB native (selected), 446.4 MB node, 440.6 MB python, 28.7 kB bin. Fifth column: 429.7 MB libreoffice-headless (selected), 187.9 MB poppler, 148.1 MB git, 4.7 MB libheif, 679.9 kB jxrlib.\" src=\"https://static.simonwillison.net/static/2026/codex-primay-runtime.webp\" /></p> <p>The <code>~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents</code> folder includes skills which tell Codex how to find and use those binaries.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/codex\">codex</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/openai\">openai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/openoffice\">openoffice</a>, <a href=\"https://simonwillison.net/tags/open-source\">open-source</a></p>",
+      "publishedAt": "2026-09-01T19:03:01.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents",
+      "link": "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "OpenClaw has released OpenClaw 2.0, a major update to the open-source personal AI agent that changes its installation process, browser interface, memory, skills, automations, plugins, security, and collaboration features. By Daniel Dominguez",
+      "publishedAt": "2026-09-01T18:47:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "GeoJSON Map Viewer",
+      "link": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p> <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.gov\">Granada Community Services District</a> and the <a href=\"https://midcoastcommunitycouncil.org\">Midcoast Community Council</a>) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After <a href=\"https://tools.simonwillison.net/colophon#geojson.html\">some iterations</a> using Claude Code for web and Fable 5.1 we got to this finished tool.</p> <p>As for the GeoJSON.. it turns out if you ask ChatGPT Work to provide boundaries for almost anything it will churn away extracting and combining files from different Government data sources and build exactly what you need.</p> <p>I got <a href=\"https://gist.github.com/simonw/27d243c9d1cb5d9047fff7360dd49d3c\">this polygon</a> from:</p> <blockquote> <p><code>I want a polygon that represents the exact boundary of the El Granada GCSD</code></p> </blockquote> <p>And <a href=\"https://gist.github.com/simonw/b51f9e0190a13932ac64a0cb407a709d\">this one</a> from:</p> <blockquote> <p><code>Get me a GeoJSON file for the boundary (or boundaries if that makes sense) for the MCC - Midcoast Community Council - that operates near Half Moon Bay CA</code></p> </blockquote> <p><a href=\"https://tools.simonwillison.net/geojson#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Fb51f9e0190a13932ac64a0cb407a709d&amp;color=%23028FC3&amp;opacity=50&amp;url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F27d243c9d1cb5d9047fff7360dd49d3c&amp;color=%23E4572E&amp;opacity=50&amp;preset=map&amp;resolution=2&amp;lat=37.52640&amp;lng=-122.48297&amp;zoom=13\">Here's a link</a> that displays both of them at the same time on the new GeoJSON map viewing tool.</p> <p><img alt=\"Screenshot of a web app with a left sidebar of controls and a large map on the right. Top left: OPENSTREETMAP OVERLAY GeoJSON Map Viewer. Top right: Your GeoJSON stays in this browser. Sidebar Shape 1 panel with blue accent: Shape 1, Remove button, URL https://gist.github.com/simonw/b51f9 with Load button, textarea containing { &quot;type&quot;: &quot;FeatureCollection&quot;, &quot;bbox&quot;: -122.51951044732655, 37.47967619478576, -122.44141365271285, 37.55146379902639, Fill colour #028FC3 with blue swatch, Opacity slider at 50%. Shape 2 panel with red accent: Shape 2, Remove button, URL https://gist.github.com/simonw/27d24 with Load button, textarea containing { &quot;type&quot;: &quot;FeatureCollection&quot;, &quot;name&quot;: &quot;Granada Community Services District boundary&quot;, &quot;bbox&quot;: -122.500791193774, 37.4803905345399, Fill colour #E4572E with red swatch, Opacity slider at 50%. Buttons: Render map, Add shape, Load example, Clear. The map shows the coast around Montara, Moss Beach, El Granada and Half Moon Bay with a large semi-transparent blue polygon covering Montara, Moss Beach and Rancho Corral de Tierra extending into the ocean, and an overlapping red polygon covering El Granada and Quarry Park. Map labels include Cabrillo Highway, San Pedro Mountain 325 m, Peak Mountain 545 m, South Peak, CA 1, Montara, Rancho Corral de Tierra, Golden Gate National Recreation Area, 489 m, Scarper Ridge, 552 m, Moss Beach, Montara State Marine Reserve, Ox Hill 542 m, 512 m, Fitzgerald Marine Reserve, Airport Street, Pillar Point Bluff, Quarry Park, El Granada, Pillar Point State Marine Conservation Area, Ox Mountain Landfill, Half Moon Bay State Beach, plus and minus zoom buttons, and attribution Leaflet | © OpenStreetMap contributors.\" src=\"https://static.simonwillison.net/static/2026/geojson-tool.webp\" /></p> <p>Tags: <a href=\"https://simonwillison.net/tags/geospatial\">geospatial</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/geojson\">geojson</a>, <a href=\"https://simonwillison.net/tags/chatgpt\">chatgpt</a></p>",
+      "publishedAt": "2026-09-01T18:05:45.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "summary": "",
+      "publishedAt": "2026-09-01T17:08:51.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Tarn Adams",
+      "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "summary": "<blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\"><p>They took the letters from me! I have to talk about <em>dwarf behavior</em> now. I can't even talk about dwarf AI. It doesn't exist. It's <em>dwarf behavior</em>, and they misbehave sometimes</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\">Tarn Adams</a>, co-creator of Dwarf Fortress</p> <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/game-design\">game-design</a></p>",
+      "publishedAt": "2026-09-01T17:01:11.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "publishedAt": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "publishedAt": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-mcp 0.2",
+      "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p> <blockquote> <ul> <li><code>\"rows\"</code> from <code>execute_sql</code> is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. <a href=\"https://github.com/datasette/datasette-mcp/issues/1\">#1</a></li> <li>Now depends on <code>mcp&gt;=2.1.1</code>.</li> </ul> </blockquote> <p>This is the first non-alpha release of the plugin. I'm confident it's ready as I've been using it quite a bit myself.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/model-context-protocol\">model-context-protocol</a></p>",
+      "publishedAt": "2026-09-01T15:30:12.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "summary": "<p><strong><a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\">Python 3.15.0 candidate 2 is here!</a></strong></p> Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:</p> <blockquote> <p>Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]</p> <p>We <strong>strongly encourage</strong> maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates <strong>will work</strong> with future versions of Python 3.15.</p> </blockquote> <p>Back in 2021 I <a href=\"https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/\">found a bug in Python 3.10</a> by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs.</p> <p>The new RC isn't available for GitHub Actions just yet - keep an eye on <a href=\"https://github.com/actions/python-versions/releases\">actions/python-versions</a> for that. For the moment though you can add this to a testing matrix:</p> <div class=\"highlight highlight-source-yaml\"><pre><span class=\"pl-ent\">strategy</span>: <span class=\"pl-ent\">matrix</span>: <span class=\"pl-ent\">python-version</span>: <span class=\"pl-s\">[\"3.14\", \"3.15\"]</span> <span class=\"pl-ent\">steps</span>: - <span class=\"pl-ent\">uses</span>: <span class=\"pl-s\">actions/setup-python@v7</span> <span class=\"pl-ent\">with</span>: <span class=\"pl-ent\">python-version</span>: <span class=\"pl-s\">${{ matrix.python-version }}</span> <span class=\"pl-ent\">allow-prereleases</span>: <span class=\"pl-c1\">true</span> <span class=\"pl-ent\">check-latest</span>: <span class=\"pl-c1\">true</span></pre></div> <p>The <a href=\"https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#allow-pre-releases\">allow-prereleases</a> and <a href=\"https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#check-latest-version\">check-latest</a> flags mean that today this will test against RC1, and when RC2 lands it will automatically switch to that version (and then the stable version once that comes out.)</p> <p><strong>Update</strong>: <a href=\"https://github.com/simonw/datasette/pull/2895\">Datasette passes</a>, <a href=\"https://github.com/simonw/sqlite-utils/pull/852\">sqlite-utils passes</a>, LLM is <a href=\"https://github.com/simonw/llm/pull/1652#issuecomment-5504533598\">currently blocked</a> waiting for a 3.15 wheel for <a href=\"https://github.com/scikit-learn/scikit-learn/issues/34652\">scikit-learn</a>, which is optionally used in the test suite. <p><small></small>Via <a href=\"https://bsky.app/profile/hugovk.dev/post/3muhjndhw322i\">@hugovk.dev</a></small></p> <p>Tags: <a href=\"https://simonwillison.net/tags/open-source\">open-source</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/github-actions\">github-actions</a></p>",
+      "publishedAt": "2026-09-01T14:59:18.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "publishedAt": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "publishedAt": "2026-09-01T01:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Introducing wrapture",
+      "link": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "summary": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p> New from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time.</p> <p>Wrapture (<a href=\"https://wrapture.readthedocs.io/\">full documentation here</a>) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value.</p> <p>It acts as both an alternative to <code>unittest.mock</code> and a way to implement tracing against an existing project:</p> <blockquote> <p>Attaching observation to code you do not control, recording what flows through it, and doing so without disturbing the program being watched, is a problem I have never really stopped thinking about.</p> </blockquote> <p>Wrapture includes <a href=\"https://wrapture.readthedocs.io/en/latest/otel-export.html\">OpenTelemetry support</a> and even has an entirely configuration-based mechanism for adding tracing to an existing Python project, which looks like this:</p> <div class=\"highlight highlight-source-toml\"><pre><span class=\"pl-smi\">capture</span> = <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>summary<span class=\"pl-pds\">\"</span></span> [[<span class=\"pl-en\">observe</span>]] <span class=\"pl-smi\">target</span> = <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>domain:Calculator<span class=\"pl-pds\">\"</span></span> <span class=\"pl-smi\">name</span> = [<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>outer<span class=\"pl-pds\">\"</span></span>, <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>inner<span class=\"pl-pds\">\"</span></span>] [[<span class=\"pl-en\">sink</span>]] <span class=\"pl-smi\">type</span> = <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>jsonlines<span class=\"pl-pds\">\"</span></span> <span class=\"pl-smi\">path</span> = <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>trace.jsonl<span class=\"pl-pds\">\"</span></span></pre></div> <p>This is still a very young project - just a few weeks old - but it's off to a very promising start.</p> <p>Interestingly, this is also Graham's first attempt at large entirely agent-driven project:</p> <blockquote> <p>Every line of code and documentation in wrapture was written by an AI assistant working under my direction. I want to be upfront about that, and equally upfront about what it was not. This was not vibe coding, where a one-shot prompt produces a pile of generated code and the person driving hopes for the best because they lack the knowledge to judge what came back. Vibe coding has earned its bad reputation. I engineered wrapture carefully from the start. I have spent a long time in this particular corner of Python and knew exactly what the result needed to be, and the AI was the means of producing it rather than the source of the design.</p> </blockquote> <p>In a follow-up post, <a href=\"https://grahamdumpleton.me/posts/2026/09/unit-testing-with-wrapture/\">Unit testing with wrapture</a>, Graham shows the testing patterns supported by the new library:</p> <pre><span class=\"pl-k\">def</span> <span class=\"pl-en\">test_stub_with_wrapture</span>(): <span class=\"pl-k\">with</span> <span class=\"pl-s1\">wrapture</span>.<span class=\"pl-c1\">binding</span>( <span class=\"pl-v\">Gateway</span>, <span class=\"pl-s\">\"charge\"</span> ).<span class=\"pl-c1\">on_call</span>.<span class=\"pl-c1\">returns</span>({ <span class=\"pl-s\">\"id\"</span>: <span class=\"pl-s\">\"stub\"</span>, <span class=\"pl-s\">\"amount\"</span>: <span class=\"pl-c1\">0</span>} ): <span class=\"pl-k\">assert</span> <span class=\"pl-en\">OrderService</span>().<span class=\"pl-c1\">place</span>( <span class=\"pl-c1\">500</span> )[<span class=\"pl-s\">\"id\"</span>] <span class=\"pl-c1\">==</span> <span class=\"pl-s\">\"stub\"</span></pre> <p>And this neat example of a test that calls and then modifies the return value from the original method:</p> <pre><span class=\"pl-k\">def</span> <span class=\"pl-en\">test_pinned_result_with_wrapture</span>(): <span class=\"pl-s1\">charge</span> <span class=\"pl-c1\">=</span> <span class=\"pl-s1\">wrapture</span>.<span class=\"pl-c1\">binding</span>( <span class=\"pl-v\">Gateway</span>, <span class=\"pl-s\">\"charge\"</span> ) <span class=\"pl-s1\">charge</span>.<span class=\"pl-c1\">on_call</span>.<span class=\"pl-c1\">transforms_result</span>( <span class=\"pl-k\">lambda</span> <span class=\"pl-s1\">r</span>: {<span class=\"pl-c1\">**</span><span class=\"pl-s1\">r</span>, <span class=\"pl-s\">\"id\"</span>: <span class=\"pl-s\">\"ch_TEST\"</span>} ) <span class=\"pl-k\">with</span> <span class=\"pl-s1\">charge</span>: <span class=\"pl-k\">assert</span> <span class=\"pl-en\">OrderService</span>().<span class=\"pl-c1\">place</span>( <span class=\"pl-c1\">500</span> ) <span class=\"pl-c1\">==</span> { <span class=\"pl-s\">\"id\"</span>: <span class=\"pl-s\">\"ch_TEST\"</span>, <span class=\"pl-s\">\"amount\"</span>: <span class=\"pl-c1\">500</span> }</pre> <p>(In both of these examples the <code>OrderService().place(...)</code> method calls <code>Gateway().charge(...)</code>.) <p>Tags: <a href=\"https://simonwillison.net/tags/graham-dumpleton\">graham-dumpleton</a>, <a href=\"https://simonwillison.net/tags/monkey-patching\">monkey-patching</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/testing\">testing</a>, <a href=\"https://simonwillison.net/tags/pytest\">pytest</a>, <a href=\"https://simonwillison.net/tags/observability\">observability</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/agentic-engineering\">agentic-engineering</a>, <a href=\"https://simonwillison.net/tags/opentelemetry\">opentelemetry</a></p>",
+      "publishedAt": "2026-08-31T23:59:36.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "publishedAt": "2026-08-28T06:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "publishedAt": "2026-08-28T02:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "summary": "",
+      "publishedAt": "2026-08-27T16:11:32.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "publishedAt": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "publishedAt": "2026-08-27T12:59:16.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "publishedAt": "2026-08-27T09:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "publishedAt": "2026-08-27T03:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "publishedAt": "2026-08-26T17:01:00.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "publishedAt": "2026-08-25T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "publishedAt": "2026-08-21T11:59:48.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Announcements Aug 14, 2026 How Claude’s text watermark works In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 31, 2026 Announcements Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 7, 2026 Product Improving Fable 5&#x27;s biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Jul 30, 2026 Announcements Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "",
+      "publishedAt": null
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>TechWatch — your daily tech & AI feed</title>
+<meta name="description" content="A personal, daily-updated feed of tech and AI news." />
+<meta name="theme-color" content="#EDEBE1" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#17181C" media="(prefers-color-scheme: dark)" />
+<link rel="manifest" href="manifest.json" />
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="icons/icon.svg" />
+<style>
+  :root {
+    --paper: #EDEBE1;
+    --paper-raised: #F7F5EC;
+    --ink: #1C1B18;
+    --ink-soft: #55524A;
+    --ink-faint: #8B8676;
+    --hair: #D9D5C6;
+    --accent: #23408F;
+    --accent-soft: #E4E9F5;
+    --ai-accent: #6B3FA0;
+    --ai-accent-soft: #EBE3F3;
+    --live: #5B7A4C;
+    --new-dot: #C0532A;
+    --radius: 4px;
+    --max-w: 720px;
+    --skeleton-base: #E2DFD1;
+    --skeleton-shine: #F0EDE1;
+    font-synthesis: none;
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #17181C;
+      --paper-raised: #1F2025;
+      --ink: #EDEBE3;
+      --ink-soft: #A6A296;
+      --ink-faint: #726E62;
+      --hair: #34353B;
+      --accent: #7C97E8;
+      --accent-soft: #232A42;
+      --ai-accent: #B79BDB;
+      --ai-accent-soft: #2A2333;
+      --live: #7FA36B;
+      --new-dot: #E08157;
+      --skeleton-base: #26272D;
+      --skeleton-shine: #303138;
+      color-scheme: dark;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: 3rem;
+    opacity: 0;
+  }
+
+  body.ready {
+    opacity: 1;
+    transition: opacity 0.35s ease;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    body { opacity: 1; }
+    body.ready { transition: none; }
+  }
+
+  a { color: inherit; }
+
+  ::selection { background: var(--accent-soft); color: var(--ink); }
+
+  /* ---------- Masthead ---------- */
+
+  header.masthead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--paper);
+    border-bottom: 1px solid var(--hair);
+    padding: 1.1rem 1.25rem 0.9rem;
+  }
+
+  .masthead-row {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .masthead-title {
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+
+  .masthead-meta {
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .live-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--live);
+    display: inline-block;
+  }
+
+  .controls {
+    max-width: var(--max-w);
+    margin: 0.9rem auto 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .search-row {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .search {
+    width: 100%;
+    padding: 0.55rem 2.2rem 0.55rem 0.75rem;
+    font-size: 0.95rem;
+    font-family: inherit;
+    color: var(--ink);
+    background: var(--paper-raised);
+    border: 1px solid var(--hair);
+    border-radius: var(--radius);
+  }
+  .search:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .search::placeholder { color: var(--ink-faint); }
+
+  .search-clear {
+    position: absolute;
+    right: 0.5rem;
+    border: none;
+    background: none;
+    color: var(--ink-faint);
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.25rem;
+    display: none;
+  }
+  .search-clear.visible { display: block; }
+  .search-clear:hover { color: var(--ink); }
+
+  .chips {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    padding-bottom: 0.6rem;
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+
+  .chip {
+    flex: 0 0 auto;
+    font-size: 0.78rem;
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    padding: 0.32rem 0.65rem;
+    border-radius: 999px;
+    border: 1px solid var(--hair);
+    background: var(--paper-raised);
+    color: var(--ink-soft);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    user-select: none;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+  .chip:hover { border-color: var(--ink-faint); }
+  .chip[aria-pressed="true"] {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-soft);
+  }
+  .chip[aria-pressed="true"].chip-ai {
+    border-color: var(--ai-accent);
+    color: var(--ai-accent);
+    background: var(--ai-accent-soft);
+  }
+  .chip .dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    flex: 0 0 auto;
+  }
+
+  .result-count {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 1.25rem;
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+  }
+
+  /* ---------- Feed ---------- */
+
+  main {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 1.25rem;
+  }
+
+  ul.feed {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .date-divider {
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    padding: 1.1rem 0 0.4rem;
+  }
+  .date-divider:first-child { padding-top: 1.3rem; }
+
+  .item {
+    border-bottom: 1px solid var(--hair);
+    padding: 0;
+  }
+
+  .item a.item-link {
+    display: block;
+    text-decoration: none;
+    padding: 0.85rem 0.6rem 0.85rem 0.85rem;
+    margin: 0 -0.6rem;
+    border-left: 3px solid var(--source-color, var(--accent));
+    border-radius: 0 var(--radius) var(--radius) 0;
+    transition: background 0.12s ease;
+  }
+  .item a.item-link:hover,
+  .item a.item-link:focus-visible {
+    background: var(--paper-raised);
+  }
+  .item a.item-link:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: -2px;
+  }
+
+  .item-meta {
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 0.32rem;
+  }
+
+  .item-source { color: var(--source-color, var(--accent)); font-weight: 600; }
+
+  .new-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--new-dot);
+    display: inline-block;
+  }
+
+  .item-title {
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 1.08rem;
+    line-height: 1.38;
+    margin: 0 0 0.3rem;
+    max-width: 58ch;
+  }
+
+  .item-summary {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 58ch;
+  }
+
+  /* ---------- AI Radar ---------- */
+
+  section.radar {
+    max-width: var(--max-w);
+    margin: 1.3rem auto 0;
+    padding: 0 1.25rem;
+  }
+
+  .radar-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.55rem;
+  }
+
+  .radar-heading h2 {
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 1.05rem;
+    margin: 0;
+    color: var(--ai-accent);
+  }
+
+  .radar-heading span {
+    font-family: "SF Mono", "Menlo", "Consolas", monospace;
+    font-size: 0.68rem;
+    color: var(--ink-soft);
+  }
+
+  .radar-wrap {
+    position: relative;
+  }
+
+  .radar-track {
+    display: flex;
+    gap: 0.7rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+  }
+  .radar-track::-webkit-scrollbar { display: none; }
+
+  .radar-wrap::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0.5rem;
+    width: 28px;
+    background: linear-gradient(to right, transparent, var(--paper));
+    pointer-events: none;
+  }
+
+  .radar-card {
+    flex: 0 0 auto;
+    width: 220px;
+    scroll-snap-align: start;
+    background: var(--paper-raised);
+    border: 1px solid var(--hair);
+    border-top: 3px solid var(--source-color, var(--ai-accent));
+    border-radius: var(--radius);
+    padding: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: border-color 0.12s ease, transform 0.12s ease;
+  }
+  .radar-card:hover, .radar-card:focus-visible {
+    border-color: var(--ink-faint);
+  }
+  .radar-card:focus-visible {
+    outline: 2px solid var(--ai-accent);
+    outline-offset: 1px;
+  }
+
+  .radar-card .item-meta { margin-bottom: 0.4rem; }
+
+  .radar-card .radar-title {
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 0.92rem;
+    line-height: 1.32;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* ---------- Skeleton loading ---------- */
+
+  .skeleton-item { padding: 1rem 0; border-bottom: 1px solid var(--hair); }
+  .skeleton-item:first-child { padding-top: 1.3rem; }
+  .skeleton-bar {
+    height: 0.8rem;
+    border-radius: var(--radius);
+    background: linear-gradient(90deg, var(--skeleton-base) 25%, var(--skeleton-shine) 50%, var(--skeleton-base) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+    margin-left: 0.85rem;
+  }
+  .skeleton-bar.meta { width: 30%; height: 0.6rem; margin-bottom: 0.5rem; }
+  .skeleton-bar.title { width: 85%; margin-bottom: 0.4rem; }
+  .skeleton-bar.title.short { width: 55%; }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .skeleton-bar { animation: none; }
+  }
+
+  /* ---------- Empty / error states ---------- */
+
+  .empty-state {
+    padding: 3rem 0;
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .empty-state code {
+    background: var(--paper-raised);
+    border: 1px solid var(--hair);
+    padding: 0.1rem 0.35rem;
+    border-radius: var(--radius);
+    font-size: 0.85em;
+  }
+
+  @media (min-width: 640px) {
+    .masthead-title { font-size: 1.7rem; }
+    .item-title { font-size: 1.15rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { scroll-behavior: auto !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-row">
+    <h1 class="masthead-title">TechWatch</h1>
+    <div class="masthead-meta"><span class="live-dot" aria-hidden="true"></span><span id="updated-label">loading…</span></div>
+  </div>
+  <div class="controls">
+    <div class="search-row">
+      <input class="search" id="search" type="search" placeholder="Search headlines…" autocomplete="off" />
+      <button class="search-clear" id="search-clear" type="button" aria-label="Clear search">&times;</button>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by source"></div>
+  </div>
+</header>
+
+<section class="radar" id="radar-section" hidden>
+  <div class="radar-heading">
+    <h2>AI Radar</h2>
+    <span>models, tools &amp; research — latest first</span>
+  </div>
+  <div class="radar-wrap">
+    <div class="radar-track" id="radar-track"></div>
+  </div>
+</section>
+
+<div class="result-count" id="result-count" hidden></div>
+
+<main>
+  <ul class="feed" id="feed">
+    <li class="skeleton-item"><div class="skeleton-bar meta"></div><div class="skeleton-bar title"></div><div class="skeleton-bar title short"></div></li>
+    <li class="skeleton-item"><div class="skeleton-bar meta"></div><div class="skeleton-bar title"></div></li>
+    <li class="skeleton-item"><div class="skeleton-bar meta"></div><div class="skeleton-bar title"></div><div class="skeleton-bar title short"></div></li>
+  </ul>
+  <div class="empty-state" id="empty-state" hidden></div>
+</main>
+
+<script>
+(function () {
+  const feedEl = document.getElementById("feed");
+  const chipsEl = document.getElementById("chips");
+  const searchEl = document.getElementById("search");
+  const searchClearEl = document.getElementById("search-clear");
+  const updatedLabelEl = document.getElementById("updated-label");
+  const emptyStateEl = document.getElementById("empty-state");
+  const resultCountEl = document.getElementById("result-count");
+
+  const NO_DATA_MESSAGE =
+    "No stories yet. The daily fetch job hasn't run in this copy of the app — " +
+    "trigger it once from the <strong>Actions</strong> tab in your GitHub repo, " +
+    "or run <code>npm run fetch</code> locally to populate <code>data/news.json</code>.";
+  const NO_MATCH_MESSAGE = "Nothing matches that search or filter. Try clearing it.";
+
+  let allItems = [];
+  let hasLoaded = false;
+  let filter = { mode: "all", value: null }; // mode: "all" | "category" | "source"
+
+  function relativeTime(iso) {
+    if (!iso) return "";
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const mins = Math.round(diffMs / 60000);
+    if (mins < 1) return "just now";
+    if (mins < 60) return mins + "m ago";
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return hrs + "h ago";
+    const days = Math.round(hrs / 24);
+    return days + "d ago";
+  }
+
+  function isFresh(iso) {
+    if (!iso) return false;
+    return Date.now() - new Date(iso).getTime() < 3 * 60 * 60 * 1000; // under 3h old
+  }
+
+  function dateBucket(iso) {
+    if (!iso) return "Undated";
+    const now = new Date();
+    const d = new Date(iso);
+    const startOfDay = (date) => new Date(date.getFullYear(), date.getMonth(), date.getDate());
+    const diffDays = Math.round((startOfDay(now) - startOfDay(d)) / 86400000);
+    if (diffDays <= 0) return "Today";
+    if (diffDays === 1) return "Yesterday";
+    if (diffDays < 7) return "This week";
+    return "Earlier";
+  }
+
+  function render() {
+    const query = searchEl.value.trim().toLowerCase();
+    searchClearEl.classList.toggle("visible", query.length > 0);
+
+    const filtered = allItems.filter((item) => {
+      if (filter.mode === "category" && item.category !== filter.value) return false;
+      if (filter.mode === "source" && item.source !== filter.value) return false;
+      if (query && !(item.title.toLowerCase().includes(query) || item.source.toLowerCase().includes(query))) return false;
+      return true;
+    });
+
+    feedEl.innerHTML = "";
+
+    if (!hasLoaded) {
+      resultCountEl.hidden = true;
+    } else if (filtered.length === 0) {
+      resultCountEl.hidden = true;
+      emptyStateEl.hidden = false;
+      emptyStateEl.innerHTML = allItems.length === 0 ? NO_DATA_MESSAGE : NO_MATCH_MESSAGE;
+    } else {
+      emptyStateEl.hidden = true;
+      resultCountEl.hidden = false;
+      resultCountEl.textContent = filtered.length + (filtered.length === 1 ? " story" : " stories");
+    }
+
+    let lastBucket = null;
+
+    for (const item of filtered) {
+      const bucket = dateBucket(item.publishedAt);
+      if (bucket !== lastBucket) {
+        const divider = document.createElement("li");
+        divider.className = "date-divider";
+        divider.textContent = bucket;
+        feedEl.appendChild(divider);
+        lastBucket = bucket;
+      }
+
+      const li = document.createElement("li");
+      li.className = "item";
+
+      const a = document.createElement("a");
+      a.className = "item-link";
+      a.href = item.link;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.style.setProperty("--source-color", item.color || "#23408F");
+
+      const meta = document.createElement("div");
+      meta.className = "item-meta";
+      meta.innerHTML =
+        '<span class="item-source">' + escapeHtml(item.source) + "</span>" +
+        (isFresh(item.publishedAt) ? '<span class="new-dot" title="Published in the last 3 hours"></span>' : "") +
+        (item.publishedAt ? "<span>&middot; " + relativeTime(item.publishedAt) + "</span>" : "");
+
+      const title = document.createElement("p");
+      title.className = "item-title";
+      title.textContent = item.title;
+
+      a.appendChild(meta);
+      a.appendChild(title);
+
+      if (item.summary) {
+        const summary = document.createElement("p");
+        summary.className = "item-summary";
+        summary.textContent = item.summary;
+        a.appendChild(summary);
+      }
+
+      li.appendChild(a);
+      feedEl.appendChild(li);
+    }
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function buildChips(sources) {
+    chipsEl.innerHTML = "";
+
+    chipsEl.appendChild(makeChip("All", { mode: "all", value: null }, "#23408F"));
+    chipsEl.appendChild(makeChip("AI", { mode: "category", value: "ai" }, "#6B3FA0", true));
+
+    for (const s of sources) {
+      chipsEl.appendChild(makeChip(s.name, { mode: "source", value: s.name }, s.color));
+    }
+  }
+
+  function isSameFilter(a, b) {
+    return a.mode === b.mode && a.value === b.value;
+  }
+
+  function makeChip(label, chipFilter, color, isAi) {
+    const chip = document.createElement("button");
+    chip.className = "chip" + (isAi ? " chip-ai" : "");
+    chip.type = "button";
+    chip.setAttribute("aria-pressed", String(isSameFilter(filter, chipFilter)));
+    chip.innerHTML = '<span class="dot" style="background:' + color + '"></span>' + escapeHtml(label);
+    chip.addEventListener("click", () => {
+      filter = chipFilter;
+      document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", "false"));
+      chip.setAttribute("aria-pressed", "true");
+      render();
+    });
+    return chip;
+  }
+
+  function renderRadar() {
+    const radarSection = document.getElementById("radar-section");
+    const track = document.getElementById("radar-track");
+
+    const aiItems = allItems.filter((item) => item.category === "ai").slice(0, 10);
+
+    if (aiItems.length === 0) {
+      radarSection.hidden = true;
+      return;
+    }
+
+    radarSection.hidden = false;
+    track.innerHTML = "";
+
+    for (const item of aiItems) {
+      const a = document.createElement("a");
+      a.className = "radar-card";
+      a.href = item.link;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.style.setProperty("--source-color", item.color || "#6B3FA0");
+
+      const meta = document.createElement("div");
+      meta.className = "item-meta";
+      meta.innerHTML =
+        '<span class="item-source">' + escapeHtml(item.source) + "</span>" +
+        (item.publishedAt ? "<span>&middot; " + relativeTime(item.publishedAt) + "</span>" : "");
+
+      const title = document.createElement("p");
+      title.className = "radar-title";
+      title.textContent = item.title;
+
+      a.appendChild(meta);
+      a.appendChild(title);
+      track.appendChild(a);
+    }
+  }
+
+  async function load() {
+    try {
+      const res = await fetch("data/news.json", { cache: "no-store" });
+      const data = await res.json();
+
+      allItems = data.items || [];
+      hasLoaded = true;
+      buildChips(data.sources || []);
+
+      updatedLabelEl.textContent = data.updatedAt
+        ? "updated " + relativeTime(data.updatedAt)
+        : "not yet updated";
+
+      renderRadar();
+      render();
+    } catch (err) {
+      hasLoaded = true;
+      updatedLabelEl.textContent = "couldn't load feed";
+      feedEl.innerHTML = "";
+      emptyStateEl.hidden = false;
+      emptyStateEl.textContent = "Couldn't load data/news.json — check that the file exists and this page is served over http(s), not opened as a local file.";
+      console.error(err);
+    } finally {
+      document.body.classList.add("ready");
+    }
+  }
+
+  searchEl.addEventListener("input", render);
+  searchClearEl.addEventListener("click", () => {
+    searchEl.value = "";
+    searchEl.focus();
+    render();
+  });
+
+  load();
+
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  }
+})();
+</script>
+
+</body>
+</html>

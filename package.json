@@ -1,0 +1,16 @@
+{
+  "name": "signal-news-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal daily tech + AI news aggregator (static site + scheduled fetch script).",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
