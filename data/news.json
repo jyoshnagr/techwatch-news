@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T03:29:35.093Z",
+  "updatedAt": "2026-09-08T09:24:34.366Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,10 +59,82 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)",
-      "link": "https://albertjoseph0.github.io/nyc-maptap/",
-      "summary": "3 points, 1 comments",
-      "publishedAt": "2026-09-08T02:36:47.000Z"
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "summary": "21 points, 15 comments",
+      "publishedAt": "2026-09-08T08:42:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar…",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "43 points, 33 comments",
+      "publishedAt": "2026-09-08T05:20:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "My Feed, My Way",
+      "link": "https://www.pm.gov.au/media/my-feed-my-way",
+      "summary": "115 points, 81 comments",
+      "publishedAt": "2026-09-08T05:10:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mistral raises €3B",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "423 points, 289 comments",
+      "publishedAt": "2026-09-08T05:06:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We have a year to fix security everywhere",
+      "link": "https://jyn.dev/a-year-to-fix-security/",
+      "summary": "221 points, 184 comments",
+      "publishedAt": "2026-09-08T04:48:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "link": "https://rohanadwankar.github.io/posts/platforms.html",
+      "summary": "27 points, 6 comments",
+      "publishedAt": "2026-09-08T04:36:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "summary": "39 points, 21 comments",
+      "publishedAt": "2026-09-08T04:06:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How well do agents use test/verification techniques?",
+      "link": "https://danluu.com/agentic-testing/",
+      "summary": "79 points, 24 comments",
+      "publishedAt": "2026-09-08T02:58:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -86,9 +158,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "link": "https://weirdgloop.org/blog/google-jail",
+      "summary": "126 points, 46 comments",
+      "publishedAt": "2026-09-08T01:57:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Jellyfin 12.0",
       "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "summary": "116 points, 48 comments",
+      "summary": "353 points, 144 comments",
       "publishedAt": "2026-09-08T01:56:35.000Z"
     },
     {
@@ -97,7 +178,7 @@
       "category": "general",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "summary": "128 points, 27 comments",
+      "summary": "322 points, 55 comments",
       "publishedAt": "2026-09-08T01:16:59.000Z"
     },
     {
@@ -115,7 +196,7 @@
       "category": "general",
       "title": "TALA Is Open-Source",
       "link": "https://d2lang.com/blog/tala-is-open-source/",
-      "summary": "108 points, 10 comments",
+      "summary": "220 points, 15 comments",
       "publishedAt": "2026-09-07T23:37:42.000Z"
     },
     {
@@ -140,28 +221,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "link": "https://github.com/Sadpainy/Stuxnet",
-      "summary": "116 points, 37 comments",
-      "publishedAt": "2026-09-07T22:12:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
       "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "summary": "119 points, 54 comments",
+      "summary": "192 points, 78 comments",
       "publishedAt": "2026-09-07T20:32:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Emacs Bedrock 2.0",
-      "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-      "summary": "50 points, 0 comments",
-      "publishedAt": "2026-09-07T20:12:12.000Z"
     },
     {
       "source": "The Verge",
@@ -187,7 +250,7 @@
       "category": "general",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "link": "https://lax-skyline.parcelscope.net/",
-      "summary": "237 points, 125 comments",
+      "summary": "288 points, 142 comments",
       "publishedAt": "2026-09-07T18:52:06.000Z"
     },
     {
@@ -293,10 +356,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "link": "https://mathathonchallenge.com/index.html",
-      "summary": "240 points, 84 comments",
-      "publishedAt": "2026-09-07T09:26:53.000Z"
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "link": "https://anystation.net/",
+      "summary": "6 points, 6 comments",
+      "publishedAt": "2026-09-07T09:00:01.000Z"
     },
     {
       "source": "Hacker News",
@@ -304,7 +367,7 @@
       "category": "general",
       "title": "216M Spy TVs – The LG Smart TV Problem [video]",
       "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "summary": "585 points, 827 comments",
+      "summary": "752 points, 905 comments",
       "publishedAt": "2026-09-07T00:22:04.000Z"
     },
     {
@@ -362,13 +425,13 @@
       "publishedAt": "2026-09-06T20:47:37.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Europe has its first commercial orbital rocket",
-      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into th…",
-      "publishedAt": "2026-09-06T19:04:22.000Z"
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "link": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "summary": "36 points, 2 comments",
+      "publishedAt": "2026-09-06T19:51:28.000Z"
     },
     {
       "source": "TechCrunch",
@@ -396,15 +459,6 @@
       "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
       "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly…",
       "publishedAt": "2026-09-06T14:40:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Icy Moons Are Ocean Worlds",
-      "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "summary": "140 points, 14 comments",
-      "publishedAt": "2026-09-06T13:07:52.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -506,6 +560,15 @@
       "publishedAt": "2026-09-05T19:35:24.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We built our house for LAN parties",
+      "link": "https://lanparty.house/",
+      "summary": "58 points, 23 comments",
+      "publishedAt": "2026-09-05T18:44:40.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -549,15 +612,6 @@
       "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
       "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
       "publishedAt": "2026-09-05T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "link": "https://arxiv.org/abs/2607.24888",
-      "summary": "167 points, 35 comments",
-      "publishedAt": "2026-09-05T11:25:18.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -623,15 +677,6 @@
       "publishedAt": "2026-09-04T22:49:17.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "This Month in Ladybird – August 2026",
-      "link": "https://ladybird.org/newsletter/2026-08-31/",
-      "summary": "185 points, 46 comments",
-      "publishedAt": "2026-09-04T22:47:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -655,7 +700,7 @@
       "category": "general",
       "title": "Scientists observe Einstein's gravity in the quantum world",
       "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "summary": "163 points, 41 comments",
+      "summary": "217 points, 55 comments",
       "publishedAt": "2026-09-04T20:28:52.000Z"
     },
     {
@@ -666,15 +711,6 @@
       "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
       "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
       "publishedAt": "2026-09-04T20:22:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "link": "https://kallus.org/blog/dummit_and_foote.html",
-      "summary": "72 points, 33 comments",
-      "publishedAt": "2026-09-04T20:20:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -693,15 +729,6 @@
       "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
       "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
       "publishedAt": "2026-09-04T19:01:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Jigsaw Haiku",
-      "link": "https://jigsawhaiku.com/",
-      "summary": "65 points, 22 comments",
-      "publishedAt": "2026-09-04T18:14:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -821,15 +848,6 @@
       "publishedAt": "2026-09-04T15:46:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-      "link": "https://blog.yosyshq.com/p/colorlight-part-1/",
-      "summary": "12 points, 5 comments",
-      "publishedAt": "2026-09-04T13:05:31.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -884,24 +902,6 @@
       "publishedAt": "2026-09-04T05:54:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "John Margolies' photographs of roadside America",
-      "link": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "summary": "33 points, 11 comments",
-      "publishedAt": "2026-09-04T04:57:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Interactive Tree of Life",
-      "link": "https://ptree.org/",
-      "summary": "69 points, 22 comments",
-      "publishedAt": "2026-09-04T00:40:06.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -934,7 +934,7 @@
       "category": "general",
       "title": "WeatherNext 3",
       "link": "https://deepmind.google/science/weathernext/",
-      "summary": "254 points, 62 comments",
+      "summary": "321 points, 78 comments",
       "publishedAt": "2026-09-03T16:06:08.000Z"
     },
     {
