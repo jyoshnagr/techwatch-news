@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:33:39.245Z",
+  "updatedAt": "2026-09-09T09:26:13.957Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,19 +59,73 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Harvard study predicts most suicide attempts a week in advance",
-      "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-      "summary": "89 points, 42 comments",
-      "publishedAt": "2026-09-09T02:07:13.000Z"
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "summary": "47 points, 30 comments",
+      "publishedAt": "2026-09-09T07:22:46.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "summary": "46 points, 8 comments",
-      "publishedAt": "2026-09-09T01:32:49.000Z"
+      "title": "On Really Trying (2009)",
+      "link": "https://gwern.net/on-really-trying",
+      "summary": "43 points, 18 comments",
+      "publishedAt": "2026-09-09T06:58:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Copyright does more harm than good and should be abolished",
+      "link": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "summary": "217 points, 161 comments",
+      "publishedAt": "2026-09-09T06:31:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "summary": "74 points, 34 comments",
+      "publishedAt": "2026-09-09T06:02:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "publishedAt": "2026-09-09T06:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo.…",
+      "publishedAt": "2026-09-09T05:26:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+      "summary": "47 points, 12 comments",
+      "publishedAt": "2026-09-09T04:43:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "publishedAt": "2026-09-09T04:01:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +133,7 @@
       "category": "general",
       "title": "27.5KB language-agnostic WebGPU syntax highlighter",
       "link": "https://gpu-lexer.vercel.app/",
-      "summary": "25 points, 5 comments",
+      "summary": "78 points, 26 comments",
       "publishedAt": "2026-09-09T01:14:50.000Z"
     },
     {
@@ -119,15 +173,6 @@
       "publishedAt": "2026-09-08T22:46:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Topological Picture Book, Rendered",
-      "link": "https://e-infinity.space/picture-book/",
-      "summary": "62 points, 8 comments",
-      "publishedAt": "2026-09-08T22:28:14.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -151,7 +196,7 @@
       "category": "general",
       "title": "Large language models develop novel social biases through adaptive exploration",
       "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "114 points, 55 comments",
+      "summary": "158 points, 82 comments",
       "publishedAt": "2026-09-08T21:47:38.000Z"
     },
     {
@@ -169,7 +214,7 @@
       "category": "general",
       "title": "How to build a printer",
       "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "summary": "180 points, 38 comments",
+      "summary": "325 points, 64 comments",
       "publishedAt": "2026-09-08T21:22:11.000Z"
     },
     {
@@ -205,7 +250,7 @@
       "category": "general",
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "link": "https://mathstodon.xyz/@tao/117237320796901560",
-      "summary": "207 points, 146 comments",
+      "summary": "360 points, 318 comments",
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -266,10 +311,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "link": "https://github.com/argonautlabsai/deltafin",
-      "summary": "222 points, 115 comments",
-      "publishedAt": "2026-09-08T20:07:55.000Z"
+      "title": "Mercury 2.5",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "summary": "197 points, 30 comments",
+      "publishedAt": "2026-09-08T20:14:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -295,7 +340,7 @@
       "category": "general",
       "title": "Muse – Meta’s personal AI agent",
       "link": "https://ai.meta.com/muse/",
-      "summary": "360 points, 371 comments",
+      "summary": "500 points, 542 comments",
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -394,7 +439,7 @@
       "category": "general",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "link": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "1165 points, 1002 comments",
+      "summary": "1258 points, 1004 comments",
       "publishedAt": "2026-09-08T17:13:21.000Z"
     },
     {
@@ -461,15 +506,6 @@
       "publishedAt": "2026-09-08T16:05:32.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The White House pulls its racist Tetris clone",
-      "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-      "summary": "“Build the Wall” was pulled days after the White House launched its “arcade.” | Screenshot: The Verge The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as…",
-      "publishedAt": "2026-09-08T16:00:51.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -493,7 +529,7 @@
       "category": "general",
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "507 points, 117 comments",
+      "summary": "558 points, 119 comments",
       "publishedAt": "2026-09-08T14:55:45.000Z"
     },
     {
@@ -502,7 +538,7 @@
       "category": "general",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "222 points, 110 comments",
+      "summary": "248 points, 123 comments",
       "publishedAt": "2026-09-08T14:49:19.000Z"
     },
     {
@@ -520,7 +556,7 @@
       "category": "general",
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "link": "https://github.com/ayghri/i-have-adhd",
-      "summary": "340 points, 263 comments",
+      "summary": "437 points, 307 comments",
       "publishedAt": "2026-09-08T14:13:26.000Z"
     },
     {
@@ -574,7 +610,7 @@
       "category": "general",
       "title": "DaVinci Resolve 21.1",
       "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "366 points, 161 comments",
+      "summary": "403 points, 178 comments",
       "publishedAt": "2026-09-08T13:36:53.000Z"
     },
     {
@@ -632,6 +668,15 @@
       "publishedAt": "2026-09-08T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "link": "https://codeberg.org/jjba23/maak.el",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-09-08T09:28:35.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -655,7 +700,7 @@
       "category": "general",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "summary": "1362 points, 581 comments",
+      "summary": "1651 points, 699 comments",
       "publishedAt": "2026-09-08T05:42:28.000Z"
     },
     {
@@ -749,33 +794,6 @@
       "publishedAt": "2026-09-07T16:24:16.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "What we expect from the upcoming Apple launch",
-      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-      "publishedAt": "2026-09-07T15:58:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Getting phpBB 1.4.4 working in Docker",
-      "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-      "summary": "29 points, 19 comments",
-      "publishedAt": "2026-09-07T14:35:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
-      "link": "https://news.ycombinator.com/item?id=49598009",
-      "summary": "20 points, 19 comments",
-      "publishedAt": "2026-09-07T13:09:44.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -810,24 +828,6 @@
       "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub…",
       "publishedAt": "2026-09-06T23:57:40.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "publishedAt": "2026-09-06T21:41:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "summary": "36 points, 16 comments",
-      "publishedAt": "2026-09-06T21:24:23.000Z"
     },
     {
       "source": "Simon Willison",
@@ -923,10 +923,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "An Accidental Blackboard",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "summary": "18 points, 5 comments",
-      "publishedAt": "2026-09-05T18:50:25.000Z"
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "summary": "40 points, 18 comments",
+      "publishedAt": "2026-09-05T21:14:18.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1094,9 +1094,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
       "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "summary": "19 points, 0 comments",
+      "summary": "116 points, 25 comments",
       "publishedAt": "2026-09-03T07:29:40.000Z"
     },
     {
