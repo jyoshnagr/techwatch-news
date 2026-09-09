@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:26:13.957Z",
+  "updatedAt": "2026-09-09T14:13:07.506Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,40 +56,256 @@
   "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "summary": "47 points, 30 comments",
-      "publishedAt": "2026-09-09T07:22:46.000Z"
+      "title": "My favorite gaming earbuds got their first discount",
+      "link": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
+      "summary": "Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. So…",
+      "publishedAt": "2026-09-09T13:53:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Nintendo Direct September 2026: The biggest news and trailers",
+      "link": "https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements",
+      "summary": "It’s almost time for part two of Nintendo’s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2…",
+      "publishedAt": "2026-09-09T13:50:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "On Really Trying (2009)",
-      "link": "https://gwern.net/on-really-trying",
-      "summary": "43 points, 18 comments",
-      "publishedAt": "2026-09-09T06:58:44.000Z"
+      "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
+      "link": "https://news.ycombinator.com/item?id=49626431",
+      "summary": "29 points, 26 comments",
+      "publishedAt": "2026-09-09T13:41:55.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Copyright does more harm than good and should be abolished",
-      "link": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-      "summary": "217 points, 161 comments",
-      "publishedAt": "2026-09-09T06:31:28.000Z"
+      "title": "Playing whack-a-mole is losing",
+      "link": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-09-09T13:41:53.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "“Tweet” and the bird logo apparently enter the public domain",
-      "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-      "summary": "74 points, 34 comments",
-      "publishedAt": "2026-09-09T06:02:07.000Z"
+      "title": "What will our economic future look like?",
+      "link": "https://www.anthropic.com/institute/econ-scenarios",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-09-09T13:38:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Do people prefer stories written by AI?",
+      "link": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
+      "summary": "9 points, 18 comments",
+      "publishedAt": "2026-09-09T13:38:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tailwind Labs is joining Shopify",
+      "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "summary": "144 points, 51 comments",
+      "publishedAt": "2026-09-09T13:27:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "link": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "summary": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
+      "publishedAt": "2026-09-09T13:01:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+      "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "summary": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "summary": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German seri…",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spen…",
+      "publishedAt": "2026-09-09T12:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "How to watch Apple’s September 9th launch event",
+      "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+      "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first mod…",
+      "publishedAt": "2026-09-09T12:28:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "publishedAt": "2026-09-09T12:05:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Students who use AI generally score worse at school",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain type…",
+      "publishedAt": "2026-09-09T12:05:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+      "link": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-09-09T12:01:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I advertise malicious software on Google Ads",
+      "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "summary": "161 points, 77 comments",
+      "publishedAt": "2026-09-09T11:43:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "summary": "136 points, 31 comments",
+      "publishedAt": "2026-09-09T11:39:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "link": "https://news.ycombinator.com/item?id=49624603",
+      "summary": "182 points, 78 comments",
+      "publishedAt": "2026-09-09T11:19:26.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "publishedAt": "2026-09-09T11:00:10.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
+      "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
+      "publishedAt": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "summary": "406 points, 313 comments",
+      "publishedAt": "2026-09-09T10:54:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "summary": "163 points, 153 comments",
+      "publishedAt": "2026-09-09T10:25:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Building a Wall Lamp from Scratch",
+      "link": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+      "summary": "33 points, 10 comments",
+      "publishedAt": "2026-09-09T10:01:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "link": "https://buttondown.com/blog/lotus-notes-email",
+      "summary": "95 points, 60 comments",
+      "publishedAt": "2026-09-09T10:01:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab a…",
+      "publishedAt": "2026-09-09T09:56:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "link": "https://opusfived.dev/",
+      "summary": "232 points, 91 comments",
+      "publishedAt": "2026-09-09T09:39:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -110,15 +326,6 @@
       "publishedAt": "2026-09-09T05:26:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-      "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-      "summary": "47 points, 12 comments",
-      "publishedAt": "2026-09-09T04:43:46.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -126,15 +333,6 @@
       "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
       "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
       "publishedAt": "2026-09-09T04:01:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "link": "https://gpu-lexer.vercel.app/",
-      "summary": "78 points, 26 comments",
-      "publishedAt": "2026-09-09T01:14:50.000Z"
     },
     {
       "source": "Simon Willison",
@@ -191,31 +389,13 @@
       "publishedAt": "2026-09-08T21:52:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "158 points, 82 comments",
-      "publishedAt": "2026-09-08T21:47:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
       "title": "GOG brings back \"big box\" PC games, one printable template at a time",
       "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "summary": "Preservation \"goodies\" also include downloadable 3D models for desktop perusal.",
       "publishedAt": "2026-09-08T21:23:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to build a printer",
-      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "summary": "325 points, 64 comments",
-      "publishedAt": "2026-09-08T21:22:11.000Z"
     },
     {
       "source": "Ars Technica",
@@ -245,15 +425,6 @@
       "publishedAt": "2026-09-08T21:04:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "link": "https://mathstodon.xyz/@tao/117237320796901560",
-      "summary": "360 points, 318 comments",
-      "publishedAt": "2026-09-08T21:00:52.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -281,15 +452,6 @@
       "publishedAt": "2026-09-08T20:46:56.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-      "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-      "summary": "Razer’s BlackShark V3 Pro are up to $100 off. | Image: Razer It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale a…",
-      "publishedAt": "2026-09-08T20:39:49.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -297,24 +459,6 @@
       "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
       "summary": "\"Science fiction imagines the future. We build it.\"",
       "publishedAt": "2026-09-08T20:20:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodl…",
-      "publishedAt": "2026-09-08T20:16:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mercury 2.5",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "summary": "197 points, 30 comments",
-      "publishedAt": "2026-09-08T20:14:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -340,7 +484,7 @@
       "category": "general",
       "title": "Muse – Meta’s personal AI agent",
       "link": "https://ai.meta.com/muse/",
-      "summary": "500 points, 542 comments",
+      "summary": "571 points, 631 comments",
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -359,15 +503,6 @@
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
       "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
       "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their…",
-      "publishedAt": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar str…",
       "publishedAt": "2026-09-08T19:00:00.000Z"
     },
     {
@@ -416,33 +551,6 @@
       "publishedAt": "2026-09-08T17:32:15.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believi…",
-      "publishedAt": "2026-09-08T17:27:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nintendo isn’t scared of GTA VI",
-      "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, e…",
-      "publishedAt": "2026-09-08T17:13:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "1258 points, 1004 comments",
-      "publishedAt": "2026-09-08T17:13:21.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -488,15 +596,6 @@
       "publishedAt": "2026-09-08T16:20:31.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-      "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-      "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was offici…",
-      "publishedAt": "2026-09-08T16:06:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -524,24 +623,6 @@
       "publishedAt": "2026-09-08T15:04:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "558 points, 119 comments",
-      "publishedAt": "2026-09-08T14:55:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "248 points, 123 comments",
-      "publishedAt": "2026-09-08T14:49:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -551,15 +632,6 @@
       "publishedAt": "2026-09-08T14:17:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "link": "https://github.com/ayghri/i-have-adhd",
-      "summary": "437 points, 307 comments",
-      "publishedAt": "2026-09-08T14:13:26.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -567,15 +639,6 @@
       "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
       "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
       "publishedAt": "2026-09-08T14:11:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-      "publishedAt": "2026-09-08T14:10:17.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -605,30 +668,12 @@
       "publishedAt": "2026-09-08T13:56:38.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "DaVinci Resolve 21.1",
-      "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "403 points, 178 comments",
-      "publishedAt": "2026-09-08T13:36:53.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
       "title": "The Work Now Within Reach",
       "link": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "publishedAt": "2026-09-08T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
       "publishedAt": "2026-09-08T13:00:00.000Z"
     },
     {
@@ -668,15 +713,6 @@
       "publishedAt": "2026-09-08T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
-      "link": "https://codeberg.org/jjba23/maak.el",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-08T09:28:35.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -686,31 +722,13 @@
       "publishedAt": "2026-09-08T09:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
-      "publishedAt": "2026-09-08T09:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "summary": "1651 points, 699 comments",
+      "summary": "1840 points, 759 comments",
       "publishedAt": "2026-09-08T05:42:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through…",
-      "publishedAt": "2026-09-08T02:16:39.000Z"
     },
     {
       "source": "OpenAI",
@@ -740,6 +758,15 @@
       "publishedAt": "2026-09-07T23:54:54.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
+      "link": "https://github.com/ashemag/human-atlas",
+      "summary": "32 points, 12 comments",
+      "publishedAt": "2026-09-07T23:40:33.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -758,15 +785,6 @@
       "publishedAt": "2026-09-07T22:26:25.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "publishedAt": "2026-09-07T19:24:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -774,15 +792,6 @@
       "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
       "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code fo…",
       "publishedAt": "2026-09-07T18:29:07.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "publishedAt": "2026-09-07T18:02:29.000Z"
     },
     {
       "source": "Simon Willison",
@@ -837,6 +846,15 @@
       "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
       "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly…",
       "publishedAt": "2026-09-06T14:40:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Coyote v. Acme (1990)",
+      "link": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+      "summary": "79 points, 31 comments",
+      "publishedAt": "2026-09-06T13:43:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -920,15 +938,6 @@
       "publishedAt": "2026-09-05T23:27:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "summary": "40 points, 18 comments",
-      "publishedAt": "2026-09-05T21:14:18.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -936,15 +945,6 @@
       "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
       "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.or…",
       "publishedAt": "2026-09-05T15:51:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "publishedAt": "2026-09-05T15:17:36.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -983,6 +983,15 @@
       "publishedAt": "2026-09-04T23:59:05.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Searching for the best silicone USB cable",
+      "link": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
+      "summary": "33 points, 14 comments",
+      "publishedAt": "2026-09-04T20:06:17.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1008,6 +1017,15 @@
       "link": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning,…",
       "publishedAt": "2026-09-04T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Smolts: A pedagogical IDE for a teaching language",
+      "link": "https://eighty-twenty.org/2026/09/04/smolts",
+      "summary": "15 points, 1 comments",
+      "publishedAt": "2026-09-04T10:58:30.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1091,15 +1109,6 @@
       "publishedAt": "2026-09-03T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "summary": "116 points, 25 comments",
-      "publishedAt": "2026-09-03T07:29:40.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1179,15 +1188,6 @@
       "link": "https://openai.com/index/atv-big-air-tour",
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "publishedAt": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI",
-      "link": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications. He shares practical architectural strategies for integrating long-term and short-term memory using Redis, mana…",
-      "publishedAt": "2026-09-02T11:00:00.000Z"
     },
     {
       "source": "Google AI",
