@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:25:08.106Z",
+  "updatedAt": "2026-09-09T03:33:39.245Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,87 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Harvard study predicts most suicide attempts a week in advance",
+      "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+      "summary": "89 points, 42 comments",
+      "publishedAt": "2026-09-09T02:07:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "summary": "46 points, 8 comments",
+      "publishedAt": "2026-09-09T01:32:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "link": "https://gpu-lexer.vercel.app/",
+      "summary": "25 points, 5 comments",
+      "publishedAt": "2026-09-09T01:14:50.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Terence Tao",
+      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that ev…",
+      "publishedAt": "2026-09-09T00:20:17.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize…",
+      "publishedAt": "2026-09-08T23:55:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "publishedAt": "2026-09-08T23:23:23.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-f…",
+      "publishedAt": "2026-09-08T22:46:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Topological Picture Book, Rendered",
+      "link": "https://e-infinity.space/picture-book/",
+      "summary": "62 points, 8 comments",
+      "publishedAt": "2026-09-08T22:28:14.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "summary": "“It doesn’t cost a lot to store text forever.”",
+      "publishedAt": "2026-09-08T21:52:29.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -68,10 +149,37 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "title": "Large language models develop novel social biases through adaptive exploration",
       "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "14 points, 3 comments",
+      "summary": "114 points, 55 comments",
       "publishedAt": "2026-09-08T21:47:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "publishedAt": "2026-09-08T21:23:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "summary": "180 points, 38 comments",
+      "publishedAt": "2026-09-08T21:22:11.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "publishedAt": "2026-09-08T21:11:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -90,6 +198,15 @@
       "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
       "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
       "publishedAt": "2026-09-08T21:04:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "207 points, 146 comments",
+      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "source": "The Verge",
@@ -113,7 +230,7 @@
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
       "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
       "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world a…",
       "publishedAt": "2026-09-08T20:46:56.000Z"
@@ -128,6 +245,15 @@
       "publishedAt": "2026-09-08T20:39:49.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The universal language of space is... Star Trek? Mais oui.",
+      "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "summary": "\"Science fiction imagines the future. We build it.\"",
+      "publishedAt": "2026-09-08T20:20:20.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -140,28 +266,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Mercury 2.5",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "summary": "80 points, 9 comments",
-      "publishedAt": "2026-09-08T20:14:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Animation in Bevy: The Big Picture",
-      "link": "https://glocq.com/en/blog/20260827/",
-      "summary": "27 points, 1 comments",
-      "publishedAt": "2026-09-08T20:08:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
       "link": "https://github.com/argonautlabsai/deltafin",
-      "summary": "165 points, 75 comments",
+      "summary": "222 points, 115 comments",
       "publishedAt": "2026-09-08T20:07:55.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "NIH to use part of its budget to pay for Department of Defense research",
+      "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "publishedAt": "2026-09-08T20:06:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -176,9 +293,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "title": "Muse – Meta’s personal AI agent",
       "link": "https://ai.meta.com/muse/",
-      "summary": "198 points, 186 comments",
+      "summary": "360 points, 371 comments",
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -277,7 +394,7 @@
       "category": "general",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "link": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "976 points, 788 comments",
+      "summary": "1165 points, 1002 comments",
       "publishedAt": "2026-09-08T17:13:21.000Z"
     },
     {
@@ -288,15 +405,6 @@
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "publishedAt": "2026-09-08T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: LLM Attention Visualization",
-      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "summary": "96 points, 18 comments",
-      "publishedAt": "2026-09-08T16:59:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -362,15 +470,6 @@
       "publishedAt": "2026-09-08T16:00:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "C*: Unifying Programming and Verification in C",
-      "link": "https://arxiv.org/abs/2504.02246",
-      "summary": "64 points, 38 comments",
-      "publishedAt": "2026-09-08T15:56:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -392,9 +491,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "447 points, 107 comments",
+      "summary": "507 points, 117 comments",
       "publishedAt": "2026-09-08T14:55:45.000Z"
     },
     {
@@ -403,7 +502,7 @@
       "category": "general",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "193 points, 97 comments",
+      "summary": "222 points, 110 comments",
       "publishedAt": "2026-09-08T14:49:19.000Z"
     },
     {
@@ -421,7 +520,7 @@
       "category": "general",
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "link": "https://github.com/ayghri/i-have-adhd",
-      "summary": "255 points, 203 comments",
+      "summary": "340 points, 263 comments",
       "publishedAt": "2026-09-08T14:13:26.000Z"
     },
     {
@@ -475,17 +574,8 @@
       "category": "general",
       "title": "DaVinci Resolve 21.1",
       "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "325 points, 143 comments",
+      "summary": "366 points, 161 comments",
       "publishedAt": "2026-09-08T13:36:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "link": "https://copperhead.sh/",
-      "summary": "189 points, 76 comments",
-      "publishedAt": "2026-09-08T13:26:45.000Z"
     },
     {
       "source": "OpenAI",
@@ -565,7 +655,7 @@
       "category": "general",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "summary": "977 points, 432 comments",
+      "summary": "1362 points, 581 comments",
       "publishedAt": "2026-09-08T05:42:28.000Z"
     },
     {
@@ -650,15 +740,6 @@
       "publishedAt": "2026-09-07T18:02:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Helicopter with Radioactive Blades",
-      "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "summary": "136 points, 33 comments",
-      "publishedAt": "2026-09-07T17:44:33.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -668,15 +749,6 @@
       "publishedAt": "2026-09-07T16:24:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Reverse Engineering an ASIC",
-      "link": "https://kjartanvandriel.github.io/asic/",
-      "summary": "7 points, 0 comments",
-      "publishedAt": "2026-09-07T16:02:02.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -684,6 +756,24 @@
       "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
       "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
       "publishedAt": "2026-09-07T15:58:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+      "summary": "29 points, 19 comments",
+      "publishedAt": "2026-09-07T14:35:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "link": "https://news.ycombinator.com/item?id=49598009",
+      "summary": "20 points, 19 comments",
+      "publishedAt": "2026-09-07T13:09:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -722,15 +812,6 @@
       "publishedAt": "2026-09-06T23:57:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-      "link": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
-      "summary": "111 points, 9 comments",
-      "publishedAt": "2026-09-06T22:27:27.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -740,13 +821,13 @@
       "publishedAt": "2026-09-06T21:41:06.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "publishedAt": "2026-09-06T20:47:37.000Z"
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "summary": "36 points, 16 comments",
+      "publishedAt": "2026-09-06T21:24:23.000Z"
     },
     {
       "source": "Simon Willison",
@@ -839,6 +920,15 @@
       "publishedAt": "2026-09-05T23:27:48.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "An Accidental Blackboard",
+      "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "summary": "18 points, 5 comments",
+      "publishedAt": "2026-09-05T18:50:25.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -855,24 +945,6 @@
       "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
       "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
       "publishedAt": "2026-09-05T15:17:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "summary": "62 points, 26 comments",
-      "publishedAt": "2026-09-05T12:32:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "link": "https://uecker.codeberg.page/2026-09-05.html",
-      "summary": "44 points, 4 comments",
-      "publishedAt": "2026-09-05T12:09:29.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -911,51 +983,6 @@
       "publishedAt": "2026-09-04T23:59:05.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-      "publishedAt": "2026-09-04T22:49:17.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "publishedAt": "2026-09-04T22:17:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-      "publishedAt": "2026-09-04T20:22:41.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "publishedAt": "2026-09-04T19:46:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "publishedAt": "2026-09-04T19:01:02.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -990,15 +1017,6 @@
       "link": "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and…",
       "publishedAt": "2026-09-04T10:01:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tracing np.add, all the way down",
-      "link": "https://blog.veitheller.de/numpy.html",
-      "summary": "20 points, 1 comments",
-      "publishedAt": "2026-09-04T09:42:29.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1073,6 +1091,15 @@
       "publishedAt": "2026-09-03T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "summary": "19 points, 0 comments",
+      "publishedAt": "2026-09-03T07:29:40.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1109,24 +1136,6 @@
       "publishedAt": "2026-09-02T19:23:52.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-anthropic 0.28",
-      "link": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.28 Claude Fable 5.1 , reasoning traces are now displayed by default for models that support them, plus a new llm_anthropic.ClaudeRefusal exception for when Claude throws a refusal. Tags: llm , an…",
-      "publishedAt": "2026-09-02T17:59:32.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-gemini 0.34",
-      "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #…",
-      "publishedAt": "2026-09-02T16:39:38.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -1152,15 +1161,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "publishedAt": "2026-09-02T15:40:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the…",
-      "publishedAt": "2026-09-02T14:16:42.000Z"
     },
     {
       "source": "InfoQ AI/ML",
