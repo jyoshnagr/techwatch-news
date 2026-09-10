@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:25:13.891Z",
+  "updatedAt": "2026-09-10T14:07:05.044Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,180 @@
       "category": "ai"
     }
   ],
-  "itemCount": 151,
+  "itemCount": 152,
   "errors": [],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "How the iPhone Duo compares to other folding phones",
+      "link": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+      "summary": "The Apple iPhone Duo features a passport-style folding hinge. | Photo: Antonio G. Di Benedetto / The Verge Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footst…",
+      "publishedAt": "2026-09-10T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-n…",
+      "publishedAt": "2026-09-10T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "New standards for masculinity are stacked against men’s health",
+      "link": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. When…",
+      "publishedAt": "2026-09-10T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "link": "https://news.ycombinator.com/item?id=49643556",
+      "summary": "36 points, 10 comments",
+      "publishedAt": "2026-09-10T13:39:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "publishedAt": "2026-09-10T13:34:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+      "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+      "summary": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
+      "publishedAt": "2026-09-10T13:21:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "summary": "97 points, 42 comments",
+      "publishedAt": "2026-09-10T13:07:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Who People Talk to When They're Struggling",
+      "link": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
+      "summary": "18 points, 9 comments",
+      "publishedAt": "2026-09-10T13:00:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Snapchat takes aim at Partiful with new event-planning features",
+      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+      "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+      "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+      "summary": "The buzzy startup raised $600 million in its Series C round.",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Snapchat makes it easier to plan events and meetups",
+      "link": "https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups",
+      "summary": "Plan your next event with friends without ever leaving the app. | Image: Snap Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birth…",
+      "publishedAt": "2026-09-10T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+      "summary": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
+      "publishedAt": "2026-09-10T12:25:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "link": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "summary": "79 points, 11 comments",
+      "publishedAt": "2026-09-10T12:18:06.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+      "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "summary": "Tern has described its tech as \"Google Maps for the battlefield.\"",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+      "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+      "summary": "\"Artemis II is done.\"",
+      "publishedAt": "2026-09-10T11:30:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive…",
+      "publishedAt": "2026-09-10T11:00:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+      "link": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+      "summary": "99 points, 64 comments",
+      "publishedAt": "2026-09-10T10:36:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "link": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "summary": "269 points, 234 comments",
+      "publishedAt": "2026-09-10T10:13:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+      "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+      "summary": "The iPhone 18 Pro’s triple camera setup with a variable aperture in the main (bottom) camera. | Photo: Antonio G. Di Benedetto / The Verge Apple always makes a big show of the latest cameras in its phones, and the major…",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -72,6 +243,15 @@
       "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
       "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when…",
       "publishedAt": "2026-09-10T09:07:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": "191 points, 92 comments",
+      "publishedAt": "2026-09-10T09:04:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -95,19 +275,10 @@
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "title": "Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI",
       "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the…",
+      "summary": "Today, Volvo said it was canceling the entry-level electric EX40 in the US, while also giving its aging hybrid XC40 a new look. When it arrives at dealerships early next year, the new XC40 will have updated exterior styl…",
       "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I think I hate the internet",
-      "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-      "summary": "9 points, 3 comments",
-      "publishedAt": "2026-09-10T06:12:23.000Z"
     },
     {
       "source": "Hacker News",
@@ -115,26 +286,8 @@
       "category": "general",
       "title": "DeepSeek v4.1 Flash",
       "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "summary": "295 points, 122 comments",
+      "summary": "627 points, 338 comments",
       "publishedAt": "2026-09-10T06:11:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "All grown-ups were once children, but only few of them remember it",
-      "link": "https://mathstodon.xyz/@tao/117244102901892965",
-      "summary": "158 points, 108 comments",
-      "publishedAt": "2026-09-10T04:04:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "summary": "71 points, 13 comments",
-      "publishedAt": "2026-09-10T02:04:11.000Z"
     },
     {
       "source": "Hacker News",
@@ -142,7 +295,7 @@
       "category": "general",
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "link": "https://rivendell.dmitrybrant.com/relativity/",
-      "summary": "304 points, 135 comments",
+      "summary": "470 points, 196 comments",
       "publishedAt": "2026-09-10T01:58:00.000Z"
     },
     {
@@ -182,24 +335,6 @@
       "publishedAt": "2026-09-09T23:14:29.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-      "summary": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge September Apple events are always a swirl of information and new, exciting products,…",
-      "publishedAt": "2026-09-09T23:00:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The black iPhone Pro returns",
-      "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-      "summary": "Black is back. | Photo: Nilay Patel / The Verge Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a sh…",
-      "publishedAt": "2026-09-09T22:37:51.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -209,33 +344,6 @@
       "publishedAt": "2026-09-09T22:25:22.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The incomplete history of Duo devices",
-      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
-      "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and…",
-      "publishedAt": "2026-09-09T22:23:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Automattic CEO Matt Mullenweg placed on leave",
-      "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial o…",
-      "publishedAt": "2026-09-09T22:15:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "It’s the year of smartphone price hikes",
-      "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-      "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the…",
-      "publishedAt": "2026-09-09T21:52:43.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -243,15 +351,6 @@
       "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
       "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
       "publishedAt": "2026-09-09T21:43:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Suno releases its first AI music model made with record industry help",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data t…",
-      "publishedAt": "2026-09-09T21:42:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -266,7 +365,7 @@
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "publishedAt": "2026-09-09T20:55:02.000Z"
@@ -288,15 +387,6 @@
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co…",
       "publishedAt": "2026-09-09T20:24:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Factoring RSA 260",
-      "link": "https://cognition.com/blog/factoring-rsa-260",
-      "summary": "94 points, 11 comments",
-      "publishedAt": "2026-09-09T20:16:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -421,7 +511,7 @@
       "category": "general",
       "title": "iPhone Duo",
       "link": "https://www.apple.com/iphone-duo/",
-      "summary": "1195 points, 2109 comments",
+      "summary": "1288 points, 2243 comments",
       "publishedAt": "2026-09-09T18:15:43.000Z"
     },
     {
@@ -443,15 +533,6 @@
       "publishedAt": "2026-09-09T18:08:35.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-      "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-      "publishedAt": "2026-09-09T18:06:40.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -459,24 +540,6 @@
       "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an \"organizational second b…",
       "publishedAt": "2026-09-09T18:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
-      "publishedAt": "2026-09-09T17:58:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AirPods 5",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "449 points, 375 comments",
-      "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -488,39 +551,12 @@
       "publishedAt": "2026-09-09T17:38:53.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "publishedAt": "2026-09-09T17:36:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "summary": "358 points, 391 comments",
-      "publishedAt": "2026-09-09T17:33:20.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple launches iPhone 18 Pro with upgraded camera",
-      "link": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-      "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-      "publishedAt": "2026-09-09T17:26:05.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Growing proof that autonomous cars save lives",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "summary": "337 points, 598 comments",
+      "summary": "392 points, 684 comments",
       "publishedAt": "2026-09-09T17:14:59.000Z"
     },
     {
@@ -551,15 +587,6 @@
       "publishedAt": "2026-09-09T16:59:40.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "summary": "The investigation also comes as the DOJ has faced criticism over how it handles major mergers, including questions about political influence.",
-      "publishedAt": "2026-09-09T16:44:21.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -576,15 +603,6 @@
       "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
       "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
       "publishedAt": "2026-09-09T16:34:18.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more c…",
-      "publishedAt": "2026-09-09T16:05:35.000Z"
     },
     {
       "source": "Google AI",
@@ -608,19 +626,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "No Man's Sky Cosmos",
-      "link": "https://www.nomanssky.com/cosmos-update/",
-      "summary": "382 points, 393 comments",
-      "publishedAt": "2026-09-09T15:47:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "summary": "421 points, 140 comments",
-      "publishedAt": "2026-09-09T14:37:47.000Z"
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "link": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "summary": "108 points, 78 comments",
+      "publishedAt": "2026-09-09T14:54:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -637,8 +646,17 @@
       "category": "general",
       "title": "Shopify acquires Tailwind",
       "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "summary": "1025 points, 393 comments",
+      "summary": "1091 points, 419 comments",
       "publishedAt": "2026-09-09T13:27:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Liesegang Rings",
+      "link": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
+      "summary": "13 points, 1 comments",
+      "publishedAt": "2026-09-09T13:20:36.000Z"
     },
     {
       "source": "OpenAI",
@@ -648,15 +666,6 @@
       "link": "https://openai.com/index/ai-policy-window",
       "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "publishedAt": "2026-09-09T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "summary": "444 points, 96 comments",
-      "publishedAt": "2026-09-09T11:39:46.000Z"
     },
     {
       "source": "Ars Technica",
@@ -689,18 +698,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Compute polynomials twice as fast",
-      "link": "https://thomasahle.com/fast-polynomials/",
-      "summary": "84 points, 28 comments",
-      "publishedAt": "2026-09-09T08:53:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Larger Pacific Striped Octopus",
       "link": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-      "summary": "55 points, 27 comments",
+      "summary": "100 points, 48 comments",
       "publishedAt": "2026-09-09T04:32:22.000Z"
     },
     {
@@ -720,6 +720,15 @@
       "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
       "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize…",
       "publishedAt": "2026-09-08T23:55:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Object storage is all you need",
+      "link": "https://www.tigrisdata.com/blog/object-storage-all-need/",
+      "summary": "42 points, 25 comments",
+      "publishedAt": "2026-09-08T23:11:30.000Z"
     },
     {
       "source": "Simon Willison",
@@ -758,21 +767,12 @@
       "publishedAt": "2026-09-08T21:11:46.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The universal language of space is... Star Trek? Mais oui.",
-      "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-      "summary": "\"Science fiction imagines the future. We build it.\"",
-      "publishedAt": "2026-09-08T20:20:20.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "link": "https://tautology.town/2026/06/01/card-networks.html",
-      "summary": "519 points, 299 comments",
+      "summary": "596 points, 362 comments",
       "publishedAt": "2026-09-08T18:11:05.000Z"
     },
     {
@@ -783,6 +783,15 @@
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "publishedAt": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+      "link": "https://devz.cl/posts/how-to-write/",
+      "summary": "14 points, 1 comments",
+      "publishedAt": "2026-09-08T14:25:04.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -916,7 +925,7 @@
       "category": "general",
       "title": "Stockfish 19",
       "link": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "summary": "6 points, 0 comments",
+      "summary": "141 points, 100 comments",
       "publishedAt": "2026-09-07T16:17:27.000Z"
     },
     {
@@ -927,15 +936,6 @@
       "link": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks. Learn how Columbia and Arklex AI use synthetic user personas, trajectory entropy…",
       "publishedAt": "2026-09-07T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "summary": "14 points, 2 comments",
-      "publishedAt": "2026-09-07T04:27:29.000Z"
     },
     {
       "source": "OpenAI",
@@ -1035,6 +1035,15 @@
       "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
       "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.or…",
       "publishedAt": "2026-09-05T15:51:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Art – draw one stroke, let symmetry complete it",
+      "link": "https://mrdee.in/mandala/",
+      "summary": "34 points, 17 comments",
+      "publishedAt": "2026-09-05T15:35:13.000Z"
     },
     {
       "source": "InfoQ AI/ML",
