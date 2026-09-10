@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:19:27.835Z",
+  "updatedAt": "2026-09-10T03:31:17.972Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,16 +52,115 @@
       "category": "ai"
     }
   ],
-  "itemCount": 152,
+  "itemCount": 151,
   "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "4 points, 1 comments",
+      "publishedAt": "2026-09-10T02:04:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "summary": "8 points, 1 comments",
+      "publishedAt": "2026-09-10T01:59:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "link": "https://rivendell.dmitrybrant.com/relativity/",
+      "summary": "35 points, 22 comments",
+      "publishedAt": "2026-09-10T01:58:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Calif Research",
+      "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if th…",
+      "publishedAt": "2026-09-10T00:56:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "publishedAt": "2026-09-10T00:00:37.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": ".blend URL Viewer",
+      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that ce…",
+      "publishedAt": "2026-09-09T23:58:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "publishedAt": "2026-09-09T23:14:29.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Automattic CEO Matt Mullenweg reportedly placed on leave",
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "summary": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge September Apple events are always a swirl of information and new, exciting products,…",
+      "publishedAt": "2026-09-09T23:00:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The black iPhone Pro returns",
+      "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+      "summary": "Black is back. | Photo: Nilay Patel / The Verge Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a sh…",
+      "publishedAt": "2026-09-09T22:37:51.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "publishedAt": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The incomplete history of Duo devices",
+      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+      "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and…",
+      "publishedAt": "2026-09-09T22:23:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Automattic CEO Matt Mullenweg placed on leave",
       "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, according to a report from 404 Media. In an internal announcement viewed by the outlet, Mullenweg claims Automattic c…",
+      "summary": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial o…",
       "publishedAt": "2026-09-09T22:15:52.000Z"
     },
     {
@@ -92,15 +191,6 @@
       "publishedAt": "2026-09-09T21:42:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
-      "link": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-      "summary": "78 points, 38 comments",
-      "publishedAt": "2026-09-09T21:28:56.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -119,6 +209,15 @@
       "publishedAt": "2026-09-09T20:58:09.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "publishedAt": "2026-09-09T20:55:02.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -133,8 +232,17 @@
       "category": "general",
       "title": "How the new Apple Watches compare to the last-gen models",
       "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-      "summary": "The new Apple Watches come in a variety of material and strap combinations. Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at the \"Surprise and shine\" event. The new watches feature sizable improvemen…",
+      "summary": "The new Apple Watches come in a variety of material and strap combinations. Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvemen…",
       "publishedAt": "2026-09-09T20:42:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+      "publishedAt": "2026-09-09T20:27:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -144,6 +252,15 @@
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co…",
       "publishedAt": "2026-09-09T20:24:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Factoring RSA 260",
+      "link": "https://cognition.com/blog/factoring-rsa-260",
+      "summary": "50 points, 6 comments",
+      "publishedAt": "2026-09-09T20:16:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -200,24 +317,6 @@
       "publishedAt": "2026-09-09T19:31:55.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the devi…",
-      "publishedAt": "2026-09-09T19:30:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
-      "link": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
-      "summary": "The 18 Pro in burgundy is ready for fall. We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the pre…",
-      "publishedAt": "2026-09-09T19:26:36.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -252,15 +351,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
       "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
       "publishedAt": "2026-09-09T18:58:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-      "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-      "summary": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today…",
-      "publishedAt": "2026-09-09T18:53:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -304,7 +394,7 @@
       "category": "general",
       "title": "iPhone Duo",
       "link": "https://www.apple.com/iphone-duo/",
-      "summary": "689 points, 1410 comments",
+      "summary": "978 points, 1768 comments",
       "publishedAt": "2026-09-09T18:15:43.000Z"
     },
     {
@@ -320,7 +410,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "publishedAt": "2026-09-09T18:08:35.000Z"
@@ -358,7 +448,7 @@
       "category": "general",
       "title": "Apple Watch Series 12",
       "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "173 points, 182 comments",
+      "summary": "230 points, 274 comments",
       "publishedAt": "2026-09-09T17:56:17.000Z"
     },
     {
@@ -367,7 +457,7 @@
       "category": "general",
       "title": "AirPods 5",
       "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "318 points, 249 comments",
+      "summary": "398 points, 318 comments",
       "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
@@ -394,7 +484,7 @@
       "category": "general",
       "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "summary": "215 points, 204 comments",
+      "summary": "301 points, 328 comments",
       "publishedAt": "2026-09-09T17:33:20.000Z"
     },
     {
@@ -412,7 +502,7 @@
       "category": "general",
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "summary": "135 points, 58 comments",
+      "summary": "186 points, 75 comments",
       "publishedAt": "2026-09-09T17:24:28.000Z"
     },
     {
@@ -421,17 +511,8 @@
       "category": "general",
       "title": "Growing proof that autonomous cars save lives",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "summary": "124 points, 222 comments",
+      "summary": "254 points, 451 comments",
       "publishedAt": "2026-09-09T17:14:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "link": "https://arxiv.org/abs/2609.09153",
-      "summary": "37 points, 10 comments",
-      "publishedAt": "2026-09-09T17:13:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -518,18 +599,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "summary": "131 points, 43 comments",
-      "publishedAt": "2026-09-09T15:55:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "GNU Radio in the browser",
       "link": "https://gnuradioworld.com/",
-      "summary": "151 points, 20 comments",
+      "summary": "181 points, 23 comments",
       "publishedAt": "2026-09-09T15:53:06.000Z"
     },
     {
@@ -538,44 +610,8 @@
       "category": "general",
       "title": "No Man's Sky Cosmos",
       "link": "https://www.nomanssky.com/cosmos-update/",
-      "summary": "240 points, 243 comments",
+      "summary": "317 points, 335 comments",
       "publishedAt": "2026-09-09T15:47:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Planet Labs' open satellite feed",
-      "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "summary": "124 points, 24 comments",
-      "publishedAt": "2026-09-09T15:44:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "publishedAt": "2026-09-09T15:13:12.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-      "summary": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-      "publishedAt": "2026-09-09T15:10:41.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "publishedAt": "2026-09-09T15:02:47.000Z"
     },
     {
       "source": "Hacker News",
@@ -583,7 +619,7 @@
       "category": "general",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "summary": "298 points, 108 comments",
+      "summary": "364 points, 128 comments",
       "publishedAt": "2026-09-09T14:37:47.000Z"
     },
     {
@@ -601,17 +637,17 @@
       "category": "general",
       "title": "Shopify acquires Tailwind",
       "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "summary": "803 points, 326 comments",
+      "summary": "923 points, 368 comments",
       "publishedAt": "2026-09-09T13:27:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How I advertise malicious software on Google Ads",
-      "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "summary": "329 points, 199 comments",
-      "publishedAt": "2026-09-09T11:43:21.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -619,7 +655,7 @@
       "category": "general",
       "title": "Desert Ant Labs: local, fast models that run on device",
       "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "summary": "358 points, 87 comments",
+      "summary": "410 points, 93 comments",
       "publishedAt": "2026-09-09T11:39:46.000Z"
     },
     {
@@ -648,6 +684,15 @@
       "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
       "publishedAt": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Compute polynomials twice as fast",
+      "link": "https://thomasahle.com/fast-polynomials/",
+      "summary": "28 points, 8 comments",
+      "publishedAt": "2026-09-09T08:53:58.000Z"
     },
     {
       "source": "Simon Willison",
@@ -713,22 +758,13 @@
       "publishedAt": "2026-09-08T20:20:20.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "NIH to use part of its budget to pay for Department of Defense research",
-      "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
-      "publishedAt": "2026-09-08T20:06:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-      "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
-      "publishedAt": "2026-09-08T19:50:00.000Z"
+      "title": "Rivian's gambit for full autonomy",
+      "link": "https://spectrum.ieee.org/rivian-self-driving",
+      "summary": "46 points, 65 comments",
+      "publishedAt": "2026-09-08T19:09:50.000Z"
     },
     {
       "source": "Hacker News",
@@ -736,7 +772,7 @@
       "category": "general",
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "link": "https://tautology.town/2026/06/01/card-networks.html",
-      "summary": "264 points, 165 comments",
+      "summary": "415 points, 238 comments",
       "publishedAt": "2026-09-08T18:11:05.000Z"
     },
     {
@@ -747,6 +783,15 @@
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "publishedAt": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Be Using Rootless Containers",
+      "link": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "summary": "10 points, 1 comments",
+      "publishedAt": "2026-09-08T15:36:11.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -857,15 +902,6 @@
       "publishedAt": "2026-09-07T22:26:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Use Vsock with Libzmq",
-      "link": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
-      "summary": "4 points, 1 comments",
-      "publishedAt": "2026-09-07T20:24:53.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -956,15 +992,6 @@
       "publishedAt": "2026-09-06T08:42:49.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bespoke: A programming language for people who say please",
-      "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-      "summary": "101 points, 25 comments",
-      "publishedAt": "2026-09-06T08:13:53.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1017,15 +1044,6 @@
       "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individu…",
       "publishedAt": "2026-09-05T10:40:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "summary": "22 points, 12 comments",
-      "publishedAt": "2026-09-05T06:24:26.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1130,18 +1148,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "publishedAt": "2026-09-03T12:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "publishedAt": "2026-09-03T12:00:00.000Z"
     },
     {
@@ -1170,24 +1188,6 @@
       "link": "https://openai.com/index/safety-overview-gpt-6-astra",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-openrouter 0.7.1",
-      "link": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
-      "summary": "Release: llm-openrouter 0.7.1 Performance fix for loading OpenRouter models. Thanks, waveplate . #59 Tags: llm , openrouter",
-      "publishedAt": "2026-09-02T20:23:26.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm 0.34",
-      "link": "https://simonwillison.net/2026/Sep/2/llm/",
-      "summary": "Release: llm 0.34 One new feature: llm logs --usage Markdown output now includes the response duration in milliseconds and as a human-readable duration. llm logs --short includes a new duration_ms field. #1653 Plus sever…",
-      "publishedAt": "2026-09-02T19:23:52.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -1260,15 +1260,6 @@
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
       "publishedAt": "2026-09-01T16:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "publishedAt": "2026-09-01T13:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
