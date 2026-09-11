@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:23:40.119Z",
+  "updatedAt": "2026-09-11T14:06:24.018Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,16 +52,196 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
+  "itemCount": 152,
   "errors": [],
   "items": [
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Don't sleep on wrapture",
+      "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
+      "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it al…",
+      "publishedAt": "2026-09-11T13:51:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+      "link": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+      "summary": "6 points, 2 comments",
+      "publishedAt": "2026-09-11T13:43:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-09-11T13:42:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-11T13:41:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "summary": "57 points, 20 comments",
+      "publishedAt": "2026-09-11T13:41:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Neuro Engine – MCP server cutting AI coding token waste by up to 96%",
+      "link": "https://neuro-engine.netlify.app",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-09-11T13:37:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Diesel prices in U.S. top $6 a gallon for first time",
+      "link": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
+      "summary": "37 points, 18 comments",
+      "publishedAt": "2026-09-11T13:35:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "publishedAt": "2026-09-11T13:32:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "publishedAt": "2026-09-11T13:02:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Arizona’s lifeline for chip manufacturing is drying up",
+      "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "summary": "Water intake towers at the Hoover Dam stand next to a bleached \"bathtub ring\" on the banks of Lake Mead on September 1st in Lake Mead National Recreation Area, Arizona. The reservoir has hit historic lows as the Colorado…",
+      "publishedAt": "2026-09-11T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "publishedAt": "2026-09-11T11:30:58.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "What happens when quantum mechanics and relativity meet?",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
+      "publishedAt": "2026-09-11T11:20:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "199 points, 145 comments",
+      "publishedAt": "2026-09-11T11:17:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "summary": "69 points, 37 comments",
+      "publishedAt": "2026-09-11T11:15:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+      "summary": "I saw the Luna Pro briefly at the IFA trade show, and it looks and feels a lot like the Ultra. | Photo: Dominic Preston / The Verge Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating D…",
+      "publishedAt": "2026-09-11T11:07:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "publishedAt": "2026-09-11T11:00:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
+      "publishedAt": "2026-09-11T11:00:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude is no longer available for minors",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "218 points, 292 comments",
+      "publishedAt": "2026-09-11T10:48:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple addresses iPhone Duo copycats",
+      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "summary": "John Ternus, Apple CEO, holds an iPhone Duo at the launch event. | Bloomberg via Getty Images Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't co…",
+      "publishedAt": "2026-09-11T10:02:58.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "How LinkedIn Trains AI Job Search 8x Faster with Multi-Teacher Distillation",
+      "link": "https://www.infoq.com/news/2026/09/linkedin-ai-multi-teacher/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "LinkedIn has published details of the training infrastructure behind its AI-powered job search, describing a multi-teacher distillation pipeline that compresses knowledge from large teacher models into a compact 0.6B-par…",
+      "publishedAt": "2026-09-11T10:00:00.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Cherenkov Radiation - traveling faster than light",
       "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-      "summary": "18 points, 2 comments",
+      "summary": "139 points, 73 comments",
       "publishedAt": "2026-09-11T08:42:04.000Z"
     },
     {
@@ -77,28 +257,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "summary": "9 points, 5 comments",
-      "publishedAt": "2026-09-11T05:45:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-      "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-      "summary": "37 points, 19 comments",
-      "publishedAt": "2026-09-11T05:26:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Gemini app is now available for Windows",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "summary": "46 points, 33 comments",
-      "publishedAt": "2026-09-11T04:52:20.000Z"
+      "title": "CSS Curiosities of the Past",
+      "link": "https://vale.rocks/posts/css-relics",
+      "summary": "39 points, 22 comments",
+      "publishedAt": "2026-09-11T07:57:17.000Z"
     },
     {
       "source": "Simon Willison",
@@ -110,15 +272,6 @@
       "publishedAt": "2026-09-11T03:27:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "summary": "196 points, 72 comments",
-      "publishedAt": "2026-09-11T01:00:56.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -126,24 +279,6 @@
       "link": "https://simonwillison.net/2026/Sep/10/trynix/",
       "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser thro…",
       "publishedAt": "2026-09-10T23:44:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "link": "https://system76.com/workstations/thelio-mira-ai",
-      "summary": "103 points, 80 comments",
-      "publishedAt": "2026-09-10T23:10:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nine coding harnesses vs. your laptop",
-      "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-      "summary": "94 points, 22 comments",
-      "publishedAt": "2026-09-10T22:54:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -180,15 +315,6 @@
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "publishedAt": "2026-09-10T21:35:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "summary": "102 points, 174 comments",
-      "publishedAt": "2026-09-10T21:30:55.000Z"
     },
     {
       "source": "The Verge",
@@ -268,17 +394,8 @@
       "category": "general",
       "title": "OpenAI Agents API",
       "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "summary": "257 points, 144 comments",
+      "summary": "299 points, 160 comments",
       "publishedAt": "2026-09-10T19:43:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "link": "https://auberon.xyz/blog/posts/deathray/",
-      "summary": "184 points, 110 comments",
-      "publishedAt": "2026-09-10T19:34:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -371,15 +488,6 @@
       "publishedAt": "2026-09-10T17:30:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Music Theory for the 21st-Century Classroom",
-      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "summary": "222 points, 92 comments",
-      "publishedAt": "2026-09-10T17:14:12.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -443,24 +551,6 @@
       "publishedAt": "2026-09-10T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Forgejo <=16.0.3 Critical RCE",
-      "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "summary": "184 points, 67 comments",
-      "publishedAt": "2026-09-10T15:57:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Neki – Sharded Postgres",
-      "link": "https://planetscale.com/blog/introducing-neki",
-      "summary": "242 points, 131 comments",
-      "publishedAt": "2026-09-10T15:43:49.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -473,27 +563,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "link": "https://cognition.com/blog/swe-2",
-      "summary": "410 points, 172 comments",
-      "publishedAt": "2026-09-10T15:29:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "summary": "333 points, 54 comments",
-      "publishedAt": "2026-09-10T15:29:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Don't let anyone take away your big box of cables",
       "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "summary": "518 points, 334 comments",
+      "summary": "646 points, 399 comments",
       "publishedAt": "2026-09-10T15:27:22.000Z"
     },
     {
@@ -533,15 +605,6 @@
       "publishedAt": "2026-09-10T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can…",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -551,15 +614,6 @@
       "publishedAt": "2026-09-10T14:53:50.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-      "link": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
-      "summary": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live. In Wednes…",
-      "publishedAt": "2026-09-10T14:34:36.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -567,15 +621,6 @@
       "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
       "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
       "publishedAt": "2026-09-10T14:34:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
-      "link": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
-      "summary": "With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with a level of software po…",
-      "publishedAt": "2026-09-10T14:21:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -592,7 +637,7 @@
       "category": "general",
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "link": "https://shopify.engineering/back-to-native",
-      "summary": "1052 points, 726 comments",
+      "summary": "1157 points, 842 comments",
       "publishedAt": "2026-09-10T14:09:31.000Z"
     },
     {
@@ -612,15 +657,6 @@
       "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
       "summary": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
       "publishedAt": "2026-09-10T13:21:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Snapchat takes aim at Partiful with new event-planning features",
-      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-      "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-      "publishedAt": "2026-09-10T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -657,15 +693,6 @@
       "link": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "summary": "804 points, 739 comments",
-      "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
       "source": "Simon Willison",
@@ -758,33 +785,6 @@
       "publishedAt": "2026-09-09T19:09:20.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-      "publishedAt": "2026-09-09T18:58:24.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-      "summary": "New Apple Intelligence features, too.",
-      "publishedAt": "2026-09-09T18:47:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The quick guide to fall vaccines and when you should get them",
-      "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-      "summary": "Here are the evidence-based recommendations and this year's vaccine rollout.",
-      "publishedAt": "2026-09-09T18:39:36.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -792,24 +792,6 @@
       "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an \"organizational second b…",
       "publishedAt": "2026-09-09T18:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-      "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-      "summary": "There's also a new thermal management system, reducing overheating.",
-      "publishedAt": "2026-09-09T17:38:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
-      "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
-      "summary": "UN-backed Equal Earth map has educational value but won’t alter navigation apps.",
-      "publishedAt": "2026-09-09T17:11:46.000Z"
     },
     {
       "source": "OpenAI",
@@ -866,6 +848,24 @@
       "publishedAt": "2026-09-09T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Logo Programming Language",
+      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-09-09T07:07:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "So you want to use OpenRouter?",
+      "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "summary": "332 points, 82 comments",
+      "publishedAt": "2026-09-09T05:37:21.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -893,15 +893,6 @@
       "publishedAt": "2026-09-08T22:46:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Stop making swap partitions–use swap files instead",
-      "link": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-      "summary": "32 points, 21 comments",
-      "publishedAt": "2026-09-08T22:33:21.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -909,6 +900,15 @@
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "publishedAt": "2026-09-08T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "iPod Classic 6G in QEMU",
+      "link": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+      "summary": "73 points, 10 comments",
+      "publishedAt": "2026-09-08T14:54:57.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -936,6 +936,15 @@
       "link": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "publishedAt": "2026-09-08T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Experiment – Projectional Viewer",
+      "link": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-09-08T12:03:33.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -979,7 +988,7 @@
       "category": "general",
       "title": "Working with Git Worktrees in Magit",
       "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "summary": "44 points, 11 comments",
+      "summary": "78 points, 32 comments",
       "publishedAt": "2026-09-08T06:31:59.000Z"
     },
     {
@@ -1026,6 +1035,15 @@
       "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
       "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secur…",
       "publishedAt": "2026-09-07T22:26:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RISC-V Emulator and Linux System from Scratch",
+      "link": "https://github.com/WerWolv/riscv-emulator",
+      "summary": "18 points, 2 comments",
+      "publishedAt": "2026-09-07T21:57:15.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1181,30 +1199,12 @@
       "publishedAt": "2026-09-05T05:05:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I render…",
-      "publishedAt": "2026-09-04T23:59:05.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
       "title": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era",
       "link": "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for teams. Together, these stories reveal a core theme: the techno…",
-      "publishedAt": "2026-09-04T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
-      "link": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning,…",
       "publishedAt": "2026-09-04T11:00:00.000Z"
     },
     {
@@ -1323,15 +1323,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
       "publishedAt": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "publishedAt": "2026-08-21T11:59:48.000Z"
     },
     {
       "source": "Anthropic",
