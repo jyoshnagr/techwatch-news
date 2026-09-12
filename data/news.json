@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T13:23:20.970Z",
+  "updatedAt": "2026-09-12T17:42:13.238Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -65,6 +65,132 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Will There Be a 7G?",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "summary": "16 points, 14 comments",
+      "publishedAt": "2026-09-12T17:05:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+      "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with th…",
+      "publishedAt": "2026-09-12T16:35:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "39 points, 14 comments",
+      "publishedAt": "2026-09-12T16:25:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a w…",
+      "publishedAt": "2026-09-12T16:23:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "publishedAt": "2026-09-12T15:52:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "27 points, 5 comments",
+      "publishedAt": "2026-09-12T15:49:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "LG responds to TV spying allegations",
+      "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against t…",
+      "publishedAt": "2026-09-12T15:19:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "157 points, 135 comments",
+      "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Trump is giving data centers a pass to pollute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefi…",
+      "publishedAt": "2026-09-12T14:41:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "publishedAt": "2026-09-12T14:40:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I refuse to let SPICE die",
+      "link": "https://github.com/nefarius/vd_agent/",
+      "summary": "33 points, 23 comments",
+      "publishedAt": "2026-09-12T14:25:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "summary": "59 points, 27 comments",
+      "publishedAt": "2026-09-12T14:17:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "link": "https://transformer-circuits.pub/2021/framework/index.html",
+      "summary": "49 points, 5 comments",
+      "publishedAt": "2026-09-12T13:56:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Few Good Ideas in Programming Languages",
+      "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "summary": "19 points, 0 comments",
+      "publishedAt": "2026-09-12T13:07:52.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -72,15 +198,6 @@
       "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
       "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most an…",
       "publishedAt": "2026-09-12T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
-      "link": "https://liniora.com",
-      "summary": "6 points, 4 comments",
-      "publishedAt": "2026-09-12T12:15:12.000Z"
     },
     {
       "source": "The Verge",
@@ -97,26 +214,8 @@
       "category": "general",
       "title": "Fuck it, make it anyway",
       "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "summary": "140 points, 95 comments",
+      "summary": "448 points, 422 comments",
       "publishedAt": "2026-09-12T11:42:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-      "link": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-      "summary": "21 points, 0 comments",
-      "publishedAt": "2026-09-12T11:37:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "summary": "34 points, 13 comments",
-      "publishedAt": "2026-09-12T11:13:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -151,35 +250,8 @@
       "category": "general",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "138 points, 18 comments",
+      "summary": "189 points, 22 comments",
       "publishedAt": "2026-09-12T07:54:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Usenet rewind archive search engine",
-      "link": "https://www.usenet-rewind.com/",
-      "summary": "84 points, 27 comments",
-      "publishedAt": "2026-09-12T04:19:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Navier-Stokes Announcement",
-      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "summary": "214 points, 142 comments",
-      "publishedAt": "2026-09-12T04:09:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "google.com/goto: Google's anti-scraping update",
-      "link": "https://www.autom.dev/blog/google-search-goto-links",
-      "summary": "491 points, 391 comments",
-      "publishedAt": "2026-09-12T03:14:20.000Z"
     },
     {
       "source": "Simon Willison",
@@ -225,15 +297,6 @@
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "publishedAt": "2026-09-11T21:41:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Forgotten Woodlands",
-      "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-09-11T21:21:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -358,7 +421,7 @@
       "category": "general",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "609 points, 336 comments",
+      "summary": "707 points, 381 comments",
       "publishedAt": "2026-09-11T18:24:55.000Z"
     },
     {
@@ -385,7 +448,7 @@
       "category": "general",
       "title": "A misalignment of AI in mathematics",
       "link": "https://mathandai.org/",
-      "summary": "1031 points, 985 comments",
+      "summary": "1137 points, 1071 comments",
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -425,15 +488,6 @@
       "publishedAt": "2026-09-11T16:22:24.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is…",
-      "publishedAt": "2026-09-11T16:21:19.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -441,15 +495,6 @@
       "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
       "summary": "NASA asks US states to show them the money.",
       "publishedAt": "2026-09-11T16:20:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents dis…",
-      "publishedAt": "2026-09-11T16:09:14.000Z"
     },
     {
       "source": "Simon Willison",
@@ -461,15 +506,6 @@
       "publishedAt": "2026-09-11T16:04:53.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Microsoft’s head of comms is leaving after almost 20 years",
-      "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
-      "summary": "Frank Shaw in 2025. | Image: Microsoft Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new thi…",
-      "publishedAt": "2026-09-11T16:01:34.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -477,15 +513,6 @@
       "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "publishedAt": "2026-09-11T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
-      "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-      "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonO…",
-      "publishedAt": "2026-09-11T15:38:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -513,15 +540,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
       "summary": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release ma…",
       "publishedAt": "2026-09-11T14:47:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
-      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "summary": "12 points, 9 comments",
-      "publishedAt": "2026-09-11T14:07:08.000Z"
     },
     {
       "source": "Simon Willison",
@@ -612,6 +630,15 @@
       "link": "https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Session traces and cost controls are emerging as key observability techniques for diagnosing AI agent failures, helping teams spot tool-call loops and runaway spend while preserving enough execution context for post-inci…",
       "publishedAt": "2026-09-11T08:14:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+      "link": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+      "summary": "7 points, 2 comments",
+      "publishedAt": "2026-09-11T04:19:40.000Z"
     },
     {
       "source": "Simon Willison",
@@ -749,24 +776,6 @@
       "publishedAt": "2026-09-10T20:48:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Bodily Oddities",
-      "link": "https://vester.si/bodily-oddities/",
-      "summary": "283 points, 179 comments",
-      "publishedAt": "2026-09-10T20:33:11.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "publishedAt": "2026-09-10T19:50:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -783,15 +792,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
       "summary": "App support is slim right now, but Google says more are coming.",
       "publishedAt": "2026-09-10T18:41:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reacto…",
-      "publishedAt": "2026-09-10T18:38:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -839,6 +839,15 @@
       "publishedAt": "2026-09-10T16:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "summary": "6 points, 85 comments",
+      "publishedAt": "2026-09-10T15:31:37.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -853,17 +862,8 @@
       "category": "general",
       "title": "LRU is harder to beat than the KV-cache papers suggest",
       "link": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "summary": "5 points, 1 comments",
+      "summary": "68 points, 29 comments",
       "publishedAt": "2026-09-10T13:39:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Finding Slow Code with Wrapture",
-      "link": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-09-10T09:12:22.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -880,7 +880,7 @@
       "category": "general",
       "title": "IKEA made a mod for Skyrim [video]",
       "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "summary": "300 points, 63 comments",
+      "summary": "446 points, 112 comments",
       "publishedAt": "2026-09-10T07:20:50.000Z"
     },
     {
@@ -900,6 +900,15 @@
       "link": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "publishedAt": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How we manage and engage with our horses shapes their personality",
+      "link": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+      "summary": "12 points, 1 comments",
+      "publishedAt": "2026-09-10T01:57:32.000Z"
     },
     {
       "source": "Simon Willison",
@@ -979,7 +988,7 @@
       "category": "general",
       "title": "A Design Space Exploration of Async/Await",
       "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "338 points, 88 comments",
+      "summary": "388 points, 113 comments",
       "publishedAt": "2026-09-09T13:59:50.000Z"
     },
     {
@@ -997,7 +1006,7 @@
       "category": "general",
       "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
       "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "summary": "90 points, 20 comments",
+      "summary": "122 points, 35 comments",
       "publishedAt": "2026-09-09T11:01:10.000Z"
     },
     {
@@ -1022,10 +1031,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Logo Programming",
-      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "summary": "291 points, 119 comments",
-      "publishedAt": "2026-09-09T07:07:26.000Z"
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "link": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "summary": "49 points, 10 comments",
+      "publishedAt": "2026-09-09T10:00:59.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1161,15 +1170,6 @@
       "link": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks. Learn how Columbia and Arklex AI use synthetic user personas, trajectory entropy…",
       "publishedAt": "2026-09-07T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Inverse Kinematics and Foot Locking",
-      "link": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-      "summary": "78 points, 9 comments",
-      "publishedAt": "2026-09-07T08:21:41.000Z"
     },
     {
       "source": "OpenAI",
