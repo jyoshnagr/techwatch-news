@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:42:13.238Z",
+  "updatedAt": "2026-09-12T21:58:07.407Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -65,12 +65,111 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. N…",
+      "publishedAt": "2026-09-12T21:41:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking inciden…",
+      "publishedAt": "2026-09-12T21:16:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "31 points, 16 comments",
+      "publishedAt": "2026-09-12T20:25:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "publishedAt": "2026-09-12T20:19:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it…",
+      "publishedAt": "2026-09-12T20:08:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "summary": "17 points, 21 comments",
+      "publishedAt": "2026-09-12T19:57:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LG Says We're Fake News [video]",
+      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "summary": "41 points, 5 comments",
+      "publishedAt": "2026-09-12T19:35:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "publishedAt": "2026-09-12T19:34:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "summary": "Tesla’s halo sports car was first announced in November 2017.",
+      "publishedAt": "2026-09-12T19:21:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "summary": "70 points, 18 comments",
+      "publishedAt": "2026-09-12T18:58:57.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Paul Ford",
+      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still…",
+      "publishedAt": "2026-09-12T18:00:21.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Will There Be a 7G?",
       "link": "https://arxiv.org/abs/2609.01877",
-      "summary": "16 points, 14 comments",
+      "summary": "63 points, 107 comments",
       "publishedAt": "2026-09-12T17:05:31.000Z"
     },
     {
@@ -86,9 +185,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "title": "Make your first edit to OpenStreetMap",
       "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "39 points, 14 comments",
+      "summary": "221 points, 62 comments",
       "publishedAt": "2026-09-12T16:25:08.000Z"
     },
     {
@@ -101,21 +200,12 @@
       "publishedAt": "2026-09-12T16:23:40.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "publishedAt": "2026-09-12T15:52:11.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "summary": "27 points, 5 comments",
+      "summary": "69 points, 21 comments",
       "publishedAt": "2026-09-12T15:49:52.000Z"
     },
     {
@@ -133,8 +223,17 @@
       "category": "general",
       "title": "Nvidia is the central bank of AI",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "157 points, 135 comments",
+      "summary": "307 points, 209 comments",
       "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "link": "https://lalitm.com/post/buildprof/",
+      "summary": "63 points, 13 comments",
+      "publishedAt": "2026-09-12T14:45:28.000Z"
     },
     {
       "source": "The Verge",
@@ -158,19 +257,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "I refuse to let SPICE die",
-      "link": "https://github.com/nefarius/vd_agent/",
-      "summary": "33 points, 23 comments",
-      "publishedAt": "2026-09-12T14:25:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-      "summary": "59 points, 27 comments",
-      "publishedAt": "2026-09-12T14:17:28.000Z"
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "444 points, 609 comments",
+      "publishedAt": "2026-09-12T14:10:49.000Z"
     },
     {
       "source": "Hacker News",
@@ -178,17 +268,8 @@
       "category": "general",
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
       "link": "https://transformer-circuits.pub/2021/framework/index.html",
-      "summary": "49 points, 5 comments",
+      "summary": "69 points, 16 comments",
       "publishedAt": "2026-09-12T13:56:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Few Good Ideas in Programming Languages",
-      "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-      "summary": "19 points, 0 comments",
-      "publishedAt": "2026-09-12T13:07:52.000Z"
     },
     {
       "source": "The Verge",
@@ -212,10 +293,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Fuck it, make it anyway",
-      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "summary": "448 points, 422 comments",
-      "publishedAt": "2026-09-12T11:42:32.000Z"
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "summary": "38 points, 14 comments",
+      "publishedAt": "2026-09-12T11:27:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -250,7 +331,7 @@
       "category": "general",
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
       "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "189 points, 22 comments",
+      "summary": "207 points, 29 comments",
       "publishedAt": "2026-09-12T07:54:03.000Z"
     },
     {
@@ -308,6 +389,15 @@
       "publishedAt": "2026-09-11T21:19:05.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "158 points, 42 comments",
+      "publishedAt": "2026-09-11T21:16:48.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -333,15 +423,6 @@
       "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
       "publishedAt": "2026-09-11T20:57:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesd…",
-      "publishedAt": "2026-09-11T20:44:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -416,15 +497,6 @@
       "publishedAt": "2026-09-11T18:49:39.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "707 points, 381 comments",
-      "publishedAt": "2026-09-11T18:24:55.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -443,15 +515,6 @@
       "publishedAt": "2026-09-11T17:47:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A misalignment of AI in mathematics",
-      "link": "https://mathandai.org/",
-      "summary": "1137 points, 1071 comments",
-      "publishedAt": "2026-09-11T17:45:12.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -461,15 +524,6 @@
       "publishedAt": "2026-09-11T17:28:37.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-      "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirme…",
-      "publishedAt": "2026-09-11T17:16:59.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -477,15 +531,6 @@
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
       "publishedAt": "2026-09-11T16:46:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "We unfolded the iPhone Duo",
-      "link": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-      "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's la…",
-      "publishedAt": "2026-09-11T16:22:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -540,6 +585,15 @@
       "link": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
       "summary": "Soft-deprecating re.match() Python has a concept of soft deprecation , where APIs are marked as \"should no longer be used to write new code\" without any promise/threat to remove them in the future. Python 3.15 release ma…",
       "publishedAt": "2026-09-11T14:47:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "summary": "83 points, 96 comments",
+      "publishedAt": "2026-09-11T14:07:08.000Z"
     },
     {
       "source": "Simon Willison",
@@ -630,15 +684,6 @@
       "link": "https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Session traces and cost controls are emerging as key observability techniques for diagnosing AI agent failures, helping teams spot tool-call loops and runaway spend while preserving enough execution context for post-inci…",
       "publishedAt": "2026-09-11T08:14:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-      "link": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
-      "summary": "7 points, 2 comments",
-      "publishedAt": "2026-09-11T04:19:40.000Z"
     },
     {
       "source": "Simon Willison",
@@ -749,15 +794,6 @@
       "publishedAt": "2026-09-10T20:59:51.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "publishedAt": "2026-09-10T20:57:30.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -765,15 +801,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
       "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
       "publishedAt": "2026-09-10T20:55:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-      "publishedAt": "2026-09-10T20:48:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -801,6 +828,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
       "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
       "publishedAt": "2026-09-10T18:14:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Magic Behind Cubacadabra",
+      "link": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-09-10T18:01:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -844,7 +880,7 @@
       "category": "general",
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "summary": "6 points, 85 comments",
+      "summary": "333 points, 284 comments",
       "publishedAt": "2026-09-10T15:31:37.000Z"
     },
     {
@@ -855,15 +891,6 @@
       "link": "https://openai.com/index/put-data-to-work",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
-      "link": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "summary": "68 points, 29 comments",
-      "publishedAt": "2026-09-10T13:39:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -880,7 +907,7 @@
       "category": "general",
       "title": "IKEA made a mod for Skyrim [video]",
       "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "summary": "446 points, 112 comments",
+      "summary": "519 points, 133 comments",
       "publishedAt": "2026-09-10T07:20:50.000Z"
     },
     {
@@ -900,15 +927,6 @@
       "link": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How we manage and engage with our horses shapes their personality",
-      "link": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
-      "summary": "12 points, 1 comments",
-      "publishedAt": "2026-09-10T01:57:32.000Z"
     },
     {
       "source": "Simon Willison",
@@ -983,15 +1001,6 @@
       "publishedAt": "2026-09-09T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Design Space Exploration of Async/Await",
-      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "388 points, 113 comments",
-      "publishedAt": "2026-09-09T13:59:50.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1004,10 +1013,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "summary": "122 points, 35 comments",
-      "publishedAt": "2026-09-09T11:01:10.000Z"
+      "title": "Stabilizing Rust's Never Type",
+      "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "summary": "89 points, 10 comments",
+      "publishedAt": "2026-09-09T11:57:45.000Z"
     },
     {
       "source": "OpenAI",
@@ -1031,10 +1040,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "link": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "summary": "49 points, 10 comments",
-      "publishedAt": "2026-09-09T10:00:59.000Z"
+      "title": "Apple iPod Engraver (2019)",
+      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "summary": "29 points, 1 comments",
+      "publishedAt": "2026-09-09T01:57:37.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1152,15 +1161,6 @@
       "link": "https://openai.com/index/1password",
       "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "publishedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm 0.35",
-      "link": "https://simonwillison.net/2026/Sep/7/llm/",
-      "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
-      "publishedAt": "2026-09-07T23:54:54.000Z"
     },
     {
       "source": "InfoQ AI/ML",
