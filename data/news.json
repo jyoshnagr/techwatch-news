@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:18:20.300Z",
+  "updatedAt": "2026-09-12T03:34:27.460Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,22 +56,121 @@
   "errors": [],
   "items": [
     {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "33 points, 11 comments",
+      "publishedAt": "2026-09-12T02:42:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "summary": "18 points, 4 comments",
+      "publishedAt": "2026-09-12T02:39:39.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (…",
+      "publishedAt": "2026-09-12T00:42:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "link": "https://github.com/zachsaw/graphify-csharp",
+      "summary": "18 points, 9 comments",
+      "publishedAt": "2026-09-12T00:16:10.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "publishedAt": "2026-09-11T23:34:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "434 points, 249 comments",
+      "publishedAt": "2026-09-11T23:17:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "publishedAt": "2026-09-11T22:58:17.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "So you want to use OpenRouter?",
+      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model…",
+      "publishedAt": "2026-09-11T22:49:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Project Blinkenlights",
+      "link": "https://blinkenlights.de/en/",
+      "summary": "60 points, 25 comments",
+      "publishedAt": "2026-09-11T22:15:00.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
       "link": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "3 points, 0 comments",
+      "summary": "37 points, 12 comments",
       "publishedAt": "2026-09-11T21:48:00.000Z"
     },
     {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "Random rewards enrich classic game-theory contests",
+      "title": "Random rewards enrich classic game-theory insights",
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "publishedAt": "2026-09-11T21:41:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "64 points, 49 comments",
+      "publishedAt": "2026-09-11T21:35:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -95,9 +194,9 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
       "publishedAt": "2026-09-11T20:59:47.000Z"
     },
     {
@@ -108,6 +207,15 @@
       "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
       "publishedAt": "2026-09-11T20:57:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesd…",
+      "publishedAt": "2026-09-11T20:44:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -135,15 +243,6 @@
       "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
       "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
       "publishedAt": "2026-09-11T20:30:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-      "link": "https://txt.hellman.io/",
-      "summary": "11 points, 6 comments",
-      "publishedAt": "2026-09-11T19:46:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -187,7 +286,7 @@
       "category": "general",
       "title": "GrapheneOS' rewritten Messages app is released",
       "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "144 points, 74 comments",
+      "summary": "218 points, 133 comments",
       "publishedAt": "2026-09-11T18:50:36.000Z"
     },
     {
@@ -203,18 +302,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "summary": "72 points, 43 comments",
-      "publishedAt": "2026-09-11T18:30:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "136 points, 64 comments",
+      "summary": "363 points, 187 comments",
       "publishedAt": "2026-09-11T18:24:55.000Z"
     },
     {
@@ -232,7 +322,7 @@
       "category": "general",
       "title": "Litelm: LiteLLM Without the Bloat",
       "link": "https://github.com/kennethwolters/litelm",
-      "summary": "72 points, 26 comments",
+      "summary": "106 points, 39 comments",
       "publishedAt": "2026-09-11T18:10:20.000Z"
     },
     {
@@ -241,7 +331,7 @@
       "category": "general",
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "252 points, 168 comments",
+      "summary": "385 points, 267 comments",
       "publishedAt": "2026-09-11T18:05:21.000Z"
     },
     {
@@ -259,7 +349,7 @@
       "category": "general",
       "title": "A misalignment of AI in mathematics",
       "link": "https://mathandai.org/",
-      "summary": "445 points, 510 comments",
+      "summary": "725 points, 741 comments",
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -268,8 +358,17 @@
       "category": "general",
       "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
       "link": "https://snap.berkeley.edu/",
-      "summary": "89 points, 50 comments",
+      "summary": "121 points, 62 comments",
       "publishedAt": "2026-09-11T17:36:11.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Feeling sad about AI",
+      "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an…",
+      "publishedAt": "2026-09-11T17:28:37.000Z"
     },
     {
       "source": "Hacker News",
@@ -277,26 +376,17 @@
       "category": "general",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "75 points, 55 comments",
+      "summary": "114 points, 80 comments",
       "publishedAt": "2026-09-11T17:25:23.000Z"
     },
     {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
       "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wednesday, Mullenweg had…",
+      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirme…",
       "publishedAt": "2026-09-11T17:16:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "link": "https://www.getzep.com/careers/",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-11T17:00:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -353,15 +443,6 @@
       "publishedAt": "2026-09-11T16:04:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "link": "https://github.com/godot-pty/gpty",
-      "summary": "71 points, 36 comments",
-      "publishedAt": "2026-09-11T16:03:05.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -371,13 +452,13 @@
       "publishedAt": "2026-09-11T16:01:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "118M Queries per Second on Neki",
-      "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-      "summary": "82 points, 38 comments",
-      "publishedAt": "2026-09-11T15:56:37.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "publishedAt": "2026-09-11T16:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -394,7 +475,7 @@
       "category": "general",
       "title": "Rune is now open source",
       "link": "https://rune.build/blog/rune-is-now-open-source",
-      "summary": "111 points, 45 comments",
+      "summary": "154 points, 55 comments",
       "publishedAt": "2026-09-11T15:31:47.000Z"
     },
     {
@@ -450,15 +531,6 @@
       "link": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
       "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds…",
       "publishedAt": "2026-09-11T14:43:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to…",
-      "publishedAt": "2026-09-11T14:25:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -558,6 +630,42 @@
       "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
       "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are secur…",
       "publishedAt": "2026-09-11T03:27:16.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-publish-fly 1.4",
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
+      "summary": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
+      "publishedAt": "2026-09-11T02:58:52.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "github-to-sqlite 2.9.1",
+      "link": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+      "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
+      "publishedAt": "2026-09-11T00:28:39.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 0.65.4",
+      "link": "https://simonwillison.net/2026/Sep/11/datasette/",
+      "summary": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
+      "publishedAt": "2026-09-11T00:06:55.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 1.0a39",
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-2/",
+      "summary": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
+      "publishedAt": "2026-09-11T00:05:54.000Z"
     },
     {
       "source": "Simon Willison",
@@ -695,15 +803,6 @@
       "publishedAt": "2026-09-10T18:14:14.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon makes it easier to buy what you see on Prime Video",
-      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene”…",
-      "publishedAt": "2026-09-10T18:10:36.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -731,15 +830,6 @@
       "publishedAt": "2026-09-10T17:30:09.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-      "publishedAt": "2026-09-10T16:53:52.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -765,6 +855,15 @@
       "link": "https://openai.com/index/put-data-to-work",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "publishedAt": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "link": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+      "summary": "28 points, 30 comments",
+      "publishedAt": "2026-09-10T09:13:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -830,15 +929,6 @@
       "publishedAt": "2026-09-09T23:58:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "There is no 10x RBAC",
-      "link": "https://infisical.com/blog/folder-based-rbac",
-      "summary": "4 points, 0 comments",
-      "publishedAt": "2026-09-09T21:59:10.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -880,7 +970,7 @@
       "category": "general",
       "title": "A Design Space Exploration of Async/Await",
       "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "57 points, 10 comments",
+      "summary": "182 points, 37 comments",
       "publishedAt": "2026-09-09T13:59:50.000Z"
     },
     {
@@ -898,8 +988,17 @@
       "category": "general",
       "title": "AlphaGenome maps 9B DNA variants",
       "link": "https://spectrum.ieee.org/alphagenome-atlas",
-      "summary": "52 points, 5 comments",
+      "summary": "73 points, 7 comments",
       "publishedAt": "2026-09-09T11:30:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-09-09T11:01:10.000Z"
     },
     {
       "source": "OpenAI",
@@ -918,24 +1017,6 @@
       "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
       "publishedAt": "2026-09-09T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Logo Programming Language",
-      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "summary": "221 points, 94 comments",
-      "publishedAt": "2026-09-09T07:07:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "So you want to use OpenRouter?",
-      "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-      "summary": "666 points, 182 comments",
-      "publishedAt": "2026-09-09T05:37:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1064,49 +1145,13 @@
       "publishedAt": "2026-09-07T23:54:54.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Creepy crawlies",
-      "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-      "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend…",
-      "publishedAt": "2026-09-07T23:08:58.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Jakub Pachocki",
-      "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-      "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secur…",
-      "publishedAt": "2026-09-07T22:26:25.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Video compressor",
-      "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code fo…",
-      "publishedAt": "2026-09-07T18:29:07.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "summary": "158 points, 58 comments",
+      "summary": "183 points, 72 comments",
       "publishedAt": "2026-09-07T18:05:04.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Mercator ↔ Equal Earth",
-      "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-      "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Eq…",
-      "publishedAt": "2026-09-07T16:24:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1127,24 +1172,6 @@
       "publishedAt": "2026-09-07T00:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-      "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub…",
-      "publishedAt": "2026-09-06T23:57:40.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "The purpose of DNS is to spread scams",
-      "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly…",
-      "publishedAt": "2026-09-06T14:40:07.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1152,33 +1179,6 @@
       "link": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Ma…",
       "publishedAt": "2026-09-06T12:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare fo…",
-      "publishedAt": "2026-09-06T09:08:06.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "publishedAt": "2026-09-06T09:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "publishedAt": "2026-09-06T08:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
