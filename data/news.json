@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:03:08.948Z",
+  "updatedAt": "2026-09-12T13:23:20.970Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -65,22 +65,94 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "41 points, 5 comments",
-      "publishedAt": "2026-09-12T07:54:03.000Z"
+      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+      "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most an…",
+      "publishedAt": "2026-09-12T13:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "WeWorm: Zero-Click WeChat Worm",
-      "link": "https://calif.io/research/weworm",
-      "summary": "18 points, 1 comments",
-      "publishedAt": "2026-09-12T05:49:10.000Z"
+      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+      "link": "https://liniora.com",
+      "summary": "6 points, 4 comments",
+      "publishedAt": "2026-09-12T12:15:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+      "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+      "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, th…",
+      "publishedAt": "2026-09-12T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "summary": "140 points, 95 comments",
+      "publishedAt": "2026-09-12T11:42:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "link": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+      "summary": "21 points, 0 comments",
+      "publishedAt": "2026-09-12T11:37:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "summary": "34 points, 13 comments",
+      "publishedAt": "2026-09-12T11:13:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "I spent $4,000 on a robot dog from China",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "publishedAt": "2026-09-12T11:00:53.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
+      "link": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as trut…",
+      "publishedAt": "2026-09-12T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "OpenAI just wants to win",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor…",
+      "publishedAt": "2026-09-12T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "summary": "138 points, 18 comments",
+      "publishedAt": "2026-09-12T07:54:03.000Z"
     },
     {
       "source": "Hacker News",
@@ -88,7 +160,7 @@
       "category": "general",
       "title": "Usenet rewind archive search engine",
       "link": "https://www.usenet-rewind.com/",
-      "summary": "57 points, 11 comments",
+      "summary": "84 points, 27 comments",
       "publishedAt": "2026-09-12T04:19:52.000Z"
     },
     {
@@ -97,7 +169,7 @@
       "category": "general",
       "title": "Navier-Stokes Announcement",
       "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "summary": "142 points, 94 comments",
+      "summary": "214 points, 142 comments",
       "publishedAt": "2026-09-12T04:09:43.000Z"
     },
     {
@@ -106,7 +178,7 @@
       "category": "general",
       "title": "google.com/goto: Google's anti-scraping update",
       "link": "https://www.autom.dev/blog/google-search-goto-links",
-      "summary": "409 points, 295 comments",
+      "summary": "491 points, 391 comments",
       "publishedAt": "2026-09-12T03:14:20.000Z"
     },
     {
@@ -128,15 +200,6 @@
       "publishedAt": "2026-09-11T23:34:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "link": "https://www.rubyhack.ai/",
-      "summary": "676 points, 383 comments",
-      "publishedAt": "2026-09-11T23:17:42.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -155,15 +218,6 @@
       "publishedAt": "2026-09-11T22:49:18.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Project Blinkenlights",
-      "link": "https://blinkenlights.de/en/",
-      "summary": "87 points, 30 comments",
-      "publishedAt": "2026-09-11T22:15:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -171,6 +225,15 @@
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "publishedAt": "2026-09-11T21:41:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Forgotten Woodlands",
+      "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-09-11T21:21:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -281,15 +344,6 @@
       "publishedAt": "2026-09-11T18:58:01.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "274 points, 196 comments",
-      "publishedAt": "2026-09-11T18:50:36.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -304,7 +358,7 @@
       "category": "general",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "509 points, 266 comments",
+      "summary": "609 points, 336 comments",
       "publishedAt": "2026-09-11T18:24:55.000Z"
     },
     {
@@ -315,15 +369,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
       "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
       "publishedAt": "2026-09-11T18:22:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "link": "https://github.com/kennethwolters/litelm",
-      "summary": "134 points, 43 comments",
-      "publishedAt": "2026-09-11T18:10:20.000Z"
     },
     {
       "source": "Simon Willison",
@@ -340,7 +385,7 @@
       "category": "general",
       "title": "A misalignment of AI in mathematics",
       "link": "https://mathandai.org/",
-      "summary": "886 points, 864 comments",
+      "summary": "1031 points, 985 comments",
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -351,15 +396,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an…",
       "publishedAt": "2026-09-11T17:28:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "159 points, 103 comments",
-      "publishedAt": "2026-09-11T17:25:23.000Z"
     },
     {
       "source": "The Verge",
@@ -452,15 +488,6 @@
       "publishedAt": "2026-09-11T15:38:31.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Where to preorder the Apple AirPods 5",
-      "link": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
-      "summary": "The new AirPods 5 in their charging case. | Photo: Antonio G. Di Benedetto / The Verge The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of reta…",
-      "publishedAt": "2026-09-11T15:31:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -468,15 +495,6 @@
       "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
       "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
       "publishedAt": "2026-09-11T15:19:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anime reaction YouTubers are at war with copyright enforcers",
-      "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
-      "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Del…",
-      "publishedAt": "2026-09-11T15:12:58.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -497,13 +515,13 @@
       "publishedAt": "2026-09-11T14:47:57.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "The wireless earbuds with unbeatable call quality got their first discount",
-      "link": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
-      "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds…",
-      "publishedAt": "2026-09-11T14:43:26.000Z"
+      "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "summary": "12 points, 9 comments",
+      "publishedAt": "2026-09-11T14:07:08.000Z"
     },
     {
       "source": "Simon Willison",
@@ -736,7 +754,7 @@
       "category": "general",
       "title": "Show HN: Bodily Oddities",
       "link": "https://vester.si/bodily-oddities/",
-      "summary": "233 points, 162 comments",
+      "summary": "283 points, 179 comments",
       "publishedAt": "2026-09-10T20:33:11.000Z"
     },
     {
@@ -803,15 +821,6 @@
       "publishedAt": "2026-09-10T17:49:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-      "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
-      "publishedAt": "2026-09-10T17:30:09.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -842,10 +851,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-      "link": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-      "summary": "31 points, 6 comments",
-      "publishedAt": "2026-09-10T12:59:26.000Z"
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "link": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-09-10T13:39:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Finding Slow Code with Wrapture",
+      "link": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-09-10T09:12:22.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -862,7 +880,7 @@
       "category": "general",
       "title": "IKEA made a mod for Skyrim [video]",
       "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "summary": "34 points, 7 comments",
+      "summary": "300 points, 63 comments",
       "publishedAt": "2026-09-10T07:20:50.000Z"
     },
     {
@@ -961,7 +979,7 @@
       "category": "general",
       "title": "A Design Space Exploration of Async/Await",
       "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "273 points, 67 comments",
+      "summary": "338 points, 88 comments",
       "publishedAt": "2026-09-09T13:59:50.000Z"
     },
     {
@@ -979,7 +997,7 @@
       "category": "general",
       "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
       "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "summary": "62 points, 3 comments",
+      "summary": "90 points, 20 comments",
       "publishedAt": "2026-09-09T11:01:10.000Z"
     },
     {
@@ -1006,7 +1024,7 @@
       "category": "general",
       "title": "Logo Programming",
       "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "summary": "278 points, 113 comments",
+      "summary": "291 points, 119 comments",
       "publishedAt": "2026-09-09T07:07:26.000Z"
     },
     {
@@ -1136,15 +1154,6 @@
       "publishedAt": "2026-09-07T23:54:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-      "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "summary": "212 points, 78 comments",
-      "publishedAt": "2026-09-07T18:05:04.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1159,7 +1168,7 @@
       "category": "general",
       "title": "Inverse Kinematics and Foot Locking",
       "link": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-      "summary": "28 points, 0 comments",
+      "summary": "78 points, 9 comments",
       "publishedAt": "2026-09-07T08:21:41.000Z"
     },
     {
@@ -1206,15 +1215,6 @@
       "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individu…",
       "publishedAt": "2026-09-05T10:40:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS",
-      "link": "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "JupyterGIS is a GIS-focused extension for Jupyter notebooks. The recent 0.16 release enhances collaborative features, real-time editing, and support for large-scale data processing, including remote sensing. It introduce…",
-      "publishedAt": "2026-09-05T05:05:00.000Z"
     },
     {
       "source": "Google DeepMind",
