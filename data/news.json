@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T03:34:27.460Z",
+  "updatedAt": "2026-09-12T09:03:08.948Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -68,19 +68,46 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Pandas Should Go Extinct",
-      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-      "summary": "33 points, 11 comments",
-      "publishedAt": "2026-09-12T02:42:08.000Z"
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "summary": "41 points, 5 comments",
+      "publishedAt": "2026-09-12T07:54:03.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "summary": "18 points, 4 comments",
-      "publishedAt": "2026-09-12T02:39:39.000Z"
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "link": "https://calif.io/research/weworm",
+      "summary": "18 points, 1 comments",
+      "publishedAt": "2026-09-12T05:49:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Usenet rewind archive search engine",
+      "link": "https://www.usenet-rewind.com/",
+      "summary": "57 points, 11 comments",
+      "publishedAt": "2026-09-12T04:19:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "142 points, 94 comments",
+      "publishedAt": "2026-09-12T04:09:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "409 points, 295 comments",
+      "publishedAt": "2026-09-12T03:14:20.000Z"
     },
     {
       "source": "Simon Willison",
@@ -90,15 +117,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
       "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (…",
       "publishedAt": "2026-09-12T00:42:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "link": "https://github.com/zachsaw/graphify-csharp",
-      "summary": "18 points, 9 comments",
-      "publishedAt": "2026-09-12T00:16:10.000Z"
     },
     {
       "source": "Ars Technica",
@@ -115,7 +133,7 @@
       "category": "general",
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "link": "https://www.rubyhack.ai/",
-      "summary": "434 points, 249 comments",
+      "summary": "676 points, 383 comments",
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -142,17 +160,8 @@
       "category": "general",
       "title": "Project Blinkenlights",
       "link": "https://blinkenlights.de/en/",
-      "summary": "60 points, 25 comments",
+      "summary": "87 points, 30 comments",
       "publishedAt": "2026-09-11T22:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "link": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "37 points, 12 comments",
-      "publishedAt": "2026-09-11T21:48:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -162,15 +171,6 @@
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "publishedAt": "2026-09-11T21:41:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "summary": "64 points, 49 comments",
-      "publishedAt": "2026-09-11T21:35:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -286,7 +286,7 @@
       "category": "general",
       "title": "GrapheneOS' rewritten Messages app is released",
       "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "218 points, 133 comments",
+      "summary": "274 points, 196 comments",
       "publishedAt": "2026-09-11T18:50:36.000Z"
     },
     {
@@ -304,7 +304,7 @@
       "category": "general",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "363 points, 187 comments",
+      "summary": "509 points, 266 comments",
       "publishedAt": "2026-09-11T18:24:55.000Z"
     },
     {
@@ -322,17 +322,8 @@
       "category": "general",
       "title": "Litelm: LiteLLM Without the Bloat",
       "link": "https://github.com/kennethwolters/litelm",
-      "summary": "106 points, 39 comments",
+      "summary": "134 points, 43 comments",
       "publishedAt": "2026-09-11T18:10:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "385 points, 267 comments",
-      "publishedAt": "2026-09-11T18:05:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -349,17 +340,8 @@
       "category": "general",
       "title": "A misalignment of AI in mathematics",
       "link": "https://mathandai.org/",
-      "summary": "725 points, 741 comments",
+      "summary": "886 points, 864 comments",
       "publishedAt": "2026-09-11T17:45:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "link": "https://snap.berkeley.edu/",
-      "summary": "121 points, 62 comments",
-      "publishedAt": "2026-09-11T17:36:11.000Z"
     },
     {
       "source": "Simon Willison",
@@ -376,7 +358,7 @@
       "category": "general",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "114 points, 80 comments",
+      "summary": "159 points, 103 comments",
       "publishedAt": "2026-09-11T17:25:23.000Z"
     },
     {
@@ -468,15 +450,6 @@
       "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
       "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonO…",
       "publishedAt": "2026-09-11T15:38:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rune is now open source",
-      "link": "https://rune.build/blog/rune-is-now-open-source",
-      "summary": "154 points, 55 comments",
-      "publishedAt": "2026-09-11T15:31:47.000Z"
     },
     {
       "source": "The Verge",
@@ -758,6 +731,15 @@
       "publishedAt": "2026-09-10T20:48:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Bodily Oddities",
+      "link": "https://vester.si/bodily-oddities/",
+      "summary": "233 points, 162 comments",
+      "publishedAt": "2026-09-10T20:33:11.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -860,10 +842,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
-      "link": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-      "summary": "28 points, 30 comments",
-      "publishedAt": "2026-09-10T09:13:48.000Z"
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "link": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "summary": "31 points, 6 comments",
+      "publishedAt": "2026-09-10T12:59:26.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -873,6 +855,15 @@
       "link": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "AI coding assistants have become a core part of software development. AI-generated code has shown productivity gains, but it's also contributing to security weaknesses and familiar bug patterns. In this article, author N…",
       "publishedAt": "2026-09-10T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "IKEA made a mod for Skyrim [video]",
+      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "summary": "34 points, 7 comments",
+      "publishedAt": "2026-09-10T07:20:50.000Z"
     },
     {
       "source": "OpenAI",
@@ -970,7 +961,7 @@
       "category": "general",
       "title": "A Design Space Exploration of Async/Await",
       "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "182 points, 37 comments",
+      "summary": "273 points, 67 comments",
       "publishedAt": "2026-09-09T13:59:50.000Z"
     },
     {
@@ -986,18 +977,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "AlphaGenome maps 9B DNA variants",
-      "link": "https://spectrum.ieee.org/alphagenome-atlas",
-      "summary": "73 points, 7 comments",
-      "publishedAt": "2026-09-09T11:30:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
       "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "summary": "7 points, 0 comments",
+      "summary": "62 points, 3 comments",
       "publishedAt": "2026-09-09T11:01:10.000Z"
     },
     {
@@ -1017,6 +999,15 @@
       "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
       "publishedAt": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Logo Programming",
+      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "summary": "278 points, 113 comments",
+      "publishedAt": "2026-09-09T07:07:26.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1150,7 +1141,7 @@
       "category": "general",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "summary": "183 points, 72 comments",
+      "summary": "212 points, 78 comments",
       "publishedAt": "2026-09-07T18:05:04.000Z"
     },
     {
@@ -1161,6 +1152,15 @@
       "link": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks. Learn how Columbia and Arklex AI use synthetic user personas, trajectory entropy…",
       "publishedAt": "2026-09-07T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Inverse Kinematics and Foot Locking",
+      "link": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "summary": "28 points, 0 comments",
+      "publishedAt": "2026-09-07T08:21:41.000Z"
     },
     {
       "source": "OpenAI",
