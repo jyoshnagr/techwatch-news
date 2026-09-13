@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:57:22.852Z",
+  "updatedAt": "2026-09-13T22:10:47.405Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,7 +52,7 @@
       "category": "ai"
     }
   ],
-  "itemCount": 151,
+  "itemCount": 150,
   "errors": [],
   "items": [
     {
@@ -65,6 +65,114 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is de…",
+      "publishedAt": "2026-09-13T21:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "107 points, 23 comments",
+      "publishedAt": "2026-09-13T21:06:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "publishedAt": "2026-09-13T20:49:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "summary": "19 points, 1 comments",
+      "publishedAt": "2026-09-13T20:33:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "publishedAt": "2026-09-13T20:28:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "summary": "187 points, 69 comments",
+      "publishedAt": "2026-09-13T20:08:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support…",
+      "publishedAt": "2026-09-13T19:41:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "summary": "45 points, 53 comments",
+      "publishedAt": "2026-09-13T19:41:06.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "publishedAt": "2026-09-13T19:40:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some ti…",
+      "publishedAt": "2026-09-13T18:30:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "summary": "169 points, 125 comments",
+      "publishedAt": "2026-09-13T17:57:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why is Google still serving dodgy ads?",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "415 points, 193 comments",
+      "publishedAt": "2026-09-13T17:37:44.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -72,51 +180,6 @@
       "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
       "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's…",
       "publishedAt": "2026-09-13T17:36:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "12 points, 9 comments",
-      "publishedAt": "2026-09-13T17:31:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Google illegally retains customer data,and I am taking legal action against them",
-      "link": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
-      "summary": "18 points, 3 comments",
-      "publishedAt": "2026-09-13T17:24:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: How can I browse HN in dark mode?",
-      "link": "https://news.ycombinator.com/item?id=49686233",
-      "summary": "17 points, 18 comments",
-      "publishedAt": "2026-09-13T17:18:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-      "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
-      "summary": "24 points, 6 comments",
-      "publishedAt": "2026-09-13T17:08:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "summary": "56 points, 23 comments",
-      "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -140,36 +203,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "summary": "29 points, 21 comments",
-      "publishedAt": "2026-09-13T15:24:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Predictive intelligence to anticipate anything.",
-      "link": "https://prior.chat/",
-      "summary": "18 points, 20 comments",
-      "publishedAt": "2026-09-13T15:11:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "link": "https://cpak.it/",
-      "summary": "21 points, 7 comments",
-      "publishedAt": "2026-09-13T15:02:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "207 points, 80 comments",
+      "summary": "328 points, 154 comments",
       "publishedAt": "2026-09-13T14:28:36.000Z"
     },
     {
@@ -187,7 +223,7 @@
       "category": "general",
       "title": "CUDA for AMD on Windows",
       "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "summary": "72 points, 21 comments",
+      "summary": "120 points, 62 comments",
       "publishedAt": "2026-09-13T14:25:13.000Z"
     },
     {
@@ -196,7 +232,7 @@
       "category": "general",
       "title": "Making Startups Powerful",
       "link": "https://paulgraham.com/powerful.html",
-      "summary": "52 points, 17 comments",
+      "summary": "114 points, 53 comments",
       "publishedAt": "2026-09-13T14:09:53.000Z"
     },
     {
@@ -223,17 +259,8 @@
       "category": "general",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "91 points, 28 comments",
+      "summary": "167 points, 40 comments",
       "publishedAt": "2026-09-13T12:30:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "summary": "84 points, 28 comments",
-      "publishedAt": "2026-09-13T12:01:52.000Z"
     },
     {
       "source": "The Verge",
@@ -268,7 +295,7 @@
       "category": "general",
       "title": "JetKVM Mini",
       "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "402 points, 159 comments",
+      "summary": "493 points, 192 comments",
       "publishedAt": "2026-09-13T07:49:46.000Z"
     },
     {
@@ -286,7 +313,7 @@
       "category": "general",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "490 points, 573 comments",
+      "summary": "558 points, 636 comments",
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -297,15 +324,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and prod…",
       "publishedAt": "2026-09-12T23:56:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "link": "https://github.com/FeralFirmware/TailTalk/",
-      "summary": "51 points, 13 comments",
-      "publishedAt": "2026-09-12T23:43:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -387,33 +405,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
       "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still…",
       "publishedAt": "2026-09-12T18:00:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with th…",
-      "publishedAt": "2026-09-12T16:35:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Make your first edit to OpenStreetMap",
-      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "559 points, 136 comments",
-      "publishedAt": "2026-09-12T16:25:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a w…",
-      "publishedAt": "2026-09-12T16:23:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -578,15 +569,6 @@
       "publishedAt": "2026-09-11T19:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San…",
-      "publishedAt": "2026-09-11T18:58:01.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -623,15 +605,6 @@
       "publishedAt": "2026-09-11T17:28:37.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "publishedAt": "2026-09-11T16:46:25.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -662,19 +635,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Alan's Random Insult Generator (1999)",
-      "link": "https://alanbellows.com/experiments/insult/index.html",
-      "summary": "33 points, 18 comments",
-      "publishedAt": "2026-09-11T15:34:53.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-      "publishedAt": "2026-09-11T15:19:00.000Z"
+      "title": "Why a dispute costs $229 on a $129 pair of shoes",
+      "link": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
+      "summary": "4 points, 2 comments",
+      "publishedAt": "2026-09-11T15:41:05.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -702,15 +666,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
       "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it al…",
       "publishedAt": "2026-09-11T13:51:32.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "publishedAt": "2026-09-11T13:32:54.000Z"
     },
     {
       "source": "Ars Technica",
@@ -785,6 +740,15 @@
       "publishedAt": "2026-09-11T08:14:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "summary": "35 points, 9 comments",
+      "publishedAt": "2026-09-11T03:45:42.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -837,6 +801,15 @@
       "link": "https://simonwillison.net/2026/Sep/10/trynix/",
       "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser thro…",
       "publishedAt": "2026-09-10T23:44:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "link": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "summary": "63 points, 13 comments",
+      "publishedAt": "2026-09-10T23:32:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -929,6 +902,24 @@
       "publishedAt": "2026-09-10T15:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bad Code Is Kudzu",
+      "link": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+      "summary": "14 points, 3 comments",
+      "publishedAt": "2026-09-10T13:02:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Julia 1.13 Highlights",
+      "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "summary": "92 points, 6 comments",
+      "publishedAt": "2026-09-10T12:27:25.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -961,7 +952,7 @@
       "category": "general",
       "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
       "link": "https://bensimms.moe/reverse-engineering-scooter/",
-      "summary": "196 points, 54 comments",
+      "summary": "313 points, 77 comments",
       "publishedAt": "2026-09-10T03:32:04.000Z"
     },
     {
