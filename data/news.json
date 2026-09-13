@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:58:07.407Z",
+  "updatedAt": "2026-09-13T03:40:22.460Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -65,6 +65,78 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Interim Computer Museum",
+      "link": "https://icm.museum/",
+      "summary": "25 points, 4 comments",
+      "publishedAt": "2026-09-13T02:43:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Align AI and Mathematics–To Something Else",
+      "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "summary": "28 points, 14 comments",
+      "publishedAt": "2026-09-13T00:47:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Everyone should slow down AI development except for me",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "208 points, 101 comments",
+      "publishedAt": "2026-09-13T00:30:44.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and prod…",
+      "publishedAt": "2026-09-12T23:56:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "link": "https://agentsdock.net/",
+      "summary": "19 points, 7 comments",
+      "publishedAt": "2026-09-12T23:45:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+      "link": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+      "summary": "34 points, 29 comments",
+      "publishedAt": "2026-09-12T23:44:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "publishedAt": "2026-09-12T23:25:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Don't be the out of touch Kung Fu master – John Carmack",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "39 points, 24 comments",
+      "publishedAt": "2026-09-12T21:51:43.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -83,12 +155,21 @@
       "publishedAt": "2026-09-12T21:16:28.000Z"
     },
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "California Brown Pelican",
+      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelica…",
+      "publishedAt": "2026-09-12T21:16:09.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "link": "https://withspecific.com/benchmarks/real-swe",
-      "summary": "31 points, 16 comments",
+      "summary": "155 points, 77 comments",
       "publishedAt": "2026-09-12T20:25:48.000Z"
     },
     {
@@ -108,24 +189,6 @@
       "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
       "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it…",
       "publishedAt": "2026-09-12T20:08:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-      "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-      "summary": "17 points, 21 comments",
-      "publishedAt": "2026-09-12T19:57:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LG Says We're Fake News [video]",
-      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "summary": "41 points, 5 comments",
-      "publishedAt": "2026-09-12T19:35:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -151,7 +214,7 @@
       "category": "general",
       "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
       "link": "https://hachyderm.io/@simontatham/117201594980991062",
-      "summary": "70 points, 18 comments",
+      "summary": "218 points, 66 comments",
       "publishedAt": "2026-09-12T18:58:57.000Z"
     },
     {
@@ -169,7 +232,7 @@
       "category": "general",
       "title": "Will There Be a 7G?",
       "link": "https://arxiv.org/abs/2609.01877",
-      "summary": "63 points, 107 comments",
+      "summary": "85 points, 146 comments",
       "publishedAt": "2026-09-12T17:05:31.000Z"
     },
     {
@@ -187,7 +250,7 @@
       "category": "general",
       "title": "Make your first edit to OpenStreetMap",
       "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "221 points, 62 comments",
+      "summary": "366 points, 84 comments",
       "publishedAt": "2026-09-12T16:25:08.000Z"
     },
     {
@@ -205,7 +268,7 @@
       "category": "general",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "summary": "69 points, 21 comments",
+      "summary": "93 points, 26 comments",
       "publishedAt": "2026-09-12T15:49:52.000Z"
     },
     {
@@ -223,7 +286,7 @@
       "category": "general",
       "title": "Nvidia is the central bank of AI",
       "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "307 points, 209 comments",
+      "summary": "416 points, 283 comments",
       "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
@@ -232,7 +295,7 @@
       "category": "general",
       "title": "I made a build visualizer to understand Bun's compile times",
       "link": "https://lalitm.com/post/buildprof/",
-      "summary": "63 points, 13 comments",
+      "summary": "104 points, 21 comments",
       "publishedAt": "2026-09-12T14:45:28.000Z"
     },
     {
@@ -259,17 +322,8 @@
       "category": "general",
       "title": "We must pace the frontier",
       "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "summary": "444 points, 609 comments",
+      "summary": "580 points, 811 comments",
       "publishedAt": "2026-09-12T14:10:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "link": "https://transformer-circuits.pub/2021/framework/index.html",
-      "summary": "69 points, 16 comments",
-      "publishedAt": "2026-09-12T13:56:58.000Z"
     },
     {
       "source": "The Verge",
@@ -288,15 +342,6 @@
       "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
       "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, th…",
       "publishedAt": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "summary": "38 points, 14 comments",
-      "publishedAt": "2026-09-12T11:27:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -324,15 +369,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
       "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In nor…",
       "publishedAt": "2026-09-12T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "207 points, 29 comments",
-      "publishedAt": "2026-09-12T07:54:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -387,15 +423,6 @@
       "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
       "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
       "publishedAt": "2026-09-11T21:19:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "summary": "158 points, 42 comments",
-      "publishedAt": "2026-09-11T21:16:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -587,15 +614,6 @@
       "publishedAt": "2026-09-11T14:47:57.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "summary": "83 points, 96 comments",
-      "publishedAt": "2026-09-11T14:07:08.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -785,15 +803,6 @@
       "publishedAt": "2026-09-10T21:11:15.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "publishedAt": "2026-09-10T20:59:51.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -801,6 +810,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
       "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
       "publishedAt": "2026-09-10T20:55:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "From Git to Fossil",
+      "link": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "summary": "7 points, 4 comments",
+      "publishedAt": "2026-09-10T20:39:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -828,15 +846,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
       "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
       "publishedAt": "2026-09-10T18:14:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Magic Behind Cubacadabra",
-      "link": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-      "summary": "6 points, 1 comments",
-      "publishedAt": "2026-09-10T18:01:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -880,7 +889,7 @@
       "category": "general",
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "summary": "333 points, 284 comments",
+      "summary": "455 points, 369 comments",
       "publishedAt": "2026-09-10T15:31:37.000Z"
     },
     {
@@ -900,15 +909,6 @@
       "link": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "AI coding assistants have become a core part of software development. AI-generated code has shown productivity gains, but it's also contributing to security weaknesses and familiar bug patterns. In this article, author N…",
       "publishedAt": "2026-09-10T09:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "IKEA made a mod for Skyrim [video]",
-      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "summary": "519 points, 133 comments",
-      "publishedAt": "2026-09-10T07:20:50.000Z"
     },
     {
       "source": "OpenAI",
@@ -936,6 +936,15 @@
       "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
       "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if th…",
       "publishedAt": "2026-09-10T00:56:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "link": "https://eiln.github.io/posts/ane-dma.html",
+      "summary": "94 points, 17 comments",
+      "publishedAt": "2026-09-10T00:16:10.000Z"
     },
     {
       "source": "OpenAI",
@@ -983,6 +992,15 @@
       "publishedAt": "2026-09-09T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Vintage Scientific Papers with LaTeX",
+      "link": "https://github.com/Foadsf/vintage-latex",
+      "summary": "37 points, 2 comments",
+      "publishedAt": "2026-09-09T16:58:27.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1015,7 +1033,7 @@
       "category": "general",
       "title": "Stabilizing Rust's Never Type",
       "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "summary": "89 points, 10 comments",
+      "summary": "153 points, 39 comments",
       "publishedAt": "2026-09-09T11:57:45.000Z"
     },
     {
@@ -1042,7 +1060,7 @@
       "category": "general",
       "title": "Apple iPod Engraver (2019)",
       "link": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "summary": "29 points, 1 comments",
+      "summary": "152 points, 36 comments",
       "publishedAt": "2026-09-09T01:57:37.000Z"
     },
     {
@@ -1053,24 +1071,6 @@
       "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
       "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that ev…",
       "publishedAt": "2026-09-09T00:20:17.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
-      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "summary": "On the Navier–Stokes Millennium Prize Problem introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Mil…",
-      "publishedAt": "2026-09-08T23:55:12.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-f…",
-      "publishedAt": "2026-09-08T22:46:33.000Z"
     },
     {
       "source": "OpenAI",
