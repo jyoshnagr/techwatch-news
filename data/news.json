@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:10:47.405Z",
+  "updatedAt": "2026-09-14T03:49:34.479Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,69 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "summary": "25 points, 13 comments",
+      "publishedAt": "2026-09-14T02:50:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Malicious Use of Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1802.07228",
+      "summary": "19 points, 4 comments",
+      "publishedAt": "2026-09-14T01:22:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Exploring the intersection of prediction markets and social media",
+      "link": "https://www.thevidmarket.com/",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-09-14T01:14:25.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "commit-rewriter 0.1",
+      "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue ID…",
+      "publishedAt": "2026-09-14T00:28:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Writing a better reality: The case for optimistic sci-fi",
+      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+      "summary": "18 points, 10 comments",
+      "publishedAt": "2026-09-14T00:27:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "45 points, 2 comments",
+      "publishedAt": "2026-09-14T00:22:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "summary": "55 points, 9 comments",
+      "publishedAt": "2026-09-14T00:11:21.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -65,10 +128,37 @@
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "shot-scraper 1.12",
+      "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu…",
+      "publishedAt": "2026-09-13T23:58:14.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "publishedAt": "2026-09-13T21:56:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "119 points, 63 comments",
+      "publishedAt": "2026-09-13T21:47:04.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is de…",
       "publishedAt": "2026-09-13T21:30:00.000Z"
@@ -77,9 +167,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "107 points, 23 comments",
+      "summary": "573 points, 249 comments",
       "publishedAt": "2026-09-13T21:06:13.000Z"
     },
     {
@@ -95,9 +185,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
       "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "19 points, 1 comments",
+      "summary": "70 points, 8 comments",
       "publishedAt": "2026-09-13T20:33:18.000Z"
     },
     {
@@ -110,15 +200,6 @@
       "publishedAt": "2026-09-13T20:28:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "link": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "summary": "187 points, 69 comments",
-      "publishedAt": "2026-09-13T20:08:45.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -126,15 +207,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support…",
       "publishedAt": "2026-09-13T19:41:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "summary": "45 points, 53 comments",
-      "publishedAt": "2026-09-13T19:41:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -158,18 +230,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-      "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-      "summary": "169 points, 125 comments",
-      "publishedAt": "2026-09-13T17:57:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Why is Google still serving dodgy ads?",
       "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "415 points, 193 comments",
+      "summary": "655 points, 305 comments",
       "publishedAt": "2026-09-13T17:37:44.000Z"
     },
     {
@@ -180,6 +243,15 @@
       "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
       "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's…",
       "publishedAt": "2026-09-13T17:36:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "summary": "105 points, 254 comments",
+      "publishedAt": "2026-09-13T17:31:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -205,7 +277,7 @@
       "category": "general",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "328 points, 154 comments",
+      "summary": "401 points, 180 comments",
       "publishedAt": "2026-09-13T14:28:36.000Z"
     },
     {
@@ -221,18 +293,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CUDA for AMD on Windows",
-      "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "summary": "120 points, 62 comments",
-      "publishedAt": "2026-09-13T14:25:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Making Startups Powerful",
       "link": "https://paulgraham.com/powerful.html",
-      "summary": "114 points, 53 comments",
+      "summary": "180 points, 79 comments",
       "publishedAt": "2026-09-13T14:09:53.000Z"
     },
     {
@@ -259,7 +322,7 @@
       "category": "general",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "167 points, 40 comments",
+      "summary": "221 points, 51 comments",
       "publishedAt": "2026-09-13T12:30:15.000Z"
     },
     {
@@ -290,31 +353,13 @@
       "publishedAt": "2026-09-13T11:00:41.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "JetKVM Mini",
-      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "493 points, 192 comments",
-      "publishedAt": "2026-09-13T07:49:46.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
       "link": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. T…",
       "publishedAt": "2026-09-13T06:06:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "558 points, 636 comments",
-      "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
       "source": "Simon Willison",
@@ -596,6 +641,15 @@
       "publishedAt": "2026-09-11T17:47:11.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+      "link": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-09-11T17:38:11.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -630,15 +684,6 @@
       "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "publishedAt": "2026-09-11T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why a dispute costs $229 on a $129 pair of shoes",
-      "link": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
-      "summary": "4 points, 2 comments",
-      "publishedAt": "2026-09-11T15:41:05.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -740,15 +785,6 @@
       "publishedAt": "2026-09-11T08:14:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "summary": "35 points, 9 comments",
-      "publishedAt": "2026-09-11T03:45:42.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -803,15 +839,6 @@
       "publishedAt": "2026-09-10T23:44:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-      "link": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "summary": "63 points, 13 comments",
-      "publishedAt": "2026-09-10T23:32:12.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -839,6 +866,15 @@
       "publishedAt": "2026-09-10T20:55:29.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "link": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+      "summary": "42 points, 8 comments",
+      "publishedAt": "2026-09-10T19:39:13.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -855,15 +891,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
       "summary": "App support is slim right now, but Google says more are coming.",
       "publishedAt": "2026-09-10T18:41:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "publishedAt": "2026-09-10T18:14:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -905,25 +932,16 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Bad Code Is Kudzu",
-      "link": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-      "summary": "14 points, 3 comments",
-      "publishedAt": "2026-09-10T13:02:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Julia 1.13 Highlights",
+      "title": "Julia 1.13 highlights",
       "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "summary": "92 points, 6 comments",
+      "summary": "175 points, 12 comments",
       "publishedAt": "2026-09-10T12:27:25.000Z"
     },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Article: When Spec-Driven Development Pays Off",
+      "title": "Article: When Spec-Driven Development Pays off",
       "link": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "AI coding assistants have become a core part of software development. AI-generated code has shown productivity gains, but it's also contributing to security weaknesses and familiar bug patterns. In this article, author N…",
       "publishedAt": "2026-09-10T09:00:00.000Z"
@@ -950,10 +968,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "link": "https://bensimms.moe/reverse-engineering-scooter/",
-      "summary": "313 points, 77 comments",
-      "publishedAt": "2026-09-10T03:32:04.000Z"
+      "title": "Spaceships (Reverse Asteroid)",
+      "link": "https://spaceships.treybastian.com/",
+      "summary": "70 points, 16 comments",
+      "publishedAt": "2026-09-10T04:44:32.000Z"
     },
     {
       "source": "Simon Willison",
@@ -981,15 +999,6 @@
       "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": ".blend URL Viewer",
-      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that ce…",
-      "publishedAt": "2026-09-09T23:58:32.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1053,15 +1062,6 @@
       "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
       "publishedAt": "2026-09-09T11:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Terence Tao",
-      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that ev…",
-      "publishedAt": "2026-09-09T00:20:17.000Z"
     },
     {
       "source": "OpenAI",
