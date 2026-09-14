@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:44:42.333Z",
+  "updatedAt": "2026-09-14T22:58:51.932Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,144 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
+  "itemCount": 154,
   "errors": [],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple Home’s new security camera features cost up to $60 a month",
+      "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "summary": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but…",
+      "publishedAt": "2026-09-14T22:28:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "publishedAt": "2026-09-14T21:51:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "summary": "25 points, 6 comments",
+      "publishedAt": "2026-09-14T21:22:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and…",
+      "publishedAt": "2026-09-14T21:21:42.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "The contagion of fear",
+      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story…",
+      "publishedAt": "2026-09-14T21:18:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "summary": "135 points, 134 comments",
+      "publishedAt": "2026-09-14T21:05:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Trump throws out power plant climate pollution rules",
+      "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+      "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier a…",
+      "publishedAt": "2026-09-14T20:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "publishedAt": "2026-09-14T20:44:14.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "What blog posts influenced your thinking the most?",
+      "link": "https://simonwillison.net/2026/Sep/14/influences/",
+      "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to a…",
+      "publishedAt": "2026-09-14T20:21:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "publishedAt": "2026-09-14T20:07:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took…",
+      "publishedAt": "2026-09-14T20:03:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "summary": "75 points, 93 comments",
+      "publishedAt": "2026-09-14T19:56:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Valve&#8217;s virtual reality plans hit actual reality",
+      "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the globa…",
+      "publishedAt": "2026-09-14T19:48:06.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "publishedAt": "2026-09-14T19:45:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "publishedAt": "2026-09-14T19:38:46.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -63,6 +198,42 @@
       "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
       "summary": "Super Mario Odyssey is among the discounted games. | Image: Nintendo As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital store…",
       "publishedAt": "2026-09-14T19:30:58.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "publishedAt": "2026-09-14T19:28:42.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "publishedAt": "2026-09-14T19:06:13.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "publishedAt": "2026-09-14T19:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "summary": "US won’t back down from fight to deport technology researchers.",
+      "publishedAt": "2026-09-14T18:24:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -83,13 +254,13 @@
       "publishedAt": "2026-09-14T18:08:43.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "206 points, 197 comments",
-      "publishedAt": "2026-09-14T17:50:29.000Z"
+      "title": "A new solar cell could generate electricity underwater",
+      "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "summary": "The trick isn't using perovskites—the trick is making them last.",
+      "publishedAt": "2026-09-14T18:03:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -113,18 +284,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Steam Frame starts at $1059",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "summary": "251 points, 134 comments",
-      "publishedAt": "2026-09-14T17:27:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Pion, an agent designed to run any company autonomously",
       "link": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "162 points, 147 comments",
+      "summary": "235 points, 244 comments",
       "publishedAt": "2026-09-14T17:16:06.000Z"
     },
     {
@@ -133,7 +295,7 @@
       "category": "general",
       "title": "Prehistoric builders transported Devil's Arrows 11 miles",
       "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-      "summary": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+      "summary": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
       "publishedAt": "2026-09-14T17:10:54.000Z"
     },
     {
@@ -178,7 +340,7 @@
       "category": "general",
       "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
       "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "37 points, 10 comments",
+      "summary": "72 points, 20 comments",
       "publishedAt": "2026-09-14T17:02:34.000Z"
     },
     {
@@ -196,7 +358,7 @@
       "category": "general",
       "title": "Steam Frame: The Ars Technica review",
       "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
-      "summary": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+      "summary": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
       "publishedAt": "2026-09-14T17:00:07.000Z"
     },
     {
@@ -218,67 +380,13 @@
       "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Valve’s Steam Frame costs $1,059",
-      "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-      "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that s…",
-      "publishedAt": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-      "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-      "summary": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagshi…",
-      "publishedAt": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I reviewed Valve’s Steam Frame, ask me anything",
-      "link": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
-      "summary": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an ear…",
-      "publishedAt": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-      "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
-      "summary": "Welcome back. | Photo: Antonio G. Di Benedetto / The Verge Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier…",
-      "publishedAt": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-      "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-      "summary": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven fr…",
-      "publishedAt": "2026-09-14T16:48:46.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Why don't machine learning research agents overfit?",
       "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "69 points, 33 comments",
+      "summary": "91 points, 53 comments",
       "publishedAt": "2026-09-14T16:32:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "When LLM judges agree, should we believe them?",
-      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "summary": "37 points, 20 comments",
-      "publishedAt": "2026-09-14T16:29:30.000Z"
     },
     {
       "source": "Ars Technica",
@@ -304,8 +412,17 @@
       "category": "general",
       "title": "How my e-reader lost its stripes",
       "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "56 points, 3 comments",
+      "summary": "125 points, 17 comments",
       "publishedAt": "2026-09-14T16:23:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "summary": "175 points, 94 comments",
+      "publishedAt": "2026-09-14T16:09:45.000Z"
     },
     {
       "source": "Hacker News",
@@ -313,7 +430,7 @@
       "category": "general",
       "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
       "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "summary": "25 points, 8 comments",
+      "summary": "58 points, 12 comments",
       "publishedAt": "2026-09-14T16:07:58.000Z"
     },
     {
@@ -331,7 +448,7 @@
       "category": "general",
       "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
       "link": "https://www.neobrutalism.dev/",
-      "summary": "78 points, 43 comments",
+      "summary": "124 points, 54 comments",
       "publishedAt": "2026-09-14T16:02:02.000Z"
     },
     {
@@ -340,17 +457,8 @@
       "category": "general",
       "title": "Distributed Systems Classics (2017)",
       "link": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "142 points, 30 comments",
+      "summary": "208 points, 40 comments",
       "publishedAt": "2026-09-14T16:02:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Truncated SVD (2023)",
-      "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "summary": "26 points, 3 comments",
-      "publishedAt": "2026-09-14T16:00:33.000Z"
     },
     {
       "source": "Google AI",
@@ -376,7 +484,7 @@
       "category": "general",
       "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
       "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "summary": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "summary": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
       "publishedAt": "2026-09-14T15:34:31.000Z"
     },
     {
@@ -385,7 +493,7 @@
       "category": "general",
       "title": "A Beginning for Mathematics",
       "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "summary": "77 points, 15 comments",
+      "summary": "149 points, 85 comments",
       "publishedAt": "2026-09-14T15:33:07.000Z"
     },
     {
@@ -394,7 +502,7 @@
       "category": "general",
       "title": "Principles for Fast Tokio Applications",
       "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "summary": "102 points, 15 comments",
+      "summary": "151 points, 33 comments",
       "publishedAt": "2026-09-14T15:27:56.000Z"
     },
     {
@@ -412,7 +520,7 @@
       "category": "general",
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "publishedAt": "2026-09-14T14:45:44.000Z"
     },
     {
@@ -452,15 +560,6 @@
       "publishedAt": "2026-09-14T14:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "summary": "92 points, 44 comments",
-      "publishedAt": "2026-09-14T13:59:09.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -475,7 +574,7 @@
       "category": "general",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "247 points, 220 comments",
+      "summary": "335 points, 289 comments",
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
@@ -520,7 +619,7 @@
       "category": "general",
       "title": "XCancel service is suspended until further notice",
       "link": "https://xcancel.com/#",
-      "summary": "249 points, 523 comments",
+      "summary": "385 points, 701 comments",
       "publishedAt": "2026-09-14T09:51:50.000Z"
     },
     {
@@ -596,40 +695,13 @@
       "publishedAt": "2026-09-13T20:28:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "publishedAt": "2026-09-13T19:40:15.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "265 points, 812 comments",
+      "summary": "286 points, 887 comments",
       "publishedAt": "2026-09-13T17:31:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "publishedAt": "2026-09-13T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "publishedAt": "2026-09-13T16:04:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -677,6 +749,15 @@
       "publishedAt": "2026-09-12T18:00:21.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Compressing a Flag to 11 Bits",
+      "link": "https://read.vantezzen.io/miniflags",
+      "summary": "21 points, 6 comments",
+      "publishedAt": "2026-09-12T15:57:43.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -700,8 +781,17 @@
       "category": "general",
       "title": "An atlas of periodic solutions to the three-body problem",
       "link": "https://www.threebodyorbits.com/",
-      "summary": "281 points, 66 comments",
+      "summary": "324 points, 73 comments",
       "publishedAt": "2026-09-12T10:13:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Optimizing a Spin-Lock",
+      "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "summary": "24 points, 9 comments",
+      "publishedAt": "2026-09-12T09:43:44.000Z"
     },
     {
       "source": "Simon Willison",
@@ -776,15 +866,6 @@
       "publishedAt": "2026-09-11T18:49:39.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "publishedAt": "2026-09-11T18:22:22.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -801,15 +882,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an…",
       "publishedAt": "2026-09-11T17:28:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "summary": "NASA asks US states to show them the money.",
-      "publishedAt": "2026-09-11T16:20:43.000Z"
     },
     {
       "source": "Simon Willison",
@@ -855,42 +927,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
       "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it al…",
       "publishedAt": "2026-09-11T13:51:32.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "publishedAt": "2026-09-11T13:02:35.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "publishedAt": "2026-09-11T11:30:58.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "What happens when quantum mechanics and relativity meet?",
-      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
-      "publishedAt": "2026-09-11T11:20:02.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-      "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-      "publishedAt": "2026-09-11T11:00:44.000Z"
     },
     {
       "source": "OpenAI",
@@ -965,24 +1001,6 @@
       "publishedAt": "2026-09-11T00:05:54.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Any Nix package, live in your browser",
-      "link": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser thro…",
-      "publishedAt": "2026-09-10T23:44:15.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Native is now the future of mobile at Shopify",
-      "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from nativ…",
-      "publishedAt": "2026-09-10T21:11:15.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1049,28 +1067,19 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Apollo Lunar Module landing simulation",
-      "link": "https://gosandeep.com/eagles-descent/",
-      "summary": "12 points, 1 comments",
-      "publishedAt": "2026-09-09T18:29:37.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
