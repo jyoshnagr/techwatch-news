@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:49:34.479Z",
+  "updatedAt": "2026-09-14T10:22:15.334Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,35 +52,80 @@
       "category": "ai"
     }
   ],
-  "itemCount": 150,
+  "itemCount": 151,
   "errors": [],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "summary": "25 points, 13 comments",
-      "publishedAt": "2026-09-14T02:50:40.000Z"
+      "title": "XCancel Taken Down Again",
+      "link": "https://xcancel.com/#",
+      "summary": "44 points, 20 comments",
+      "publishedAt": "2026-09-14T09:51:50.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved",
+      "link": "https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agents behaved during their hack of Hugging Face earlier this year. Roughly 700 a…",
+      "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Malicious Use of Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1802.07228",
-      "summary": "19 points, 4 comments",
-      "publishedAt": "2026-09-14T01:22:35.000Z"
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "summary": "27 points, 10 comments",
+      "publishedAt": "2026-09-14T08:25:57.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Exploring the intersection of prediction markets and social media",
-      "link": "https://www.thevidmarket.com/",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-09-14T01:14:25.000Z"
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "34 points, 9 comments",
+      "publishedAt": "2026-09-14T08:25:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "11 points, 3 comments",
+      "publishedAt": "2026-09-14T07:55:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "link": "https://screensize.net/reports/viewport-stats",
+      "summary": "16 points, 12 comments",
+      "publishedAt": "2026-09-14T07:35:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+      "link": "https://calif.io/research/oempocalypse",
+      "summary": "67 points, 28 comments",
+      "publishedAt": "2026-09-14T02:25:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "168 points, 228 comments",
+      "publishedAt": "2026-09-14T01:02:37.000Z"
     },
     {
       "source": "Simon Willison",
@@ -95,27 +140,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Writing a better reality: The case for optimistic sci-fi",
-      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-      "summary": "18 points, 10 comments",
-      "publishedAt": "2026-09-14T00:27:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "45 points, 2 comments",
-      "publishedAt": "2026-09-14T00:22:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Apple's Dimensional Drawings",
       "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "summary": "55 points, 9 comments",
+      "summary": "202 points, 78 comments",
       "publishedAt": "2026-09-14T00:11:21.000Z"
     },
     {
@@ -151,7 +178,7 @@
       "category": "general",
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "119 points, 63 comments",
+      "summary": "268 points, 129 comments",
       "publishedAt": "2026-09-13T21:47:04.000Z"
     },
     {
@@ -169,7 +196,7 @@
       "category": "general",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "573 points, 249 comments",
+      "summary": "961 points, 410 comments",
       "publishedAt": "2026-09-13T21:06:13.000Z"
     },
     {
@@ -180,15 +207,6 @@
       "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
       "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
       "publishedAt": "2026-09-13T20:49:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "70 points, 8 comments",
-      "publishedAt": "2026-09-13T20:33:18.000Z"
     },
     {
       "source": "TechCrunch",
@@ -232,7 +250,7 @@
       "category": "general",
       "title": "Why is Google still serving dodgy ads?",
       "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "655 points, 305 comments",
+      "summary": "824 points, 365 comments",
       "publishedAt": "2026-09-13T17:37:44.000Z"
     },
     {
@@ -250,7 +268,7 @@
       "category": "general",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "105 points, 254 comments",
+      "summary": "174 points, 551 comments",
       "publishedAt": "2026-09-13T17:31:38.000Z"
     },
     {
@@ -272,15 +290,6 @@
       "publishedAt": "2026-09-13T16:04:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "401 points, 180 comments",
-      "publishedAt": "2026-09-13T14:28:36.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -288,15 +297,6 @@
       "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
       "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were take…",
       "publishedAt": "2026-09-13T14:28:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Making Startups Powerful",
-      "link": "https://paulgraham.com/powerful.html",
-      "summary": "180 points, 79 comments",
-      "publishedAt": "2026-09-13T14:09:53.000Z"
     },
     {
       "source": "TechCrunch",
@@ -315,15 +315,6 @@
       "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
       "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take ove…",
       "publishedAt": "2026-09-13T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "221 points, 51 comments",
-      "publishedAt": "2026-09-13T12:30:15.000Z"
     },
     {
       "source": "The Verge",
@@ -479,6 +470,15 @@
       "publishedAt": "2026-09-12T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "link": "https://www.threebodyorbits.com/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-09-12T10:13:24.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -486,6 +486,15 @@
       "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
       "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (…",
       "publishedAt": "2026-09-12T00:42:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Nature of Dance",
+      "link": "https://vester.si/blog/nature-of-dance/",
+      "summary": "7 points, 6 comments",
+      "publishedAt": "2026-09-12T00:17:23.000Z"
     },
     {
       "source": "Ars Technica",
@@ -646,7 +655,7 @@
       "category": "general",
       "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
       "link": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "summary": "8 points, 0 comments",
+      "summary": "71 points, 21 comments",
       "publishedAt": "2026-09-11T17:38:11.000Z"
     },
     {
@@ -776,6 +785,15 @@
       "publishedAt": "2026-09-11T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+      "link": "https://danluu.com/exercise-7/",
+      "summary": "29 points, 9 comments",
+      "publishedAt": "2026-09-11T09:31:27.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -871,7 +889,7 @@
       "category": "general",
       "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
       "link": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "summary": "42 points, 8 comments",
+      "summary": "83 points, 39 comments",
       "publishedAt": "2026-09-10T19:39:13.000Z"
     },
     {
@@ -934,7 +952,7 @@
       "category": "general",
       "title": "Julia 1.13 highlights",
       "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "summary": "175 points, 12 comments",
+      "summary": "232 points, 21 comments",
       "publishedAt": "2026-09-10T12:27:25.000Z"
     },
     {
@@ -970,7 +988,7 @@
       "category": "general",
       "title": "Spaceships (Reverse Asteroid)",
       "link": "https://spaceships.treybastian.com/",
-      "summary": "70 points, 16 comments",
+      "summary": "240 points, 44 comments",
       "publishedAt": "2026-09-10T04:44:32.000Z"
     },
     {
@@ -986,18 +1004,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
@@ -1188,15 +1206,6 @@
       "link": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The a…",
       "publishedAt": "2026-09-06T06:59:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: A Few Predicted Talks From QConAI 2030",
-      "link": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT. She shares insights on agent-dri…",
-      "publishedAt": "2026-09-05T11:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
