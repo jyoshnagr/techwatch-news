@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T18:44:26.210Z",
+  "updatedAt": "2026-09-15T22:44:19.458Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,132 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "publishedAt": "2026-09-15T21:47:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "summary": "76 points, 13 comments",
+      "publishedAt": "2026-09-15T21:07:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "summary": "62 points, 9 comments",
+      "publishedAt": "2026-09-15T20:57:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it…",
+      "publishedAt": "2026-09-15T20:36:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "What if social media isn’t hurting kids?",
+      "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+      "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decl…",
+      "publishedAt": "2026-09-15T20:13:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "publishedAt": "2026-09-15T20:12:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "link": "https://codyho.dev/blog/gpu-driver/",
+      "summary": "84 points, 34 comments",
+      "publishedAt": "2026-09-15T19:30:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "link": "https://github.com/GraafHenk/numberwang",
+      "summary": "78 points, 29 comments",
+      "publishedAt": "2026-09-15T19:27:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "summary": "521 points, 178 comments",
+      "publishedAt": "2026-09-15T19:25:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "link": "https://mnoukhov.github.io/posts/ngu/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-09-15T19:07:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "publishedAt": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "publishedAt": "2026-09-15T18:58:09.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+      "summary": "Reaching orbit would mark a significant milestone.",
+      "publishedAt": "2026-09-15T18:48:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Chopping up books when they're physically too big",
+      "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "summary": "87 points, 79 comments",
+      "publishedAt": "2026-09-15T18:45:31.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -65,6 +191,15 @@
       "publishedAt": "2026-09-15T18:39:44.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "publishedAt": "2026-09-15T18:33:02.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -72,15 +207,6 @@
       "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
       "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
       "publishedAt": "2026-09-15T18:29:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How AI tool calling works (40 lines of vanilla JavaScript)",
-      "link": "https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-15T18:27:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -106,7 +232,7 @@
       "category": "general",
       "title": "We got admin access to Baseten's production GitHub in 25 minutes",
       "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "42 points, 11 comments",
+      "summary": "169 points, 88 comments",
       "publishedAt": "2026-09-15T18:11:24.000Z"
     },
     {
@@ -133,7 +259,7 @@
       "category": "general",
       "title": "An Update on Wayback Machine Access",
       "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "65 points, 14 comments",
+      "summary": "300 points, 161 comments",
       "publishedAt": "2026-09-15T17:52:18.000Z"
     },
     {
@@ -151,8 +277,17 @@
       "category": "general",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "23 points, 2 comments",
+      "summary": "223 points, 157 comments",
       "publishedAt": "2026-09-15T17:38:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "summary": "17 points, 3 comments",
+      "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
       "source": "Hacker News",
@@ -160,14 +295,14 @@
       "category": "general",
       "title": "GEFS on OpenBSD: A Early Preview",
       "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-      "summary": "42 points, 18 comments",
+      "summary": "90 points, 49 comments",
       "publishedAt": "2026-09-15T17:12:19.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "US military confirms it launched space weapons into Earth’s orbit",
+      "title": "US military says it has launched weapons into space",
       "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
       "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
       "publishedAt": "2026-09-15T17:09:06.000Z"
@@ -281,15 +416,6 @@
       "publishedAt": "2026-09-15T15:47:03.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "link": "https://www.formas.ai/cartesian",
-      "summary": "56 points, 49 comments",
-      "publishedAt": "2026-09-15T15:26:45.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -340,7 +466,7 @@
       "category": "general",
       "title": "The CSS Zen Garden dream, finally shipped",
       "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-      "summary": "64 points, 29 comments",
+      "summary": "110 points, 53 comments",
       "publishedAt": "2026-09-15T14:40:08.000Z"
     },
     {
@@ -351,15 +477,6 @@
       "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
       "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register…",
       "publishedAt": "2026-09-15T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Inference Hardware Revolution of 2026",
-      "link": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "summary": "36 points, 3 comments",
-      "publishedAt": "2026-09-15T14:24:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -421,7 +538,7 @@
       "category": "general",
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "link": "https://withcapsule.app/",
-      "summary": "200 points, 98 comments",
+      "summary": "256 points, 112 comments",
       "publishedAt": "2026-09-15T13:31:40.000Z"
     },
     {
@@ -432,15 +549,6 @@
       "link": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
       "summary": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
       "publishedAt": "2026-09-15T13:27:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "link": "https://bkovac.github.io/modem-thing/",
-      "summary": "133 points, 21 comments",
-      "publishedAt": "2026-09-15T13:20:24.000Z"
     },
     {
       "source": "Google AI",
@@ -461,33 +569,6 @@
       "publishedAt": "2026-09-15T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
-      "link": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
-      "summary": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
-      "publishedAt": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
-      "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-      "summary": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod…",
-      "publishedAt": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-      "link": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-      "summary": "The AirPods 5 earbuds and case look identical to the AirPods 4. It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) m…",
-      "publishedAt": "2026-09-15T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -502,17 +583,8 @@
       "category": "general",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "link": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "856 points, 116 comments",
+      "summary": "1174 points, 158 comments",
       "publishedAt": "2026-09-15T12:31:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "New Italian unicorn Exein rides the physical AI wave",
-      "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
-      "publishedAt": "2026-09-15T12:19:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -524,21 +596,12 @@
       "publishedAt": "2026-09-15T12:00:41.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Let's make quality the norm again",
       "link": "https://www.forbrukerradet.no/short-life/",
-      "summary": "186 points, 171 comments",
+      "summary": "269 points, 278 comments",
       "publishedAt": "2026-09-15T10:00:16.000Z"
     },
     {
@@ -565,17 +628,8 @@
       "category": "general",
       "title": "I can't stop thinking about Papua New Guinea",
       "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "summary": "819 points, 343 comments",
+      "summary": "986 points, 407 comments",
       "publishedAt": "2026-09-15T06:16:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "summary": "328 points, 205 comments",
-      "publishedAt": "2026-09-15T03:47:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -585,6 +639,15 @@
       "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
       "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
       "publishedAt": "2026-09-15T03:47:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Vibe Coding is the new Internet Dating?",
+      "link": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+      "summary": "20 points, 32 comments",
+      "publishedAt": "2026-09-15T01:45:53.000Z"
     },
     {
       "source": "Ars Technica",
@@ -612,15 +675,6 @@
       "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
       "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story…",
       "publishedAt": "2026-09-14T21:18:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "link": "https://www.effort.news/irregular",
-      "summary": "204 points, 70 comments",
-      "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
       "source": "Ars Technica",
@@ -704,33 +758,6 @@
       "publishedAt": "2026-09-14T18:03:16.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-      "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-      "summary": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
-      "publishedAt": "2026-09-14T17:10:54.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Steam Frame: The Ars Technica review",
-      "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
-      "summary": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
-      "publishedAt": "2026-09-14T17:00:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "\"Offensively cheap\": Solar power is looking up",
-      "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
-      "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
-      "publishedAt": "2026-09-14T16:29:18.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -747,15 +774,6 @@
       "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
       "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it pr…",
       "publishedAt": "2026-09-14T14:34:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Most people prefer traditional architecture",
-      "link": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "summary": "157 points, 73 comments",
-      "publishedAt": "2026-09-14T14:30:17.000Z"
     },
     {
       "source": "OpenAI",
@@ -794,15 +812,6 @@
       "publishedAt": "2026-09-14T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Archiving pirate radio station Kool FM",
-      "link": "https://londonist.com/london/music/kool-fm-archives",
-      "summary": "63 points, 24 comments",
-      "publishedAt": "2026-09-14T10:01:05.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -839,15 +848,6 @@
       "publishedAt": "2026-09-13T23:58:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rat and Mouse Gazette: Nursing Care (1996)",
-      "link": "https://www.rmca.org/Articles/nurse.htm",
-      "summary": "8 points, 0 comments",
-      "publishedAt": "2026-09-13T23:22:15.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -857,6 +857,15 @@
       "publishedAt": "2026-09-13T06:06:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+      "summary": "12 points, 1 comments",
+      "publishedAt": "2026-09-13T04:09:19.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -864,15 +873,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and prod…",
       "publishedAt": "2026-09-12T23:56:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Giving up on smart rings",
-      "link": "https://notesbylex.com/giving-up-on-smart-rings",
-      "summary": "38 points, 68 comments",
-      "publishedAt": "2026-09-12T22:00:20.000Z"
     },
     {
       "source": "Simon Willison",
