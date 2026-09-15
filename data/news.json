@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T03:49:28.812Z",
+  "updatedAt": "2026-09-15T09:48:40.220Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,78 @@
   "errors": [],
   "items": [
     {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
+      "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two…",
+      "publishedAt": "2026-09-15T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this mon…",
+      "publishedAt": "2026-09-15T08:54:48.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+      "publishedAt": "2026-09-15T07:00:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-09-15T07:00:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+      "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+      "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its P…",
+      "publishedAt": "2026-09-15T07:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "summary": "148 points, 47 comments",
+      "publishedAt": "2026-09-15T06:16:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Linux from Scratch",
+      "link": "https://www.linuxfromscratch.org/",
+      "summary": "178 points, 58 comments",
+      "publishedAt": "2026-09-15T04:15:23.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+      "publishedAt": "2026-09-15T03:47:36.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -79,7 +151,7 @@
       "category": "general",
       "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "45 points, 9 comments",
+      "summary": "71 points, 17 comments",
       "publishedAt": "2026-09-14T23:01:36.000Z"
     },
     {
@@ -133,7 +205,7 @@
       "category": "general",
       "title": "Charts built for Chat",
       "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "summary": "138 points, 45 comments",
+      "summary": "226 points, 70 comments",
       "publishedAt": "2026-09-14T21:22:54.000Z"
     },
     {
@@ -313,7 +385,7 @@
       "category": "general",
       "title": "iOS 27, iPadOS 27, and macOS 27",
       "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "445 points, 496 comments",
+      "summary": "601 points, 681 comments",
       "publishedAt": "2026-09-14T17:50:29.000Z"
     },
     {
@@ -326,30 +398,12 @@
       "publishedAt": "2026-09-14T17:41:20.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "TIFF 2026: The latest movie reviews from Toronto",
-      "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-      "summary": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be hu…",
-      "publishedAt": "2026-09-14T17:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Steam Frame starts at $1059",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "summary": "553 points, 425 comments",
-      "publishedAt": "2026-09-14T17:27:55.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Pion, an agent designed to run any company autonomously",
       "link": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "317 points, 352 comments",
+      "summary": "408 points, 507 comments",
       "publishedAt": "2026-09-14T17:16:06.000Z"
     },
     {
@@ -371,15 +425,6 @@
       "publishedAt": "2026-09-14T17:10:30.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "macOS 27 is available now",
-      "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel M…",
-      "publishedAt": "2026-09-14T17:10:13.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -387,15 +432,6 @@
       "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
       "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
       "publishedAt": "2026-09-14T17:10:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "97 points, 26 comments",
-      "publishedAt": "2026-09-14T17:02:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -416,15 +452,6 @@
       "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why don't machine learning research agents overfit?",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "111 points, 62 comments",
-      "publishedAt": "2026-09-14T16:32:23.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -443,15 +470,6 @@
       "publishedAt": "2026-09-14T16:27:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How my e-reader lost its stripes",
-      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "164 points, 26 comments",
-      "publishedAt": "2026-09-14T16:23:16.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -466,7 +484,7 @@
       "category": "general",
       "title": "Distributed Systems Classics (2017)",
       "link": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "249 points, 56 comments",
+      "summary": "303 points, 66 comments",
       "publishedAt": "2026-09-14T16:02:01.000Z"
     },
     {
@@ -500,9 +518,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A Beginning for Mathematics",
+      "title": "A beginning for mathematics",
       "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "summary": "177 points, 104 comments",
+      "summary": "224 points, 121 comments",
       "publishedAt": "2026-09-14T15:33:07.000Z"
     },
     {
@@ -511,7 +529,7 @@
       "category": "general",
       "title": "Principles for Fast Tokio Applications",
       "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "summary": "175 points, 44 comments",
+      "summary": "213 points, 52 comments",
       "publishedAt": "2026-09-14T15:27:56.000Z"
     },
     {
@@ -565,7 +583,7 @@
       "category": "general",
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
       "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "summary": "53 points, 17 comments",
+      "summary": "113 points, 27 comments",
       "publishedAt": "2026-09-14T14:29:23.000Z"
     },
     {
@@ -590,10 +608,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "People who can't picture anything are rewriting the science of imagination",
-      "link": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-      "summary": "113 points, 182 comments",
-      "publishedAt": "2026-09-14T13:23:53.000Z"
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "summary": "187 points, 193 comments",
+      "publishedAt": "2026-09-14T13:38:58.000Z"
     },
     {
       "source": "Hacker News",
@@ -601,7 +619,7 @@
       "category": "general",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "394 points, 332 comments",
+      "summary": "462 points, 370 comments",
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
@@ -612,6 +630,15 @@
       "link": "https://openai.com/index/fyxer",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "publishedAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "High-performance garbage collection for C++",
+      "link": "https://v8.dev/blog/high-performance-cpp-gc",
+      "summary": "39 points, 5 comments",
+      "publishedAt": "2026-09-14T11:55:44.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -646,7 +673,7 @@
       "category": "general",
       "title": "XCancel service is suspended until further notice",
       "link": "https://xcancel.com/#",
-      "summary": "504 points, 803 comments",
+      "summary": "633 points, 936 comments",
       "publishedAt": "2026-09-14T09:51:50.000Z"
     },
     {
@@ -666,15 +693,6 @@
       "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
       "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue ID…",
       "publishedAt": "2026-09-14T00:28:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The biggest dinosaurs couldn't sit on their eggs",
-      "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
-      "summary": "18 points, 3 comments",
-      "publishedAt": "2026-09-14T00:00:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -725,10 +743,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "308 points, 960 comments",
-      "publishedAt": "2026-09-13T17:31:38.000Z"
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "link": "https://github.com/enactic/OpenArm",
+      "summary": "89 points, 18 comments",
+      "publishedAt": "2026-09-13T14:17:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -770,9 +788,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "link": "https://poltora.dev/redis",
+      "summary": "86 points, 14 comments",
+      "publishedAt": "2026-09-12T19:43:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
       "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "summary": "46 points, 5 comments",
+      "summary": "132 points, 40 comments",
       "publishedAt": "2026-09-12T18:51:40.000Z"
     },
     {
@@ -788,9 +815,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Compressing a Flag to 11 Bits",
+      "title": "Compressing a flag to 11 bits",
       "link": "https://read.vantezzen.io/miniflags",
-      "summary": "92 points, 39 comments",
+      "summary": "144 points, 59 comments",
       "publishedAt": "2026-09-12T15:57:43.000Z"
     },
     {
@@ -810,15 +837,6 @@
       "link": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as trut…",
       "publishedAt": "2026-09-12T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Optimizing a Spin-Lock",
-      "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "summary": "48 points, 24 comments",
-      "publishedAt": "2026-09-12T09:43:44.000Z"
     },
     {
       "source": "Simon Willison",
@@ -848,22 +866,13 @@
       "publishedAt": "2026-09-11T22:49:18.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Random rewards enrich classic game-theory insights",
-      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-      "summary": "Simple games gain rich strategies in the face of noise.",
-      "publishedAt": "2026-09-11T21:41:16.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-      "publishedAt": "2026-09-11T21:14:26.000Z"
+      "title": "Forgotten Woodlands",
+      "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "summary": "59 points, 21 comments",
+      "publishedAt": "2026-09-11T21:21:04.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1179,15 +1188,6 @@
       "link": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "publishedAt": "2026-09-08T13:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access",
-      "link": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "GitLab warns that isolating an AI coding agent in a sandbox does not necessarily make the agent safe. In a new security analysis, the company describes an internal evaluation in which an AI agent escaped its sandbox by e…",
-      "publishedAt": "2026-09-08T12:00:00.000Z"
     },
     {
       "source": "OpenAI",
