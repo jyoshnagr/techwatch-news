@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:58:51.932Z",
+  "updatedAt": "2026-09-15T03:49:28.812Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,13 +56,58 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "publishedAt": "2026-09-15T01:50:48.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Apple Home’s new security camera features cost up to $60 a month",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The…",
+      "publishedAt": "2026-09-15T00:13:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "summary": "45 points, 9 comments",
+      "publishedAt": "2026-09-14T23:01:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive…",
+      "publishedAt": "2026-09-14T22:59:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
       "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
       "summary": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but…",
       "publishedAt": "2026-09-14T22:28:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "publishedAt": "2026-09-14T22:06:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -74,12 +119,21 @@
       "publishedAt": "2026-09-14T21:51:02.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "publishedAt": "2026-09-14T21:32:22.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Charts built for Chat",
       "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "summary": "25 points, 6 comments",
+      "summary": "138 points, 45 comments",
       "publishedAt": "2026-09-14T21:22:54.000Z"
     },
     {
@@ -101,13 +155,13 @@
       "publishedAt": "2026-09-14T21:18:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "summary": "135 points, 134 comments",
-      "publishedAt": "2026-09-14T21:05:22.000Z"
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "publishedAt": "2026-09-14T21:04:32.000Z"
     },
     {
       "source": "The Verge",
@@ -153,15 +207,6 @@
       "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took…",
       "publishedAt": "2026-09-14T20:03:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "summary": "75 points, 93 comments",
-      "publishedAt": "2026-09-14T19:56:20.000Z"
     },
     {
       "source": "The Verge",
@@ -263,6 +308,15 @@
       "publishedAt": "2026-09-14T18:03:16.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "445 points, 496 comments",
+      "publishedAt": "2026-09-14T17:50:29.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -284,9 +338,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Steam Frame starts at $1059",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "summary": "553 points, 425 comments",
+      "publishedAt": "2026-09-14T17:27:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Pion, an agent designed to run any company autonomously",
       "link": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "235 points, 244 comments",
+      "summary": "317 points, 352 comments",
       "publishedAt": "2026-09-14T17:16:06.000Z"
     },
     {
@@ -326,31 +389,13 @@
       "publishedAt": "2026-09-14T17:10:09.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "summary": "The iOS 27 update arrives just in time for the iPhone 18 Pro release. | Photo by Allison Johnson / The Verge Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, an…",
-      "publishedAt": "2026-09-14T17:08:49.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
       "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "72 points, 20 comments",
+      "summary": "97 points, 26 comments",
       "publishedAt": "2026-09-14T17:02:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-14T17:00:53.000Z"
     },
     {
       "source": "Ars Technica",
@@ -371,21 +416,12 @@
       "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of…",
-      "publishedAt": "2026-09-14T17:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Why don't machine learning research agents overfit?",
       "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "91 points, 53 comments",
+      "summary": "111 points, 62 comments",
       "publishedAt": "2026-09-14T16:32:23.000Z"
     },
     {
@@ -412,26 +448,8 @@
       "category": "general",
       "title": "How my e-reader lost its stripes",
       "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "125 points, 17 comments",
+      "summary": "164 points, 26 comments",
       "publishedAt": "2026-09-14T16:23:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "summary": "175 points, 94 comments",
-      "publishedAt": "2026-09-14T16:09:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-      "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "summary": "58 points, 12 comments",
-      "publishedAt": "2026-09-14T16:07:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -446,18 +464,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "link": "https://www.neobrutalism.dev/",
-      "summary": "124 points, 54 comments",
-      "publishedAt": "2026-09-14T16:02:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Distributed Systems Classics (2017)",
       "link": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "208 points, 40 comments",
+      "summary": "249 points, 56 comments",
       "publishedAt": "2026-09-14T16:02:01.000Z"
     },
     {
@@ -493,7 +502,7 @@
       "category": "general",
       "title": "A Beginning for Mathematics",
       "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "summary": "149 points, 85 comments",
+      "summary": "177 points, 104 comments",
       "publishedAt": "2026-09-14T15:33:07.000Z"
     },
     {
@@ -502,7 +511,7 @@
       "category": "general",
       "title": "Principles for Fast Tokio Applications",
       "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "summary": "151 points, 33 comments",
+      "summary": "175 points, 44 comments",
       "publishedAt": "2026-09-14T15:27:56.000Z"
     },
     {
@@ -551,6 +560,15 @@
       "publishedAt": "2026-09-14T14:30:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "summary": "53 points, 17 comments",
+      "publishedAt": "2026-09-14T14:29:23.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -572,9 +590,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "link": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "summary": "113 points, 182 comments",
+      "publishedAt": "2026-09-14T13:23:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "335 points, 289 comments",
+      "summary": "394 points, 332 comments",
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
@@ -619,7 +646,7 @@
       "category": "general",
       "title": "XCancel service is suspended until further notice",
       "link": "https://xcancel.com/#",
-      "summary": "385 points, 701 comments",
+      "summary": "504 points, 803 comments",
       "publishedAt": "2026-09-14T09:51:50.000Z"
     },
     {
@@ -639,6 +666,15 @@
       "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
       "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue ID…",
       "publishedAt": "2026-09-14T00:28:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The biggest dinosaurs couldn't sit on their eggs",
+      "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+      "summary": "18 points, 3 comments",
+      "publishedAt": "2026-09-14T00:00:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -686,21 +722,12 @@
       "publishedAt": "2026-09-13T20:49:38.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "publishedAt": "2026-09-13T20:28:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "286 points, 887 comments",
+      "summary": "308 points, 960 comments",
       "publishedAt": "2026-09-13T17:31:38.000Z"
     },
     {
@@ -740,6 +767,15 @@
       "publishedAt": "2026-09-12T21:16:09.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "summary": "46 points, 5 comments",
+      "publishedAt": "2026-09-12T18:51:40.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -754,7 +790,7 @@
       "category": "general",
       "title": "Compressing a Flag to 11 Bits",
       "link": "https://read.vantezzen.io/miniflags",
-      "summary": "21 points, 6 comments",
+      "summary": "92 points, 39 comments",
       "publishedAt": "2026-09-12T15:57:43.000Z"
     },
     {
@@ -779,18 +815,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "link": "https://www.threebodyorbits.com/",
-      "summary": "324 points, 73 comments",
-      "publishedAt": "2026-09-12T10:13:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Optimizing a Spin-Lock",
       "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "summary": "24 points, 9 comments",
+      "summary": "48 points, 24 comments",
       "publishedAt": "2026-09-12T09:43:44.000Z"
     },
     {
@@ -837,33 +864,6 @@
       "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
       "summary": "The strain lurking in the inflatable structure was hypervirulent.",
       "publishedAt": "2026-09-11T21:14:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-      "publishedAt": "2026-09-11T20:32:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "publishedAt": "2026-09-11T19:34:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-      "publishedAt": "2026-09-11T18:49:39.000Z"
     },
     {
       "source": "Simon Willison",
