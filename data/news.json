@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:43:57.888Z",
+  "updatedAt": "2026-09-16T14:40:46.497Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,13 +56,247 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Amazon gives its workers a raise of $1 per hour",
+      "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+      "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+      "publishedAt": "2026-09-16T14:32:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders and audience insights, as Meta looks to make the X rival a bigger hub for podcast promot…",
+      "publishedAt": "2026-09-16T14:24:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch…",
+      "publishedAt": "2026-09-16T14:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "publishedAt": "2026-09-16T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "summary": "68 points, 45 comments",
+      "publishedAt": "2026-09-16T13:51:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
+      "link": "https://arxiv.org/abs/2609.14858",
+      "summary": "18 points, 4 comments",
+      "publishedAt": "2026-09-16T13:44:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "publishedAt": "2026-09-16T13:23:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "summary": "111 points, 36 comments",
+      "publishedAt": "2026-09-16T13:18:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "link": "https://www.cloudx.ai/posts/setup-go",
+      "summary": "24 points, 1 comments",
+      "publishedAt": "2026-09-16T13:02:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "link": "https://stale.jock.pl/",
+      "summary": "15 points, 6 comments",
+      "publishedAt": "2026-09-16T13:01:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "link": "https://github.com/officefloor/ImpactGate",
+      "summary": "27 points, 28 comments",
+      "publishedAt": "2026-09-16T13:01:09.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "publishedAt": "2026-09-16T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "publishedAt": "2026-09-16T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "summary": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
+      "publishedAt": "2026-09-16T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-09-16T12:01:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "A brief history of AI executives calling for regulation",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario…",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
+      "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
+      "summary": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy…",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+      "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+      "summary": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely…",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "summary": "109 points, 32 comments",
+      "publishedAt": "2026-09-16T11:49:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "link": "https://gultsch.social/@daniel/117280438824908947",
+      "summary": "186 points, 158 comments",
+      "publishedAt": "2026-09-16T11:19:11.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Article: Your Next DSL Author Is a Language Model",
+      "link": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrast…",
+      "publishedAt": "2026-09-16T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review",
+      "link": "https://www.infoq.com/presentations/duolingo-ai-literacy-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Sarah Deitke discusses how Duolingo drives cultural AI adoption beyond tooling access. She explains their internal AI literacy workshops and observability dashboards, then shares a case study on redesigning code review u…",
+      "publishedAt": "2026-09-16T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Salesforce Global Outage",
+      "link": "https://status.salesforce.com/products/all",
+      "summary": "162 points, 83 comments",
+      "publishedAt": "2026-09-16T10:37:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+      "publishedAt": "2026-09-16T10:34:47.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Learning Programming in an Age of LLMs",
       "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "summary": "3 points, 0 comments",
+      "summary": "147 points, 90 comments",
       "publishedAt": "2026-09-16T09:12:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information…",
+      "publishedAt": "2026-09-16T08:54:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "summary": "260 points, 81 comments",
+      "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -72,33 +306,6 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has outlined how a decade of infrastructure optimization is helping it absorb growing demand from AI without treating new data-center capacity as the only answer. Its work spans forecasting, fleet utilization, st…",
       "publishedAt": "2026-09-16T07:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-      "link": "https://github.com/dbalsom/martypc",
-      "summary": "13 points, 1 comments",
-      "publishedAt": "2026-09-16T05:56:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A software thing I built: GPS on a 25MHz 486-SX",
-      "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-      "summary": "23 points, 6 comments",
-      "publishedAt": "2026-09-16T05:43:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Datamimic – don't let your coding agent invent its own test world",
-      "link": "https://github.com/rapiddweller/datamimic",
-      "summary": "38 points, 5 comments",
-      "publishedAt": "2026-09-16T04:58:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -113,18 +320,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "summary": "81 points, 19 comments",
-      "publishedAt": "2026-09-16T02:46:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Apple Reference Image: A New Approach for Verified Photography",
       "link": "https://security.apple.com/blog/apple-reference-image/",
-      "summary": "245 points, 163 comments",
+      "summary": "375 points, 248 comments",
       "publishedAt": "2026-09-16T02:07:31.000Z"
     },
     {
@@ -160,26 +358,8 @@
       "category": "general",
       "title": "AI and data centers are incredibly unpopular in every poll",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support…",
+      "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support…",
       "publishedAt": "2026-09-15T23:34:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Saving Jet Fuel",
-      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "summary": "95 points, 44 comments",
-      "publishedAt": "2026-09-15T23:17:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "summary": "125 points, 34 comments",
-      "publishedAt": "2026-09-15T22:50:55.000Z"
     },
     {
       "source": "Simon Willison",
@@ -207,15 +387,6 @@
       "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "publishedAt": "2026-09-15T21:47:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "216 points, 77 comments",
-      "publishedAt": "2026-09-15T21:07:47.000Z"
     },
     {
       "source": "The Verge",
@@ -257,18 +428,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "link": "https://codyho.dev/blog/gpu-driver/",
-      "summary": "317 points, 181 comments",
-      "publishedAt": "2026-09-15T19:30:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Introducing System One Models and Jev",
       "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "1378 points, 392 comments",
+      "summary": "1607 points, 442 comments",
       "publishedAt": "2026-09-15T19:25:03.000Z"
     },
     {
@@ -344,24 +506,6 @@
       "publishedAt": "2026-09-15T18:14:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We got admin access to Baseten's production GitHub",
-      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "277 points, 153 comments",
-      "publishedAt": "2026-09-15T18:11:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "One of the best 3D printers for beginners is almost $100 off",
-      "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-      "summary": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a g…",
-      "publishedAt": "2026-09-15T18:02:30.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -376,7 +520,7 @@
       "category": "general",
       "title": "An update on Wayback Machine access",
       "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "533 points, 270 comments",
+      "summary": "617 points, 334 comments",
       "publishedAt": "2026-09-15T17:52:18.000Z"
     },
     {
@@ -387,24 +531,6 @@
       "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
       "publishedAt": "2026-09-15T17:42:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "410 points, 266 comments",
-      "publishedAt": "2026-09-15T17:38:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "summary": "227 points, 245 comments",
-      "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -443,15 +569,6 @@
       "publishedAt": "2026-09-15T17:02:04.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "How The Oregon Trail became a generational icon",
-      "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-      "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History,…",
-      "publishedAt": "2026-09-15T16:18:10.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -488,15 +605,6 @@
       "publishedAt": "2026-09-15T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
-      "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-      "summary": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-st…",
-      "publishedAt": "2026-09-15T16:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -504,87 +612,6 @@
       "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
       "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
       "publishedAt": "2026-09-15T15:49:18.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "publishedAt": "2026-09-15T15:47:03.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-      "publishedAt": "2026-09-15T15:22:48.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-      "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
-      "publishedAt": "2026-09-15T15:21:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Now Light’s minimalist phone can easily call an Uber",
-      "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
-      "summary": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light P…",
-      "publishedAt": "2026-09-15T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "publishedAt": "2026-09-15T14:42:37.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register…",
-      "publishedAt": "2026-09-15T14:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "summary": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
-      "publishedAt": "2026-09-15T14:22:49.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
-      "publishedAt": "2026-09-15T14:13:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "publishedAt": "2026-09-15T14:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -596,15 +623,6 @@
       "publishedAt": "2026-09-15T13:43:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "link": "https://withcapsule.app/",
-      "summary": "329 points, 138 comments",
-      "publishedAt": "2026-09-15T13:31:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -612,6 +630,15 @@
       "link": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
       "summary": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
       "publishedAt": "2026-09-15T13:27:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How Big Are Factorials?",
+      "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "summary": "7 points, 3 comments",
+      "publishedAt": "2026-09-15T13:25:38.000Z"
     },
     {
       "source": "Google AI",
@@ -637,7 +664,7 @@
       "category": "general",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "link": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1637 points, 204 comments",
+      "summary": "1801 points, 217 comments",
       "publishedAt": "2026-09-15T12:31:10.000Z"
     },
     {
@@ -682,7 +709,7 @@
       "category": "general",
       "title": "Doing Everyone Else's Job",
       "link": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "summary": "68 points, 29 comments",
+      "summary": "150 points, 65 comments",
       "publishedAt": "2026-09-15T00:01:31.000Z"
     },
     {
@@ -824,18 +851,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "link": "https://arxiv.org/abs/2511.07885",
-      "summary": "36 points, 3 comments",
-      "publishedAt": "2026-09-14T09:16:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
       "link": "https://inflightsimulator.com",
-      "summary": "187 points, 92 comments",
+      "summary": "291 points, 158 comments",
       "publishedAt": "2026-09-14T09:08:56.000Z"
     },
     {
@@ -873,6 +891,15 @@
       "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
       "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu…",
       "publishedAt": "2026-09-13T23:58:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Douglas Adams and the exterminated Doctor Who adventure",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+      "summary": "41 points, 24 comments",
+      "publishedAt": "2026-09-13T21:49:19.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1130,28 +1157,19 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
       "title": "Introducing the Agents API",
       "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
+      "source": "OpenAI",
+      "color": "#10a37f",
       "category": "ai",
-      "title": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
-      "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an \"organizational second b…",
-      "publishedAt": "2026-09-09T18:00:00.000Z"
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1196,15 +1214,6 @@
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "publishedAt": "2026-09-09T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
-      "link": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting…",
       "publishedAt": "2026-09-09T11:00:00.000Z"
     },
     {
@@ -1268,15 +1277,6 @@
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "publishedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "publishedAt": "2026-09-08T00:00:00.000Z"
     },
     {
