@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T22:44:19.458Z",
+  "updatedAt": "2026-09-16T03:46:32.197Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,105 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "summary": "18 points, 7 comments",
+      "publishedAt": "2026-09-16T02:46:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "summary": "28 points, 15 comments",
+      "publishedAt": "2026-09-16T02:25:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "link": "https://security.apple.com/blog/apple-reference-image/",
+      "summary": "32 points, 20 comments",
+      "publishedAt": "2026-09-16T02:07:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justif…",
+      "publishedAt": "2026-09-16T02:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2…",
+      "publishedAt": "2026-09-16T01:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "publishedAt": "2026-09-16T00:20:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support…",
+      "publishedAt": "2026-09-15T23:34:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Saving Jet Fuel",
+      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "summary": "50 points, 20 comments",
+      "publishedAt": "2026-09-15T23:17:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "summary": "59 points, 10 comments",
+      "publishedAt": "2026-09-15T22:50:55.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Gemini Live audio",
+      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the…",
+      "publishedAt": "2026-09-15T22:47:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+      "publishedAt": "2026-09-15T22:26:32.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -70,16 +169,16 @@
       "category": "general",
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "76 points, 13 comments",
+      "summary": "151 points, 44 comments",
       "publishedAt": "2026-09-15T21:07:47.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Jean-Pierre Serre is 100 years old today",
+      "title": "Jean-Pierre Serre turns 100",
       "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "summary": "62 points, 9 comments",
+      "summary": "105 points, 17 comments",
       "publishedAt": "2026-09-15T20:57:18.000Z"
     },
     {
@@ -90,6 +189,15 @@
       "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
       "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it…",
       "publishedAt": "2026-09-15T20:36:59.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
+      "publishedAt": "2026-09-15T20:19:17.000Z"
     },
     {
       "source": "The Verge",
@@ -115,7 +223,7 @@
       "category": "general",
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
       "link": "https://codyho.dev/blog/gpu-driver/",
-      "summary": "84 points, 34 comments",
+      "summary": "194 points, 117 comments",
       "publishedAt": "2026-09-15T19:30:03.000Z"
     },
     {
@@ -124,7 +232,7 @@
       "category": "general",
       "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
       "link": "https://github.com/GraafHenk/numberwang",
-      "summary": "78 points, 29 comments",
+      "summary": "121 points, 46 comments",
       "publishedAt": "2026-09-15T19:27:35.000Z"
     },
     {
@@ -133,7 +241,7 @@
       "category": "general",
       "title": "Introducing System One Models and Jev",
       "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "521 points, 178 comments",
+      "summary": "900 points, 287 comments",
       "publishedAt": "2026-09-15T19:25:03.000Z"
     },
     {
@@ -142,7 +250,7 @@
       "category": "general",
       "title": "Learning to solve hard problems in RL for LLMs by never giving up",
       "link": "https://mnoukhov.github.io/posts/ngu/",
-      "summary": "6 points, 0 comments",
+      "summary": "52 points, 0 comments",
       "publishedAt": "2026-09-15T19:07:38.000Z"
     },
     {
@@ -178,7 +286,7 @@
       "category": "general",
       "title": "Chopping up books when they're physically too big",
       "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "summary": "87 points, 79 comments",
+      "summary": "136 points, 133 comments",
       "publishedAt": "2026-09-15T18:45:31.000Z"
     },
     {
@@ -232,7 +340,7 @@
       "category": "general",
       "title": "We got admin access to Baseten's production GitHub in 25 minutes",
       "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "169 points, 88 comments",
+      "summary": "244 points, 134 comments",
       "publishedAt": "2026-09-15T18:11:24.000Z"
     },
     {
@@ -257,9 +365,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "An Update on Wayback Machine Access",
+      "title": "An update on Wayback Machine access",
       "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "300 points, 161 comments",
+      "summary": "428 points, 227 comments",
       "publishedAt": "2026-09-15T17:52:18.000Z"
     },
     {
@@ -277,26 +385,8 @@
       "category": "general",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "223 points, 157 comments",
+      "summary": "334 points, 207 comments",
       "publishedAt": "2026-09-15T17:38:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "summary": "17 points, 3 comments",
-      "publishedAt": "2026-09-15T17:37:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GEFS on OpenBSD: A Early Preview",
-      "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-      "summary": "90 points, 49 comments",
-      "publishedAt": "2026-09-15T17:12:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -333,15 +423,6 @@
       "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
       "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individ…",
       "publishedAt": "2026-09-15T17:02:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-15T17:00:31.000Z"
     },
     {
       "source": "The Verge",
@@ -443,15 +524,6 @@
       "publishedAt": "2026-09-15T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earl…",
-      "publishedAt": "2026-09-15T15:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -459,15 +531,6 @@
       "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
       "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
       "publishedAt": "2026-09-15T14:42:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The CSS Zen Garden dream, finally shipped",
-      "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-      "summary": "110 points, 53 comments",
-      "publishedAt": "2026-09-15T14:40:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -497,15 +560,6 @@
       "publishedAt": "2026-09-15T14:13:59.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
-      "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-      "summary": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a scree…",
-      "publishedAt": "2026-09-15T14:03:18.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -524,21 +578,12 @@
       "publishedAt": "2026-09-15T13:43:51.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new…",
-      "publishedAt": "2026-09-15T13:36:45.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "link": "https://withcapsule.app/",
-      "summary": "256 points, 112 comments",
+      "summary": "298 points, 121 comments",
       "publishedAt": "2026-09-15T13:31:40.000Z"
     },
     {
@@ -560,15 +605,6 @@
       "publishedAt": "2026-09-15T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "publishedAt": "2026-09-15T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -583,7 +619,7 @@
       "category": "general",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "link": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1174 points, 158 comments",
+      "summary": "1392 points, 185 comments",
       "publishedAt": "2026-09-15T12:31:10.000Z"
     },
     {
@@ -594,15 +630,6 @@
       "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
       "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
       "publishedAt": "2026-09-15T12:00:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Let's make quality the norm again",
-      "link": "https://www.forbrukerradet.no/short-life/",
-      "summary": "269 points, 278 comments",
-      "publishedAt": "2026-09-15T10:00:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -623,15 +650,6 @@
       "publishedAt": "2026-09-15T07:00:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I can't stop thinking about Papua New Guinea",
-      "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "summary": "986 points, 407 comments",
-      "publishedAt": "2026-09-15T06:16:24.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -639,15 +657,6 @@
       "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
       "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
       "publishedAt": "2026-09-15T03:47:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vibe Coding is the new Internet Dating?",
-      "link": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-      "summary": "20 points, 32 comments",
-      "publishedAt": "2026-09-15T01:45:53.000Z"
     },
     {
       "source": "Ars Technica",
@@ -740,24 +749,6 @@
       "publishedAt": "2026-09-14T19:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Online hate researcher keeps hammering X despite deportation threat",
-      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-      "summary": "US won’t back down from fight to deport technology researchers.",
-      "publishedAt": "2026-09-14T18:24:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "A new solar cell could generate electricity underwater",
-      "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
-      "summary": "The trick isn't using perovskites—the trick is making them last.",
-      "publishedAt": "2026-09-14T18:03:16.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -821,6 +812,15 @@
       "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Beauty of Roundabouts",
+      "link": "https://gruhn.me/blog/2026-09-14/",
+      "summary": "30 points, 39 comments",
+      "publishedAt": "2026-09-14T05:53:33.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -848,6 +848,24 @@
       "publishedAt": "2026-09-13T23:58:14.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "An interactive world map of the stories cultures have told",
+      "link": "https://originmap.sunnyguha.com/",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-09-13T14:09:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sierra digital cameras on the Apple II",
+      "link": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+      "summary": "27 points, 4 comments",
+      "publishedAt": "2026-09-13T07:11:20.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -855,15 +873,6 @@
       "link": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. T…",
       "publishedAt": "2026-09-13T06:06:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Data races and the limits of ThreadSanitizer in C and Go",
-      "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-      "summary": "12 points, 1 comments",
-      "publishedAt": "2026-09-13T04:09:19.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1044,15 +1053,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/datasette/",
       "summary": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
       "publishedAt": "2026-09-11T00:06:55.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette 1.0a39",
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "summary": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "publishedAt": "2026-09-11T00:05:54.000Z"
     },
     {
       "source": "InfoQ AI/ML",
