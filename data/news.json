@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:43:36.146Z",
+  "updatedAt": "2026-09-16T22:41:18.296Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,225 @@
       "category": "ai"
     }
   ],
-  "itemCount": 157,
+  "itemCount": 156,
   "errors": [],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "publishedAt": "2026-09-16T22:37:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Noise wants to help everyday people become paid content creators",
+      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "publishedAt": "2026-09-16T21:35:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Pulley, a Carta rival, is shutting down",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+      "publishedAt": "2026-09-16T21:23:19.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "publishedAt": "2026-09-16T21:08:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regul…",
+      "publishedAt": "2026-09-16T21:07:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "link": "https://arxiv.org/abs/2609.16338",
+      "summary": "76 points, 3 comments",
+      "publishedAt": "2026-09-16T20:59:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that…",
+      "publishedAt": "2026-09-16T20:59:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
+      "publishedAt": "2026-09-16T20:44:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times…",
+      "publishedAt": "2026-09-16T20:40:46.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+      "publishedAt": "2026-09-16T20:23:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "publishedAt": "2026-09-16T20:12:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "link": "https://mimo.xiaomi.com/rl/",
+      "summary": "156 points, 42 comments",
+      "publishedAt": "2026-09-16T20:09:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "X will now let US users trade via Cashtags",
+      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
+      "publishedAt": "2026-09-16T19:57:22.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "California may gut state net neutrality law to comply with Trump admin demand",
+      "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+      "publishedAt": "2026-09-16T19:36:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefit…",
+      "publishedAt": "2026-09-16T19:35:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How good are frontier models at physics?",
+      "link": "https://arxiv.org/abs/2609.13009",
+      "summary": "51 points, 18 comments",
+      "publishedAt": "2026-09-16T19:19:08.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Researchers swap in human brain cells for a mouse's cortex",
+      "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+      "summary": "The results are only a slight improvement over missing the entire brain structure.",
+      "publishedAt": "2026-09-16T19:08:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+      "publishedAt": "2026-09-16T19:02:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "link": "https://arxiv.org/abs/2609.14845",
+      "summary": "47 points, 5 comments",
+      "publishedAt": "2026-09-16T18:56:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "link": "https://rohanbansal.com/qorl",
+      "summary": "290 points, 51 comments",
+      "publishedAt": "2026-09-16T18:50:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "publishedAt": "2026-09-16T18:45:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+      "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+      "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but…",
+      "publishedAt": "2026-09-16T18:45:35.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Scientists develop new method for deciphering ancient scrolls",
+      "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+      "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
+      "publishedAt": "2026-09-16T18:43:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "summary": "160 points, 24 comments",
+      "publishedAt": "2026-09-16T18:31:35.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -72,6 +288,15 @@
       "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
       "summary": "Samus is geared up for another adventure. | Image: Nintendo The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s…",
       "publishedAt": "2026-09-16T18:20:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+      "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+      "summary": "The Diverge Pro 4 is happiest when the road gets ugly.",
+      "publishedAt": "2026-09-16T18:11:53.000Z"
     },
     {
       "source": "Simon Willison",
@@ -92,15 +317,6 @@
       "publishedAt": "2026-09-16T18:00:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
-      "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
-      "summary": "50 points, 41 comments",
-      "publishedAt": "2026-09-16T17:27:37.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -117,6 +333,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
       "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
       "publishedAt": "2026-09-16T17:06:06.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -173,24 +398,6 @@
       "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Cowork and chat are now one Claude",
-      "link": "https://claude.com/blog/cowork-is-now-claude",
-      "summary": "106 points, 134 comments",
-      "publishedAt": "2026-09-16T16:26:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "This Code Is CRAP (2011)",
-      "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-      "summary": "61 points, 40 comments",
-      "publishedAt": "2026-09-16T16:13:55.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -212,15 +419,6 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "publishedAt": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
       "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
       "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
       "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI h…",
@@ -230,19 +428,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Small Programming Tricks",
+      "title": "Small programming tricks",
       "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "167 points, 98 comments",
+      "summary": "329 points, 165 comments",
       "publishedAt": "2026-09-16T15:56:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Can we stop with the uptime percentages?",
-      "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-      "summary": "86 points, 69 comments",
-      "publishedAt": "2026-09-16T15:40:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -317,15 +506,6 @@
       "publishedAt": "2026-09-16T14:42:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The DeepMind Institute",
-      "link": "https://institute.deepmind.com/",
-      "summary": "53 points, 14 comments",
-      "publishedAt": "2026-09-16T14:32:11.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -333,6 +513,15 @@
       "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
       "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
       "publishedAt": "2026-09-16T14:32:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Anatomy of a Texture",
+      "link": "https://agentlien.github.io/texture/",
+      "summary": "62 points, 10 comments",
+      "publishedAt": "2026-09-16T14:28:28.000Z"
     },
     {
       "source": "TechCrunch",
@@ -371,31 +560,13 @@
       "publishedAt": "2026-09-16T14:03:39.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "publishedAt": "2026-09-16T14:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "link": "https://arxiv.org/abs/2609.14858",
-      "summary": "126 points, 38 comments",
+      "summary": "169 points, 49 comments",
       "publishedAt": "2026-09-16T13:44:40.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "publishedAt": "2026-09-16T13:23:02.000Z"
     },
     {
       "source": "Hacker News",
@@ -403,17 +574,8 @@
       "category": "general",
       "title": "Hackers Got Inside a Flock Camera",
       "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "summary": "328 points, 164 comments",
+      "summary": "409 points, 199 comments",
       "publishedAt": "2026-09-16T13:18:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "link": "https://stale.jock.pl/",
-      "summary": "45 points, 34 comments",
-      "publishedAt": "2026-09-16T13:01:52.000Z"
     },
     {
       "source": "OpenAI",
@@ -425,67 +587,22 @@
       "publishedAt": "2026-09-16T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "publishedAt": "2026-09-16T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "summary": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-      "publishedAt": "2026-09-16T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-16T12:01:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A brief history of AI executives calling for regulation",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario…",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-      "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-      "summary": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy…",
-      "publishedAt": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-      "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-      "summary": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely…",
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "publishedAt": "2026-09-16T12:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "link": "https://gultsch.social/@daniel/117280438824908947",
-      "summary": "287 points, 278 comments",
-      "publishedAt": "2026-09-16T11:19:11.000Z"
+      "title": "Nvidia announces native GPU programming in Rust",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": "32 points, 5 comments",
+      "publishedAt": "2026-09-16T11:15:53.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -506,33 +623,6 @@
       "publishedAt": "2026-09-16T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Salesforce Global Outage",
-      "link": "https://status.salesforce.com/products/all",
-      "summary": "240 points, 145 comments",
-      "publishedAt": "2026-09-16T10:37:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "publishedAt": "2026-09-16T10:34:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Learning Programming in an Age of LLMs",
-      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "summary": "180 points, 127 comments",
-      "publishedAt": "2026-09-16T09:12:34.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -547,7 +637,7 @@
       "category": "general",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "423 points, 155 comments",
+      "summary": "506 points, 181 comments",
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
@@ -569,24 +659,6 @@
       "publishedAt": "2026-09-16T04:00:39.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "link": "https://security.apple.com/blog/apple-reference-image/",
-      "summary": "464 points, 306 comments",
-      "publishedAt": "2026-09-16T02:07:31.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "publishedAt": "2026-09-16T00:20:39.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -605,13 +677,13 @@
       "publishedAt": "2026-09-15T22:26:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "publishedAt": "2026-09-15T21:47:38.000Z"
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "summary": "134 points, 94 comments",
+      "publishedAt": "2026-09-15T21:41:42.000Z"
     },
     {
       "source": "Ars Technica",
@@ -621,24 +693,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
       "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
       "publishedAt": "2026-09-15T20:19:17.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "publishedAt": "2026-09-15T20:12:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Siberian Ice Maiden and the Scythian World",
-      "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-      "summary": "11 points, 0 comments",
-      "publishedAt": "2026-09-15T19:09:09.000Z"
     },
     {
       "source": "Ars Technica",
@@ -677,15 +731,6 @@
       "publishedAt": "2026-09-15T18:14:11.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-      "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-      "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
-      "publishedAt": "2026-09-15T17:58:09.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -722,33 +767,6 @@
       "publishedAt": "2026-09-15T16:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump EPA moves to wipe out climate rules for power plants",
-      "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-      "summary": "EPA says power plant emissions have no material impact on climate change.",
-      "publishedAt": "2026-09-15T13:43:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "GM gives its most important trucks a new UI—and includes CarPlay",
-      "link": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-      "summary": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
-      "publishedAt": "2026-09-15T13:27:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How big are factorials?",
-      "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-      "summary": "49 points, 15 comments",
-      "publishedAt": "2026-09-15T13:25:38.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -758,40 +776,22 @@
       "publishedAt": "2026-09-15T13:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-      "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-      "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-      "publishedAt": "2026-09-15T12:36:11.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "link": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1913 points, 225 comments",
+      "summary": "2031 points, 235 comments",
       "publishedAt": "2026-09-15T12:31:10.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "publishedAt": "2026-09-15T12:00:41.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Tell the speakers that you liked their talks",
-      "link": "https://ohhelloana.blog/tell-the-speakers/",
-      "summary": "161 points, 42 comments",
-      "publishedAt": "2026-09-15T11:28:19.000Z"
+      "title": "Performance Improvements in .NET 11",
+      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "summary": "100 points, 8 comments",
+      "publishedAt": "2026-09-15T12:18:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -801,24 +801,6 @@
       "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two…",
       "publishedAt": "2026-09-15T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "publishedAt": "2026-09-15T07:00:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "publishedAt": "2026-09-15T03:47:36.000Z"
     },
     {
       "source": "Simon Willison",
@@ -855,15 +837,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
       "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
       "publishedAt": "2026-09-14T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anecdotally, Programmers Dislike \"Reduce\"",
-      "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-      "summary": "23 points, 24 comments",
-      "publishedAt": "2026-09-14T14:58:26.000Z"
     },
     {
       "source": "Simon Willison",
@@ -920,6 +893,15 @@
       "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+      "summary": "56 points, 103 comments",
+      "publishedAt": "2026-09-14T06:46:26.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -965,6 +947,15 @@
       "publishedAt": "2026-09-12T23:56:42.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+      "summary": "61 points, 15 comments",
+      "publishedAt": "2026-09-12T22:35:25.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -981,6 +972,15 @@
       "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
       "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still…",
       "publishedAt": "2026-09-12T18:00:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Reversing Factorio's RNG",
+      "link": "https://gegell.github.io/posts/factorio-rng/",
+      "summary": "84 points, 10 comments",
+      "publishedAt": "2026-09-12T17:02:19.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1026,6 +1026,15 @@
       "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an…",
       "publishedAt": "2026-09-11T17:28:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "link": "https://clickhouse.com/blog/introducing-walshadow",
+      "summary": "29 points, 5 comments",
+      "publishedAt": "2026-09-11T16:09:09.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1175,18 +1184,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
@@ -1260,24 +1269,6 @@
       "link": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "publishedAt": "2026-09-08T13:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "publishedAt": "2026-09-08T11:30:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "publishedAt": "2026-09-08T10:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
