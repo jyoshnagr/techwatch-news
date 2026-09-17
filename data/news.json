@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:41:18.296Z",
+  "updatedAt": "2026-09-17T03:51:37.900Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,144 @@
       "category": "ai"
     }
   ],
-  "itemCount": 156,
+  "itemCount": 157,
   "errors": [],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more…",
+      "publishedAt": "2026-09-17T03:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "link": "https://ryan.science/blog/keys-not-included",
+      "summary": "20 points, 2 comments",
+      "publishedAt": "2026-09-17T03:03:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The streamers are fighting over Halloween",
+      "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "summary": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netf…",
+      "publishedAt": "2026-09-17T03:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "summary": "41 points, 3 comments",
+      "publishedAt": "2026-09-17T01:39:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "summary": "9 points, 6 comments",
+      "publishedAt": "2026-09-17T01:33:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pangram – AI detector for text and images",
+      "link": "https://www.pangram.com",
+      "summary": "15 points, 9 comments",
+      "publishedAt": "2026-09-17T01:13:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "publishedAt": "2026-09-17T00:58:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "summary": "31 points, 12 comments",
+      "publishedAt": "2026-09-17T00:28:33.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 1.0a40",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Gar…",
+      "publishedAt": "2026-09-16T23:51:43.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 0.65.5",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: securit…",
+      "publishedAt": "2026-09-16T23:51:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+      "publishedAt": "2026-09-16T23:50:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "publishedAt": "2026-09-16T23:43:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like…",
+      "publishedAt": "2026-09-16T23:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "I wore Snap’s $2,200 smart glasses",
+      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino wi…",
+      "publishedAt": "2026-09-16T23:40:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "link": "https://openspec.dev/",
+      "summary": "92 points, 37 comments",
+      "publishedAt": "2026-09-16T23:06:39.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -63,6 +198,33 @@
       "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
       "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
       "publishedAt": "2026-09-16T22:37:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "link": "https://harnesstax.github.io/",
+      "summary": "62 points, 17 comments",
+      "publishedAt": "2026-09-16T22:10:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "publishedAt": "2026-09-16T22:02:46.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
+      "publishedAt": "2026-09-16T21:42:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -106,7 +268,7 @@
       "category": "general",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "link": "https://arxiv.org/abs/2609.16338",
-      "summary": "76 points, 3 comments",
+      "summary": "155 points, 21 comments",
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
@@ -137,6 +299,15 @@
       "publishedAt": "2026-09-16T20:40:46.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Backups Aren't Simple",
+      "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "summary": "120 points, 55 comments",
+      "publishedAt": "2026-09-16T20:27:16.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -160,7 +331,7 @@
       "category": "general",
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "link": "https://mimo.xiaomi.com/rl/",
-      "summary": "156 points, 42 comments",
+      "summary": "307 points, 82 comments",
       "publishedAt": "2026-09-16T20:09:18.000Z"
     },
     {
@@ -191,15 +362,6 @@
       "publishedAt": "2026-09-16T19:35:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How good are frontier models at physics?",
-      "link": "https://arxiv.org/abs/2609.13009",
-      "summary": "51 points, 18 comments",
-      "publishedAt": "2026-09-16T19:19:08.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -221,18 +383,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Accurate Models of AMD Matrix Cores",
-      "link": "https://arxiv.org/abs/2609.14845",
-      "summary": "47 points, 5 comments",
-      "publishedAt": "2026-09-16T18:56:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "link": "https://rohanbansal.com/qorl",
-      "summary": "290 points, 51 comments",
+      "summary": "439 points, 92 comments",
       "publishedAt": "2026-09-16T18:50:00.000Z"
     },
     {
@@ -261,15 +414,6 @@
       "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
       "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
       "publishedAt": "2026-09-16T18:43:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vectorized and performance-portable Quicksort (2022)",
-      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-      "summary": "160 points, 24 comments",
-      "publishedAt": "2026-09-16T18:31:35.000Z"
     },
     {
       "source": "TechCrunch",
@@ -389,15 +533,6 @@
       "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement,…",
-      "publishedAt": "2026-09-16T16:30:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -430,7 +565,7 @@
       "category": "general",
       "title": "Small programming tricks",
       "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "329 points, 165 comments",
+      "summary": "428 points, 193 comments",
       "publishedAt": "2026-09-16T15:56:47.000Z"
     },
     {
@@ -470,33 +605,6 @@
       "publishedAt": "2026-09-16T14:50:06.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "summary": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "publishedAt": "2026-09-16T14:47:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The sexy AI-powered dating app scams are here",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sa…",
-      "publishedAt": "2026-09-16T14:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-      "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-      "summary": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has retu…",
-      "publishedAt": "2026-09-16T14:44:48.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -504,33 +612,6 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has evolved Riviera from a file preview service into a universal content processing platform supporting more than 300 file formats and over 100 transformation capabilities. Processing hundreds of thousands of tra…",
       "publishedAt": "2026-09-16T14:42:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
-      "publishedAt": "2026-09-16T14:32:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anatomy of a Texture",
-      "link": "https://agentlien.github.io/texture/",
-      "summary": "62 points, 10 comments",
-      "publishedAt": "2026-09-16T14:28:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo…",
-      "publishedAt": "2026-09-16T14:24:58.000Z"
     },
     {
       "source": "Ars Technica",
@@ -542,15 +623,6 @@
       "publishedAt": "2026-09-16T14:19:01.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch…",
-      "publishedAt": "2026-09-16T14:15:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -558,24 +630,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
       "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
       "publishedAt": "2026-09-16T14:03:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "link": "https://arxiv.org/abs/2609.14858",
-      "summary": "169 points, 49 comments",
-      "publishedAt": "2026-09-16T13:44:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Hackers Got Inside a Flock Camera",
-      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "summary": "409 points, 199 comments",
-      "publishedAt": "2026-09-16T13:18:47.000Z"
     },
     {
       "source": "OpenAI",
@@ -601,7 +655,7 @@
       "category": "general",
       "title": "Nvidia announces native GPU programming in Rust",
       "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "32 points, 5 comments",
+      "summary": "406 points, 153 comments",
       "publishedAt": "2026-09-16T11:15:53.000Z"
     },
     {
@@ -632,15 +686,6 @@
       "publishedAt": "2026-09-16T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "506 points, 181 comments",
-      "publishedAt": "2026-09-16T08:08:57.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -657,6 +702,15 @@
       "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
       "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
       "publishedAt": "2026-09-16T04:00:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A 32-Year-Old Bug Walks into a Telnet Server",
+      "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-09-16T02:01:27.000Z"
     },
     {
       "source": "Simon Willison",
@@ -680,10 +734,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "summary": "134 points, 94 comments",
-      "publishedAt": "2026-09-15T21:41:42.000Z"
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "summary": "137 points, 53 comments",
+      "publishedAt": "2026-09-15T22:15:25.000Z"
     },
     {
       "source": "Ars Technica",
@@ -711,24 +765,6 @@
       "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
       "summary": "Reaching orbit would mark a significant milestone.",
       "publishedAt": "2026-09-15T18:48:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "summary": "Robots can start working outside physical cages and without safety barriers.",
-      "publishedAt": "2026-09-15T18:33:02.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-      "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
-      "publishedAt": "2026-09-15T18:14:11.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -781,7 +817,7 @@
       "category": "general",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "link": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "2031 points, 235 comments",
+      "summary": "2110 points, 240 comments",
       "publishedAt": "2026-09-15T12:31:10.000Z"
     },
     {
@@ -790,7 +826,7 @@
       "category": "general",
       "title": "Performance Improvements in .NET 11",
       "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "summary": "100 points, 8 comments",
+      "summary": "208 points, 39 comments",
       "publishedAt": "2026-09-15T12:18:16.000Z"
     },
     {
@@ -828,6 +864,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
       "publishedAt": "2026-09-14T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Developing provably correct Rust code with Verus",
+      "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "summary": "47 points, 4 comments",
+      "publishedAt": "2026-09-14T16:57:50.000Z"
     },
     {
       "source": "Google AI",
@@ -893,15 +938,6 @@
       "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anecdotally, programmers dislike \"reduce\"",
-      "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-      "summary": "56 points, 103 comments",
-      "publishedAt": "2026-09-14T06:46:26.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -952,7 +988,7 @@
       "category": "general",
       "title": "Japan's book scene is moving from bookstores to libraries",
       "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "summary": "61 points, 15 comments",
+      "summary": "136 points, 51 comments",
       "publishedAt": "2026-09-12T22:35:25.000Z"
     },
     {
@@ -979,7 +1015,7 @@
       "category": "general",
       "title": "Reversing Factorio's RNG",
       "link": "https://gegell.github.io/posts/factorio-rng/",
-      "summary": "84 points, 10 comments",
+      "summary": "157 points, 20 comments",
       "publishedAt": "2026-09-12T17:02:19.000Z"
     },
     {
@@ -1026,15 +1062,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an…",
       "publishedAt": "2026-09-11T17:28:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "link": "https://clickhouse.com/blog/introducing-walshadow",
-      "summary": "29 points, 5 comments",
-      "publishedAt": "2026-09-11T16:09:09.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1107,24 +1134,6 @@
       "link": "https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Session traces and cost controls are emerging as key observability techniques for diagnosing AI agent failures, helping teams spot tool-call loops and runaway spend while preserving enough execution context for post-inci…",
       "publishedAt": "2026-09-11T08:14:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Datasette 1.0a39 and 0.65.4 security releases",
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-      "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are secur…",
-      "publishedAt": "2026-09-11T03:27:16.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-publish-fly 1.4",
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "summary": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-      "publishedAt": "2026-09-11T02:58:52.000Z"
     },
     {
       "source": "InfoQ AI/ML",
