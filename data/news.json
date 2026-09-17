@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:50:43.563Z",
+  "updatedAt": "2026-09-17T22:42:44.092Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,6 +59,168 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
+      "title": "PrismML hopes its tiny LLM could change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "publishedAt": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "publishedAt": "2026-09-17T22:14:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "8 points, 1 comments",
+      "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sex, AI, and the Apocalypse",
+      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "summary": "42 points, 9 comments",
+      "publishedAt": "2026-09-17T21:15:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "85 points, 21 comments",
+      "publishedAt": "2026-09-17T21:13:31.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Self-generated prompt injections in compaction summaries",
+      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". Th…",
+      "publishedAt": "2026-09-17T20:57:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "link": "https://flet.dev/",
+      "summary": "18 points, 3 comments",
+      "publishedAt": "2026-09-17T20:44:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "summary": "182 points, 96 comments",
+      "publishedAt": "2026-09-17T20:36:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "publishedAt": "2026-09-17T20:34:47.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to h…",
+      "publishedAt": "2026-09-17T20:34:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "publishedAt": "2026-09-17T20:19:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "summary": "190 points, 190 comments",
+      "publishedAt": "2026-09-17T20:17:48.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "publishedAt": "2026-09-17T19:46:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Everybody's Lost Their Minds",
+      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "summary": "243 points, 153 comments",
+      "publishedAt": "2026-09-17T19:43:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI co…",
+      "publishedAt": "2026-09-17T19:28:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group…",
+      "publishedAt": "2026-09-17T18:58:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
       "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
       "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
       "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
@@ -104,15 +266,6 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "T. Rex Had a Body Temperature of 97 Degrees",
-      "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
-      "summary": "18 points, 20 comments",
-      "publishedAt": "2026-09-17T17:13:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
       "link": "https://zscc.ai/careers?job_id=109821",
       "summary": "1 points, 0 comments",
@@ -124,7 +277,7 @@
       "category": "general",
       "title": "Towards Self-Driving Codebases",
       "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-      "summary": "28 points, 12 comments",
+      "summary": "91 points, 74 comments",
       "publishedAt": "2026-09-17T16:58:31.000Z"
     },
     {
@@ -133,17 +286,8 @@
       "category": "general",
       "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
       "link": "https://arxiv.org/abs/2609.18842",
-      "summary": "24 points, 6 comments",
+      "summary": "89 points, 26 comments",
       "publishedAt": "2026-09-17T16:55:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
-      "link": "https://www.aclif.ai/",
-      "summary": "20 points, 13 comments",
-      "publishedAt": "2026-09-17T16:48:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -160,26 +304,8 @@
       "category": "general",
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "link": "https://github.com/asciimoo/hister",
-      "summary": "139 points, 43 comments",
+      "summary": "385 points, 120 comments",
       "publishedAt": "2026-09-17T16:25:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "link": "https://news.ycombinator.com/item?id=49743049",
-      "summary": "17 points, 16 comments",
-      "publishedAt": "2026-09-17T16:22:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: How to recover Google auth after phone stolen?",
-      "link": "https://news.ycombinator.com/item?id=49742976",
-      "summary": "59 points, 56 comments",
-      "publishedAt": "2026-09-17T16:17:28.000Z"
     },
     {
       "source": "TechCrunch",
@@ -200,15 +326,6 @@
       "publishedAt": "2026-09-17T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Whoisinspace.com/",
-      "link": "https://whoisinspace.com",
-      "summary": "101 points, 49 comments",
-      "publishedAt": "2026-09-17T15:59:37.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -223,7 +340,7 @@
       "category": "general",
       "title": "CrowdSec Source Code Leak",
       "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "summary": "65 points, 25 comments",
+      "summary": "117 points, 33 comments",
       "publishedAt": "2026-09-17T15:34:01.000Z"
     },
     {
@@ -232,7 +349,7 @@
       "category": "general",
       "title": "Rate limits on GitLab.com are changing",
       "link": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-      "summary": "92 points, 83 comments",
+      "summary": "137 points, 102 comments",
       "publishedAt": "2026-09-17T15:33:54.000Z"
     },
     {
@@ -335,31 +452,13 @@
       "publishedAt": "2026-09-17T13:38:33.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Lucid Motors has a potential robotaxi partner for Europe",
-      "link": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-      "summary": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
-      "publishedAt": "2026-09-17T13:26:32.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "The American Religion of Self-Storage Facilities",
       "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-      "summary": "96 points, 162 comments",
+      "summary": "166 points, 287 comments",
       "publishedAt": "2026-09-17T13:12:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "link": "https://mysetup.ai/",
-      "summary": "104 points, 66 comments",
-      "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
       "source": "The Verge",
@@ -371,57 +470,12 @@
       "publishedAt": "2026-09-17T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
-      "link": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
-      "summary": "Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the…",
-      "publishedAt": "2026-09-17T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-      "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "summary": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
-      "publishedAt": "2026-09-17T12:57:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-      "link": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-      "summary": "After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 songs, which Rockstar d…",
-      "publishedAt": "2026-09-17T12:31:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Spotify expands its partner program for podcasts to 35 new countries",
-      "link": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-      "summary": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
-      "publishedAt": "2026-09-17T12:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "publishedAt": "2026-09-17T11:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Why I didn’t sign the Fields medallists’ letter",
       "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-      "summary": "109 points, 159 comments",
+      "summary": "183 points, 239 comments",
       "publishedAt": "2026-09-17T08:51:51.000Z"
     },
     {
@@ -430,35 +484,8 @@
       "category": "general",
       "title": "How GLM built its own inference infrastructure",
       "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "287 points, 226 comments",
+      "summary": "348 points, 254 comments",
       "publishedAt": "2026-09-17T08:27:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "One year of sponsored Servo development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "305 points, 127 comments",
-      "publishedAt": "2026-09-17T08:13:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "CCC invites all model citizens to 40C3",
-      "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "summary": "260 points, 113 comments",
-      "publishedAt": "2026-09-17T08:03:54.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "publishedAt": "2026-09-17T05:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -470,22 +497,13 @@
       "publishedAt": "2026-09-17T04:59:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more…",
-      "publishedAt": "2026-09-17T03:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "publishedAt": "2026-09-17T00:58:49.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "publishedAt": "2026-09-17T00:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -695,6 +713,15 @@
       "publishedAt": "2026-09-16T13:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Wax motor",
+      "link": "https://en.wikipedia.org/wiki/Wax_motor",
+      "summary": "162 points, 36 comments",
+      "publishedAt": "2026-09-16T12:35:14.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -799,7 +826,7 @@
       "category": "general",
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "summary": "379 points, 145 comments",
+      "summary": "472 points, 173 comments",
       "publishedAt": "2026-09-15T17:28:38.000Z"
     },
     {
@@ -842,10 +869,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Grand MS-DOS Gaming General MIDI Showdown",
-      "link": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-      "summary": "50 points, 3 comments",
-      "publishedAt": "2026-09-15T15:37:55.000Z"
+      "title": "TSMC revealing details about next gen A14 node",
+      "link": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "summary": "70 points, 27 comments",
+      "publishedAt": "2026-09-15T15:31:55.000Z"
     },
     {
       "source": "Google AI",
@@ -855,6 +882,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
       "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
       "publishedAt": "2026-09-15T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "summary": "8 points, 2 comments",
+      "publishedAt": "2026-09-15T10:46:24.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -983,15 +1019,6 @@
       "publishedAt": "2026-09-13T23:58:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
-      "link": "https://juandecos.github.io/TurboZip/vortex.html",
-      "summary": "22 points, 1 comments",
-      "publishedAt": "2026-09-13T22:22:34.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1109,15 +1136,6 @@
       "publishedAt": "2026-09-11T14:47:57.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Don't sleep on wrapture",
-      "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it al…",
-      "publishedAt": "2026-09-11T13:51:32.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1193,18 +1211,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
@@ -1269,15 +1287,6 @@
       "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "publishedAt": "2026-09-08T14:00:15.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "publishedAt": "2026-09-08T13:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -1355,24 +1364,6 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
-      "title": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
       "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
       "link": "https://www.anthropic.com/news/life-sciences-verification-program",
       "summary": "",
@@ -1384,6 +1375,15 @@
       "category": "ai",
       "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
       "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Aug 27, 2026 Announcements Previewing the Model Hardware Standard",
+      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "summary": "",
       "publishedAt": null
     },
