@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:06:33.720Z",
+  "updatedAt": "2026-09-18T22:21:48.072Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,10 +59,190 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "publishedAt": "2026-09-18T21:44:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact…",
+      "publishedAt": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "207 points, 83 comments",
+      "publishedAt": "2026-09-18T21:00:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Automattic names interim CFO after exec departures",
+      "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "publishedAt": "2026-09-18T20:25:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+      "publishedAt": "2026-09-18T20:24:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "publishedAt": "2026-09-18T20:18:14.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Note on 18th September 2026",
+      "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai…",
+      "publishedAt": "2026-09-18T19:21:32.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "publishedAt": "2026-09-18T19:20:50.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Thariq Shihipar",
+      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our…",
+      "publishedAt": "2026-09-18T19:09:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": "354 points, 165 comments",
+      "publishedAt": "2026-09-18T19:03:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "link": "https://arxiv.org/abs/2609.02852",
+      "summary": "35 points, 14 comments",
+      "publishedAt": "2026-09-18T19:00:06.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
+      "link": "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "MariaDB Community Server 13.0 has reached General Availability (GA) and is now officially stable. This release introduces a range of new features, deprecations, and performance improvements, including expanded support fo…",
+      "publishedAt": "2026-09-18T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "link": "https://arxiv.org/abs/2510.03215",
+      "summary": "49 points, 10 comments",
+      "publishedAt": "2026-09-18T18:55:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "134 points, 27 comments",
+      "publishedAt": "2026-09-18T18:51:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "publishedAt": "2026-09-18T18:49:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "summary": "94 points, 54 comments",
+      "publishedAt": "2026-09-18T18:39:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to…",
+      "publishedAt": "2026-09-18T18:29:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney annou…",
+      "publishedAt": "2026-09-18T18:27:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
       "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
       "publishedAt": "2026-09-18T17:59:53.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+      "publishedAt": "2026-09-18T17:57:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Finding the cells that put our brain to sleep",
+      "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "publishedAt": "2026-09-18T17:49:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -81,6 +261,15 @@
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "publishedAt": "2026-09-18T17:33:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "publishedAt": "2026-09-18T17:28:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -122,18 +311,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "There's no point at which turning your brain off will work",
-      "link": "https://danluu.com/brain-off/",
-      "summary": "121 points, 78 comments",
-      "publishedAt": "2026-09-18T17:02:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "summary": "37 points, 7 comments",
+      "summary": "134 points, 40 comments",
       "publishedAt": "2026-09-18T16:54:18.000Z"
     },
     {
@@ -162,15 +342,6 @@
       "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
       "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
       "publishedAt": "2026-09-18T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-      "link": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
-      "summary": "114 points, 74 comments",
-      "publishedAt": "2026-09-18T15:50:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -230,10 +401,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "summary": "23 points, 4 comments",
-      "publishedAt": "2026-09-18T15:04:54.000Z"
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "summary": "93 points, 49 comments",
+      "publishedAt": "2026-09-18T15:12:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -254,15 +425,6 @@
       "publishedAt": "2026-09-18T14:51:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "summary": "104 points, 78 comments",
-      "publishedAt": "2026-09-18T14:45:32.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -270,15 +432,6 @@
       "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
       "summary": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and…",
       "publishedAt": "2026-09-18T14:41:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "summary": "34 points, 6 comments",
-      "publishedAt": "2026-09-18T14:41:02.000Z"
     },
     {
       "source": "Simon Willison",
@@ -295,7 +448,7 @@
       "category": "general",
       "title": "I vibed a proof of Conway's conjecture",
       "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "summary": "122 points, 113 comments",
+      "summary": "194 points, 172 comments",
       "publishedAt": "2026-09-18T14:36:10.000Z"
     },
     {
@@ -313,7 +466,7 @@
       "category": "general",
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "266 points, 131 comments",
+      "summary": "487 points, 213 comments",
       "publishedAt": "2026-09-18T14:18:41.000Z"
     },
     {
@@ -371,24 +524,6 @@
       "publishedAt": "2026-09-18T13:30:12.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "summary": "36 points, 23 comments",
-      "publishedAt": "2026-09-18T13:24:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "link": "https://arxiv.org/abs/2609.20804",
-      "summary": "181 points, 41 comments",
-      "publishedAt": "2026-09-18T13:06:30.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -396,24 +531,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
       "publishedAt": "2026-09-18T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I don't like passkeys",
-      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "summary": "564 points, 557 comments",
-      "publishedAt": "2026-09-18T12:06:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cekura (YC F24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-18T12:00:10.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -434,21 +551,12 @@
       "publishedAt": "2026-09-18T11:00:11.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginn…",
-      "publishedAt": "2026-09-18T11:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "OpenJev",
       "link": "https://openjev.com/",
-      "summary": "408 points, 211 comments",
+      "summary": "510 points, 234 comments",
       "publishedAt": "2026-09-18T09:42:22.000Z"
     },
     {
@@ -473,37 +581,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Jemalloc 5.4.0",
-      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "297 points, 76 comments",
-      "publishedAt": "2026-09-18T04:20:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The scourge of x86 emulation",
-      "link": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "249 points, 68 comments",
-      "publishedAt": "2026-09-18T04:09:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "link": "https://www.hacktron.ai/blog/hacking-openai",
-      "summary": "431 points, 181 comments",
-      "publishedAt": "2026-09-18T02:47:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-      "summary": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. | Photo by Smith Collection/Gado/Getty Images Waymo says it will launch a robotaxi service in Sing…",
-      "publishedAt": "2026-09-18T02:00:00.000Z"
+      "title": "Minimal Phone 2",
+      "link": "https://minimalcompany.com/",
+      "summary": "144 points, 136 comments",
+      "publishedAt": "2026-09-18T02:00:25.000Z"
     },
     {
       "source": "Hacker News",
@@ -511,17 +592,8 @@
       "category": "general",
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "link": "https://cactuscompute.com/needle",
-      "summary": "64 points, 24 comments",
+      "summary": "143 points, 70 comments",
       "publishedAt": "2026-09-18T00:11:44.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
-      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-      "publishedAt": "2026-09-18T00:02:36.000Z"
     },
     {
       "source": "Simon Willison",
@@ -540,42 +612,6 @@
       "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
       "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal…",
       "publishedAt": "2026-09-17T23:37:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "publishedAt": "2026-09-17T23:25:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data…",
-      "publishedAt": "2026-09-17T23:21:17.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
-      "publishedAt": "2026-09-17T23:08:24.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "publishedAt": "2026-09-17T22:34:09.000Z"
     },
     {
       "source": "Ars Technica",
@@ -599,10 +635,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "549 points, 176 comments",
-      "publishedAt": "2026-09-17T21:13:31.000Z"
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "335 points, 235 comments",
+      "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "link": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "summary": "129 points, 19 comments",
+      "publishedAt": "2026-09-17T21:14:19.000Z"
     },
     {
       "source": "Simon Willison",
@@ -619,7 +664,7 @@
       "category": "general",
       "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
       "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "summary": "74 points, 106 comments",
+      "summary": "124 points, 160 comments",
       "publishedAt": "2026-09-17T20:52:33.000Z"
     },
     {
@@ -650,15 +695,6 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The AI Superintelligence Slowdown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI co…",
-      "publishedAt": "2026-09-17T19:28:24.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -675,6 +711,15 @@
       "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
       "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
       "publishedAt": "2026-09-17T18:33:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The first new cat species discovered in 100 years",
+      "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "summary": "96 points, 28 comments",
+      "publishedAt": "2026-09-17T18:31:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -731,6 +776,15 @@
       "publishedAt": "2026-09-17T13:57:14.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+      "link": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "summary": "17 points, 0 comments",
+      "publishedAt": "2026-09-17T13:20:03.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -785,40 +839,13 @@
       "publishedAt": "2026-09-16T23:51:08.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "publishedAt": "2026-09-16T22:02:46.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-      "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-      "publishedAt": "2026-09-16T21:42:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "publishedAt": "2026-09-16T21:08:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-      "publishedAt": "2026-09-16T20:44:41.000Z"
+      "title": "Cyclomatic Complexity in C#",
+      "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+      "summary": "14 points, 3 comments",
+      "publishedAt": "2026-09-16T19:01:09.000Z"
     },
     {
       "source": "Simon Willison",
@@ -878,6 +905,15 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "link": "https://openai.com/index/hex-gpt-6-astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "publishedAt": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
       "title": "How to connect AI usage to business value",
       "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
@@ -918,15 +954,6 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has outlined how a decade of infrastructure optimization is helping it absorb growing demand from AI without treating new data-center capacity as the only answer. Its work spans forecasting, fleet utilization, st…",
       "publishedAt": "2026-09-16T07:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "link": "https://gods.art/articles/equation_shadows",
-      "summary": "53 points, 9 comments",
-      "publishedAt": "2026-09-16T02:37:22.000Z"
     },
     {
       "source": "Simon Willison",
@@ -972,6 +999,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
       "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
       "publishedAt": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "link": "https://antfly.io/research/antfly-zig",
+      "summary": "39 points, 14 comments",
+      "publishedAt": "2026-09-15T15:35:33.000Z"
     },
     {
       "source": "Google AI",
@@ -1109,15 +1145,6 @@
       "publishedAt": "2026-09-13T23:58:14.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
-      "link": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. T…",
-      "publishedAt": "2026-09-13T06:06:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1152,24 +1179,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
       "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (…",
       "publishedAt": "2026-09-12T00:42:25.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "So you want to use OpenRouter?",
-      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-      "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model…",
-      "publishedAt": "2026-09-11T22:49:18.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Boris Cherny",
-      "link": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-      "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-drive…",
-      "publishedAt": "2026-09-11T17:47:11.000Z"
     },
     {
       "source": "OpenAI",
@@ -1251,15 +1260,6 @@
       "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "publishedAt": "2026-09-09T17:00:00.000Z"
     },
     {
       "source": "Google AI",
@@ -1382,6 +1382,15 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
+      "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
       "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
       "link": "https://www.anthropic.com/news/life-sciences-verification-program",
       "summary": "",
@@ -1447,15 +1456,6 @@
       "category": "ai",
       "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
       "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "Jul 30, 2026 Announcements Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "summary": "",
       "publishedAt": null
     }
