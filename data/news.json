@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:13:26.660Z",
+  "updatedAt": "2026-09-19T13:43:27.088Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,84 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "summary": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs…",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, includi…",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "publishedAt": "2026-09-19T11:10:43.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+      "link": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Ajay Prakash discusses how LinkedIn overcomes AI agent limitations in large codebases. He explains Contextual Agent Playbooks and Tools - built on Model Context Protocol (MCP) - which serves procedural memory, code searc…",
+      "publishedAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Laya the open source version of Jev",
+      "link": "https://laya.convaiinnovations.com/",
+      "summary": "192 points, 31 comments",
+      "publishedAt": "2026-09-19T10:46:58.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rings around a tiny body have changed over the past decade",
+      "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "publishedAt": "2026-09-19T10:00:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "444 points, 291 comments",
+      "publishedAt": "2026-09-19T09:20:58.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "summary": "86 points, 42 comments",
+      "summary": "185 points, 103 comments",
       "publishedAt": "2026-09-19T06:41:44.000Z"
     },
     {
@@ -70,17 +142,8 @@
       "category": "general",
       "title": "If math is more than proof, we need to better celebrate the rest of it",
       "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "summary": "68 points, 37 comments",
+      "summary": "179 points, 137 comments",
       "publishedAt": "2026-09-19T06:28:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "link": "https://browser.geekbench.com/v7/cpu/389219",
-      "summary": "21 points, 14 comments",
-      "publishedAt": "2026-09-19T06:19:24.000Z"
     },
     {
       "source": "Hacker News",
@@ -88,17 +151,8 @@
       "category": "general",
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "summary": "191 points, 71 comments",
+      "summary": "373 points, 139 comments",
       "publishedAt": "2026-09-19T05:48:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "summary": "22 points, 2 comments",
-      "publishedAt": "2026-09-19T04:44:35.000Z"
     },
     {
       "source": "Hacker News",
@@ -106,7 +160,7 @@
       "category": "general",
       "title": "San Francisco Onion Futures Company",
       "link": "https://onionfutures.com/",
-      "summary": "175 points, 62 comments",
+      "summary": "244 points, 87 comments",
       "publishedAt": "2026-09-19T04:23:30.000Z"
     },
     {
@@ -115,7 +169,7 @@
       "category": "general",
       "title": "SDCC – Small Device C Compiler",
       "link": "https://sdcc.sourceforge.net/",
-      "summary": "74 points, 17 comments",
+      "summary": "101 points, 20 comments",
       "publishedAt": "2026-09-19T02:32:36.000Z"
     },
     {
@@ -124,7 +178,7 @@
       "category": "general",
       "title": "Science Is Open Software",
       "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "85 points, 35 comments",
+      "summary": "112 points, 44 comments",
       "publishedAt": "2026-09-19T02:21:35.000Z"
     },
     {
@@ -187,7 +241,7 @@
       "category": "general",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "117 points, 84 comments",
+      "summary": "154 points, 102 comments",
       "publishedAt": "2026-09-18T23:04:17.000Z"
     },
     {
@@ -277,7 +331,7 @@
       "category": "general",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "821 points, 403 comments",
+      "summary": "903 points, 494 comments",
       "publishedAt": "2026-09-18T19:03:09.000Z"
     },
     {
@@ -295,7 +349,7 @@
       "category": "general",
       "title": "Saving another 100TB of RAM",
       "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "353 points, 69 comments",
+      "summary": "392 points, 85 comments",
       "publishedAt": "2026-09-18T18:51:46.000Z"
     },
     {
@@ -470,15 +524,6 @@
       "publishedAt": "2026-09-18T15:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "publishedAt": "2026-09-18T15:22:48.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -486,24 +531,6 @@
       "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
       "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, a…",
       "publishedAt": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-      "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:1…",
-      "publishedAt": "2026-09-18T14:51:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-      "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-      "summary": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and…",
-      "publishedAt": "2026-09-18T14:41:18.000Z"
     },
     {
       "source": "Simon Willison",
@@ -520,7 +547,7 @@
       "category": "general",
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "699 points, 277 comments",
+      "summary": "752 points, 294 comments",
       "publishedAt": "2026-09-18T14:18:41.000Z"
     },
     {
@@ -596,15 +623,6 @@
       "publishedAt": "2026-09-18T11:00:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "624 points, 262 comments",
-      "publishedAt": "2026-09-18T09:42:22.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -664,7 +682,7 @@
       "category": "general",
       "title": "How to Write with an LLM",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "485 points, 324 comments",
+      "summary": "528 points, 350 comments",
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -725,10 +743,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The first new cat species discovered in 100 years",
-      "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "summary": "267 points, 103 comments",
-      "publishedAt": "2026-09-17T18:31:56.000Z"
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "link": "https://github.com/Tackx/c8-ass",
+      "summary": "21 points, 3 comments",
+      "publishedAt": "2026-09-17T17:47:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -749,6 +767,15 @@
       "publishedAt": "2026-09-17T17:30:30.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "From Stonemasons to Carpenters",
+      "link": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "summary": "20 points, 3 comments",
+      "publishedAt": "2026-09-17T16:55:50.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -767,24 +794,6 @@
       "publishedAt": "2026-09-17T15:38:04.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
-      "link": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-      "summary": "\"They should fly their capsule. The government paid a lot of money for that.\"",
-      "publishedAt": "2026-09-17T14:37:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
-      "link": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
-      "summary": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
-      "publishedAt": "2026-09-17T13:57:14.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -794,6 +803,24 @@
       "publishedAt": "2026-09-17T12:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ray Ozzie and the Optimism of Being Early",
+      "link": "https://reproof.app/blog/lotus-notes-history",
+      "summary": "5 points, 2 comments",
+      "publishedAt": "2026-09-17T09:57:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Communication by means of modulated Johnson noise",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "summary": "22 points, 11 comments",
+      "publishedAt": "2026-09-17T05:41:24.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -801,15 +828,6 @@
       "link": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel…",
       "publishedAt": "2026-09-17T04:59:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ctenophores: Wonders of Biology",
-      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "summary": "19 points, 5 comments",
-      "publishedAt": "2026-09-17T01:58:25.000Z"
     },
     {
       "source": "OpenAI",
@@ -844,17 +862,8 @@
       "category": "general",
       "title": "Why building a Rust LSP is hard",
       "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "summary": "65 points, 30 comments",
+      "summary": "101 points, 41 comments",
       "publishedAt": "2026-09-16T22:51:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-      "link": "https://github.com/awlevin/typesafe-computer-use",
-      "summary": "74 points, 43 comments",
-      "publishedAt": "2026-09-16T22:01:49.000Z"
     },
     {
       "source": "Simon Willison",
@@ -871,7 +880,7 @@
       "category": "general",
       "title": "You can run Git on object storage if you re-make packfiles",
       "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "summary": "41 points, 12 comments",
+      "summary": "78 points, 19 comments",
       "publishedAt": "2026-09-16T17:16:11.000Z"
     },
     {
@@ -909,15 +918,6 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has evolved Riviera from a file preview service into a universal content processing platform supporting more than 300 file formats and over 100 transformation capabilities. Processing hundreds of thousands of tra…",
       "publishedAt": "2026-09-16T14:42:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Goroutine Leak Profiles",
-      "link": "https://go.dev/blog/goroutine-leak-profiles",
-      "summary": "29 points, 2 comments",
-      "publishedAt": "2026-09-16T13:30:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -981,6 +981,15 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has outlined how a decade of infrastructure optimization is helping it absorb growing demand from AI without treating new data-center capacity as the only answer. Its work spans forecasting, fleet utilization, st…",
       "publishedAt": "2026-09-16T07:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "“The Secret Life of Circuits” is here",
+      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "summary": "126 points, 31 comments",
+      "publishedAt": "2026-09-15T23:15:05.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1125,15 +1134,6 @@
       "link": "https://www.infoq.com/presentations/decision-models-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Alex Porcelli discusses the critical gap in enterprise AI: non-deterministic output and lack of accountability in high-stakes decisions. He shares how integrating DMN decision models with LLMs, agent skills, and NeMo gua…",
       "publishedAt": "2026-09-14T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved",
-      "link": "https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agents behaved during their hack of Hugging Face earlier this year. Roughly 700 a…",
-      "publishedAt": "2026-09-14T09:00:00.000Z"
     },
     {
       "source": "Simon Willison",
