@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:49:03.612Z",
+  "updatedAt": "2026-09-19T22:11:31.949Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,87 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mayday Mysteries",
+      "link": "http://www.maydaymystery.org/mayday/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-09-19T21:43:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-19T21:30:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
+      "publishedAt": "2026-09-19T20:44:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "English: A vs. An",
+      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "27 points, 1 comments",
+      "publishedAt": "2026-09-19T20:41:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "publishedAt": "2026-09-19T20:39:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "summary": "45 points, 21 comments",
+      "publishedAt": "2026-09-19T20:00:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "publishedAt": "2026-09-19T19:57:47.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-auth-github 1.0",
+      "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook…",
+      "publishedAt": "2026-09-19T19:52:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "link": "https://eprint.iacr.org/2026/2039",
+      "summary": "36 points, 5 comments",
+      "publishedAt": "2026-09-19T19:23:23.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -95,7 +176,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
       "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
       "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for w…",
       "publishedAt": "2026-09-19T17:00:00.000Z"
@@ -104,10 +185,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "summary": "31 points, 11 comments",
-      "publishedAt": "2026-09-19T16:35:24.000Z"
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "link": "https://github.com/trycua/cua",
+      "summary": "43 points, 4 comments",
+      "publishedAt": "2026-09-19T15:52:51.000Z"
     },
     {
       "source": "The Verge",
@@ -158,10 +239,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A graphical desktop for the ZX Spectrum",
-      "link": "https://github.com/mindbox77/zxdesk",
-      "summary": "92 points, 75 comments",
-      "publishedAt": "2026-09-19T14:01:58.000Z"
+      "title": "Brood War Bench",
+      "link": "https://bw.swerdlow.dev/report",
+      "summary": "87 points, 50 comments",
+      "publishedAt": "2026-09-19T14:44:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -185,18 +266,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "What Zig felt like, coming from Rust",
-      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "summary": "118 points, 122 comments",
-      "publishedAt": "2026-09-19T13:55:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Tin: full-text search for Postgres",
       "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "98 points, 48 comments",
+      "summary": "161 points, 70 comments",
       "publishedAt": "2026-09-19T13:52:06.000Z"
     },
     {
@@ -248,9 +320,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "link": "https://laya.convaiinnovations.com/",
-      "summary": "640 points, 151 comments",
+      "summary": "990 points, 229 comments",
       "publishedAt": "2026-09-19T10:46:58.000Z"
     },
     {
@@ -268,44 +340,17 @@
       "category": "general",
       "title": "AI-generated posters don’t have to be horrible",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "836 points, 505 comments",
+      "summary": "1240 points, 692 comments",
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "summary": "273 points, 137 comments",
-      "publishedAt": "2026-09-19T06:41:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "summary": "243 points, 199 comments",
-      "publishedAt": "2026-09-19T06:28:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "summary": "519 points, 188 comments",
+      "summary": "589 points, 228 comments",
       "publishedAt": "2026-09-19T05:48:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "San Francisco Onion Futures Company",
-      "link": "https://onionfutures.com/",
-      "summary": "312 points, 123 comments",
-      "publishedAt": "2026-09-19T04:23:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -448,7 +493,7 @@
       "category": "general",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "1003 points, 562 comments",
+      "summary": "1090 points, 639 comments",
       "publishedAt": "2026-09-18T19:03:09.000Z"
     },
     {
@@ -477,15 +522,6 @@
       "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to…",
       "publishedAt": "2026-09-18T18:29:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney annou…",
-      "publishedAt": "2026-09-18T18:27:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -524,15 +560,6 @@
       "publishedAt": "2026-09-18T17:45:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "publishedAt": "2026-09-18T17:33:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -542,21 +569,12 @@
       "publishedAt": "2026-09-18T17:28:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "publishedAt": "2026-09-18T17:26:41.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
       "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "56 points, 17 comments",
+      "summary": "82 points, 42 comments",
       "publishedAt": "2026-09-18T15:47:14.000Z"
     },
     {
@@ -567,15 +585,6 @@
       "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
       "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from ea…",
       "publishedAt": "2026-09-18T14:36:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cloudflare Quick Tunnels",
-      "link": "https://try.cloudflare.com/",
-      "summary": "782 points, 301 comments",
-      "publishedAt": "2026-09-18T14:18:41.000Z"
     },
     {
       "source": "Google AI",
@@ -603,6 +612,15 @@
       "link": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories. The workflow combines live experimentation data through MCP, engineer approval, isolated…",
       "publishedAt": "2026-09-18T13:50:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+      "link": "https://ufoseries.com/",
+      "summary": "30 points, 14 comments",
+      "publishedAt": "2026-09-18T13:35:05.000Z"
     },
     {
       "source": "Ars Technica",
@@ -704,15 +722,6 @@
       "publishedAt": "2026-09-17T22:12:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to Write with an LLM",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "568 points, 362 comments",
-      "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -758,15 +767,6 @@
       "publishedAt": "2026-09-17T19:07:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Adventures in Microcontroller Circuit Debugging",
-      "link": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-      "summary": "4 points, 1 comments",
-      "publishedAt": "2026-09-17T19:00:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -783,6 +783,15 @@
       "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
       "summary": "The IV drips included glutathione, which was not made to be injected.",
       "publishedAt": "2026-09-17T17:43:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "link": "https://arxiv.org/abs/2603.23696",
+      "summary": "19 points, 2 comments",
+      "publishedAt": "2026-09-17T17:30:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -808,7 +817,7 @@
       "category": "general",
       "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "link": "https://www.nature.com/articles/d41586-026-02621-2",
-      "summary": "39 points, 10 comments",
+      "summary": "87 points, 32 comments",
       "publishedAt": "2026-09-17T15:58:31.000Z"
     },
     {
@@ -837,6 +846,15 @@
       "link": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel…",
       "publishedAt": "2026-09-17T04:59:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Suzanne Ciani's Buchla Cookbook",
+      "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+      "summary": "43 points, 18 comments",
+      "publishedAt": "2026-09-17T00:39:39.000Z"
     },
     {
       "source": "OpenAI",
@@ -869,10 +887,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Asking Authors About Their Own Papers",
-      "link": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "summary": "85 points, 45 comments",
-      "publishedAt": "2026-09-16T23:31:31.000Z"
+      "title": "Deodands put a price on objects that caused death",
+      "link": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "summary": "18 points, 10 comments",
+      "publishedAt": "2026-09-16T19:51:23.000Z"
     },
     {
       "source": "Simon Willison",
@@ -882,15 +900,6 @@
       "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
       "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Clau…",
       "publishedAt": "2026-09-16T18:09:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "summary": "109 points, 27 comments",
-      "publishedAt": "2026-09-16T17:16:11.000Z"
     },
     {
       "source": "OpenAI",
@@ -995,9 +1004,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "“The Secret Life of Circuits” is here",
+      "title": "The Secret Life of Circuits",
       "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "summary": "208 points, 56 comments",
+      "summary": "266 points, 67 comments",
       "publishedAt": "2026-09-15T23:15:05.000Z"
     },
     {
@@ -1179,15 +1188,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and prod…",
       "publishedAt": "2026-09-12T23:56:42.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "California Brown Pelican",
-      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelica…",
-      "publishedAt": "2026-09-12T21:16:09.000Z"
     },
     {
       "source": "OpenAI",
