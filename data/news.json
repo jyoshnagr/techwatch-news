@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:35:45.150Z",
+  "updatedAt": "2026-09-19T09:13:26.660Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,9 +59,63 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "86 points, 42 comments",
+      "publishedAt": "2026-09-19T06:41:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "68 points, 37 comments",
+      "publishedAt": "2026-09-19T06:28:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+      "link": "https://browser.geekbench.com/v7/cpu/389219",
+      "summary": "21 points, 14 comments",
+      "publishedAt": "2026-09-19T06:19:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "191 points, 71 comments",
+      "publishedAt": "2026-09-19T05:48:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "summary": "22 points, 2 comments",
+      "publishedAt": "2026-09-19T04:44:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "San Francisco Onion Futures Company",
+      "link": "https://onionfutures.com/",
+      "summary": "175 points, 62 comments",
+      "publishedAt": "2026-09-19T04:23:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "SDCC – Small Device C Compiler",
       "link": "https://sdcc.sourceforge.net/",
-      "summary": "14 points, 2 comments",
+      "summary": "74 points, 17 comments",
       "publishedAt": "2026-09-19T02:32:36.000Z"
     },
     {
@@ -70,7 +124,7 @@
       "category": "general",
       "title": "Science Is Open Software",
       "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "21 points, 9 comments",
+      "summary": "85 points, 35 comments",
       "publishedAt": "2026-09-19T02:21:35.000Z"
     },
     {
@@ -81,15 +135,6 @@
       "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "publishedAt": "2026-09-19T01:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "link": "https://liveworld.info/",
-      "summary": "19 points, 21 comments",
-      "publishedAt": "2026-09-19T00:30:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -142,7 +187,7 @@
       "category": "general",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "68 points, 62 comments",
+      "summary": "117 points, 84 comments",
       "publishedAt": "2026-09-18T23:04:17.000Z"
     },
     {
@@ -162,15 +207,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact…",
       "publishedAt": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "551 points, 198 comments",
-      "publishedAt": "2026-09-18T21:00:32.000Z"
     },
     {
       "source": "Ars Technica",
@@ -241,7 +277,7 @@
       "category": "general",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "615 points, 293 comments",
+      "summary": "821 points, 403 comments",
       "publishedAt": "2026-09-18T19:03:09.000Z"
     },
     {
@@ -257,18 +293,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "69 points, 12 comments",
-      "publishedAt": "2026-09-18T18:55:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Saving another 100TB of RAM",
       "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "257 points, 55 comments",
+      "summary": "353 points, 69 comments",
       "publishedAt": "2026-09-18T18:51:46.000Z"
     },
     {
@@ -279,15 +306,6 @@
       "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
       "publishedAt": "2026-09-18T18:49:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "120 points, 73 comments",
-      "publishedAt": "2026-09-18T18:39:31.000Z"
     },
     {
       "source": "The Verge",
@@ -398,15 +416,6 @@
       "publishedAt": "2026-09-18T17:04:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "summary": "164 points, 59 comments",
-      "publishedAt": "2026-09-18T16:54:18.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -511,7 +520,7 @@
       "category": "general",
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "619 points, 259 comments",
+      "summary": "699 points, 277 comments",
       "publishedAt": "2026-09-18T14:18:41.000Z"
     },
     {
@@ -560,6 +569,15 @@
       "publishedAt": "2026-09-18T13:00:00.000Z"
     },
     {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -583,7 +601,7 @@
       "category": "general",
       "title": "OpenJev",
       "link": "https://openjev.com/",
-      "summary": "569 points, 248 comments",
+      "summary": "624 points, 262 comments",
       "publishedAt": "2026-09-18T09:42:22.000Z"
     },
     {
@@ -603,15 +621,6 @@
       "link": "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "OpenAI has released a disclosure framework for model misalignment during its lifecycle. Employees can flag potential issues, prompting technical staff to label incidents. The initial case studies outline unexpected model…",
       "publishedAt": "2026-09-18T05:05:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "link": "https://cactuscompute.com/needle",
-      "summary": "171 points, 78 comments",
-      "publishedAt": "2026-09-18T00:11:44.000Z"
     },
     {
       "source": "Simon Willison",
@@ -655,7 +664,7 @@
       "category": "general",
       "title": "How to Write with an LLM",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "416 points, 287 comments",
+      "summary": "485 points, 324 comments",
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -718,7 +727,7 @@
       "category": "general",
       "title": "The first new cat species discovered in 100 years",
       "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "summary": "193 points, 72 comments",
+      "summary": "267 points, 103 comments",
       "publishedAt": "2026-09-17T18:31:56.000Z"
     },
     {
@@ -729,15 +738,6 @@
       "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
       "summary": "The IV drips included glutathione, which was not made to be injected.",
       "publishedAt": "2026-09-17T17:43:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Farnese letter",
-      "link": "https://simonklee.dk/farnese-letter",
-      "summary": "31 points, 5 comments",
-      "publishedAt": "2026-09-17T17:39:01.000Z"
     },
     {
       "source": "Ars Technica",
@@ -803,6 +803,15 @@
       "publishedAt": "2026-09-17T04:59:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ctenophores: Wonders of Biology",
+      "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "summary": "19 points, 5 comments",
+      "publishedAt": "2026-09-17T01:58:25.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -835,26 +844,17 @@
       "category": "general",
       "title": "Why building a Rust LSP is hard",
       "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "summary": "13 points, 6 comments",
+      "summary": "65 points, 30 comments",
       "publishedAt": "2026-09-16T22:51:16.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
-      "link": "https://www.lispbm.com/",
-      "summary": "15 points, 1 comments",
-      "publishedAt": "2026-09-16T21:49:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cyclomatic Complexity in C#",
-      "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-      "summary": "39 points, 15 comments",
-      "publishedAt": "2026-09-16T19:01:09.000Z"
+      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "link": "https://github.com/awlevin/typesafe-computer-use",
+      "summary": "74 points, 43 comments",
+      "publishedAt": "2026-09-16T22:01:49.000Z"
     },
     {
       "source": "Simon Willison",
@@ -864,6 +864,15 @@
       "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
       "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Clau…",
       "publishedAt": "2026-09-16T18:09:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "summary": "41 points, 12 comments",
+      "publishedAt": "2026-09-16T17:16:11.000Z"
     },
     {
       "source": "OpenAI",
@@ -907,7 +916,7 @@
       "category": "general",
       "title": "Goroutine Leak Profiles",
       "link": "https://go.dev/blog/goroutine-leak-profiles",
-      "summary": "5 points, 0 comments",
+      "summary": "29 points, 2 comments",
       "publishedAt": "2026-09-16T13:30:30.000Z"
     },
     {
@@ -1247,18 +1256,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
@@ -1287,15 +1296,6 @@
       "link": "https://openai.com/index/ai-policy-window",
       "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "publishedAt": "2026-09-09T13:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "publishedAt": "2026-09-09T11:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
