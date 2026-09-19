@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:21:48.072Z",
+  "updatedAt": "2026-09-19T03:35:45.150Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,96 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "SDCC – Small Device C Compiler",
+      "link": "https://sdcc.sourceforge.net/",
+      "summary": "14 points, 2 comments",
+      "publishedAt": "2026-09-19T02:32:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Science Is Open Software",
+      "link": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "21 points, 9 comments",
+      "publishedAt": "2026-09-19T02:21:35.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "publishedAt": "2026-09-19T01:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "link": "https://liveworld.info/",
+      "summary": "19 points, 21 comments",
+      "publishedAt": "2026-09-19T00:30:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "publishedAt": "2026-09-19T00:12:07.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irreg…",
+      "publishedAt": "2026-09-18T23:57:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "publishedAt": "2026-09-18T23:25:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "publishedAt": "2026-09-18T23:13:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "publishedAt": "2026-09-18T23:12:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "68 points, 62 comments",
+      "publishedAt": "2026-09-18T23:04:17.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -79,8 +169,17 @@
       "category": "general",
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "207 points, 83 comments",
+      "summary": "551 points, 198 comments",
       "publishedAt": "2026-09-18T21:00:32.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "publishedAt": "2026-09-18T20:26:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -142,17 +241,8 @@
       "category": "general",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "354 points, 165 comments",
+      "summary": "615 points, 293 comments",
       "publishedAt": "2026-09-18T19:03:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "35 points, 14 comments",
-      "publishedAt": "2026-09-18T19:00:06.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -169,7 +259,7 @@
       "category": "general",
       "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "49 points, 10 comments",
+      "summary": "69 points, 12 comments",
       "publishedAt": "2026-09-18T18:55:35.000Z"
     },
     {
@@ -178,7 +268,7 @@
       "category": "general",
       "title": "Saving another 100TB of RAM",
       "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "134 points, 27 comments",
+      "summary": "257 points, 55 comments",
       "publishedAt": "2026-09-18T18:51:46.000Z"
     },
     {
@@ -196,7 +286,7 @@
       "category": "general",
       "title": "Xcode 27.1 Beta Release Notes",
       "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "94 points, 54 comments",
+      "summary": "120 points, 73 comments",
       "publishedAt": "2026-09-18T18:39:31.000Z"
     },
     {
@@ -313,7 +403,7 @@
       "category": "general",
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "summary": "134 points, 40 comments",
+      "summary": "164 points, 59 comments",
       "publishedAt": "2026-09-18T16:54:18.000Z"
     },
     {
@@ -380,15 +470,6 @@
       "publishedAt": "2026-09-18T15:22:48.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-      "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-      "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
-      "publishedAt": "2026-09-18T15:22:16.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -396,24 +477,6 @@
       "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
       "summary": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, a…",
       "publishedAt": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "summary": "93 points, 49 comments",
-      "publishedAt": "2026-09-18T15:12:07.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "publishedAt": "2026-09-18T15:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -446,37 +509,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "I vibed a proof of Conway's conjecture",
-      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "summary": "194 points, 172 comments",
-      "publishedAt": "2026-09-18T14:36:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "summary": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "publishedAt": "2026-09-18T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "487 points, 213 comments",
+      "summary": "619 points, 259 comments",
       "publishedAt": "2026-09-18T14:18:41.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "publishedAt": "2026-09-18T14:00:14.000Z"
     },
     {
       "source": "Google AI",
@@ -485,15 +521,6 @@
       "title": "New experts join Google’s AI & Economy team",
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "publishedAt": "2026-09-18T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
       "publishedAt": "2026-09-18T14:00:00.000Z"
     },
     {
@@ -556,7 +583,7 @@
       "category": "general",
       "title": "OpenJev",
       "link": "https://openjev.com/",
-      "summary": "510 points, 234 comments",
+      "summary": "569 points, 248 comments",
       "publishedAt": "2026-09-18T09:42:22.000Z"
     },
     {
@@ -581,18 +608,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Minimal Phone 2",
-      "link": "https://minimalcompany.com/",
-      "summary": "144 points, 136 comments",
-      "publishedAt": "2026-09-18T02:00:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "link": "https://cactuscompute.com/needle",
-      "summary": "143 points, 70 comments",
+      "summary": "171 points, 78 comments",
       "publishedAt": "2026-09-18T00:11:44.000Z"
     },
     {
@@ -637,17 +655,8 @@
       "category": "general",
       "title": "How to Write with an LLM",
       "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "335 points, 235 comments",
+      "summary": "416 points, 287 comments",
       "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How SpaceX streamlined the Raptor engine",
-      "link": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "summary": "129 points, 19 comments",
-      "publishedAt": "2026-09-17T21:14:19.000Z"
     },
     {
       "source": "Simon Willison",
@@ -657,15 +666,6 @@
       "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
       "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". Th…",
       "publishedAt": "2026-09-17T20:57:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "summary": "124 points, 160 comments",
-      "publishedAt": "2026-09-17T20:52:33.000Z"
     },
     {
       "source": "Ars Technica",
@@ -718,7 +718,7 @@
       "category": "general",
       "title": "The first new cat species discovered in 100 years",
       "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "summary": "96 points, 28 comments",
+      "summary": "193 points, 72 comments",
       "publishedAt": "2026-09-17T18:31:56.000Z"
     },
     {
@@ -729,6 +729,15 @@
       "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
       "summary": "The IV drips included glutathione, which was not made to be injected.",
       "publishedAt": "2026-09-17T17:43:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Farnese letter",
+      "link": "https://simonklee.dk/farnese-letter",
+      "summary": "31 points, 5 comments",
+      "publishedAt": "2026-09-17T17:39:01.000Z"
     },
     {
       "source": "Ars Technica",
@@ -776,15 +785,6 @@
       "publishedAt": "2026-09-17T13:57:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "link": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "summary": "17 points, 0 comments",
-      "publishedAt": "2026-09-17T13:20:03.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -792,15 +792,6 @@
       "link": "https://openai.com/index/cooley-gopublic",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "publishedAt": "2026-09-17T12:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Hackers reveal how Flock cameras really track cars and people",
-      "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-      "summary": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
-      "publishedAt": "2026-09-17T09:43:46.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -842,9 +833,27 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Why building a Rust LSP is hard",
+      "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "summary": "13 points, 6 comments",
+      "publishedAt": "2026-09-16T22:51:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "link": "https://www.lispbm.com/",
+      "summary": "15 points, 1 comments",
+      "publishedAt": "2026-09-16T21:49:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Cyclomatic Complexity in C#",
       "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-      "summary": "14 points, 3 comments",
+      "summary": "39 points, 15 comments",
       "publishedAt": "2026-09-16T19:01:09.000Z"
     },
     {
@@ -891,6 +900,15 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has evolved Riviera from a file preview service into a universal content processing platform supporting more than 300 file formats and over 100 transformation capabilities. Processing hundreds of thousands of tra…",
       "publishedAt": "2026-09-16T14:42:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Goroutine Leak Profiles",
+      "link": "https://go.dev/blog/goroutine-leak-profiles",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-16T13:30:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -999,15 +1017,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
       "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
       "publishedAt": "2026-09-15T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A search-and-inference database from scratch in pure Zig",
-      "link": "https://antfly.io/research/antfly-zig",
-      "summary": "39 points, 14 comments",
-      "publishedAt": "2026-09-15T15:35:33.000Z"
     },
     {
       "source": "Google AI",
@@ -1170,15 +1179,6 @@
       "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
       "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still…",
       "publishedAt": "2026-09-12T18:00:21.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (…",
-      "publishedAt": "2026-09-12T00:42:25.000Z"
     },
     {
       "source": "OpenAI",
