@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T19:53:16.341Z",
+  "updatedAt": "2026-09-21T23:02:41.794Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,111 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Data Protection Commission fines Google €403M over processing of location data",
+      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+      "summary": "17 points, 3 comments",
+      "publishedAt": "2026-09-21T22:33:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I don't want to read what you didn't write",
+      "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "summary": "41 points, 8 comments",
+      "publishedAt": "2026-09-21T22:30:41.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Cloudflare Python Workers are now generally available",
+      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully suppor…",
+      "publishedAt": "2026-09-21T22:25:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "publishedAt": "2026-09-21T22:24:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+      "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+      "publishedAt": "2026-09-21T21:07:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "link": "https://www.personalimportation.org/advocacy",
+      "summary": "82 points, 35 comments",
+      "publishedAt": "2026-09-21T20:58:17.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+      "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+      "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+      "publishedAt": "2026-09-21T20:55:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California…",
+      "publishedAt": "2026-09-21T20:29:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "publishedAt": "2026-09-21T20:15:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Xiaomi MiMo v2.6",
+      "link": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "372 points, 175 comments",
+      "publishedAt": "2026-09-21T20:12:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Transformers Explained Visually",
+      "link": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "125 points, 18 comments",
+      "publishedAt": "2026-09-21T19:43:49.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
       "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before…",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings befo…",
       "publishedAt": "2026-09-21T19:25:00.000Z"
     },
     {
@@ -70,7 +169,7 @@
       "category": "general",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "link": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "12 points, 2 comments",
+      "summary": "98 points, 88 comments",
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
@@ -88,25 +187,16 @@
       "category": "general",
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "11 points, 0 comments",
+      "summary": "64 points, 32 comments",
       "publishedAt": "2026-09-21T19:17:42.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-      "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-      "summary": "18 points, 11 comments",
-      "publishedAt": "2026-09-21T19:14:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "title": "NASA’s Mars Sample Return mission is dead",
       "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "49 points, 15 comments",
+      "summary": "240 points, 175 comments",
       "publishedAt": "2026-09-21T19:14:12.000Z"
     },
     {
@@ -115,8 +205,26 @@
       "category": "general",
       "title": "In Search of a Compositional Theory of Self-Stabilization",
       "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-      "summary": "16 points, 0 comments",
+      "summary": "38 points, 3 comments",
       "publishedAt": "2026-09-21T19:04:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "link": "https://robocurve.org/roboharm/",
+      "summary": "25 points, 10 comments",
+      "publishedAt": "2026-09-21T18:58:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Frontier AI on Your Own Hardware",
+      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "68 points, 35 comments",
+      "publishedAt": "2026-09-21T18:53:01.000Z"
     },
     {
       "source": "Hacker News",
@@ -124,25 +232,16 @@
       "category": "general",
       "title": "US halts flights at busy East Coast airports, says fiber line cut",
       "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "82 points, 40 comments",
+      "summary": "169 points, 98 comments",
       "publishedAt": "2026-09-21T18:41:59.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Gravity Linux Alpha Release: Linux on the M4 Mac Mini with GPU and DCP Support",
-      "link": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
-      "summary": "12 points, 0 comments",
-      "publishedAt": "2026-09-21T18:38:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
+      "title": "Why does mathmain need an encrypted loader?",
       "link": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "49 points, 6 comments",
+      "summary": "91 points, 26 comments",
       "publishedAt": "2026-09-21T18:33:44.000Z"
     },
     {
@@ -158,10 +257,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "link": "https://ieeexplore.ieee.org/document/689473",
-      "summary": "16 points, 2 comments",
-      "publishedAt": "2026-09-21T18:14:56.000Z"
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "link": "https://www.pagetable.com/300",
+      "summary": "70 points, 22 comments",
+      "publishedAt": "2026-09-21T18:15:32.000Z"
     },
     {
       "source": "TechCrunch",
@@ -205,17 +304,8 @@
       "category": "general",
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "129 points, 80 comments",
+      "summary": "212 points, 137 comments",
       "publishedAt": "2026-09-21T17:30:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
-      "summary": "36 points, 23 comments",
-      "publishedAt": "2026-09-21T17:27:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -275,46 +365,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "summary": "52 points, 27 comments",
-      "publishedAt": "2026-09-21T16:14:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fable 5 – Median thinking declined in August",
-      "link": "https://twitter.com/Lon/status/2101793422487204027",
-      "summary": "246 points, 163 comments",
-      "publishedAt": "2026-09-21T16:13:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How do Traffic Signals Work (2019)",
-      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "summary": "34 points, 25 comments",
-      "publishedAt": "2026-09-21T16:06:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Grok 4.7",
       "link": "https://x.ai/news/grok-4-7",
-      "summary": "359 points, 303 comments",
+      "summary": "455 points, 369 comments",
       "publishedAt": "2026-09-21T15:50:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "link": "http://pdp1173.com/",
-      "summary": "66 points, 25 comments",
-      "publishedAt": "2026-09-21T15:45:06.000Z"
     },
     {
       "source": "Ars Technica",
@@ -367,7 +421,7 @@
       "category": "general",
       "title": "Attention is all you have",
       "link": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "379 points, 110 comments",
+      "summary": "521 points, 152 comments",
       "publishedAt": "2026-09-21T14:26:56.000Z"
     },
     {
@@ -385,7 +439,7 @@
       "category": "general",
       "title": "What Sun got wrong",
       "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "386 points, 202 comments",
+      "summary": "468 points, 260 comments",
       "publishedAt": "2026-09-21T14:03:18.000Z"
     },
     {
@@ -414,15 +468,6 @@
       "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
       "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
       "publishedAt": "2026-09-21T13:49:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Python Workers are now generally available",
-      "link": "https://blog.cloudflare.com/python-workers-ga/",
-      "summary": "128 points, 17 comments",
-      "publishedAt": "2026-09-21T13:38:19.000Z"
     },
     {
       "source": "The Verge",
@@ -479,21 +524,21 @@
       "publishedAt": "2026-09-21T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-      "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-      "summary": "Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge There are a few things about using a Googlebook that immediately feel just right. T…",
-      "publishedAt": "2026-09-21T13:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "publishedAt": "2026-09-21T12:00:00.000Z"
     },
     {
@@ -529,7 +574,7 @@
       "category": "general",
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "link": "https://github.com/jaredpalmer/kev/tree/main",
-      "summary": "340 points, 159 comments",
+      "summary": "385 points, 170 comments",
       "publishedAt": "2026-09-21T07:11:55.000Z"
     },
     {
@@ -641,15 +686,6 @@
       "publishedAt": "2026-09-20T16:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-      "publishedAt": "2026-09-20T16:02:00.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -711,6 +747,15 @@
       "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
       "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook…",
       "publishedAt": "2026-09-19T19:52:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Divide by depth for instant 3D",
+      "link": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "summary": "55 points, 5 comments",
+      "publishedAt": "2026-09-19T19:43:13.000Z"
     },
     {
       "source": "Simon Willison",
@@ -848,15 +893,6 @@
       "publishedAt": "2026-09-18T14:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Meet the winner of Nikon's Small World in Motion video contest",
-      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-      "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-      "publishedAt": "2026-09-18T13:56:57.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -864,15 +900,6 @@
       "link": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories. The workflow combines live experimentation data through MCP, engineer approval, isolated…",
       "publishedAt": "2026-09-18T13:50:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Researchers used Claude to hack OpenAI",
-      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "publishedAt": "2026-09-18T13:30:12.000Z"
     },
     {
       "source": "Google AI",
@@ -900,15 +927,6 @@
       "link": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents runni…",
       "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-      "summary": "“I can tell you SpaceX has already gone captive.\"",
-      "publishedAt": "2026-09-18T11:00:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1181,15 +1199,6 @@
       "publishedAt": "2026-09-14T21:18:13.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "What blog posts influenced your thinking the most?",
-      "link": "https://simonwillison.net/2026/Sep/14/influences/",
-      "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to a…",
-      "publishedAt": "2026-09-14T20:21:48.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1269,15 +1278,6 @@
       "link": "https://openai.com/index/put-data-to-work",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
     },
     {
       "source": "Google AI",
