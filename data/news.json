@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:02:41.794Z",
+  "updatedAt": "2026-09-22T03:45:36.291Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,10 +59,82 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "summary": "17 points, 3 comments",
-      "publishedAt": "2026-09-21T22:33:45.000Z"
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "summary": "76 points, 38 comments",
+      "publishedAt": "2026-09-22T01:24:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "74 points, 59 comments",
+      "publishedAt": "2026-09-22T01:05:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Socrates vs. the Written Word (2011)",
+      "link": "https://wondermark.com/socrates-vs-writing/",
+      "summary": "17 points, 4 comments",
+      "publishedAt": "2026-09-22T00:06:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "summary": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figu…",
+      "publishedAt": "2026-09-21T23:48:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "publishedAt": "2026-09-21T23:44:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "summary": "50 points, 17 comments",
+      "publishedAt": "2026-09-21T23:16:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech compa…",
+      "publishedAt": "2026-09-21T23:15:32.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an in…",
+      "publishedAt": "2026-09-21T23:09:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Spymarks, Not Watermarks",
+      "link": "https://brand.io/article/spymarks/",
+      "summary": "194 points, 39 comments",
+      "publishedAt": "2026-09-21T23:03:49.000Z"
     },
     {
       "source": "Hacker News",
@@ -70,7 +142,7 @@
       "category": "general",
       "title": "I don't want to read what you didn't write",
       "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "41 points, 8 comments",
+      "summary": "386 points, 133 comments",
       "publishedAt": "2026-09-21T22:30:41.000Z"
     },
     {
@@ -99,15 +171,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
       "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
       "publishedAt": "2026-09-21T21:07:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "link": "https://www.personalimportation.org/advocacy",
-      "summary": "82 points, 35 comments",
-      "publishedAt": "2026-09-21T20:58:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -140,9 +203,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Xiaomi MiMo v2.6",
+      "title": "MiMo v2.6",
       "link": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "372 points, 175 comments",
+      "summary": "627 points, 313 comments",
       "publishedAt": "2026-09-21T20:12:12.000Z"
     },
     {
@@ -151,7 +214,7 @@
       "category": "general",
       "title": "Transformers Explained Visually",
       "link": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "125 points, 18 comments",
+      "summary": "238 points, 39 comments",
       "publishedAt": "2026-09-21T19:43:49.000Z"
     },
     {
@@ -169,7 +232,7 @@
       "category": "general",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "link": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "98 points, 88 comments",
+      "summary": "163 points, 175 comments",
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
@@ -187,7 +250,7 @@
       "category": "general",
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "64 points, 32 comments",
+      "summary": "104 points, 48 comments",
       "publishedAt": "2026-09-21T19:17:42.000Z"
     },
     {
@@ -196,53 +259,8 @@
       "category": "general",
       "title": "NASA’s Mars Sample Return mission is dead",
       "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "240 points, 175 comments",
+      "summary": "329 points, 264 comments",
       "publishedAt": "2026-09-21T19:14:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "In Search of a Compositional Theory of Self-Stabilization",
-      "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-      "summary": "38 points, 3 comments",
-      "publishedAt": "2026-09-21T19:04:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "link": "https://robocurve.org/roboharm/",
-      "summary": "25 points, 10 comments",
-      "publishedAt": "2026-09-21T18:58:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Frontier AI on Your Own Hardware",
-      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "68 points, 35 comments",
-      "publishedAt": "2026-09-21T18:53:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "169 points, 98 comments",
-      "publishedAt": "2026-09-21T18:41:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why does mathmain need an encrypted loader?",
-      "link": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "91 points, 26 comments",
-      "publishedAt": "2026-09-21T18:33:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -252,15 +270,6 @@
       "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
       "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
       "publishedAt": "2026-09-21T18:23:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "link": "https://www.pagetable.com/300",
-      "summary": "70 points, 22 comments",
-      "publishedAt": "2026-09-21T18:15:32.000Z"
     },
     {
       "source": "TechCrunch",
@@ -297,15 +306,6 @@
       "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
       "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way o…",
       "publishedAt": "2026-09-21T17:42:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "212 points, 137 comments",
-      "publishedAt": "2026-09-21T17:30:21.000Z"
     },
     {
       "source": "Ars Technica",
@@ -365,10 +365,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Grok 4.7",
-      "link": "https://x.ai/news/grok-4-7",
-      "summary": "455 points, 369 comments",
-      "publishedAt": "2026-09-21T15:50:15.000Z"
+      "title": "How do traffic signals work? (2019)",
+      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "66 points, 49 comments",
+      "publishedAt": "2026-09-21T16:06:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -421,7 +421,7 @@
       "category": "general",
       "title": "Attention is all you have",
       "link": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "521 points, 152 comments",
+      "summary": "620 points, 188 comments",
       "publishedAt": "2026-09-21T14:26:56.000Z"
     },
     {
@@ -439,7 +439,7 @@
       "category": "general",
       "title": "What Sun got wrong",
       "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "468 points, 260 comments",
+      "summary": "525 points, 311 comments",
       "publishedAt": "2026-09-21T14:03:18.000Z"
     },
     {
@@ -488,15 +488,6 @@
       "publishedAt": "2026-09-21T13:16:25.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "These are the first five Googlebook laptops",
-      "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today…",
-      "publishedAt": "2026-09-21T13:01:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -513,15 +504,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
       "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
       "publishedAt": "2026-09-21T13:00:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The long dream of the Googlebook",
-      "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-      "summary": "Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had…",
-      "publishedAt": "2026-09-21T13:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -560,6 +542,15 @@
       "publishedAt": "2026-09-21T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "First Shader from Zero in Godot 4",
+      "link": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+      "summary": "40 points, 6 comments",
+      "publishedAt": "2026-09-21T10:57:44.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -567,15 +558,6 @@
       "link": "https://openai.com/index/building-standards-next-phase-ai",
       "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
       "publishedAt": "2026-09-21T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "link": "https://github.com/jaredpalmer/kev/tree/main",
-      "summary": "385 points, 170 comments",
-      "publishedAt": "2026-09-21T07:11:55.000Z"
     },
     {
       "source": "OpenAI",
@@ -677,13 +659,13 @@
       "publishedAt": "2026-09-20T18:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "New California law will penalize influencers who don’t disclose political ads",
-      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
-      "publishedAt": "2026-09-20T16:30:00.000Z"
+      "title": "Truman World",
+      "link": "https://trumanworld.live",
+      "summary": "5 points, 8 comments",
+      "publishedAt": "2026-09-20T16:58:34.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -731,6 +713,24 @@
       "publishedAt": "2026-09-20T09:00:11.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "More Floating Point Alternatives",
+      "link": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "summary": "13 points, 8 comments",
+      "publishedAt": "2026-09-20T00:55:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Paper Models of Polyhedra",
+      "link": "https://www.polyhedra.net/en/",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-09-20T00:28:33.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -738,6 +738,15 @@
       "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s…",
       "publishedAt": "2026-09-20T00:22:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+      "link": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-09-19T23:44:07.000Z"
     },
     {
       "source": "Simon Willison",
@@ -754,7 +763,7 @@
       "category": "general",
       "title": "Divide by depth for instant 3D",
       "link": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "summary": "55 points, 5 comments",
+      "summary": "99 points, 17 comments",
       "publishedAt": "2026-09-19T19:43:13.000Z"
     },
     {
@@ -1188,15 +1197,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
       "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
       "publishedAt": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "The contagion of fear",
-      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story…",
-      "publishedAt": "2026-09-14T21:18:13.000Z"
     },
     {
       "source": "Google AI",
