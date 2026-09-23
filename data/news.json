@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:44:27.166Z",
+  "updatedAt": "2026-09-23T09:47:18.963Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,23 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
-  "errors": [],
+  "itemCount": 133,
+  "errors": [
+    {
+      "source": "Hacker News",
+      "error": "TypeError: fetch failed"
+    }
+  ],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "publishedAt": "2026-09-23T04:59:08.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -72,15 +86,6 @@
       "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things wit…",
       "publishedAt": "2026-09-23T02:53:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-      "summary": "52 points, 30 comments",
-      "publishedAt": "2026-09-23T02:13:52.000Z"
     },
     {
       "source": "The Verge",
@@ -119,15 +124,6 @@
       "publishedAt": "2026-09-22T22:26:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "57 points, 20 comments",
-      "publishedAt": "2026-09-22T22:03:46.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -153,15 +149,6 @@
       "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
       "summary": "The frontier AI model race has entered its comparison shopping phase.",
       "publishedAt": "2026-09-22T21:25:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
-      "summary": "218 points, 144 comments",
-      "publishedAt": "2026-09-22T21:00:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -290,24 +277,6 @@
       "publishedAt": "2026-09-22T19:08:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "summary": "486 points, 243 comments",
-      "publishedAt": "2026-09-22T19:03:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "SAML: A fractal of bad design",
-      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "summary": "181 points, 104 comments",
-      "publishedAt": "2026-09-22T18:57:17.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -335,15 +304,6 @@
       "publishedAt": "2026-09-22T18:24:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Unreal Agent",
-      "link": "https://unreallabs.ai/blog/unreal-agent/",
-      "summary": "145 points, 86 comments",
-      "publishedAt": "2026-09-22T18:15:53.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -362,15 +322,6 @@
       "publishedAt": "2026-09-22T18:03:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "1278 points, 641 comments",
-      "publishedAt": "2026-09-22T18:00:34.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -387,15 +338,6 @@
       "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
       "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
       "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "summary": "468 points, 341 comments",
-      "publishedAt": "2026-09-22T17:46:02.000Z"
     },
     {
       "source": "The Verge",
@@ -452,24 +394,6 @@
       "publishedAt": "2026-09-22T16:55:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "summary": "246 points, 77 comments",
-      "publishedAt": "2026-09-22T16:51:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "summary": "165 points, 85 comments",
-      "publishedAt": "2026-09-22T16:33:45.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -477,15 +401,6 @@
       "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
       "publishedAt": "2026-09-22T16:30:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "summary": "1292 points, 855 comments",
-      "publishedAt": "2026-09-22T16:29:05.000Z"
     },
     {
       "source": "Ars Technica",
@@ -551,15 +466,6 @@
       "publishedAt": "2026-09-22T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "summary": "271 points, 196 comments",
-      "publishedAt": "2026-09-22T14:42:59.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -623,15 +529,6 @@
       "publishedAt": "2026-09-22T14:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "summary": "588 points, 371 comments",
-      "publishedAt": "2026-09-22T13:52:15.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -639,24 +536,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
       "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
       "publishedAt": "2026-09-22T13:33:16.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-      "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-      "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-      "publishedAt": "2026-09-22T13:20:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "link": "https://benchmarkheaven.com/jev-models",
-      "summary": "77 points, 20 comments",
-      "publishedAt": "2026-09-22T13:01:03.000Z"
     },
     {
       "source": "OpenAI",
@@ -686,15 +565,6 @@
       "publishedAt": "2026-09-22T11:00:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "summary": "147 points, 221 comments",
-      "publishedAt": "2026-09-22T03:10:05.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -702,24 +572,6 @@
       "link": "https://openai.com/index/priorities-principles-third-party-assessments",
       "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Softness of Metal",
-      "link": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-09-21T23:59:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-      "link": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-21T23:29:42.000Z"
     },
     {
       "source": "Simon Willison",
@@ -839,15 +691,6 @@
       "publishedAt": "2026-09-21T07:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "link": "https://github.com/xCuri0/ReBarUEFI",
-      "summary": "88 points, 28 comments",
-      "publishedAt": "2026-09-21T01:07:46.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -855,15 +698,6 @@
       "link": "https://openai.com/index/v7",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "publishedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "MUNI Heritage Weekend in San Francisco",
-      "link": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "summary": "175 points, 44 comments",
-      "publishedAt": "2026-09-20T22:13:07.000Z"
     },
     {
       "source": "Simon Willison",
@@ -972,15 +806,6 @@
       "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
       "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our…",
       "publishedAt": "2026-09-18T19:09:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "summary": "247 points, 91 comments",
-      "publishedAt": "2026-09-18T19:01:03.000Z"
     },
     {
       "source": "InfoQ AI/ML",
