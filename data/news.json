@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T18:51:17.226Z",
+  "updatedAt": "2026-09-24T23:03:46.442Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,19 +59,190 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Back and shoulder surgery is often worse than useless",
+      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+      "summary": "4 points, 1 comments",
+      "publishedAt": "2026-09-24T22:15:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise cha…",
+      "publishedAt": "2026-09-24T22:08:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
+      "summary": "70 points, 16 comments",
+      "publishedAt": "2026-09-24T21:33:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "International observers to investigate Swedish election fraud",
+      "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+      "summary": "20 points, 5 comments",
+      "publishedAt": "2026-09-24T20:55:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "summary": "27 points, 17 comments",
+      "publishedAt": "2026-09-24T20:53:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "publishedAt": "2026-09-24T20:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "summary": "69 points, 183 comments",
+      "publishedAt": "2026-09-24T20:34:32.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "commit-rewriter 0.2",
+      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+      "publishedAt": "2026-09-24T20:06:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co…",
+      "publishedAt": "2026-09-24T19:59:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "48 points, 7 comments",
+      "publishedAt": "2026-09-24T19:54:21.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+      "publishedAt": "2026-09-24T19:30:42.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 1.0a41",
+      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugi…",
+      "publishedAt": "2026-09-24T19:15:23.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "publishedAt": "2026-09-24T19:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "46 points, 8 comments",
+      "publishedAt": "2026-09-24T19:14:27.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+      "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+      "publishedAt": "2026-09-24T19:07:19.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "publishedAt": "2026-09-24T19:00:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "publishedAt": "2026-09-24T18:52:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+      "publishedAt": "2026-09-24T18:52:23.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+      "publishedAt": "2026-09-24T18:39:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Stable (YC W20) Is Hiring Product Engineers",
       "link": "https://www.usestable.com/careers/product-engineer",
       "summary": "1 points, 0 comments",
       "publishedAt": "2026-09-24T18:29:18.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Creatine uptake enhances antitumor immunity",
-      "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-      "summary": "35 points, 20 comments",
-      "publishedAt": "2026-09-24T18:24:52.000Z"
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+      "publishedAt": "2026-09-24T18:20:58.000Z"
     },
     {
       "source": "The Verge",
@@ -124,7 +295,7 @@
       "category": "general",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
-      "summary": "76 points, 17 comments",
+      "summary": "159 points, 70 comments",
       "publishedAt": "2026-09-24T17:21:36.000Z"
     },
     {
@@ -151,7 +322,7 @@
       "category": "general",
       "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
       "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
       "publishedAt": "2026-09-24T17:07:55.000Z"
     },
     {
@@ -214,7 +385,7 @@
       "category": "general",
       "title": "Why is the liver so weirdly regenerative?",
       "link": "https://dynomight.substack.com/p/liver",
-      "summary": "31 points, 29 comments",
+      "summary": "187 points, 129 comments",
       "publishedAt": "2026-09-24T16:23:00.000Z"
     },
     {
@@ -227,13 +398,13 @@
       "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. Accordin…",
-      "publishedAt": "2026-09-24T16:04:31.000Z"
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "publishedAt": "2026-09-24T16:16:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -245,6 +416,15 @@
       "publishedAt": "2026-09-24T16:03:36.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
+      "publishedAt": "2026-09-24T16:01:16.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -254,22 +434,13 @@
       "publishedAt": "2026-09-24T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "The Xbox reset gets ugly",
-      "link": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-      "summary": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises ar…",
-      "publishedAt": "2026-09-24T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-      "summary": "175 points, 73 comments",
-      "publishedAt": "2026-09-24T15:50:26.000Z"
+      "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+      "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+      "summary": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
+      "publishedAt": "2026-09-24T15:48:29.000Z"
     },
     {
       "source": "Hacker News",
@@ -277,7 +448,7 @@
       "category": "general",
       "title": "F-Droid 2.0",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "480 points, 149 comments",
+      "summary": "833 points, 237 comments",
       "publishedAt": "2026-09-24T15:26:12.000Z"
     },
     {
@@ -302,7 +473,7 @@
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "NASA chief concerned China may deny access to parts of South Pole",
+      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
       "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
       "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
       "publishedAt": "2026-09-24T14:57:50.000Z"
@@ -322,7 +493,7 @@
       "category": "general",
       "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
       "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "publishedAt": "2026-09-24T14:31:00.000Z"
     },
     {
@@ -333,15 +504,6 @@
       "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
       "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
       "publishedAt": "2026-09-24T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "link": "https://eprint.iacr.org/2026/2131.pdf",
-      "summary": "15 points, 0 comments",
-      "publishedAt": "2026-09-24T14:26:32.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -371,6 +533,15 @@
       "publishedAt": "2026-09-24T14:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "82 points, 139 comments",
+      "publishedAt": "2026-09-24T13:53:29.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -398,24 +569,6 @@
       "publishedAt": "2026-09-24T11:00:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Two-tier encryption in the UK",
-      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "298 points, 294 comments",
-      "publishedAt": "2026-09-24T10:39:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "summary": "186 points, 97 comments",
-      "publishedAt": "2026-09-24T09:49:33.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -423,15 +576,6 @@
       "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
       "publishedAt": "2026-09-24T09:24:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "link": "https://cms-sfx-demo.apeleg.com/",
-      "summary": "12 points, 6 comments",
-      "publishedAt": "2026-09-24T07:22:17.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -461,49 +605,22 @@
       "publishedAt": "2026-09-24T00:46:17.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "summary": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
-      "publishedAt": "2026-09-23T23:47:35.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta introduces camera-free AI glasses",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-      "publishedAt": "2026-09-23T23:39:44.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-      "publishedAt": "2026-09-23T23:33:22.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "link": "https://bastardica.mitpit.com",
-      "summary": "54 points, 12 comments",
+      "summary": "384 points, 55 comments",
       "publishedAt": "2026-09-23T22:53:28.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Anthropic says its biology lab has already found something big",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "publishedAt": "2026-09-23T22:17:39.000Z"
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "summary": "153 points, 220 comments",
+      "publishedAt": "2026-09-23T22:37:28.000Z"
     },
     {
       "source": "Ars Technica",
@@ -560,15 +677,6 @@
       "publishedAt": "2026-09-23T20:28:42.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Geothermal heat map of US hot springs",
-      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "summary": "25 points, 8 comments",
-      "publishedAt": "2026-09-23T20:12:10.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -587,24 +695,6 @@
       "publishedAt": "2026-09-23T19:35:53.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Contrary to some reports, you don't have two brains",
-      "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-      "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
-      "publishedAt": "2026-09-23T18:47:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
-      "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
-      "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
-      "publishedAt": "2026-09-23T18:26:50.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -614,15 +704,6 @@
       "publishedAt": "2026-09-23T18:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "summary": "\"So absurd and embarrassing ...\"",
-      "publishedAt": "2026-09-23T17:39:39.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -630,15 +711,6 @@
       "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
       "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create…",
       "publishedAt": "2026-09-23T17:12:27.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-      "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-      "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
-      "publishedAt": "2026-09-23T17:10:58.000Z"
     },
     {
       "source": "Simon Willison",
@@ -673,7 +745,7 @@
       "category": "general",
       "title": "Rails World 2026 Opening Keynote [video]",
       "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "74 points, 46 comments",
+      "summary": "193 points, 211 comments",
       "publishedAt": "2026-09-23T15:33:33.000Z"
     },
     {
@@ -684,15 +756,6 @@
       "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "summary": "",
       "publishedAt": "2026-09-23T15:25:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-      "publishedAt": "2026-09-23T14:20:23.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -713,15 +776,6 @@
       "publishedAt": "2026-09-23T14:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "America gave up its rare earth edge. China took full advantage.",
-      "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
-      "publishedAt": "2026-09-23T13:37:05.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -729,15 +783,6 @@
       "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "publishedAt": "2026-09-23T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "link": "https://github.com/christianrowlands/wavedigger",
-      "summary": "48 points, 7 comments",
-      "publishedAt": "2026-09-23T12:57:07.000Z"
     },
     {
       "source": "OpenAI",
@@ -774,24 +819,6 @@
       "link": "https://openai.com/index/ringg",
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Small undersea volcanoes may unleash outsized tsunamis",
-      "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
-      "publishedAt": "2026-09-23T11:15:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "A new report from Europe raises serious alarms about orbital collisions",
-      "link": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-      "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
-      "publishedAt": "2026-09-23T11:00:17.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -905,9 +932,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "My Weird New Hobby: Wandering Around Tokyo on Google Maps",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "summary": "24 points, 10 comments",
+      "summary": "174 points, 74 comments",
       "publishedAt": "2026-09-22T17:49:46.000Z"
     },
     {
@@ -941,9 +968,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "summary": "56 points, 4 comments",
+      "publishedAt": "2026-09-22T14:00:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Fearless SIMD v1.0",
       "link": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "44 points, 8 comments",
+      "summary": "147 points, 27 comments",
       "publishedAt": "2026-09-22T12:23:37.000Z"
     },
     {
@@ -974,15 +1010,6 @@
       "publishedAt": "2026-09-22T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Motor Characterization for Small Running Robots (2016)",
-      "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "summary": "13 points, 0 comments",
-      "publishedAt": "2026-09-21T23:27:31.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1006,17 +1033,8 @@
       "category": "general",
       "title": "Security auditing in the age of (good enough) AI",
       "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "summary": "16 points, 1 comments",
+      "summary": "46 points, 2 comments",
       "publishedAt": "2026-09-21T21:53:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The forgotten battle of East Lansing",
-      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "summary": "20 points, 0 comments",
-      "publishedAt": "2026-09-21T20:07:08.000Z"
     },
     {
       "source": "Hacker News",
@@ -1024,7 +1042,7 @@
       "category": "general",
       "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
       "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "summary": "20 points, 0 comments",
+      "summary": "77 points, 20 comments",
       "publishedAt": "2026-09-21T14:30:00.000Z"
     },
     {
@@ -1188,24 +1206,6 @@
       "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
       "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Skeptical geneti…",
       "publishedAt": "2026-09-18T19:21:32.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Thariq Shihipar",
-      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our…",
-      "publishedAt": "2026-09-18T19:09:27.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from ea…",
-      "publishedAt": "2026-09-18T14:36:41.000Z"
     },
     {
       "source": "Google AI",
