@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:36:00.009Z",
+  "updatedAt": "2026-09-24T09:44:32.988Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,31 +52,89 @@
       "category": "ai"
     }
   ],
-  "itemCount": 147,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 152,
+  "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Australia says OpenAI agent hacked into government website",
-      "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-      "summary": "37 points, 25 comments",
-      "publishedAt": "2026-09-24T01:24:00.000Z"
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+      "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
+      "publishedAt": "2026-09-24T09:24:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "FLAWED's Flaws and What This Means for Industry Research",
-      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-      "summary": "12 points, 1 comments",
-      "publishedAt": "2026-09-24T01:16:33.000Z"
+      "title": "AI has no intent and no motivation",
+      "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "summary": "7 points, 2 comments",
+      "publishedAt": "2026-09-24T09:13:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of…",
+      "publishedAt": "2026-09-24T09:04:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "87 points, 42 comments",
+      "publishedAt": "2026-09-24T08:23:03.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust Away from C2PA",
+      "link": "https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit…",
+      "publishedAt": "2026-09-24T05:50:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "summary": "119 points, 85 comments",
+      "publishedAt": "2026-09-24T05:21:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Contrastive Language Models",
+      "link": "https://contrastive-lm.notion.site/",
+      "summary": "65 points, 14 comments",
+      "publishedAt": "2026-09-24T04:20:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "127 points, 97 comments",
+      "publishedAt": "2026-09-24T02:52:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "summary": "55 points, 12 comments",
+      "publishedAt": "2026-09-24T02:44:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -93,7 +151,7 @@
       "category": "general",
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
       "link": "https://github.com/nestrilabs/virtio-nvgpu",
-      "summary": "20 points, 15 comments",
+      "summary": "95 points, 44 comments",
       "publishedAt": "2026-09-24T01:02:23.000Z"
     },
     {
@@ -104,15 +162,6 @@
       "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
       "publishedAt": "2026-09-24T00:46:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "summary": "99 points, 62 comments",
-      "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
       "source": "The Verge",
@@ -138,7 +187,7 @@
       "category": "general",
       "title": "Meta VR Glasses",
       "link": "https://www.meta.com/vr-glasses/",
-      "summary": "283 points, 250 comments",
+      "summary": "393 points, 348 comments",
       "publishedAt": "2026-09-23T23:47:56.000Z"
     },
     {
@@ -210,7 +259,7 @@
       "category": "general",
       "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
       "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "summary": "83 points, 11 comments",
+      "summary": "179 points, 20 comments",
       "publishedAt": "2026-09-23T22:45:49.000Z"
     },
     {
@@ -228,7 +277,7 @@
       "category": "general",
       "title": "Linux support is coming to Snapdragon X2 Series",
       "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "summary": "206 points, 104 comments",
+      "summary": "399 points, 174 comments",
       "publishedAt": "2026-09-23T22:38:16.000Z"
     },
     {
@@ -264,17 +313,8 @@
       "category": "general",
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "link": "https://artificialanalysis.ai/models/mercury-2-5",
-      "summary": "66 points, 37 comments",
+      "summary": "105 points, 64 comments",
       "publishedAt": "2026-09-23T22:16:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "link": "https://blog.cloudflare.com/vary-support/",
-      "summary": "99 points, 18 comments",
-      "publishedAt": "2026-09-23T22:03:21.000Z"
     },
     {
       "source": "Ars Technica",
@@ -318,7 +358,7 @@
       "category": "general",
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "link": "https://fly.io/blog/vscode-ssh-wtf/",
-      "summary": "144 points, 95 comments",
+      "summary": "229 points, 143 comments",
       "publishedAt": "2026-09-23T21:01:48.000Z"
     },
     {
@@ -346,15 +386,6 @@
       "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
       "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
       "summary": "The Surface Pro 12-inch Second Edition comes in black, silver, or violet. | Image: Microsoft Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus ch…",
-      "publishedAt": "2026-09-23T20:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-      "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed fo…",
       "publishedAt": "2026-09-23T20:30:00.000Z"
     },
     {
@@ -412,15 +443,6 @@
       "publishedAt": "2026-09-23T18:47:36.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "link": "https://huggingface.co/apple/LensVLM-9B",
-      "summary": "61 points, 7 comments",
-      "publishedAt": "2026-09-23T18:36:29.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -435,7 +457,7 @@
       "category": "general",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "544 points, 574 comments",
+      "summary": "650 points, 668 comments",
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
@@ -446,15 +468,6 @@
       "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
       "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
       "publishedAt": "2026-09-23T18:06:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "summary": "119 points, 56 comments",
-      "publishedAt": "2026-09-23T18:02:08.000Z"
     },
     {
       "source": "Google AI",
@@ -471,7 +484,7 @@
       "category": "general",
       "title": "Making Tailscale Faster",
       "link": "https://tailscale.com/blog/making-tailscale-faster",
-      "summary": "96 points, 40 comments",
+      "summary": "165 points, 67 comments",
       "publishedAt": "2026-09-23T17:49:07.000Z"
     },
     {
@@ -520,15 +533,6 @@
       "publishedAt": "2026-09-23T17:10:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Italian parliament votes for return to nuclear energy",
-      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "summary": "624 points, 405 comments",
-      "publishedAt": "2026-09-23T17:06:16.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -565,6 +569,15 @@
       "publishedAt": "2026-09-23T16:03:44.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -583,6 +596,24 @@
       "publishedAt": "2026-09-23T15:46:57.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "link": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "summary": "58 points, 14 comments",
+      "publishedAt": "2026-09-23T15:37:47.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -597,7 +628,7 @@
       "category": "general",
       "title": "Fixing the Portobello Police Station Clock",
       "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "summary": "388 points, 92 comments",
+      "summary": "444 points, 102 comments",
       "publishedAt": "2026-09-23T15:18:53.000Z"
     },
     {
@@ -880,6 +911,15 @@
       "publishedAt": "2026-09-22T15:54:16.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RAM: the forgotten history (2024)",
+      "link": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-09-22T15:12:17.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -887,15 +927,6 @@
       "link": "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads. AX operates on a runtime, Agent Substrate, treating agents as stateful actors. It provides resource-efficient task suspensi…",
       "publishedAt": "2026-09-22T14:14:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The mystery animal on an ancient god's head",
-      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "summary": "70 points, 19 comments",
-      "publishedAt": "2026-09-22T12:00:11.000Z"
     },
     {
       "source": "OpenAI",
@@ -910,7 +941,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry",
+      "title": "GitLab Duo Expands Self-Hosted AI Options through Microsoft Foundry",
       "link": "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "GitLab has expanded GitLab Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations run GitLab's AI development capabilities against models hosted in their chosen Azure environment. By…",
       "publishedAt": "2026-09-22T12:00:00.000Z"
@@ -921,8 +952,17 @@
       "category": "general",
       "title": "The \"Windows XP Box\" (2003)",
       "link": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "summary": "74 points, 12 comments",
+      "summary": "153 points, 25 comments",
       "publishedAt": "2026-09-22T03:09:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making portable my unportable transputer C compiler",
+      "link": "https://nanochess.org/transputer_c_compiler.html",
+      "summary": "45 points, 4 comments",
+      "publishedAt": "2026-09-22T01:07:46.000Z"
     },
     {
       "source": "OpenAI",
@@ -955,19 +995,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Solving for faster SHA-1 collision detection",
-      "link": "https://sam.dev/blog/faster-sha1-collision-detection",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-09-21T18:46:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Combinators in Array Languages",
-      "link": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-09-21T18:03:58.000Z"
+      "title": "Women Who Sold Books Door to Door",
+      "link": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "summary": "21 points, 0 comments",
+      "publishedAt": "2026-09-21T20:52:52.000Z"
     },
     {
       "source": "OpenAI",
@@ -1195,24 +1226,6 @@
       "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
-      "link": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents runni…",
-      "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Article: Architecting Secure and Scalable Facial Verification Systems",
-      "link": "https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled d…",
-      "publishedAt": "2026-09-18T09:00:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1220,6 +1233,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
       "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "publishedAt": "2026-09-15T17:05:57.000Z"
     },
     {
       "source": "Google AI",
@@ -1301,6 +1323,24 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "publishedAt": "2026-09-08T14:00:15.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "summary": "",
+      "publishedAt": "2026-09-03T15:02:08.000Z"
     },
     {
       "source": "Anthropic",
