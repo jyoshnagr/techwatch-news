@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T03:52:33.537Z",
+  "updatedAt": "2026-09-25T10:02:00.365Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,90 @@
       "category": "ai"
     }
   ],
-  "itemCount": 148,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 153,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tech Needs Humanists More",
+      "link": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+      "summary": "16 points, 1 comments",
+      "publishedAt": "2026-09-25T09:31:34.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Article: The Agent Harness: What It Is and Two Ways to Build One",
+      "link": "https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles…",
+      "publishedAt": "2026-09-25T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Special Projects (2016)",
+      "link": "https://openai.com/index/special-projects/",
+      "summary": "15 points, 2 comments",
+      "publishedAt": "2026-09-25T08:55:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "link": "https://www.dawo.community/en/",
+      "summary": "124 points, 44 comments",
+      "publishedAt": "2026-09-25T08:06:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "summary": "50 points, 14 comments",
+      "publishedAt": "2026-09-25T07:27:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "summary": "46 points, 11 comments",
+      "publishedAt": "2026-09-25T07:03:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "publishedAt": "2026-09-25T05:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jev Based Code Review",
+      "link": "https://github.com/egma-ai/jev-code-reviewer",
+      "summary": "36 points, 37 comments",
+      "publishedAt": "2026-09-25T04:49:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What About Rails?",
+      "link": "https://jardo.dev/what-about-rails",
+      "summary": "48 points, 13 comments",
+      "publishedAt": "2026-09-25T02:50:16.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -102,7 +178,7 @@
       "category": "general",
       "title": "Waymo is scaling fast: Here’s what the fleet data shows",
       "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
       "publishedAt": "2026-09-24T23:24:33.000Z"
     },
     {
@@ -133,24 +209,6 @@
       "publishedAt": "2026-09-24T21:40:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "summary": "146 points, 38 comments",
-      "publishedAt": "2026-09-24T21:33:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "summary": "64 points, 26 comments",
-      "publishedAt": "2026-09-24T20:53:39.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -163,10 +221,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "summary": "169 points, 477 comments",
-      "publishedAt": "2026-09-24T20:34:32.000Z"
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
+      "summary": "264 points, 134 comments",
+      "publishedAt": "2026-09-24T20:28:47.000Z"
     },
     {
       "source": "Simon Willison",
@@ -185,15 +243,6 @@
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co…",
       "publishedAt": "2026-09-24T19:59:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "summary": "89 points, 13 comments",
-      "publishedAt": "2026-09-24T19:54:21.000Z"
     },
     {
       "source": "Ars Technica",
@@ -228,7 +277,7 @@
       "category": "general",
       "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
       "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "summary": "95 points, 14 comments",
+      "summary": "134 points, 26 comments",
       "publishedAt": "2026-09-24T19:14:27.000Z"
     },
     {
@@ -336,7 +385,7 @@
       "category": "general",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
-      "summary": "228 points, 85 comments",
+      "summary": "313 points, 117 comments",
       "publishedAt": "2026-09-24T17:21:36.000Z"
     },
     {
@@ -390,8 +439,17 @@
       "category": "general",
       "title": "Why is the liver so weirdly regenerative?",
       "link": "https://dynomight.substack.com/p/liver",
-      "summary": "304 points, 165 comments",
+      "summary": "411 points, 206 comments",
       "publishedAt": "2026-09-24T16:23:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -444,7 +502,7 @@
       "category": "general",
       "title": "F-Droid 2.0",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "1012 points, 276 comments",
+      "summary": "1249 points, 351 comments",
       "publishedAt": "2026-09-24T15:26:12.000Z"
     },
     {
@@ -534,7 +592,7 @@
       "category": "general",
       "title": "Google’s Project Suncatcher to put ML infrastructure in space",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "summary": "137 points, 249 comments",
+      "summary": "183 points, 376 comments",
       "publishedAt": "2026-09-24T13:53:29.000Z"
     },
     {
@@ -570,7 +628,7 @@
       "category": "general",
       "title": "Two-tier encryption in the UK",
       "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "395 points, 380 comments",
+      "summary": "454 points, 405 comments",
       "publishedAt": "2026-09-24T10:39:19.000Z"
     },
     {
@@ -583,15 +641,6 @@
       "publishedAt": "2026-09-24T09:24:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "link": "https://cms-sfx-demo.apeleg.com/",
-      "summary": "45 points, 14 comments",
-      "publishedAt": "2026-09-24T07:22:17.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -601,21 +650,12 @@
       "publishedAt": "2026-09-24T05:50:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-      "publishedAt": "2026-09-24T01:13:32.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "link": "https://bastardica.mitpit.com",
-      "summary": "528 points, 77 comments",
+      "summary": "700 points, 94 comments",
       "publishedAt": "2026-09-23T22:53:28.000Z"
     },
     {
@@ -624,7 +664,7 @@
       "category": "general",
       "title": "Toyota is taking the Corolla electric",
       "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "summary": "259 points, 428 comments",
+      "summary": "328 points, 596 comments",
       "publishedAt": "2026-09-23T22:37:28.000Z"
     },
     {
@@ -635,15 +675,6 @@
       "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
       "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
       "publishedAt": "2026-09-23T22:17:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Bayeux Tapestry: Woven by the Victors",
-      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-      "summary": "16 points, 0 comments",
-      "publishedAt": "2026-09-23T21:54:35.000Z"
     },
     {
       "source": "Ars Technica",
@@ -718,6 +749,15 @@
       "publishedAt": "2026-09-23T16:37:18.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -732,8 +772,17 @@
       "category": "general",
       "title": "Rails World 2026 Opening Keynote [video]",
       "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "275 points, 290 comments",
+      "summary": "337 points, 365 comments",
       "publishedAt": "2026-09-23T15:33:33.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -912,7 +961,7 @@
       "category": "general",
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "summary": "253 points, 106 comments",
+      "summary": "337 points, 152 comments",
       "publishedAt": "2026-09-22T17:49:46.000Z"
     },
     {
@@ -934,15 +983,6 @@
       "publishedAt": "2026-09-22T15:54:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Writing Parquet files using Haskell",
-      "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
-      "summary": "32 points, 3 comments",
-      "publishedAt": "2026-09-22T15:02:39.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -957,7 +997,7 @@
       "category": "general",
       "title": "2DWillNeverDie",
       "link": "https://2dwillneverdie.com/",
-      "summary": "147 points, 14 comments",
+      "summary": "233 points, 50 comments",
       "publishedAt": "2026-09-22T14:00:08.000Z"
     },
     {
@@ -966,7 +1006,7 @@
       "category": "general",
       "title": "Fearless SIMD v1.0",
       "link": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "207 points, 32 comments",
+      "summary": "261 points, 36 comments",
       "publishedAt": "2026-09-22T12:23:37.000Z"
     },
     {
@@ -1013,15 +1053,6 @@
       "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
       "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully suppor…",
       "publishedAt": "2026-09-21T22:25:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "summary": "100 points, 30 comments",
-      "publishedAt": "2026-09-21T14:30:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1081,7 +1112,7 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "link": "https://openai.com/index/v7",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "publishedAt": "2026-09-21T00:00:00.000Z"
@@ -1159,15 +1190,6 @@
       "publishedAt": "2026-09-19T17:10:08.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
-      "link": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Ajay Prakash discusses how LinkedIn overcomes AI agent limitations in large codebases. He explains Contextual Agent Playbooks and Tools - built on Model Context Protocol (MCP) - which serves procedural memory, code searc…",
-      "publishedAt": "2026-09-19T11:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1220,6 +1242,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
       "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "publishedAt": "2026-09-15T17:05:57.000Z"
     },
     {
       "source": "Google AI",
@@ -1301,6 +1332,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "publishedAt": "2026-09-08T14:00:15.000Z"
     },
     {
       "source": "Anthropic",
