@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:09:10.286Z",
+  "updatedAt": "2026-09-25T23:09:12.207Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,6 +61,114 @@
   ],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "publishedAt": "2026-09-25T23:04:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "publishedAt": "2026-09-25T22:20:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Even Is an OS Now?",
+      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "26 points, 19 comments",
+      "publishedAt": "2026-09-25T21:36:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "link": "https://swarmtraces.org/",
+      "summary": "70 points, 38 comments",
+      "publishedAt": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Excel now supports multiple values in a single cell",
+      "link": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+      "summary": "31 points, 21 comments",
+      "publishedAt": "2026-09-25T20:55:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "publishedAt": "2026-09-25T20:34:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+      "publishedAt": "2026-09-25T20:33:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "summary": "37 points, 23 comments",
+      "publishedAt": "2026-09-25T19:56:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "link": "https://news.ycombinator.com/item?id=49848955",
+      "summary": "50 points, 27 comments",
+      "publishedAt": "2026-09-25T19:37:55.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+      "summary": "Better thermals and battery life make this iterative update nicer to use.",
+      "publishedAt": "2026-09-25T19:34:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of…",
+      "publishedAt": "2026-09-25T19:13:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "publishedAt": "2026-09-25T19:11:05.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -68,15 +176,6 @@
       "link": "https://openai.com/index/proaction",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "publishedAt": "2026-09-25T19:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-      "link": "https://www.bbc.com/news/articles/c84gkwgk7d06o",
-      "summary": "12 points, 0 comments",
-      "publishedAt": "2026-09-25T18:56:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -88,12 +187,21 @@
       "publishedAt": "2026-09-25T18:48:33.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+      "publishedAt": "2026-09-25T18:42:57.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
       "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "summary": "21 points, 4 comments",
+      "summary": "107 points, 22 comments",
       "publishedAt": "2026-09-25T18:37:05.000Z"
     },
     {
@@ -111,8 +219,17 @@
       "category": "general",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "link": "https://ollaya.dev/",
-      "summary": "32 points, 17 comments",
+      "summary": "270 points, 82 comments",
       "publishedAt": "2026-09-25T18:33:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Is solar's growth finally slowing in the US?",
+      "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+      "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+      "publishedAt": "2026-09-25T18:27:18.000Z"
     },
     {
       "source": "The Verge",
@@ -124,22 +241,13 @@
       "publishedAt": "2026-09-25T18:18:57.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "link": "https://mouse.dev/blog/muse-special/",
-      "summary": "8 points, 5 comments",
-      "publishedAt": "2026-09-25T18:18:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Yes, Claude can do Nine Loops",
-      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "summary": "63 points, 9 comments",
-      "publishedAt": "2026-09-25T18:11:48.000Z"
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "publishedAt": "2026-09-25T17:57:37.000Z"
     },
     {
       "source": "The Verge",
@@ -196,15 +304,6 @@
       "publishedAt": "2026-09-25T17:22:01.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Post-AGI Era",
-      "link": "https://www.avidfayaz.com/writings/post-agi/the-post-agi-era",
-      "summary": "10 points, 3 comments",
-      "publishedAt": "2026-09-25T17:19:50.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -214,15 +313,6 @@
       "publishedAt": "2026-09-25T17:01:36.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
-      "link": "https://www.doom-or-bloom.com",
-      "summary": "22 points, 12 comments",
-      "publishedAt": "2026-09-25T16:51:28.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -230,15 +320,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we…",
       "publishedAt": "2026-09-25T16:49:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Skill.md for Commenting on Hacker News",
-      "link": "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker",
-      "summary": "28 points, 5 comments",
-      "publishedAt": "2026-09-25T16:45:10.000Z"
     },
     {
       "source": "The Verge",
@@ -313,22 +394,31 @@
       "publishedAt": "2026-09-25T15:39:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "237 points, 352 comments",
-      "publishedAt": "2026-09-25T15:29:25.000Z"
+      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+      "publishedAt": "2026-09-25T15:35:23.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "summary": "151 points, 78 comments",
-      "publishedAt": "2026-09-25T15:27:35.000Z"
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "summary": "94 points, 90 comments",
+      "publishedAt": "2026-09-25T15:31:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "summary": "344 points, 628 comments",
+      "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -338,6 +428,15 @@
       "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
       "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
       "publishedAt": "2026-09-25T15:24:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+      "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+      "publishedAt": "2026-09-25T15:21:55.000Z"
     },
     {
       "source": "TechCrunch",
@@ -352,10 +451,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Factorio that you can touch",
-      "link": "https://factorio.com/blog/post/fff-447",
-      "summary": "206 points, 42 comments",
-      "publishedAt": "2026-09-25T14:24:42.000Z"
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "link": "https://jev-pokemon.vercel.app/",
+      "summary": "107 points, 55 comments",
+      "publishedAt": "2026-09-25T14:28:07.000Z"
     },
     {
       "source": "The Verge",
@@ -394,6 +493,15 @@
       "publishedAt": "2026-09-25T14:10:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+      "publishedAt": "2026-09-25T14:07:46.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -417,17 +525,17 @@
       "category": "general",
       "title": "First Principles Thinking",
       "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "summary": "132 points, 57 comments",
+      "summary": "198 points, 91 comments",
       "publishedAt": "2026-09-25T13:55:37.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
-      "publishedAt": "2026-09-25T13:24:34.000Z"
+      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+      "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
+      "publishedAt": "2026-09-25T13:45:49.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -442,9 +550,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Platform-Independent SIMD in Go",
+      "title": "Platform-independent SIMD in Go",
       "link": "https://go.dev/blog/simd-experiment",
-      "summary": "285 points, 109 comments",
+      "summary": "340 points, 131 comments",
       "publishedAt": "2026-09-25T11:47:06.000Z"
     },
     {
@@ -453,8 +561,26 @@
       "category": "general",
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
       "link": "https://github.com/git-bug/git-bug",
-      "summary": "230 points, 81 comments",
+      "summary": "288 points, 93 comments",
       "publishedAt": "2026-09-25T11:38:31.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+      "publishedAt": "2026-09-25T11:00:28.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+      "summary": "\"The customer got comfortable with a high reliability and a low price.\"",
+      "publishedAt": "2026-09-25T11:00:10.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -478,9 +604,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Ink and Switch Interactive Homepage",
+      "title": "An airport cooled by natural ventilation",
+      "link": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+      "summary": "11 points, 10 comments",
+      "publishedAt": "2026-09-25T10:16:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ink and Switch interactive homepage",
       "link": "https://www.inkandswitch.com/",
-      "summary": "183 points, 24 comments",
+      "summary": "220 points, 25 comments",
       "publishedAt": "2026-09-25T09:50:25.000Z"
     },
     {
@@ -496,37 +631,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "link": "https://www.dawo.community/en/",
-      "summary": "875 points, 516 comments",
-      "publishedAt": "2026-09-25T08:06:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Amiga Screens: A Primer",
-      "link": "https://www.datagubbe.se/amscr/",
-      "summary": "104 points, 24 comments",
-      "publishedAt": "2026-09-25T07:31:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "summary": "227 points, 103 comments",
+      "summary": "262 points, 114 comments",
       "publishedAt": "2026-09-25T07:27:45.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "publishedAt": "2026-09-25T05:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -538,6 +646,15 @@
       "publishedAt": "2026-09-25T02:07:04.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Remembering Johannes Doerfert",
+      "link": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "summary": "26 points, 0 comments",
+      "publishedAt": "2026-09-24T23:36:50.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -545,15 +662,6 @@
       "link": "https://simonwillison.net/2026/Sep/24/harder/",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary dis…",
       "publishedAt": "2026-09-24T23:31:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
-      "publishedAt": "2026-09-24T23:24:33.000Z"
     },
     {
       "source": "Ars Technica",
@@ -572,15 +680,6 @@
       "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
       "summary": "Introducing the \"world-famous authority on outer space...\"",
       "publishedAt": "2026-09-24T21:40:07.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "publishedAt": "2026-09-24T20:45:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -608,15 +707,6 @@
       "link": "https://simonwillison.net/2026/Sep/24/datasette/",
       "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugi…",
       "publishedAt": "2026-09-24T19:15:23.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "publishedAt": "2026-09-24T19:15:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -673,24 +763,6 @@
       "publishedAt": "2026-09-24T16:01:16.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
-      "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
-      "summary": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
-      "publishedAt": "2026-09-24T15:48:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "F-Droid 2.0",
-      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "1413 points, 405 comments",
-      "publishedAt": "2026-09-24T15:26:12.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -698,15 +770,6 @@
       "link": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and podcast co-host Olimpiu Pop. By Artenis…",
       "publishedAt": "2026-09-24T15:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
-      "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
-      "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-      "publishedAt": "2026-09-24T14:57:50.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -718,33 +781,6 @@
       "publishedAt": "2026-09-24T14:14:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Meta puts its AI assistant on a keychain",
-      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
-      "publishedAt": "2026-09-24T14:03:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "There's a new way to break RSA that's faster than anything we've seen before",
-      "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-      "publishedAt": "2026-09-24T11:15:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
-      "publishedAt": "2026-09-24T11:00:04.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -754,6 +790,15 @@
       "publishedAt": "2026-09-24T09:24:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Initial DIY Cleanroom Experimentation",
+      "link": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
+      "summary": "10 points, 2 comments",
+      "publishedAt": "2026-09-24T07:02:46.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -761,69 +806,6 @@
       "link": "https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit…",
       "publishedAt": "2026-09-24T05:50:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "link": "https://bastardica.mitpit.com",
-      "summary": "835 points, 121 comments",
-      "publishedAt": "2026-09-23T22:53:28.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
-      "publishedAt": "2026-09-23T22:17:25.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-      "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
-      "publishedAt": "2026-09-23T21:46:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
-      "publishedAt": "2026-09-23T21:18:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Here's the Torcal, the first fully electric Bentley",
-      "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-      "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
-      "publishedAt": "2026-09-23T21:06:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
-      "publishedAt": "2026-09-23T20:52:28.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
-      "publishedAt": "2026-09-23T20:28:42.000Z"
     },
     {
       "source": "Google AI",
@@ -1105,6 +1087,15 @@
       "publishedAt": "2026-09-21T22:25:44.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Make math automatic with Mathy",
+      "link": "https://gmays.com/making-math-automatic-with-mathy/",
+      "summary": "58 points, 12 comments",
+      "publishedAt": "2026-09-21T14:49:05.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1175,6 +1166,15 @@
       "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
       "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack o…",
       "publishedAt": "2026-09-20T19:22:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How video games inspire great UX (2019)",
+      "link": "https://jenson.org/games/",
+      "summary": "82 points, 13 comments",
+      "publishedAt": "2026-09-20T16:00:13.000Z"
     },
     {
       "source": "Simon Willison",
