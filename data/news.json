@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:03:46.442Z",
+  "updatedAt": "2026-09-25T03:52:33.537Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,17 +52,67 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "Back and shoulder surgery is often worse than useless",
-      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-      "summary": "4 points, 1 comments",
-      "publishedAt": "2026-09-24T22:15:58.000Z"
+      "title": "Here’s the Tesla Semi… again",
+      "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+      "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evenin…",
+      "publishedAt": "2026-09-25T02:12:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were…",
+      "publishedAt": "2026-09-25T01:25:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing…",
+      "publishedAt": "2026-09-24T23:50:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound El…",
+      "publishedAt": "2026-09-24T23:42:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "publishedAt": "2026-09-24T23:24:33.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+      "publishedAt": "2026-09-24T22:29:48.000Z"
     },
     {
       "source": "The Verge",
@@ -74,22 +124,22 @@
       "publishedAt": "2026-09-24T22:08:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "summary": "70 points, 16 comments",
-      "publishedAt": "2026-09-24T21:33:03.000Z"
+      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+      "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+      "summary": "Introducing the \"world-famous authority on outer space...\"",
+      "publishedAt": "2026-09-24T21:40:07.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "International observers to investigate Swedish election fraud",
-      "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
-      "summary": "20 points, 5 comments",
-      "publishedAt": "2026-09-24T20:55:44.000Z"
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
+      "summary": "146 points, 38 comments",
+      "publishedAt": "2026-09-24T21:33:03.000Z"
     },
     {
       "source": "Hacker News",
@@ -97,7 +147,7 @@
       "category": "general",
       "title": "The Board Game of the Alpha Nerds (2014)",
       "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "summary": "27 points, 17 comments",
+      "summary": "64 points, 26 comments",
       "publishedAt": "2026-09-24T20:53:39.000Z"
     },
     {
@@ -115,7 +165,7 @@
       "category": "general",
       "title": "California is chasing wealth that has feet",
       "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "summary": "69 points, 183 comments",
+      "summary": "169 points, 477 comments",
       "publishedAt": "2026-09-24T20:34:32.000Z"
     },
     {
@@ -142,7 +192,7 @@
       "category": "general",
       "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
       "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "summary": "48 points, 7 comments",
+      "summary": "89 points, 13 comments",
       "publishedAt": "2026-09-24T19:54:21.000Z"
     },
     {
@@ -178,7 +228,7 @@
       "category": "general",
       "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
       "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "summary": "46 points, 8 comments",
+      "summary": "95 points, 14 comments",
       "publishedAt": "2026-09-24T19:14:27.000Z"
     },
     {
@@ -225,15 +275,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
       "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
       "publishedAt": "2026-09-24T18:39:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "link": "https://www.usestable.com/careers/product-engineer",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-09-24T18:29:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -295,7 +336,7 @@
       "category": "general",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
-      "summary": "159 points, 70 comments",
+      "summary": "228 points, 85 comments",
       "publishedAt": "2026-09-24T17:21:36.000Z"
     },
     {
@@ -306,15 +347,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
       "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing…",
       "publishedAt": "2026-09-24T17:14:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. An…",
-      "publishedAt": "2026-09-24T17:10:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -332,24 +364,6 @@
       "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
       "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
       "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "publishedAt": "2026-09-24T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Now Google Chrome shares tabs to new devices that save where you were",
-      "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
-      "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capab…",
-      "publishedAt": "2026-09-24T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "summary": "The fireman outfit. Dead. | Photo by Sean Hollister / The Verge This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear th…",
       "publishedAt": "2026-09-24T17:00:00.000Z"
     },
     {
@@ -371,31 +385,13 @@
       "publishedAt": "2026-09-24T16:35:13.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "These smart glasses have been recalled for overheating temples causing burns",
-      "link": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
-      "summary": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to b…",
-      "publishedAt": "2026-09-24T16:29:31.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Why is the liver so weirdly regenerative?",
       "link": "https://dynomight.substack.com/p/liver",
-      "summary": "187 points, 129 comments",
+      "summary": "304 points, 165 comments",
       "publishedAt": "2026-09-24T16:23:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -448,7 +444,7 @@
       "category": "general",
       "title": "F-Droid 2.0",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "833 points, 237 comments",
+      "summary": "1012 points, 276 comments",
       "publishedAt": "2026-09-24T15:26:12.000Z"
     },
     {
@@ -538,7 +534,7 @@
       "category": "general",
       "title": "Google’s Project Suncatcher to put ML infrastructure in space",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "summary": "82 points, 139 comments",
+      "summary": "137 points, 249 comments",
       "publishedAt": "2026-09-24T13:53:29.000Z"
     },
     {
@@ -569,6 +565,15 @@
       "publishedAt": "2026-09-24T11:00:04.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Two-tier encryption in the UK",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "summary": "395 points, 380 comments",
+      "publishedAt": "2026-09-24T10:39:19.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -576,6 +581,15 @@
       "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
       "publishedAt": "2026-09-24T09:24:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "link": "https://cms-sfx-demo.apeleg.com/",
+      "summary": "45 points, 14 comments",
+      "publishedAt": "2026-09-24T07:22:17.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -596,21 +610,12 @@
       "publishedAt": "2026-09-24T01:13:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "publishedAt": "2026-09-24T00:46:17.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "link": "https://bastardica.mitpit.com",
-      "summary": "384 points, 55 comments",
+      "summary": "528 points, 77 comments",
       "publishedAt": "2026-09-23T22:53:28.000Z"
     },
     {
@@ -619,7 +624,7 @@
       "category": "general",
       "title": "Toyota is taking the Corolla electric",
       "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "summary": "153 points, 220 comments",
+      "summary": "259 points, 428 comments",
       "publishedAt": "2026-09-23T22:37:28.000Z"
     },
     {
@@ -630,6 +635,15 @@
       "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
       "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
       "publishedAt": "2026-09-23T22:17:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "summary": "16 points, 0 comments",
+      "publishedAt": "2026-09-23T21:54:35.000Z"
     },
     {
       "source": "Ars Technica",
@@ -677,24 +691,6 @@
       "publishedAt": "2026-09-23T20:28:42.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Discord age verification rolls out today with changes spurred by user backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-      "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
-      "publishedAt": "2026-09-23T20:05:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "publishedAt": "2026-09-23T19:35:53.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -722,15 +718,6 @@
       "publishedAt": "2026-09-23T16:37:18.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "publishedAt": "2026-09-23T16:00:57.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -745,17 +732,8 @@
       "category": "general",
       "title": "Rails World 2026 Opening Keynote [video]",
       "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "193 points, 211 comments",
+      "summary": "275 points, 290 comments",
       "publishedAt": "2026-09-23T15:33:33.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -934,7 +912,7 @@
       "category": "general",
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "summary": "174 points, 74 comments",
+      "summary": "253 points, 106 comments",
       "publishedAt": "2026-09-22T17:49:46.000Z"
     },
     {
@@ -956,6 +934,15 @@
       "publishedAt": "2026-09-22T15:54:16.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Writing Parquet files using Haskell",
+      "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "summary": "32 points, 3 comments",
+      "publishedAt": "2026-09-22T15:02:39.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -970,7 +957,7 @@
       "category": "general",
       "title": "2DWillNeverDie",
       "link": "https://2dwillneverdie.com/",
-      "summary": "56 points, 4 comments",
+      "summary": "147 points, 14 comments",
       "publishedAt": "2026-09-22T14:00:08.000Z"
     },
     {
@@ -979,7 +966,7 @@
       "category": "general",
       "title": "Fearless SIMD v1.0",
       "link": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "147 points, 27 comments",
+      "summary": "207 points, 32 comments",
       "publishedAt": "2026-09-22T12:23:37.000Z"
     },
     {
@@ -1031,18 +1018,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Security auditing in the age of (good enough) AI",
-      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "summary": "46 points, 2 comments",
-      "publishedAt": "2026-09-21T21:53:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
       "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "summary": "77 points, 20 comments",
+      "summary": "100 points, 30 comments",
       "publishedAt": "2026-09-21T14:30:00.000Z"
     },
     {
@@ -1244,15 +1222,6 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "publishedAt": "2026-09-15T17:05:57.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1332,15 +1301,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "publishedAt": "2026-09-08T14:00:15.000Z"
     },
     {
       "source": "Anthropic",
