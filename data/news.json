@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:43:51.737Z",
+  "updatedAt": "2026-09-26T14:11:41.123Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,21 +52,97 @@
       "category": "ai"
     }
   ],
-  "itemCount": 148,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 153,
+  "errors": [],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought…",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "summary": "34 points, 7 comments",
+      "publishedAt": "2026-09-26T13:05:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Control Resonant is a great game — it’s even better when you read everything",
+      "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+      "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find,…",
+      "publishedAt": "2026-09-26T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Pokémon card resellers have turned collecting into an online blood sport",
+      "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+      "summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes o…",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design",
+      "link": "https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Mallika Rao explains that the true complexity of adaptive recommendation systems lies outside model architecture. She discusses how real-time feedback loops, retrieval freshness, multi-stage orchestration, and end-to-end…",
+      "publishedAt": "2026-09-26T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "summary": "242 points, 97 comments",
+      "publishedAt": "2026-09-26T10:55:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "134 points, 15 comments",
+      "publishedAt": "2026-09-26T09:13:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Floci: Locally emulating any cloud service",
+      "link": "https://floci.io",
+      "summary": "73 points, 10 comments",
+      "publishedAt": "2026-09-26T08:31:02.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Is your Postgres migration safe or not safe?",
       "link": "https://safenotsafe.dev/",
-      "summary": "19 points, 5 comments",
+      "summary": "69 points, 19 comments",
       "publishedAt": "2026-09-26T07:33:12.000Z"
     },
     {
@@ -84,7 +160,7 @@
       "category": "general",
       "title": "A single function Jev-like wrapper for LLMs, including vision models",
       "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "summary": "64 points, 17 comments",
+      "summary": "106 points, 29 comments",
       "publishedAt": "2026-09-26T04:20:58.000Z"
     },
     {
@@ -93,17 +169,8 @@
       "category": "general",
       "title": "We're gonna need a lot more mathematicians",
       "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "125 points, 152 comments",
+      "summary": "206 points, 284 comments",
       "publishedAt": "2026-09-26T02:46:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "HomelabFest will be in St. Louis in September 2027",
-      "link": "https://www.homelabfest.org",
-      "summary": "29 points, 14 comments",
-      "publishedAt": "2026-09-26T02:03:24.000Z"
     },
     {
       "source": "Hacker News",
@@ -111,7 +178,7 @@
       "category": "general",
       "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
       "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "221 points, 48 comments",
+      "summary": "297 points, 78 comments",
       "publishedAt": "2026-09-26T01:36:50.000Z"
     },
     {
@@ -122,15 +189,6 @@
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
       "publishedAt": "2026-09-26T01:08:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "summary": "174 points, 75 comments",
-      "publishedAt": "2026-09-26T00:59:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -174,14 +232,14 @@
       "category": "general",
       "title": "What even is an OS now?",
       "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "198 points, 279 comments",
+      "summary": "224 points, 317 comments",
       "publishedAt": "2026-09-25T21:36:56.000Z"
     },
     {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
       "publishedAt": "2026-09-25T21:36:20.000Z"
@@ -201,17 +259,8 @@
       "category": "general",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "link": "https://swarmtraces.org/",
-      "summary": "482 points, 291 comments",
+      "summary": "558 points, 354 comments",
       "publishedAt": "2026-09-25T21:09:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "summary": "184 points, 136 comments",
-      "publishedAt": "2026-09-25T20:55:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -246,7 +295,7 @@
       "category": "general",
       "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
       "link": "https://news.ycombinator.com/item?id=49848955",
-      "summary": "121 points, 108 comments",
+      "summary": "167 points, 160 comments",
       "publishedAt": "2026-09-25T19:37:55.000Z"
     },
     {
@@ -318,7 +367,7 @@
       "category": "general",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "link": "https://ollaya.dev/",
-      "summary": "454 points, 117 comments",
+      "summary": "507 points, 126 comments",
       "publishedAt": "2026-09-25T18:33:50.000Z"
     },
     {
@@ -457,15 +506,6 @@
       "publishedAt": "2026-09-25T15:52:13.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sony and UMG are suing Suno again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 mod…",
-      "publishedAt": "2026-09-25T15:51:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -484,15 +524,6 @@
       "publishedAt": "2026-09-25T15:40:03.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Goo…",
-      "publishedAt": "2026-09-25T15:39:48.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -507,7 +538,7 @@
       "category": "general",
       "title": "Gravity seems holographic. What does that mean for reality?",
       "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "summary": "195 points, 170 comments",
+      "summary": "232 points, 185 comments",
       "publishedAt": "2026-09-25T15:31:02.000Z"
     },
     {
@@ -543,26 +574,8 @@
       "category": "general",
       "title": "Show HN: Jev Plays Pokémon Red",
       "link": "https://jev-pokemon.vercel.app/",
-      "summary": "200 points, 84 comments",
+      "summary": "222 points, 90 comments",
       "publishedAt": "2026-09-25T14:28:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
-      "link": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-      "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut a…",
-      "publishedAt": "2026-09-25T14:21:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "publishedAt": "2026-09-25T14:15:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -581,15 +594,6 @@
       "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
       "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
       "publishedAt": "2026-09-25T14:07:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "First Principles Thinking",
-      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "summary": "261 points, 112 comments",
-      "publishedAt": "2026-09-25T13:55:37.000Z"
     },
     {
       "source": "Ars Technica",
@@ -660,7 +664,7 @@
       "category": "general",
       "title": "Plan mode is dead",
       "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "319 points, 295 comments",
+      "summary": "392 points, 363 comments",
       "publishedAt": "2026-09-25T03:59:11.000Z"
     },
     {
@@ -680,15 +684,6 @@
       "link": "https://simonwillison.net/2026/Sep/24/harder/",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary dis…",
       "publishedAt": "2026-09-24T23:31:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Murky History of Soviet-Born Tetris",
-      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "summary": "45 points, 12 comments",
-      "publishedAt": "2026-09-24T23:11:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -754,13 +749,13 @@
       "publishedAt": "2026-09-24T18:52:23.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Postgres SELECT DISTINCT Does Not Scale",
-      "link": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "summary": "81 points, 22 comments",
-      "publishedAt": "2026-09-24T18:43:52.000Z"
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -784,10 +779,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "link": "https://adekau.github.io/posts/2020/llamas.html",
-      "summary": "39 points, 2 comments",
-      "publishedAt": "2026-09-24T12:03:35.000Z"
+      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "summary": "49 points, 9 comments",
+      "publishedAt": "2026-09-24T12:10:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "link": "https://castle-engine.io/modern_pascal",
+      "summary": "18 points, 6 comments",
+      "publishedAt": "2026-09-24T11:33:56.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -813,17 +817,26 @@
       "category": "general",
       "title": "16GB iPod Nano 3G Upgrade",
       "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "summary": "7 points, 1 comments",
+      "summary": "65 points, 8 comments",
       "publishedAt": "2026-09-24T03:58:54.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Scientists build most accurate atomic clock",
-      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "summary": "12 points, 3 comments",
-      "publishedAt": "2026-09-24T01:00:01.000Z"
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "link": "https://www.osti.gov/servlets/purl/1124870",
+      "summary": "12 points, 5 comments",
+      "publishedAt": "2026-09-24T00:34:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
+      "link": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+      "summary": "73 points, 56 comments",
+      "publishedAt": "2026-09-23T22:42:13.000Z"
     },
     {
       "source": "Google AI",
@@ -853,6 +866,15 @@
       "publishedAt": "2026-09-23T16:37:18.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -860,6 +882,15 @@
       "link": "https://openai.com/index/two-years-of-openai-academy",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "publishedAt": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1069,15 +1100,6 @@
       "publishedAt": "2026-09-22T12:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "GitLab Duo Expands Self-Hosted AI Options through Microsoft Foundry",
-      "link": "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "GitLab has expanded GitLab Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations run GitLab's AI development capabilities against models hosted in their chosen Azure environment. By…",
-      "publishedAt": "2026-09-22T12:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1222,6 +1244,15 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "publishedAt": "2026-09-15T17:05:57.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1301,6 +1332,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "publishedAt": "2026-09-08T14:00:15.000Z"
     },
     {
       "source": "Anthropic",
