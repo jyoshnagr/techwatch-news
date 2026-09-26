@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T14:11:41.123Z",
+  "updatedAt": "2026-09-26T18:24:07.731Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,6 +59,105 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "summary": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk.",
+      "publishedAt": "2026-09-26T17:44:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Kids turned the comment section of an NPR podcast into a group chat",
+      "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life…",
+      "publishedAt": "2026-09-26T17:32:35.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud",
+      "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Docker Cloud Sandboxes provide secure, hosted execution environments for running AI coding agents on Docker-managed infrastructure. Built on hardware-enforced microVM isolation, the platform provides a consistent executi…",
+      "publishedAt": "2026-09-26T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "publishedAt": "2026-09-26T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
+      "link": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
+      "summary": "28 points, 21 comments",
+      "publishedAt": "2026-09-26T16:46:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made afte…",
+      "publishedAt": "2026-09-26T16:34:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "summary": "200 points, 74 comments",
+      "publishedAt": "2026-09-26T16:12:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Make Claude your assistant in excalidraw",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "26 points, 10 comments",
+      "publishedAt": "2026-09-26T15:56:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "summary": "49 points, 15 comments",
+      "publishedAt": "2026-09-26T15:48:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "link": "https://github.com/brumar/chess-postmortem-skills",
+      "summary": "47 points, 30 comments",
+      "publishedAt": "2026-09-26T15:34:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "summary": "39 points, 20 comments",
+      "publishedAt": "2026-09-26T14:03:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
@@ -72,15 +171,6 @@
       "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
       "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought…",
       "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "summary": "34 points, 7 comments",
-      "publishedAt": "2026-09-26T13:05:36.000Z"
     },
     {
       "source": "The Verge",
@@ -115,8 +205,17 @@
       "category": "general",
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "summary": "242 points, 97 comments",
+      "summary": "525 points, 197 comments",
       "publishedAt": "2026-09-26T10:55:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+      "publishedAt": "2026-09-26T10:45:09.000Z"
     },
     {
       "source": "Hacker News",
@@ -124,17 +223,8 @@
       "category": "general",
       "title": "Fifteen years later, the Apple Cards origin story",
       "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "summary": "134 points, 15 comments",
+      "summary": "256 points, 45 comments",
       "publishedAt": "2026-09-26T09:13:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Floci: Locally emulating any cloud service",
-      "link": "https://floci.io",
-      "summary": "73 points, 10 comments",
-      "publishedAt": "2026-09-26T08:31:02.000Z"
     },
     {
       "source": "Hacker News",
@@ -142,7 +232,7 @@
       "category": "general",
       "title": "Is your Postgres migration safe or not safe?",
       "link": "https://safenotsafe.dev/",
-      "summary": "69 points, 19 comments",
+      "summary": "102 points, 35 comments",
       "publishedAt": "2026-09-26T07:33:12.000Z"
     },
     {
@@ -158,28 +248,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "summary": "106 points, 29 comments",
-      "publishedAt": "2026-09-26T04:20:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "We're gonna need a lot more mathematicians",
       "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "206 points, 284 comments",
+      "summary": "283 points, 384 comments",
       "publishedAt": "2026-09-26T02:46:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "297 points, 78 comments",
-      "publishedAt": "2026-09-26T01:36:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -227,15 +299,6 @@
       "publishedAt": "2026-09-25T22:20:47.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What even is an OS now?",
-      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "224 points, 317 comments",
-      "publishedAt": "2026-09-25T21:36:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -259,8 +322,17 @@
       "category": "general",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "link": "https://swarmtraces.org/",
-      "summary": "558 points, 354 comments",
+      "summary": "637 points, 404 comments",
       "publishedAt": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "summary": "29 points, 23 comments",
+      "publishedAt": "2026-09-25T20:53:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -288,15 +360,6 @@
       "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
       "summary": "Ads appearing all over the Internet are trying to scam people.",
       "publishedAt": "2026-09-25T19:38:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "link": "https://news.ycombinator.com/item?id=49848955",
-      "summary": "167 points, 160 comments",
-      "publishedAt": "2026-09-25T19:37:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -367,7 +430,7 @@
       "category": "general",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "link": "https://ollaya.dev/",
-      "summary": "507 points, 126 comments",
+      "summary": "556 points, 136 comments",
       "publishedAt": "2026-09-25T18:33:50.000Z"
     },
     {
@@ -461,24 +524,6 @@
       "publishedAt": "2026-09-25T17:01:36.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we…",
-      "publishedAt": "2026-09-25T16:49:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-      "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-      "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mi…",
-      "publishedAt": "2026-09-25T16:22:05.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -533,24 +578,6 @@
       "publishedAt": "2026-09-25T15:35:23.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "summary": "232 points, 185 comments",
-      "publishedAt": "2026-09-25T15:31:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "publishedAt": "2026-09-25T15:24:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -558,24 +585,6 @@
       "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
       "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
       "publishedAt": "2026-09-25T15:21:55.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass befor…",
-      "publishedAt": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "link": "https://jev-pokemon.vercel.app/",
-      "summary": "222 points, 90 comments",
-      "publishedAt": "2026-09-25T14:28:07.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -650,6 +659,15 @@
       "publishedAt": "2026-09-25T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "130 points, 64 comments",
+      "publishedAt": "2026-09-25T10:55:40.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -664,7 +682,7 @@
       "category": "general",
       "title": "Plan mode is dead",
       "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "392 points, 363 comments",
+      "summary": "489 points, 435 comments",
       "publishedAt": "2026-09-25T03:59:11.000Z"
     },
     {
@@ -740,15 +758,6 @@
       "publishedAt": "2026-09-24T19:07:19.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-      "publishedAt": "2026-09-24T18:52:23.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -756,6 +765,15 @@
       "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "summary": "",
       "publishedAt": "2026-09-24T16:20:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "link": "https://www.movingimagearchive.com/",
+      "summary": "9 points, 1 comments",
+      "publishedAt": "2026-09-24T16:11:42.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -779,18 +797,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "summary": "49 points, 9 comments",
-      "publishedAt": "2026-09-24T12:10:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
       "link": "https://castle-engine.io/modern_pascal",
-      "summary": "18 points, 6 comments",
+      "summary": "80 points, 31 comments",
       "publishedAt": "2026-09-24T11:33:56.000Z"
     },
     {
@@ -801,6 +810,15 @@
       "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
       "publishedAt": "2026-09-24T09:24:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "summary": "43 points, 1 comments",
+      "publishedAt": "2026-09-24T08:36:40.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -817,26 +835,8 @@
       "category": "general",
       "title": "16GB iPod Nano 3G Upgrade",
       "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "summary": "65 points, 8 comments",
+      "summary": "116 points, 13 comments",
       "publishedAt": "2026-09-24T03:58:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "link": "https://www.osti.gov/servlets/purl/1124870",
-      "summary": "12 points, 5 comments",
-      "publishedAt": "2026-09-24T00:34:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-      "link": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-      "summary": "73 points, 56 comments",
-      "publishedAt": "2026-09-23T22:42:13.000Z"
     },
     {
       "source": "Google AI",
@@ -891,6 +891,15 @@
       "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "summary": "",
       "publishedAt": "2026-09-23T15:25:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Reflections on 1,000 Days of Math",
+      "link": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "summary": "47 points, 15 comments",
+      "publishedAt": "2026-09-23T14:40:34.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1080,15 +1089,6 @@
       "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
       "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move…",
       "publishedAt": "2026-09-22T15:54:16.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents",
-      "link": "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads. AX operates on a runtime, Agent Substrate, treating agents as stateful actors. It provides resource-efficient task suspensi…",
-      "publishedAt": "2026-09-22T14:14:00.000Z"
     },
     {
       "source": "OpenAI",
