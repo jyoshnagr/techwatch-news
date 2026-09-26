@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T03:57:42.560Z",
+  "updatedAt": "2026-09-26T09:43:51.737Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,17 +52,58 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Is your Postgres migration safe or not safe?",
+      "link": "https://safenotsafe.dev/",
+      "summary": "19 points, 5 comments",
+      "publishedAt": "2026-09-26T07:33:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+      "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+      "summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with thei…",
+      "publishedAt": "2026-09-26T07:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "summary": "64 points, 17 comments",
+      "publishedAt": "2026-09-26T04:20:58.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "We're gonna need a lot more mathematicians",
       "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "10 points, 0 comments",
+      "summary": "125 points, 152 comments",
       "publishedAt": "2026-09-26T02:46:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "link": "https://www.homelabfest.org",
+      "summary": "29 points, 14 comments",
+      "publishedAt": "2026-09-26T02:03:24.000Z"
     },
     {
       "source": "Hacker News",
@@ -70,7 +111,7 @@
       "category": "general",
       "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
       "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "99 points, 13 comments",
+      "summary": "221 points, 48 comments",
       "publishedAt": "2026-09-26T01:36:50.000Z"
     },
     {
@@ -88,17 +129,8 @@
       "category": "general",
       "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
       "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "summary": "77 points, 23 comments",
+      "summary": "174 points, 75 comments",
       "publishedAt": "2026-09-26T00:59:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "TiddlyInstall: A universal, reusable, install system",
-      "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-      "summary": "7 points, 7 comments",
-      "publishedAt": "2026-09-26T00:29:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -128,15 +160,6 @@
       "publishedAt": "2026-09-25T23:00:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "summary": "19 points, 4 comments",
-      "publishedAt": "2026-09-25T22:28:02.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -151,7 +174,7 @@
       "category": "general",
       "title": "What even is an OS now?",
       "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "114 points, 205 comments",
+      "summary": "198 points, 279 comments",
       "publishedAt": "2026-09-25T21:36:56.000Z"
     },
     {
@@ -178,7 +201,7 @@
       "category": "general",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "link": "https://swarmtraces.org/",
-      "summary": "285 points, 170 comments",
+      "summary": "482 points, 291 comments",
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -187,7 +210,7 @@
       "category": "general",
       "title": "Excel now supports multiple values in a single cell",
       "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "summary": "124 points, 93 comments",
+      "summary": "184 points, 136 comments",
       "publishedAt": "2026-09-25T20:55:00.000Z"
     },
     {
@@ -216,6 +239,15 @@
       "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
       "summary": "Ads appearing all over the Internet are trying to scam people.",
       "publishedAt": "2026-09-25T19:38:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "link": "https://news.ycombinator.com/item?id=49848955",
+      "summary": "121 points, 108 comments",
+      "publishedAt": "2026-09-25T19:37:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -286,7 +318,7 @@
       "category": "general",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "link": "https://ollaya.dev/",
-      "summary": "370 points, 103 comments",
+      "summary": "454 points, 117 comments",
       "publishedAt": "2026-09-25T18:33:50.000Z"
     },
     {
@@ -475,17 +507,8 @@
       "category": "general",
       "title": "Gravity seems holographic. What does that mean for reality?",
       "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "summary": "138 points, 144 comments",
+      "summary": "195 points, 170 comments",
       "publishedAt": "2026-09-25T15:31:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "411 points, 725 comments",
-      "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -520,7 +543,7 @@
       "category": "general",
       "title": "Show HN: Jev Plays Pokémon Red",
       "link": "https://jev-pokemon.vercel.app/",
-      "summary": "170 points, 74 comments",
+      "summary": "200 points, 84 comments",
       "publishedAt": "2026-09-25T14:28:07.000Z"
     },
     {
@@ -551,15 +574,6 @@
       "publishedAt": "2026-09-25T14:14:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Gaming’s biggest horror series are more vital than ever",
-      "link": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-      "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through…",
-      "publishedAt": "2026-09-25T14:10:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -574,7 +588,7 @@
       "category": "general",
       "title": "First Principles Thinking",
       "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "summary": "234 points, 102 comments",
+      "summary": "261 points, 112 comments",
       "publishedAt": "2026-09-25T13:55:37.000Z"
     },
     {
@@ -585,15 +599,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
       "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
       "publishedAt": "2026-09-25T13:45:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "link": "https://hackeratlas.com/",
-      "summary": "27 points, 6 comments",
-      "publishedAt": "2026-09-25T13:37:54.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -641,15 +646,6 @@
       "publishedAt": "2026-09-25T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I wrote a ray tracer in Brainfuck",
-      "link": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "summary": "46 points, 12 comments",
-      "publishedAt": "2026-09-25T10:08:41.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -664,7 +660,7 @@
       "category": "general",
       "title": "Plan mode is dead",
       "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "161 points, 158 comments",
+      "summary": "319 points, 295 comments",
       "publishedAt": "2026-09-25T03:59:11.000Z"
     },
     {
@@ -677,15 +673,6 @@
       "publishedAt": "2026-09-25T02:07:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Remembering Johannes Doerfert",
-      "link": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "summary": "65 points, 2 comments",
-      "publishedAt": "2026-09-24T23:36:50.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -693,6 +680,15 @@
       "link": "https://simonwillison.net/2026/Sep/24/harder/",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary dis…",
       "publishedAt": "2026-09-24T23:31:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Murky History of Soviet-Born Tetris",
+      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "summary": "45 points, 12 comments",
+      "publishedAt": "2026-09-24T23:11:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -763,17 +759,8 @@
       "category": "general",
       "title": "Postgres SELECT DISTINCT Does Not Scale",
       "link": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "summary": "18 points, 3 comments",
+      "summary": "81 points, 22 comments",
       "publishedAt": "2026-09-24T18:43:52.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -797,18 +784,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Two and a half years without a gallbladder",
-      "link": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
-      "summary": "4 points, 5 comments",
-      "publishedAt": "2026-09-24T13:40:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Fourier Analysis: Drawing Llamas with Circles",
       "link": "https://adekau.github.io/posts/2020/llamas.html",
-      "summary": "11 points, 0 comments",
+      "summary": "39 points, 2 comments",
       "publishedAt": "2026-09-24T12:03:35.000Z"
     },
     {
@@ -828,6 +806,24 @@
       "link": "https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit…",
       "publishedAt": "2026-09-24T05:50:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "16GB iPod Nano 3G Upgrade",
+      "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-09-24T03:58:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Scientists build most accurate atomic clock",
+      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "summary": "12 points, 3 comments",
+      "publishedAt": "2026-09-24T01:00:01.000Z"
     },
     {
       "source": "Google AI",
@@ -857,15 +853,6 @@
       "publishedAt": "2026-09-23T16:37:18.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "publishedAt": "2026-09-23T16:00:57.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -873,15 +860,6 @@
       "link": "https://openai.com/index/two-years-of-openai-academy",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "publishedAt": "2026-09-23T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1244,15 +1222,6 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "publishedAt": "2026-09-15T17:05:57.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1332,15 +1301,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
       "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "publishedAt": "2026-09-08T14:00:15.000Z"
     },
     {
       "source": "Anthropic",
