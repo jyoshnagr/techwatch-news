@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T22:26:16.229Z",
+  "updatedAt": "2026-09-27T04:09:00.032Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,51 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If we do not stop to help each other, what do we become?",
+      "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "summary": "36 points, 3 comments",
+      "publishedAt": "2026-09-27T03:20:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What is the size of Yemen? (2024)",
+      "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "summary": "32 points, 4 comments",
+      "publishedAt": "2026-09-27T02:40:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and ot…",
+      "publishedAt": "2026-09-27T01:40:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "publishedAt": "2026-09-27T01:30:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Kākāpō Party",
+      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2…",
+      "publishedAt": "2026-09-26T23:39:06.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -88,7 +133,7 @@
       "category": "general",
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
       "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "summary": "21 points, 3 comments",
+      "summary": "59 points, 10 comments",
       "publishedAt": "2026-09-26T20:08:50.000Z"
     },
     {
@@ -106,7 +151,7 @@
       "category": "general",
       "title": "DeepSeek Elastic Compute (DSec)",
       "link": "https://arxiv.org/abs/2609.22978",
-      "summary": "83 points, 21 comments",
+      "summary": "190 points, 57 comments",
       "publishedAt": "2026-09-26T18:22:41.000Z"
     },
     {
@@ -117,15 +162,6 @@
       "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
       "publishedAt": "2026-09-26T17:44:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Japan moves to tighten rules for foreigners",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "summary": "64 points, 121 comments",
-      "publishedAt": "2026-09-26T17:43:11.000Z"
     },
     {
       "source": "The Verge",
@@ -140,10 +176,28 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "45 points, 7 comments",
+      "publishedAt": "2026-09-26T17:26:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "link": "https://github.com/reladraw/reladraw",
-      "summary": "114 points, 31 comments",
+      "summary": "216 points, 62 comments",
       "publishedAt": "2026-09-26T17:10:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Evolution of Vending Machines",
+      "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "summary": "26 points, 7 comments",
+      "publishedAt": "2026-09-26T17:01:45.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -178,17 +232,26 @@
       "category": "general",
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "summary": "86 points, 30 comments",
+      "summary": "124 points, 34 comments",
       "publishedAt": "2026-09-26T15:56:34.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "summary": "153 points, 287 comments",
-      "publishedAt": "2026-09-26T15:24:08.000Z"
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "53 points, 25 comments",
+      "publishedAt": "2026-09-26T15:49:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Go Concurrency Distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "79 points, 20 comments",
+      "publishedAt": "2026-09-26T14:34:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -236,15 +299,6 @@
       "publishedAt": "2026-09-26T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "summary": "610 points, 236 comments",
-      "publishedAt": "2026-09-26T10:55:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -257,18 +311,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "summary": "124 points, 183 comments",
-      "publishedAt": "2026-09-26T09:41:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Fifteen years later, the Apple Cards origin story",
       "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "summary": "319 points, 76 comments",
+      "summary": "363 points, 92 comments",
       "publishedAt": "2026-09-26T09:13:41.000Z"
     },
     {
@@ -284,10 +329,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "We're gonna need a lot more mathematicians",
-      "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "350 points, 455 comments",
-      "publishedAt": "2026-09-26T02:46:54.000Z"
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "summary": "36 points, 21 comments",
+      "publishedAt": "2026-09-26T03:23:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -351,24 +396,6 @@
       "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
       "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
       "publishedAt": "2026-09-25T21:10:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "link": "https://www.gptbeyond.com/try?home=1",
-      "summary": "21 points, 6 comments",
-      "publishedAt": "2026-09-25T21:09:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "summary": "48 points, 34 comments",
-      "publishedAt": "2026-09-25T20:53:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -533,6 +560,15 @@
       "publishedAt": "2026-09-25T17:22:01.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "link": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "summary": "28 points, 4 comments",
+      "publishedAt": "2026-09-25T17:12:04.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -540,24 +576,6 @@
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
       "publishedAt": "2026-09-25T16:16:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, f…",
-      "publishedAt": "2026-09-25T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-      "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "publishedAt": "2026-09-25T15:52:13.000Z"
     },
     {
       "source": "Ars Technica",
@@ -601,8 +619,17 @@
       "category": "general",
       "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "summary": "97 points, 323 comments",
+      "summary": "185 points, 504 comments",
       "publishedAt": "2026-09-25T13:49:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Does Georgism work? Five years later",
+      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "199 points, 130 comments",
+      "publishedAt": "2026-09-25T13:48:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -612,6 +639,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
       "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
       "publishedAt": "2026-09-25T13:45:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We Should Be Able to Change Our Languages",
+      "link": "http://jimmyhmiller.com/change-our-languages",
+      "summary": "18 points, 5 comments",
+      "publishedAt": "2026-09-25T13:00:10.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -664,7 +700,7 @@
       "category": "general",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "link": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "272 points, 150 comments",
+      "summary": "342 points, 193 comments",
       "publishedAt": "2026-09-25T10:55:40.000Z"
     },
     {
@@ -675,6 +711,24 @@
       "link": "https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles…",
       "publishedAt": "2026-09-25T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Evolving programming languages in the AI era",
+      "link": "https://dashbit.co/blog/evolving-ai-era",
+      "summary": "49 points, 35 comments",
+      "publishedAt": "2026-09-25T02:34:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "summary": "34 points, 9 comments",
+      "publishedAt": "2026-09-25T02:11:07.000Z"
     },
     {
       "source": "Simon Willison",
@@ -713,15 +767,6 @@
       "publishedAt": "2026-09-24T21:40:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "summary": "103 points, 99 comments",
-      "publishedAt": "2026-09-24T20:51:50.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -758,24 +803,6 @@
       "publishedAt": "2026-09-24T19:07:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Rise of Audio AR",
-      "link": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
-      "summary": "23 points, 5 comments",
-      "publishedAt": "2026-09-24T17:31:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LA Metro has some of the slowest escalators on Earth",
-      "link": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "summary": "39 points, 21 comments",
-      "publishedAt": "2026-09-24T16:52:24.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -790,7 +817,7 @@
       "category": "general",
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "link": "https://www.movingimagearchive.com/",
-      "summary": "75 points, 18 comments",
+      "summary": "132 points, 26 comments",
       "publishedAt": "2026-09-24T16:11:42.000Z"
     },
     {
@@ -812,15 +839,6 @@
       "publishedAt": "2026-09-24T14:14:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "link": "https://castle-engine.io/modern_pascal",
-      "summary": "132 points, 50 comments",
-      "publishedAt": "2026-09-24T11:33:56.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -828,15 +846,6 @@
       "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
       "publishedAt": "2026-09-24T09:24:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Lost Atomic Update on Loongson CPU",
-      "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "summary": "95 points, 5 comments",
-      "publishedAt": "2026-09-24T08:36:40.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1206,15 +1215,6 @@
       "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s…",
       "publishedAt": "2026-09-20T00:22:04.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-auth-github 1.0",
-      "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook…",
-      "publishedAt": "2026-09-19T19:52:02.000Z"
     },
     {
       "source": "Google AI",
