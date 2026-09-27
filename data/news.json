@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T18:55:16.499Z",
+  "updatedAt": "2026-09-27T22:51:27.123Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,13 +56,103 @@
   "errors": [],
   "items": [
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of th…",
+      "publishedAt": "2026-09-27T21:59:57.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "summary": "112 points, 25 comments",
-      "publishedAt": "2026-09-27T17:32:02.000Z"
+      "title": "Lunar Terminator Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "summary": "27 points, 13 comments",
+      "publishedAt": "2026-09-27T21:06:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.…",
+      "publishedAt": "2026-09-27T20:46:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "publishedAt": "2026-09-27T20:34:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "summary": "467 points, 241 comments",
+      "publishedAt": "2026-09-27T20:12:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "publishedAt": "2026-09-27T19:57:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "summary": "50 points, 19 comments",
+      "publishedAt": "2026-09-27T19:37:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "link": "https://github.com/deepfates/imp",
+      "summary": "31 points, 5 comments",
+      "publishedAt": "2026-09-27T19:28:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What I did at Recurse Center",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "summary": "37 points, 13 comments",
+      "publishedAt": "2026-09-27T19:04:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "link": "https://loficities.com/",
+      "summary": "117 points, 51 comments",
+      "publishedAt": "2026-09-27T18:44:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "summary": "35 points, 6 comments",
+      "publishedAt": "2026-09-27T18:02:43.000Z"
     },
     {
       "source": "Hacker News",
@@ -70,7 +160,7 @@
       "category": "general",
       "title": "Ember-1",
       "link": "https://fireworks.ai/blog/ember-1",
-      "summary": "97 points, 34 comments",
+      "summary": "280 points, 157 comments",
       "publishedAt": "2026-09-27T17:31:53.000Z"
     },
     {
@@ -83,6 +173,15 @@
       "publishedAt": "2026-09-27T17:21:07.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Don't couple your Go code to GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "summary": "97 points, 48 comments",
+      "publishedAt": "2026-09-27T16:50:58.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -92,15 +191,6 @@
       "publishedAt": "2026-09-27T16:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "There are no \"rogue\" AI agents",
-      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "summary": "199 points, 139 comments",
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -108,33 +198,6 @@
       "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "publishedAt": "2026-09-27T16:02:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "link": "https://tinyaiarena.com/",
-      "summary": "54 points, 31 comments",
-      "publishedAt": "2026-09-27T15:51:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PostmarketOS is rebranding as Nura",
-      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "summary": "107 points, 15 comments",
-      "publishedAt": "2026-09-27T15:31:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Normalization of Inexplicable Failures",
-      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "summary": "174 points, 60 comments",
-      "publishedAt": "2026-09-27T15:26:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -151,7 +214,7 @@
       "category": "general",
       "title": "Fragment of oldest known peace treaty found in Turkey",
       "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-      "summary": "16 points, 2 comments",
+      "summary": "44 points, 8 comments",
       "publishedAt": "2026-09-27T14:35:10.000Z"
     },
     {
@@ -160,26 +223,8 @@
       "category": "general",
       "title": "In an $80 motel room, a discovery to shed light on the origins of life",
       "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "summary": "132 points, 46 comments",
+      "summary": "185 points, 75 comments",
       "publishedAt": "2026-09-27T14:30:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
-      "link": "https://www.markdown.beauty/",
-      "summary": "32 points, 22 comments",
-      "publishedAt": "2026-09-27T13:44:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ten lines of code that changed my world",
-      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "summary": "91 points, 22 comments",
-      "publishedAt": "2026-09-27T13:33:03.000Z"
     },
     {
       "source": "Hacker News",
@@ -187,7 +232,7 @@
       "category": "general",
       "title": "Replacing the old battery on rechargeable bike lights",
       "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "summary": "96 points, 45 comments",
+      "summary": "125 points, 65 comments",
       "publishedAt": "2026-09-27T13:30:11.000Z"
     },
     {
@@ -290,24 +335,6 @@
       "publishedAt": "2026-09-26T20:24:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "summary": "27 points, 2 comments",
-      "publishedAt": "2026-09-26T19:57:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Video CDs Break Windows Explorer",
-      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-      "summary": "36 points, 5 comments",
-      "publishedAt": "2026-09-26T19:30:39.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -365,9 +392,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "There is more to code review than (automatable) detection",
+      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "summary": "26 points, 8 comments",
+      "publishedAt": "2026-09-26T15:06:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "link": "https://fakecloud.dev/",
-      "summary": "71 points, 40 comments",
+      "summary": "94 points, 49 comments",
       "publishedAt": "2026-09-26T14:25:16.000Z"
     },
     {
@@ -378,24 +414,6 @@
       "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
       "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought…",
-      "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Control Resonant is a great game — it’s even better when you read everything",
-      "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
-      "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find,…",
-      "publishedAt": "2026-09-26T13:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -421,7 +439,7 @@
       "category": "general",
       "title": "Flip Fluid on Flip Dots",
       "link": "https://mitxela.com/projects/flipflip",
-      "summary": "308 points, 21 comments",
+      "summary": "348 points, 23 comments",
       "publishedAt": "2026-09-26T07:50:24.000Z"
     },
     {
@@ -430,17 +448,8 @@
       "category": "general",
       "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
       "link": "https://generalroboticslab.com/cartesian_handv1",
-      "summary": "11 points, 2 comments",
+      "summary": "45 points, 8 comments",
       "publishedAt": "2026-09-26T05:27:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Walgit: A Git server that is one binary in front of an object store",
-      "link": "https://github.com/rgodha24/walgithub",
-      "summary": "52 points, 6 comments",
-      "publishedAt": "2026-09-26T03:09:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -450,6 +459,15 @@
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
       "publishedAt": "2026-09-26T01:08:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "link": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
+      "summary": "12 points, 4 comments",
+      "publishedAt": "2026-09-25T23:58:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -527,9 +545,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Writing Efficient C++ Code",
+      "title": "Writing Efficient C++ Code (2013)",
       "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "summary": "107 points, 44 comments",
+      "summary": "125 points, 74 comments",
       "publishedAt": "2026-09-25T20:20:27.000Z"
     },
     {
@@ -596,15 +614,6 @@
       "publishedAt": "2026-09-25T18:42:57.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "publishedAt": "2026-09-25T18:33:59.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -621,15 +630,6 @@
       "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
       "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
       "publishedAt": "2026-09-25T17:57:37.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "publishedAt": "2026-09-25T17:30:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -662,9 +662,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
       "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "summary": "15 points, 4 comments",
+      "summary": "41 points, 15 comments",
       "publishedAt": "2026-09-25T14:38:06.000Z"
     },
     {
@@ -684,6 +684,15 @@
       "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
       "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
       "publishedAt": "2026-09-25T14:07:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The state of SIMD in Rust in 2026",
+      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "summary": "60 points, 17 comments",
+      "publishedAt": "2026-09-25T13:46:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -855,15 +864,6 @@
       "link": "https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit…",
       "publishedAt": "2026-09-24T05:50:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
-      "link": "https://3d-retro.com/",
-      "summary": "56 points, 10 comments",
-      "publishedAt": "2026-09-23T23:33:39.000Z"
     },
     {
       "source": "Google AI",
