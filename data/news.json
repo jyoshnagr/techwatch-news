@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:10:34.530Z",
+  "updatedAt": "2026-09-28T11:30:06.674Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,96 @@
   "errors": [],
   "items": [
     {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in 2 Weeks",
+      "link": "https://www.infoq.com/presentations/building-internal-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Ben Maraney shares how Forter demystified AI agent creation for technical and non-technical staff. He discusses leveraging custom MCP servers, combining no-code and code-based platforms, sidestepping complex RAG setups,…",
+      "publishedAt": "2026-09-28T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "link": "https://git.mills.io/prologic/parley",
+      "summary": "39 points, 12 comments",
+      "publishedAt": "2026-09-28T10:30:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "summary": "65 points, 14 comments",
+      "publishedAt": "2026-09-28T09:15:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
+      "link": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
+      "summary": "6 points, 4 comments",
+      "publishedAt": "2026-09-28T09:13:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "summary": "33 points, 2 comments",
+      "publishedAt": "2026-09-28T08:35:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "summary": "This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable c…",
+      "publishedAt": "2026-09-28T08:00:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Prompting Claude Opus 5.5",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "summary": "120 points, 115 comments",
+      "publishedAt": "2026-09-28T07:33:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Made by Mechanical Means",
+      "link": "https://felixrieseberg.com/made-by-mechanical-means/",
+      "summary": "36 points, 7 comments",
+      "publishedAt": "2026-09-28T07:06:06.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AWS Introduces Foreign Key Constraints in Aurora DSQL",
+      "link": "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "AWS recently announced that Aurora DSQL now supports foreign key constraints, allowing applications to enforce referential integrity directly in the database, including CASCADE, SET NULL, and other referential actions. T…",
+      "publishedAt": "2026-09-28T04:54:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "publishedAt": "2026-09-28T04:30:00.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -68,19 +158,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
       "link": "https://arxiv.org/abs/2110.01834",
-      "summary": "9 points, 0 comments",
+      "summary": "115 points, 39 comments",
       "publishedAt": "2026-09-28T03:23:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft drops Copilot+ branding from its new laptops",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "summary": "19 points, 5 comments",
-      "publishedAt": "2026-09-28T02:46:27.000Z"
     },
     {
       "source": "Hacker News",
@@ -88,26 +169,8 @@
       "category": "general",
       "title": "Nissan's third generation e-POWER powertrain",
       "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "summary": "19 points, 11 comments",
+      "summary": "77 points, 96 comments",
       "publishedAt": "2026-09-28T02:31:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-      "link": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-      "summary": "4 points, 1 comments",
-      "publishedAt": "2026-09-28T02:27:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Musk, the Movie",
-      "link": "https://bleeckerstreetmedia.com/musk",
-      "summary": "96 points, 20 comments",
-      "publishedAt": "2026-09-28T02:12:17.000Z"
     },
     {
       "source": "Hacker News",
@@ -115,17 +178,8 @@
       "category": "general",
       "title": "Owed a billion dollars in Nvidia stock",
       "link": "https://colo.to/nvidia-stock-narrative.html",
-      "summary": "227 points, 108 comments",
+      "summary": "768 points, 315 comments",
       "publishedAt": "2026-09-28T02:05:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-      "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "summary": "66 points, 44 comments",
-      "publishedAt": "2026-09-28T01:30:17.000Z"
     },
     {
       "source": "Simon Willison",
@@ -160,7 +214,7 @@
       "category": "general",
       "title": "Lunar Terminator Paradox",
       "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "summary": "55 points, 38 comments",
+      "summary": "89 points, 56 comments",
       "publishedAt": "2026-09-27T21:06:17.000Z"
     },
     {
@@ -187,7 +241,7 @@
       "category": "general",
       "title": "When did Google get so weird?",
       "link": "https://sancho.bearblog.dev/google-weird/",
-      "summary": "925 points, 500 comments",
+      "summary": "1377 points, 744 comments",
       "publishedAt": "2026-09-27T20:12:54.000Z"
     },
     {
@@ -196,7 +250,7 @@
       "category": "general",
       "title": "Self-Hosting on the Dark Web",
       "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "summary": "90 points, 32 comments",
+      "summary": "219 points, 84 comments",
       "publishedAt": "2026-09-27T20:03:36.000Z"
     },
     {
@@ -214,26 +268,8 @@
       "category": "general",
       "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
       "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "summary": "89 points, 31 comments",
+      "summary": "144 points, 42 comments",
       "publishedAt": "2026-09-27T19:37:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "link": "https://github.com/deepfates/imp",
-      "summary": "59 points, 6 comments",
-      "publishedAt": "2026-09-27T19:28:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What I did at Recurse Center",
-      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "summary": "82 points, 25 comments",
-      "publishedAt": "2026-09-27T19:04:19.000Z"
     },
     {
       "source": "Hacker News",
@@ -241,17 +277,8 @@
       "category": "general",
       "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
       "link": "https://www.inkandswitch.com/essay/malleable-software/",
-      "summary": "13 points, 2 comments",
+      "summary": "103 points, 49 comments",
       "publishedAt": "2026-09-27T19:01:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "link": "https://loficities.com/",
-      "summary": "195 points, 87 comments",
-      "publishedAt": "2026-09-27T18:44:30.000Z"
     },
     {
       "source": "Simon Willison",
@@ -268,7 +295,7 @@
       "category": "general",
       "title": "Ember-1",
       "link": "https://fireworks.ai/blog/ember-1",
-      "summary": "387 points, 195 comments",
+      "summary": "487 points, 222 comments",
       "publishedAt": "2026-09-27T17:31:53.000Z"
     },
     {
@@ -286,7 +313,7 @@
       "category": "general",
       "title": "Don't couple your Go code to GitHub",
       "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "summary": "169 points, 83 comments",
+      "summary": "256 points, 116 comments",
       "publishedAt": "2026-09-27T16:50:58.000Z"
     },
     {
@@ -351,6 +378,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
       "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
       "publishedAt": "2026-09-27T11:00:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "link": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "summary": "46 points, 26 comments",
+      "publishedAt": "2026-09-27T10:19:51.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -461,24 +497,6 @@
       "publishedAt": "2026-09-26T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made afte…",
-      "publishedAt": "2026-09-26T16:34:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "There is more to code review than (automatable) detection",
-      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "summary": "86 points, 46 comments",
-      "publishedAt": "2026-09-26T15:06:28.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -511,8 +529,17 @@
       "category": "general",
       "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
       "link": "https://github.com/dashersw/coyopedal",
-      "summary": "33 points, 11 comments",
+      "summary": "93 points, 47 comments",
       "publishedAt": "2026-09-26T02:24:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Functional Mechanical Sympathy [video]",
+      "link": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+      "summary": "40 points, 3 comments",
+      "publishedAt": "2026-09-26T01:26:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -641,15 +668,6 @@
       "publishedAt": "2026-09-25T19:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "publishedAt": "2026-09-25T18:48:33.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -727,7 +745,7 @@
       "category": "general",
       "title": "The state of SIMD in Rust in 2026",
       "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "summary": "108 points, 23 comments",
+      "summary": "164 points, 39 comments",
       "publishedAt": "2026-09-25T13:46:34.000Z"
     },
     {
@@ -974,15 +992,6 @@
       "publishedAt": "2026-09-23T14:14:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Beyond Kubernetes at Modal: How to Scale 1 Million Concurrent Sandboxes in Seconds",
-      "link": "https://www.infoq.com/news/2026/09/modal-scaling-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "In a recent article, Colin Weld and Connor Adams, staff engineers at Modal, describe how they rebuilt their sandbox infrastructure from the ground up to support millions of concurrent sandboxes and tens of thousands of s…",
-      "publishedAt": "2026-09-23T14:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1026,15 +1035,6 @@
       "link": "https://openai.com/index/ringg",
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era",
-      "link": "https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Jim Gough and Andreea Niculcea explain how Morgan Stanley uses Architecture as Code with CALM to modernize its API program. They demonstrate integrating Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication…",
-      "publishedAt": "2026-09-23T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
