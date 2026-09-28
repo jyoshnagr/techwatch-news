@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:51:27.123Z",
+  "updatedAt": "2026-09-28T04:10:34.530Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,96 @@
   "errors": [],
   "items": [
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Muse AI Agent",
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told h…",
+      "publishedAt": "2026-09-28T04:01:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "link": "https://arxiv.org/abs/2110.01834",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-09-28T03:23:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "summary": "19 points, 5 comments",
+      "publishedAt": "2026-09-28T02:46:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nissan's third generation e-POWER powertrain",
+      "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "summary": "19 points, 11 comments",
+      "publishedAt": "2026-09-28T02:31:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+      "link": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+      "summary": "4 points, 1 comments",
+      "publishedAt": "2026-09-28T02:27:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Musk, the Movie",
+      "link": "https://bleeckerstreetmedia.com/musk",
+      "summary": "96 points, 20 comments",
+      "publishedAt": "2026-09-28T02:12:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "link": "https://colo.to/nvidia-stock-narrative.html",
+      "summary": "227 points, 108 comments",
+      "publishedAt": "2026-09-28T02:05:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
+      "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "summary": "66 points, 44 comments",
+      "publishedAt": "2026-09-28T01:30:17.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "2026 in LLMs (so far)",
+      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026…",
+      "publishedAt": "2026-09-27T23:54:15.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade : 2006…",
+      "publishedAt": "2026-09-27T23:09:19.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -70,7 +160,7 @@
       "category": "general",
       "title": "Lunar Terminator Paradox",
       "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "summary": "27 points, 13 comments",
+      "summary": "55 points, 38 comments",
       "publishedAt": "2026-09-27T21:06:17.000Z"
     },
     {
@@ -97,8 +187,17 @@
       "category": "general",
       "title": "When did Google get so weird?",
       "link": "https://sancho.bearblog.dev/google-weird/",
-      "summary": "467 points, 241 comments",
+      "summary": "925 points, 500 comments",
       "publishedAt": "2026-09-27T20:12:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Self-Hosting on the Dark Web",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "summary": "90 points, 32 comments",
+      "publishedAt": "2026-09-27T20:03:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -115,7 +214,7 @@
       "category": "general",
       "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
       "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "summary": "50 points, 19 comments",
+      "summary": "89 points, 31 comments",
       "publishedAt": "2026-09-27T19:37:05.000Z"
     },
     {
@@ -124,7 +223,7 @@
       "category": "general",
       "title": "Imp is a full port of DSPy to the BEAM",
       "link": "https://github.com/deepfates/imp",
-      "summary": "31 points, 5 comments",
+      "summary": "59 points, 6 comments",
       "publishedAt": "2026-09-27T19:28:23.000Z"
     },
     {
@@ -133,8 +232,17 @@
       "category": "general",
       "title": "What I did at Recurse Center",
       "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "summary": "37 points, 13 comments",
+      "summary": "82 points, 25 comments",
       "publishedAt": "2026-09-27T19:04:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "link": "https://www.inkandswitch.com/essay/malleable-software/",
+      "summary": "13 points, 2 comments",
+      "publishedAt": "2026-09-27T19:01:31.000Z"
     },
     {
       "source": "Hacker News",
@@ -142,17 +250,17 @@
       "category": "general",
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "link": "https://loficities.com/",
-      "summary": "117 points, 51 comments",
+      "summary": "195 points, 87 comments",
       "publishedAt": "2026-09-27T18:44:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "summary": "35 points, 6 comments",
-      "publishedAt": "2026-09-27T18:02:43.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Bluesky reply bot checker",
+      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automat…",
+      "publishedAt": "2026-09-27T18:41:44.000Z"
     },
     {
       "source": "Hacker News",
@@ -160,7 +268,7 @@
       "category": "general",
       "title": "Ember-1",
       "link": "https://fireworks.ai/blog/ember-1",
-      "summary": "280 points, 157 comments",
+      "summary": "387 points, 195 comments",
       "publishedAt": "2026-09-27T17:31:53.000Z"
     },
     {
@@ -178,7 +286,7 @@
       "category": "general",
       "title": "Don't couple your Go code to GitHub",
       "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "summary": "97 points, 48 comments",
+      "summary": "169 points, 83 comments",
       "publishedAt": "2026-09-27T16:50:58.000Z"
     },
     {
@@ -207,33 +315,6 @@
       "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
       "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
       "publishedAt": "2026-09-27T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-      "summary": "44 points, 8 comments",
-      "publishedAt": "2026-09-27T14:35:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "summary": "185 points, 75 comments",
-      "publishedAt": "2026-09-27T14:30:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "summary": "125 points, 65 comments",
-      "publishedAt": "2026-09-27T13:30:11.000Z"
     },
     {
       "source": "The Verge",
@@ -365,7 +446,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud",
+      "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction across Laptop and Cloud",
       "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Docker Cloud Sandboxes provide secure, hosted execution environments for running AI coding agents on Docker-managed infrastructure. Built on hardware-enforced microVM isolation, the platform provides a consistent executi…",
       "publishedAt": "2026-09-26T17:00:00.000Z"
@@ -394,17 +475,8 @@
       "category": "general",
       "title": "There is more to code review than (automatable) detection",
       "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "summary": "26 points, 8 comments",
+      "summary": "86 points, 46 comments",
       "publishedAt": "2026-09-26T15:06:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-      "link": "https://fakecloud.dev/",
-      "summary": "94 points, 49 comments",
-      "publishedAt": "2026-09-26T14:25:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -437,19 +509,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Flip Fluid on Flip Dots",
-      "link": "https://mitxela.com/projects/flipflip",
-      "summary": "348 points, 23 comments",
-      "publishedAt": "2026-09-26T07:50:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
-      "link": "https://generalroboticslab.com/cartesian_handv1",
-      "summary": "45 points, 8 comments",
-      "publishedAt": "2026-09-26T05:27:39.000Z"
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "link": "https://github.com/dashersw/coyopedal",
+      "summary": "33 points, 11 comments",
+      "publishedAt": "2026-09-26T02:24:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -459,15 +522,6 @@
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
       "publishedAt": "2026-09-26T01:08:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "S3 Is the Future, S3 Is the Past",
-      "link": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
-      "summary": "12 points, 4 comments",
-      "publishedAt": "2026-09-25T23:58:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -540,15 +594,6 @@
       "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
       "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
       "publishedAt": "2026-09-25T20:33:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Writing Efficient C++ Code (2013)",
-      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "summary": "125 points, 74 comments",
-      "publishedAt": "2026-09-25T20:20:27.000Z"
     },
     {
       "source": "Ars Technica",
@@ -659,15 +704,6 @@
       "publishedAt": "2026-09-25T15:21:55.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
-      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "summary": "41 points, 15 comments",
-      "publishedAt": "2026-09-25T14:38:06.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -691,7 +727,7 @@
       "category": "general",
       "title": "The state of SIMD in Rust in 2026",
       "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "summary": "60 points, 17 comments",
+      "summary": "108 points, 23 comments",
       "publishedAt": "2026-09-25T13:46:34.000Z"
     },
     {
@@ -743,16 +779,16 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty",
+      "title": "Podcast: The Future of AI: from Enterprise Adoption to Open Source Sovereignty",
       "link": "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith, demystify the current state of AI in the enterprise. The discussion navigates the \"industrial revolution\" moment in AI adoption, exploring why companie…",
+      "summary": "In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith demystify the current state of AI in the enterprise. The discussion navigates the \"industrial revolution\" moment in AI adoption, exploring why companies…",
       "publishedAt": "2026-09-25T11:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Article: The Agent Harness: What It Is and Two Ways to Build One",
+      "title": "Article: The Agent Harness: What it is and Two Ways to Build One",
       "link": "https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles…",
       "publishedAt": "2026-09-25T09:00:00.000Z"
@@ -851,7 +887,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+      "title": "Presentation: Designing Fast, Delightful UX with LLMs for Mobile Frontends",
       "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamic…",
       "publishedAt": "2026-09-24T09:24:00.000Z"
@@ -864,6 +900,15 @@
       "link": "https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit…",
       "publishedAt": "2026-09-24T05:50:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "summary": "My comment on We just shipped support for the ugliest part of HTTP: Vary &mdash; Hacker News. I've been wanting this from Cloudflare for years . The classic problem here is if you do that thing where user agents that sen…",
+      "publishedAt": "2026-09-23T23:14:57.000Z"
     },
     {
       "source": "Google AI",
@@ -1127,15 +1172,6 @@
       "publishedAt": "2026-09-21T23:09:20.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Cloudflare Python Workers are now generally available",
-      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully suppor…",
-      "publishedAt": "2026-09-21T22:25:44.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1179,42 +1215,6 @@
       "link": "https://openai.com/index/v7",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "publishedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting voxium",
-      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
-      "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobo…",
-      "publishedAt": "2026-09-20T21:06:43.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "MCP was always a bad idea?",
-      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claud…",
-      "publishedAt": "2026-09-20T20:24:41.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-keys-ui 0.1",
-      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack o…",
-      "publishedAt": "2026-09-20T19:22:19.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-explain 0.2.2",
-      "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s…",
-      "publishedAt": "2026-09-20T00:22:04.000Z"
     },
     {
       "source": "Google AI",
