@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:42:50.731Z",
+  "updatedAt": "2026-09-29T11:10:20.804Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,81 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
+  "itemCount": 154,
   "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New Cyber-OSINT model released",
+      "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+      "summary": "11 points, 3 comments",
+      "publishedAt": "2026-09-29T10:23:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "publishedAt": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Your car’s data privacy problems are worse than you think",
+      "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+      "summary": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerat…",
+      "publishedAt": "2026-09-29T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "summary": "89 points, 19 comments",
+      "publishedAt": "2026-09-29T09:03:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "publishedAt": "2026-09-29T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Using any C++ library in Godot",
+      "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "summary": "50 points, 17 comments",
+      "publishedAt": "2026-09-29T08:40:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "link": "https://www.startup-nights.ch/event/",
+      "summary": "6 points, 2 comments",
+      "publishedAt": "2026-09-29T07:49:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "publishedAt": "2026-09-29T05:13:43.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -70,7 +142,7 @@
       "category": "general",
       "title": "Tank Body Problem",
       "link": "http://www.jimsitu.com",
-      "summary": "48 points, 9 comments",
+      "summary": "119 points, 26 comments",
       "publishedAt": "2026-09-29T00:41:45.000Z"
     },
     {
@@ -81,15 +153,6 @@
       "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
       "publishedAt": "2026-09-29T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "link": "https://lolchat.rip/",
-      "summary": "64 points, 36 comments",
-      "publishedAt": "2026-09-29T00:06:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -108,15 +171,6 @@
       "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
       "summary": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
       "publishedAt": "2026-09-28T22:58:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-      "link": "https://jonclegg.github.io/pacman-bakeoff/",
-      "summary": "12 points, 5 comments",
-      "publishedAt": "2026-09-28T22:43:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -169,7 +223,7 @@
       "category": "general",
       "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
       "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "56 points, 8 comments",
+      "summary": "106 points, 21 comments",
       "publishedAt": "2026-09-28T21:26:41.000Z"
     },
     {
@@ -214,17 +268,8 @@
       "category": "general",
       "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
       "link": "https://github.com/firelex/jeff",
-      "summary": "377 points, 145 comments",
+      "summary": "507 points, 192 comments",
       "publishedAt": "2026-09-28T20:23:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "World Labs Is Joining AMD",
-      "link": "https://www.worldlabs.ai/blog/amd-announcement",
-      "summary": "235 points, 95 comments",
-      "publishedAt": "2026-09-28T20:18:05.000Z"
     },
     {
       "source": "Hacker News",
@@ -232,7 +277,7 @@
       "category": "general",
       "title": "California farmers are struggling to sell grapes as demand for wine drops",
       "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "summary": "117 points, 269 comments",
+      "summary": "238 points, 602 comments",
       "publishedAt": "2026-09-28T20:00:06.000Z"
     },
     {
@@ -317,6 +362,15 @@
       "publishedAt": "2026-09-28T19:00:00.000Z"
     },
     {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "publishedAt": "2026-09-28T19:00:00.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -331,7 +385,7 @@
       "category": "general",
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "link": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "177 points, 68 comments",
+      "summary": "249 points, 87 comments",
       "publishedAt": "2026-09-28T18:58:53.000Z"
     },
     {
@@ -394,7 +448,7 @@
       "category": "general",
       "title": "Sonnet 5.5",
       "link": "https://www.anthropic.com/claude-sonnet-5-5",
-      "summary": "670 points, 447 comments",
+      "summary": "812 points, 543 comments",
       "publishedAt": "2026-09-28T17:58:11.000Z"
     },
     {
@@ -493,7 +547,7 @@
       "category": "general",
       "title": "Phyllotaxis: An audio-reactive LED display",
       "link": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "11 points, 1 comments",
+      "summary": "157 points, 19 comments",
       "publishedAt": "2026-09-28T16:18:57.000Z"
     },
     {
@@ -511,7 +565,7 @@
       "category": "general",
       "title": "Pirating the Pirates",
       "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "summary": "473 points, 241 comments",
+      "summary": "603 points, 304 comments",
       "publishedAt": "2026-09-28T15:54:15.000Z"
     },
     {
@@ -520,17 +574,8 @@
       "category": "general",
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "summary": "133 points, 161 comments",
+      "summary": "183 points, 229 comments",
       "publishedAt": "2026-09-28T15:46:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-      "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-      "summary": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recogni…",
-      "publishedAt": "2026-09-28T15:43:09.000Z"
     },
     {
       "source": "Hacker News",
@@ -538,17 +583,8 @@
       "category": "general",
       "title": "Hijacking the PS5's RTMP stream",
       "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "summary": "223 points, 69 comments",
+      "summary": "262 points, 87 comments",
       "publishedAt": "2026-09-28T15:35:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "link": "https://www.thisamericanlife.org/897/transcript",
-      "summary": "334 points, 196 comments",
-      "publishedAt": "2026-09-28T15:35:09.000Z"
     },
     {
       "source": "Hacker News",
@@ -556,7 +592,7 @@
       "category": "general",
       "title": "Updated Google Maps shows destruction of the city of Rafah",
       "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "summary": "325 points, 175 comments",
+      "summary": "600 points, 446 comments",
       "publishedAt": "2026-09-28T15:32:18.000Z"
     },
     {
@@ -587,42 +623,6 @@
       "publishedAt": "2026-09-28T15:26:46.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices…",
-      "publishedAt": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusi…",
-      "publishedAt": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-      "publishedAt": "2026-09-28T14:50:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "link": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "summary": "156 points, 188 comments",
-      "publishedAt": "2026-09-28T13:30:54.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -639,6 +639,15 @@
       "link": "https://www.infoq.com/presentations/building-internal-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Ben Maraney shares how Forter demystified AI agent creation for technical and non-technical staff. He discusses leveraging custom MCP servers, combining no-code and code-based platforms, sidestepping complex RAG setups,…",
       "publishedAt": "2026-09-28T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The systems that no one will test",
+      "link": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "summary": "73 points, 29 comments",
+      "publishedAt": "2026-09-28T10:51:46.000Z"
     },
     {
       "source": "OpenAI",
@@ -704,6 +713,15 @@
       "publishedAt": "2026-09-27T23:09:19.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+      "link": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "summary": "63 points, 21 comments",
+      "publishedAt": "2026-09-27T20:13:22.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -716,10 +734,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Who Killed Paulina Borsook's Career?",
-      "link": "https://www.wired.com/story/paulina-borsook-profile/",
-      "summary": "14 points, 0 comments",
-      "publishedAt": "2026-09-27T14:25:00.000Z"
+      "title": "Software occlusion culling in Block Game",
+      "link": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+      "summary": "24 points, 2 comments",
+      "publishedAt": "2026-09-27T14:07:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -740,6 +758,15 @@
       "publishedAt": "2026-09-27T06:46:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Simulating Airband AM Radios",
+      "link": "https://bitbashing.io/am-radio.html",
+      "summary": "49 points, 4 comments",
+      "publishedAt": "2026-09-27T02:01:35.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -756,15 +783,6 @@
       "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Docker Cloud Sandboxes provide secure, hosted execution environments for running AI coding agents on Docker-managed infrastructure. Built on hardware-enforced microVM isolation, the platform provides a consistent executi…",
       "publishedAt": "2026-09-26T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to win a beer with high-dimensional statistics",
-      "link": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
-      "summary": "41 points, 6 comments",
-      "publishedAt": "2026-09-26T16:40:06.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -790,7 +808,7 @@
       "category": "general",
       "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
       "link": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "summary": "106 points, 27 comments",
+      "summary": "140 points, 37 comments",
       "publishedAt": "2026-09-26T10:16:26.000Z"
     },
     {
@@ -1058,24 +1076,6 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -1085,9 +1085,27 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "publishedAt": "2026-09-23T12:00:00.000Z"
     },
     {
@@ -1206,15 +1224,6 @@
       "link": "https://openai.com/index/priorities-principles-third-party-assessments",
       "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "publishedAt": "2026-09-21T12:00:00.000Z"
     },
     {
       "source": "Google AI",
