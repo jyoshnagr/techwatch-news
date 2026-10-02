@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:47:25.014Z",
+  "updatedAt": "2026-10-02T23:35:34.969Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,7 +52,7 @@
       "category": "ai"
     }
   ],
-  "itemCount": 146,
+  "itemCount": 147,
   "errors": [
     {
       "source": "Google DeepMind",
@@ -60,6 +60,141 @@
     }
   ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "prevents me from logging into Vanguard",
+      "link": "https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard/",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-10-02T23:18:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "link": "https://allenai.org/blog/astabrief",
+      "summary": "11 points, 0 comments",
+      "publishedAt": "2026-10-02T21:25:25.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Someone got Doom in an SQL database",
+      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "publishedAt": "2026-10-02T21:19:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "publishedAt": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
+      "publishedAt": "2026-10-02T21:08:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Every SaaS business will become a harness around a model",
+      "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "summary": "67 points, 50 comments",
+      "publishedAt": "2026-10-02T21:06:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "177 points, 88 comments",
+      "publishedAt": "2026-10-02T20:56:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "publishedAt": "2026-10-02T20:30:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Netflix is pivoting away from prestige",
+      "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought…",
+      "publishedAt": "2026-10-02T20:30:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w…",
+      "publishedAt": "2026-10-02T20:08:40.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+      "publishedAt": "2026-10-02T20:07:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Sling TV drops its one-day cable passes",
+      "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a…",
+      "publishedAt": "2026-10-02T20:00:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "link": "https://github.com/anteloc/ldraw-nova",
+      "summary": "54 points, 34 comments",
+      "publishedAt": "2026-10-02T20:00:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "78 points, 54 comments",
+      "publishedAt": "2026-10-02T19:37:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "summary": "85 points, 45 comments",
+      "publishedAt": "2026-10-02T19:26:54.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -70,13 +205,40 @@
       "publishedAt": "2026-10-02T19:15:51.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+      "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "summary": "Critics say workers are still owed far more.",
+      "publishedAt": "2026-10-02T19:09:49.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Apple Pass Designer",
       "link": "https://developer.apple.com/pass-designer/",
-      "summary": "85 points, 33 comments",
+      "summary": "269 points, 188 comments",
       "publishedAt": "2026-10-02T19:06:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The 2008 economic crisis changed the US's relationship with energy",
+      "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+      "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
+      "publishedAt": "2026-10-02T18:56:21.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "publishedAt": "2026-10-02T18:39:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -86,15 +248,6 @@
       "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
       "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
       "publishedAt": "2026-10-02T18:17:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Around 2-6% of World Bank foreign aid got siphoned into crypto wallets",
-      "link": "https://www.nber.org/papers/w35655",
-      "summary": "30 points, 2 comments",
-      "publishedAt": "2026-10-02T18:14:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -111,7 +264,7 @@
       "category": "general",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "link": "https://dwarfstar.sh/",
-      "summary": "19 points, 1 comments",
+      "summary": "119 points, 35 comments",
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -264,17 +417,8 @@
       "category": "general",
       "title": "One month coding with GLM 5.3 Flash",
       "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "summary": "28 points, 22 comments",
+      "summary": "90 points, 69 comments",
       "publishedAt": "2026-10-02T15:29:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How accurately calibrated is Jev?",
-      "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
-      "summary": "15 points, 7 comments",
-      "publishedAt": "2026-10-02T15:12:41.000Z"
     },
     {
       "source": "Google AI",
@@ -304,15 +448,6 @@
       "publishedAt": "2026-10-02T14:47:46.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-      "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-      "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead.…",
-      "publishedAt": "2026-10-02T14:34:14.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -322,13 +457,13 @@
       "publishedAt": "2026-10-02T14:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-      "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-      "summary": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig…",
-      "publishedAt": "2026-10-02T14:29:05.000Z"
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "summary": "18 points, 0 comments",
+      "publishedAt": "2026-10-02T14:22:12.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -338,6 +473,15 @@
       "link": "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data red…",
       "publishedAt": "2026-10-02T14:22:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "149 points, 71 comments",
+      "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -367,15 +511,6 @@
       "publishedAt": "2026-10-02T13:54:34.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
-      "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
-      "summary": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wa…",
-      "publishedAt": "2026-10-02T13:42:36.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -397,18 +532,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "summary": "207 points, 121 comments",
-      "publishedAt": "2026-10-02T13:18:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Venice’s failed war against Constantinople led to the first bond market",
       "link": "https://bigthink.com/books/a-fabulous-debt/",
-      "summary": "15 points, 5 comments",
+      "summary": "56 points, 19 comments",
       "publishedAt": "2026-10-02T13:17:47.000Z"
     },
     {
@@ -419,15 +545,6 @@
       "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
       "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
       "publishedAt": "2026-10-02T13:17:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Tesla’s recovery hits a speed bump",
-      "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
-      "summary": "Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. But the company still beat estimates from Wall Stree…",
-      "publishedAt": "2026-10-02T13:08:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -442,45 +559,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "100 years of student radio history in the DLARC college radio collections",
-      "link": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
-      "summary": "13 points, 1 comments",
-      "publishedAt": "2026-10-02T12:23:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "On social reality in China",
-      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
-      "summary": "32 points, 12 comments",
-      "publishedAt": "2026-10-02T11:42:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Blogging with Gleam, Org-Mode and Pandoc",
-      "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-      "summary": "17 points, 2 comments",
-      "publishedAt": "2026-10-02T11:34:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Our Project Suncatcher prototype satellite is in orbit",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "summary": "21 points, 22 comments",
-      "publishedAt": "2026-10-02T11:13:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "summary": "45 points, 5 comments",
+      "summary": "160 points, 33 comments",
       "publishedAt": "2026-10-02T11:07:17.000Z"
     },
     {
@@ -534,7 +615,7 @@
       "category": "general",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "summary": "57 points, 6 comments",
+      "summary": "156 points, 33 comments",
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -545,15 +626,6 @@
       "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
       "summary": "A new California law places new rules on autonomous vehicles operators.",
       "publishedAt": "2026-10-02T00:57:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "link": "https://stillwet.art/",
-      "summary": "135 points, 45 comments",
-      "publishedAt": "2026-10-02T00:27:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -588,7 +660,7 @@
       "category": "general",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "281 points, 131 comments",
+      "summary": "444 points, 196 comments",
       "publishedAt": "2026-10-01T22:23:07.000Z"
     },
     {
@@ -597,7 +669,7 @@
       "category": "general",
       "title": "Sites in ChatGPT",
       "link": "https://chatgpt.com/features/sites/",
-      "summary": "115 points, 127 comments",
+      "summary": "186 points, 204 comments",
       "publishedAt": "2026-10-01T22:22:21.000Z"
     },
     {
@@ -617,15 +689,6 @@
       "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
       "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
       "publishedAt": "2026-10-01T21:57:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-      "publishedAt": "2026-10-01T21:55:22.000Z"
     },
     {
       "source": "Ars Technica",
@@ -651,7 +714,7 @@
       "category": "general",
       "title": "Loss of cell identity drives human aging: Two new papers",
       "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "summary": "68 points, 10 comments",
+      "summary": "149 points, 37 comments",
       "publishedAt": "2026-10-01T20:02:57.000Z"
     },
     {
@@ -660,7 +723,7 @@
       "category": "general",
       "title": "FLUX 3 Image",
       "link": "https://bfl.ai/models/flux-3-image",
-      "summary": "193 points, 37 comments",
+      "summary": "251 points, 57 comments",
       "publishedAt": "2026-10-01T19:24:29.000Z"
     },
     {
@@ -678,7 +741,7 @@
       "category": "general",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "summary": "61 points, 11 comments",
+      "summary": "187 points, 52 comments",
       "publishedAt": "2026-10-01T18:20:18.000Z"
     },
     {
@@ -709,24 +772,6 @@
       "publishedAt": "2026-10-01T17:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
-      "link": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-      "summary": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
-      "publishedAt": "2026-10-01T16:49:33.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "publishedAt": "2026-10-01T16:28:04.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -736,15 +781,6 @@
       "publishedAt": "2026-10-01T16:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "As US relations fray, Canada gets serious about its own launch industry",
-      "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-      "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-      "publishedAt": "2026-10-01T15:30:49.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -752,24 +788,6 @@
       "link": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering…",
       "publishedAt": "2026-10-01T12:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "PS5 emulation is suddenly making big strides on PC",
-      "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-      "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
-      "publishedAt": "2026-10-01T11:30:41.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-      "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-      "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-      "publishedAt": "2026-10-01T11:15:15.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -817,15 +835,6 @@
       "publishedAt": "2026-09-30T21:54:19.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-      "publishedAt": "2026-09-30T21:54:12.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -865,7 +874,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves",
+      "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What it Proves",
       "link": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by-frame replay harness. The agents built a playbook of codebas…",
       "publishedAt": "2026-09-30T06:16:00.000Z"
