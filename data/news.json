@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:31:19.589Z",
+  "updatedAt": "2026-10-02T10:54:53.580Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,12 +61,75 @@
   ],
   "items": [
     {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "OpenAI DevDay 2026 Recap for Developers",
+      "link": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT.…",
+      "publishedAt": "2026-10-02T10:39:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026",
+      "link": "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "QCon San Francisco 2026 will bring together practitioners from Airbnb, OpenAI, Netflix, Honeycomb, and other engineering organizations to share how they are building, operating, and evolving production systems as AI agen…",
+      "publishedAt": "2026-10-02T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "AI music maker Suno now generates spoken words",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo…",
+      "publishedAt": "2026-10-02T09:42:19.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Docker Sandbox Kit Spec: Packaging AI Agent Permissions as OCI Images",
+      "link": "https://www.infoq.com/news/2026/10/docker-sandbox-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Docker has announced that it is bringing the Sandbox Kit Specification to the CNCF, aiming to make what an AI agent may access as portable as the agent itself. By Claudio Masolo",
+      "publishedAt": "2026-10-02T09:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents",
+      "link": "https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "DigitalOcean recently launched DigitalOcean Managed Agents in public preview, offering a managed cloud infrastructure layer for AI agents with isolated microVM runtimes, governed tool access, and serverless AI inference.…",
+      "publishedAt": "2026-10-02T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "link": "https://github.com/kvoltmer/Audionaut",
+      "summary": "18 points, 3 comments",
+      "publishedAt": "2026-10-02T08:05:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "summary": "124 points, 21 comments",
+      "publishedAt": "2026-10-02T05:12:58.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "DeepSeek Harness Desktop for macOS and Windows",
       "link": "https://www.deepseek.com/en/harness/",
-      "summary": "21 points, 10 comments",
+      "summary": "249 points, 120 comments",
       "publishedAt": "2026-10-02T03:11:20.000Z"
     },
     {
@@ -75,7 +138,7 @@
       "category": "general",
       "title": "How Singapore's government-run dating service works",
       "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "summary": "31 points, 12 comments",
+      "summary": "177 points, 141 comments",
       "publishedAt": "2026-10-02T01:56:52.000Z"
     },
     {
@@ -102,7 +165,7 @@
       "category": "general",
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "link": "https://lwn.net/Articles/1097401/",
-      "summary": "185 points, 109 comments",
+      "summary": "327 points, 233 comments",
       "publishedAt": "2026-10-01T23:10:44.000Z"
     },
     {
@@ -129,7 +192,7 @@
       "category": "general",
       "title": "Frog and Toad and the Increasingly Capable Machines",
       "link": "https://www.frogandtoad.ai/",
-      "summary": "72 points, 11 comments",
+      "summary": "186 points, 41 comments",
       "publishedAt": "2026-10-01T22:23:38.000Z"
     },
     {
@@ -165,7 +228,7 @@
       "category": "general",
       "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
       "link": "https://www.cssbed.com",
-      "summary": "77 points, 19 comments",
+      "summary": "114 points, 28 comments",
       "publishedAt": "2026-10-01T21:21:32.000Z"
     },
     {
@@ -183,17 +246,8 @@
       "category": "general",
       "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
       "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "summary": "101 points, 18 comments",
+      "summary": "155 points, 42 comments",
       "publishedAt": "2026-10-01T20:48:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "link": "https://github.com/Vibra-Ingenn/Janus",
-      "summary": "58 points, 9 comments",
-      "publishedAt": "2026-10-01T20:36:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -210,7 +264,7 @@
       "category": "general",
       "title": "Automatic Transmission – a data-privacy study of connected vehicles",
       "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "150 points, 146 comments",
+      "summary": "194 points, 168 comments",
       "publishedAt": "2026-10-01T20:23:27.000Z"
     },
     {
@@ -219,7 +273,7 @@
       "category": "general",
       "title": "SvelteKit 3",
       "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "165 points, 61 comments",
+      "summary": "288 points, 106 comments",
       "publishedAt": "2026-10-01T20:14:23.000Z"
     },
     {
@@ -228,7 +282,7 @@
       "category": "general",
       "title": "ArXiv's Updated Rate Limit Policy",
       "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "summary": "91 points, 36 comments",
+      "summary": "122 points, 57 comments",
       "publishedAt": "2026-10-01T20:12:15.000Z"
     },
     {
@@ -255,7 +309,7 @@
       "category": "general",
       "title": "Pi 1.0",
       "link": "https://earendil.com/posts/pi-1-0/",
-      "summary": "909 points, 304 comments",
+      "summary": "1323 points, 421 comments",
       "publishedAt": "2026-10-01T19:33:05.000Z"
     },
     {
@@ -264,7 +318,7 @@
       "category": "general",
       "title": "Pi Durable",
       "link": "https://earendil.com/posts/pi-durable/",
-      "summary": "283 points, 35 comments",
+      "summary": "393 points, 50 comments",
       "publishedAt": "2026-10-01T19:24:08.000Z"
     },
     {
@@ -302,15 +356,6 @@
       "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
       "publishedAt": "2026-10-01T19:18:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "summary": "89 points, 6 comments",
-      "publishedAt": "2026-10-01T19:03:42.000Z"
     },
     {
       "source": "The Verge",
@@ -367,15 +412,6 @@
       "publishedAt": "2026-10-01T17:49:56.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "link": "https://stoppels.ch/goalposts/",
-      "summary": "111 points, 121 comments",
-      "publishedAt": "2026-10-01T17:32:43.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -408,7 +444,7 @@
       "category": "general",
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "link": "https://blog.gitbutler.com/git-3-sha-256",
-      "summary": "271 points, 272 comments",
+      "summary": "390 points, 367 comments",
       "publishedAt": "2026-10-01T16:57:03.000Z"
     },
     {
@@ -471,7 +507,7 @@
       "category": "general",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "link": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "461 points, 170 comments",
+      "summary": "522 points, 181 comments",
       "publishedAt": "2026-10-01T16:18:57.000Z"
     },
     {
@@ -498,7 +534,7 @@
       "category": "general",
       "title": "RIP, vector database",
       "link": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "294 points, 78 comments",
+      "summary": "338 points, 89 comments",
       "publishedAt": "2026-10-01T16:01:56.000Z"
     },
     {
@@ -552,7 +588,7 @@
       "category": "general",
       "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
       "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "summary": "188 points, 30 comments",
+      "summary": "233 points, 41 comments",
       "publishedAt": "2026-10-01T15:07:42.000Z"
     },
     {
@@ -561,17 +597,8 @@
       "category": "general",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "link": "https://news.ycombinator.com/item?id=49922569",
-      "summary": "168 points, 175 comments",
+      "summary": "209 points, 205 comments",
       "publishedAt": "2026-10-01T15:02:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "NYC is now the first city in America that bans sketchy subscriptions",
-      "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-      "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's…",
-      "publishedAt": "2026-10-01T14:49:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -581,6 +608,15 @@
       "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
       "publishedAt": "2026-10-01T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Turbo Haskell",
+      "link": "https://comonad.com/reader/2026/turbo-haskell/",
+      "summary": "105 points, 20 comments",
+      "publishedAt": "2026-10-01T13:58:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -642,7 +678,7 @@
       "category": "general",
       "title": "StreetComplete on iOS is now in public beta",
       "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "537 points, 140 comments",
+      "summary": "567 points, 151 comments",
       "publishedAt": "2026-10-01T10:59:57.000Z"
     },
     {
@@ -1049,42 +1085,6 @@
       "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
       "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-ins…",
       "publishedAt": "2026-09-25T17:22:01.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage",
-      "link": "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB, an internally developed key-value store in Rust. This change reduced latency and costs associated with handling large document batches.…",
-      "publishedAt": "2026-09-25T14:14:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments",
-      "link": "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP servers. The change enables independent request routing and…",
-      "publishedAt": "2026-09-25T12:58:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "From Agent Authorization to AI Production Evaluation: QCon AI New York 2026",
-      "link": "https://www.infoq.com/news/2026/09/qcon-ai-newyork-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "QCon AI New York has confirmed 23 sessions covering agent authorization, production guardrails, shared inference infrastructure, and the evaluation of AI systems after deployment. By Artenisa Chatziou",
-      "publishedAt": "2026-09-25T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Podcast: The Future of AI: from Enterprise Adoption to Open Source Sovereignty",
-      "link": "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith demystify the current state of AI in the enterprise. The discussion navigates the \"industrial revolution\" moment in AI adoption, exploring why companies…",
-      "publishedAt": "2026-09-25T11:00:00.000Z"
     },
     {
       "source": "Simon Willison",
