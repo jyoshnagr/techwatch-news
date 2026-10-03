@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:15:04.076Z",
+  "updatedAt": "2026-10-03T18:33:48.766Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,26 +52,202 @@
       "category": "ai"
     }
   ],
-  "itemCount": 153,
-  "errors": [],
+  "itemCount": 147,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "An Update on Orion for Linux and Windows",
-      "link": "https://blog.kagi.com/update-orion-linux-windows",
-      "summary": "50 points, 19 comments",
-      "publishedAt": "2026-10-03T04:53:57.000Z"
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-10-03T18:08:28.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Extra Big Ass Intelligence",
-      "link": "https://www.extrabigassintelligence.com/",
-      "summary": "298 points, 62 comments",
-      "publishedAt": "2026-10-03T03:19:10.000Z"
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-03T18:06:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kolibri – Tech Report [pdf]",
+      "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
+      "summary": "12 points, 0 comments",
+      "publishedAt": "2026-10-03T17:22:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-10-03T17:00:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouth…",
+      "publishedAt": "2026-10-03T16:49:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "publishedAt": "2026-10-03T16:30:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The best early October Prime Day deals happening now",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
+      "publishedAt": "2026-10-03T16:22:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "City building games have a Soul Problem pt.2",
+      "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "summary": "90 points, 82 comments",
+      "publishedAt": "2026-10-03T15:52:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "FTL: A new operating system for clouds",
+      "link": "https://ftl-os.org/",
+      "summary": "85 points, 38 comments",
+      "publishedAt": "2026-10-03T15:02:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "publishedAt": "2026-10-03T15:02:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr…",
+      "publishedAt": "2026-10-03T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Vessev built an electric ferry that almost flies",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "publishedAt": "2026-10-03T14:42:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable…",
+      "publishedAt": "2026-10-03T14:31:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-10-03T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "publishedAt": "2026-10-03T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "3D movies are finally worth watching",
+      "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+      "summary": "My colleague Cameron Faulkner models a pair of Xreal glasses. | Photo: Cameron Faulkner / The Verge Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The t…",
+      "publishedAt": "2026-10-03T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The dawn of the age of the exoskeleton",
+      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "publishedAt": "2026-10-03T11:15:33.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Building GenAI Platform at DoorDash",
+      "link": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets, transitioning from vendor-first setups to open-weights models, navigating LLM and agent…",
+      "publishedAt": "2026-10-03T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "summary": "282 points, 217 comments",
+      "publishedAt": "2026-10-03T09:36:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "link": "https://offrun.dev/",
+      "summary": "65 points, 37 comments",
+      "publishedAt": "2026-10-03T08:40:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The characters of plastics (2024)",
+      "link": "https://yarchive.net/blog/plastics/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-03T06:14:16.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +255,7 @@
       "category": "general",
       "title": "Cloudflare OHTTP gateway",
       "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "summary": "78 points, 22 comments",
+      "summary": "164 points, 75 comments",
       "publishedAt": "2026-10-03T03:15:05.000Z"
     },
     {
@@ -88,7 +264,7 @@
       "category": "general",
       "title": "Newgrounds.com – A community of games, music, and art",
       "link": "https://www.newgrounds.com/",
-      "summary": "223 points, 62 comments",
+      "summary": "397 points, 112 comments",
       "publishedAt": "2026-10-03T00:55:25.000Z"
     },
     {
@@ -117,6 +293,15 @@
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "publishedAt": "2026-10-02T23:03:16.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Rex's Dino Store",
+      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "summary": "Museum: Rex&#x27;s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The densi…",
+      "publishedAt": "2026-10-02T22:57:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -149,10 +334,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Barcodes are about to go extinct",
-      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "summary": "44 points, 68 comments",
-      "publishedAt": "2026-10-02T20:37:07.000Z"
+      "title": "Woking Electrical Control Room (2016)",
+      "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "summary": "93 points, 15 comments",
+      "publishedAt": "2026-10-02T20:44:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -200,24 +385,6 @@
       "publishedAt": "2026-10-02T20:00:20.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Updates to Full Disk Access in macOS",
-      "link": "https://developer.apple.com/news/?id=p6zjojqw",
-      "summary": "204 points, 136 comments",
-      "publishedAt": "2026-10-02T19:37:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Muse Gadgets",
-      "link": "https://gadgets.muse.ai",
-      "summary": "196 points, 85 comments",
-      "publishedAt": "2026-10-02T19:26:54.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -241,7 +408,7 @@
       "category": "general",
       "title": "Apple Pass Designer",
       "link": "https://developer.apple.com/pass-designer/",
-      "summary": "426 points, 265 comments",
+      "summary": "527 points, 314 comments",
       "publishedAt": "2026-10-02T19:06:56.000Z"
     },
     {
@@ -252,15 +419,6 @@
       "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
       "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
       "publishedAt": "2026-10-02T18:56:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Nintendo 64 Partner-N64 Development Kit",
-      "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-      "summary": "40 points, 5 comments",
-      "publishedAt": "2026-10-02T18:53:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -290,15 +448,6 @@
       "publishedAt": "2026-10-02T18:11:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
-      "summary": "243 points, 65 comments",
-      "publishedAt": "2026-10-02T18:01:16.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -315,15 +464,6 @@
       "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.…",
       "publishedAt": "2026-10-02T17:48:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account tha…",
-      "publishedAt": "2026-10-02T17:37:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -353,15 +493,6 @@
       "publishedAt": "2026-10-02T17:20:21.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-      "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-      "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced…",
-      "publishedAt": "2026-10-02T17:15:03.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -369,24 +500,6 @@
       "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
       "publishedAt": "2026-10-02T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Beehiiv creators are buzzing about a new price increase",
-      "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-      "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says…",
-      "publishedAt": "2026-10-02T16:51:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-      "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-      "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gam…",
-      "publishedAt": "2026-10-02T16:35:13.000Z"
     },
     {
       "source": "OpenAI",
@@ -416,15 +529,6 @@
       "publishedAt": "2026-10-02T15:53:50.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Dots get up in Muse’s business",
-      "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-      "summary": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can ma…",
-      "publishedAt": "2026-10-02T15:47:05.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -446,10 +550,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "One month coding with GLM 5.3 Flash",
-      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "summary": "163 points, 125 comments",
-      "publishedAt": "2026-10-02T15:29:15.000Z"
+      "title": "Holes (1996-2025)",
+      "link": "https://plato.stanford.edu/entries/holes/",
+      "summary": "19 points, 2 comments",
+      "publishedAt": "2026-10-02T15:00:03.000Z"
     },
     {
       "source": "Google AI",
@@ -488,15 +592,6 @@
       "publishedAt": "2026-10-02T14:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Forgetful CPU (Linux on M4)",
-      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "summary": "220 points, 145 comments",
-      "publishedAt": "2026-10-02T14:22:12.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -504,15 +599,6 @@
       "link": "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data red…",
       "publishedAt": "2026-10-02T14:22:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "218 points, 109 comments",
-      "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -542,49 +628,13 @@
       "publishedAt": "2026-10-02T13:54:34.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "publishedAt": "2026-10-02T13:39:23.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-      "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-      "publishedAt": "2026-10-02T13:23:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Rivian’s R2 just helped it set a new sales record",
-      "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-      "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
-      "publishedAt": "2026-10-02T13:17:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Rivian issues R2 recall for poorly tightened battery packs",
-      "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-      "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
-      "publishedAt": "2026-10-02T12:50:11.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "summary": "285 points, 56 comments",
-      "publishedAt": "2026-10-02T11:07:17.000Z"
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "summary": "20 points, 9 comments",
+      "publishedAt": "2026-10-02T10:40:31.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -632,33 +682,6 @@
       "publishedAt": "2026-10-02T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "summary": "242 points, 75 comments",
-      "publishedAt": "2026-10-02T02:51:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "summary": "A new California law places new rules on autonomous vehicles operators.",
-      "publishedAt": "2026-10-02T00:57:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "link": "https://stillwet.art/",
-      "summary": "277 points, 88 comments",
-      "publishedAt": "2026-10-02T00:27:56.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -666,6 +689,15 @@
       "link": "https://openai.com/index/chatham-financial",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "publishedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "link": "https://github.com/andreasfertig/cppinsights",
+      "summary": "105 points, 15 comments",
+      "publishedAt": "2026-10-01T23:53:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -682,7 +714,7 @@
       "category": "general",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "636 points, 289 comments",
+      "summary": "752 points, 363 comments",
       "publishedAt": "2026-10-01T22:23:07.000Z"
     },
     {
@@ -713,24 +745,6 @@
       "publishedAt": "2026-10-01T20:11:55.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "summary": "260 points, 82 comments",
-      "publishedAt": "2026-10-01T20:02:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FLUX 3 Image",
-      "link": "https://bfl.ai/models/flux-3-image",
-      "summary": "346 points, 75 comments",
-      "publishedAt": "2026-10-01T19:24:29.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -745,17 +759,8 @@
       "category": "general",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "summary": "461 points, 108 comments",
+      "summary": "616 points, 141 comments",
       "publishedAt": "2026-10-01T18:20:18.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Marvel releases one last VisionQuest trailer",
-      "link": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
-      "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
-      "publishedAt": "2026-10-01T18:04:48.000Z"
     },
     {
       "source": "OpenAI",
@@ -765,6 +770,15 @@
       "link": "https://openai.com/index/the-eternal-complement",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "publishedAt": "2026-10-01T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+      "link": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
+      "summary": "11 points, 1 comments",
+      "publishedAt": "2026-10-01T16:11:31.000Z"
     },
     {
       "source": "OpenAI",
@@ -830,13 +844,13 @@
       "publishedAt": "2026-09-30T21:54:19.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z"
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Body Awareness in Goffin's Cockatoos",
+      "link": "https://www.nature.com/articles/s41598-026-57500-7",
+      "summary": "23 points, 3 comments",
+      "publishedAt": "2026-09-30T19:17:45.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -846,15 +860,6 @@
       "link": "https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A look at two InfoQ online certification cohorts covering security and privacy decisions in production AI systems and the verification needed when coding agents work in existing codebases. By Artenisa Chatziou",
       "publishedAt": "2026-09-30T17:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1100,15 +1105,6 @@
       "publishedAt": "2026-09-26T23:39:06.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction across Laptop and Cloud",
-      "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Docker Cloud Sandboxes provide secure, hosted execution environments for running AI coding agents on Docker-managed infrastructure. Built on hardware-enforced microVM isolation, the platform provides a consistent executi…",
-      "publishedAt": "2026-09-26T17:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1163,15 +1159,6 @@
       "publishedAt": "2026-09-24T19:15:23.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:20:39.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1190,24 +1177,6 @@
       "publishedAt": "2026-09-23T18:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Gemini 3.8 TTS Playground",
-      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create…",
-      "publishedAt": "2026-09-23T17:12:27.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "publishedAt": "2026-09-23T16:00:57.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1215,15 +1184,6 @@
       "link": "https://openai.com/index/two-years-of-openai-academy",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "publishedAt": "2026-09-23T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "OpenAI",
@@ -1278,15 +1238,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
       "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "publishedAt": "2026-09-15T17:05:57.000Z"
     },
     {
       "source": "Google AI",
