@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:13:25.592Z",
+  "updatedAt": "2026-10-03T10:15:04.076Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,19 +59,28 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Cloudflare Ohttp Gateway",
-      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "summary": "4 points, 0 comments",
-      "publishedAt": "2026-10-03T03:15:05.000Z"
+      "title": "An Update on Orion for Linux and Windows",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "summary": "50 points, 19 comments",
+      "publishedAt": "2026-10-03T04:53:57.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "summary": "26 points, 10 comments",
-      "publishedAt": "2026-10-03T01:09:01.000Z"
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "summary": "298 points, 62 comments",
+      "publishedAt": "2026-10-03T03:19:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Cloudflare OHTTP gateway",
+      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "summary": "78 points, 22 comments",
+      "publishedAt": "2026-10-03T03:15:05.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +88,7 @@
       "category": "general",
       "title": "Newgrounds.com – A community of games, music, and art",
       "link": "https://www.newgrounds.com/",
-      "summary": "81 points, 19 comments",
+      "summary": "223 points, 62 comments",
       "publishedAt": "2026-10-03T00:55:25.000Z"
     },
     {
@@ -90,24 +99,6 @@
       "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
       "publishedAt": "2026-10-03T00:45:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Where Is the Planet",
-      "link": "http://whereistheplanet.com",
-      "summary": "16 points, 0 comments",
-      "publishedAt": "2026-10-03T00:26:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Things that apparently cause cancer",
-      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "summary": "125 points, 51 comments",
-      "publishedAt": "2026-10-03T00:23:11.000Z"
     },
     {
       "source": "TechCrunch",
@@ -153,6 +144,15 @@
       "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
       "publishedAt": "2026-10-02T21:08:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Barcodes are about to go extinct",
+      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "summary": "44 points, 68 comments",
+      "publishedAt": "2026-10-02T20:37:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -205,7 +205,7 @@
       "category": "general",
       "title": "Updates to Full Disk Access in macOS",
       "link": "https://developer.apple.com/news/?id=p6zjojqw",
-      "summary": "150 points, 89 comments",
+      "summary": "204 points, 136 comments",
       "publishedAt": "2026-10-02T19:37:01.000Z"
     },
     {
@@ -214,7 +214,7 @@
       "category": "general",
       "title": "Muse Gadgets",
       "link": "https://gadgets.muse.ai",
-      "summary": "155 points, 73 comments",
+      "summary": "196 points, 85 comments",
       "publishedAt": "2026-10-02T19:26:54.000Z"
     },
     {
@@ -241,7 +241,7 @@
       "category": "general",
       "title": "Apple Pass Designer",
       "link": "https://developer.apple.com/pass-designer/",
-      "summary": "355 points, 225 comments",
+      "summary": "426 points, 265 comments",
       "publishedAt": "2026-10-02T19:06:56.000Z"
     },
     {
@@ -252,6 +252,15 @@
       "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
       "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
       "publishedAt": "2026-10-02T18:56:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "summary": "40 points, 5 comments",
+      "publishedAt": "2026-10-02T18:53:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -286,7 +295,7 @@
       "category": "general",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "link": "https://dwarfstar.sh/",
-      "summary": "183 points, 49 comments",
+      "summary": "243 points, 65 comments",
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -434,6 +443,15 @@
       "publishedAt": "2026-10-02T15:31:20.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "summary": "163 points, 125 comments",
+      "publishedAt": "2026-10-02T15:29:15.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -475,7 +493,7 @@
       "category": "general",
       "title": "The Forgetful CPU (Linux on M4)",
       "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "summary": "152 points, 65 comments",
+      "summary": "220 points, 145 comments",
       "publishedAt": "2026-10-02T14:22:12.000Z"
     },
     {
@@ -493,7 +511,7 @@
       "category": "general",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "194 points, 93 comments",
+      "summary": "218 points, 109 comments",
       "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
@@ -542,15 +560,6 @@
       "publishedAt": "2026-10-02T13:23:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "summary": "260 points, 143 comments",
-      "publishedAt": "2026-10-02T13:18:32.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -574,7 +583,7 @@
       "category": "general",
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "summary": "225 points, 50 comments",
+      "summary": "285 points, 56 comments",
       "publishedAt": "2026-10-02T11:07:17.000Z"
     },
     {
@@ -628,7 +637,7 @@
       "category": "general",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "summary": "198 points, 52 comments",
+      "summary": "242 points, 75 comments",
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -639,6 +648,15 @@
       "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
       "summary": "A new California law places new rules on autonomous vehicles operators.",
       "publishedAt": "2026-10-02T00:57:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "summary": "277 points, 88 comments",
+      "publishedAt": "2026-10-02T00:27:56.000Z"
     },
     {
       "source": "OpenAI",
@@ -664,7 +682,7 @@
       "category": "general",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "556 points, 243 comments",
+      "summary": "636 points, 289 comments",
       "publishedAt": "2026-10-01T22:23:07.000Z"
     },
     {
@@ -700,7 +718,7 @@
       "category": "general",
       "title": "Loss of cell identity drives human aging: Two new papers",
       "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "summary": "200 points, 51 comments",
+      "summary": "260 points, 82 comments",
       "publishedAt": "2026-10-01T20:02:57.000Z"
     },
     {
@@ -709,7 +727,7 @@
       "category": "general",
       "title": "FLUX 3 Image",
       "link": "https://bfl.ai/models/flux-3-image",
-      "summary": "293 points, 62 comments",
+      "summary": "346 points, 75 comments",
       "publishedAt": "2026-10-01T19:24:29.000Z"
     },
     {
@@ -727,7 +745,7 @@
       "category": "general",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "summary": "359 points, 91 comments",
+      "summary": "461 points, 108 comments",
       "publishedAt": "2026-10-01T18:20:18.000Z"
     },
     {
@@ -756,15 +774,6 @@
       "link": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "publishedAt": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OKI Develops 124-Layer PCB Technology",
-      "link": "https://www.oki.com/global/press/2025/z25006e.html",
-      "summary": "11 points, 3 comments",
-      "publishedAt": "2026-10-01T14:00:54.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -828,15 +837,6 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "summary": "",
       "publishedAt": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Billions of Triangles Redux",
-      "link": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
-      "summary": "24 points, 0 comments",
-      "publishedAt": "2026-09-30T17:46:04.000Z"
     },
     {
       "source": "InfoQ AI/ML",
