@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:43:38.405Z",
+  "updatedAt": "2026-10-04T04:45:01.626Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,69 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why don't more developers \"use the platform\"?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "summary": "20 points, 4 comments",
+      "publishedAt": "2026-10-04T04:10:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Iran says it seized US underwater vehicle conducting 'espionage'",
+      "link": "https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage",
+      "summary": "8 points, 1 comments",
+      "publishedAt": "2026-10-04T03:17:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Religious scholars met with Anthropic",
+      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "summary": "49 points, 71 comments",
+      "publishedAt": "2026-10-04T02:34:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bob Cringely Has Died",
+      "link": "https://news.ycombinator.com/item?id=49949438",
+      "summary": "256 points, 46 comments",
+      "publishedAt": "2026-10-04T00:50:52.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
+      "link": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Archestra released OpenAPPA, an open-source security engine designed to stop data exfiltration caused by prompt injection or model hallucination. The team reports zero successful attacks when running security benchmarks…",
+      "publishedAt": "2026-10-03T23:41:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say…",
+      "publishedAt": "2026-10-03T23:34:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "summary": "253 points, 207 comments",
+      "publishedAt": "2026-10-03T22:18:13.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -70,7 +133,7 @@
       "category": "general",
       "title": "Reasons I didn't become an EMT, ranked",
       "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "summary": "25 points, 6 comments",
+      "summary": "124 points, 60 comments",
       "publishedAt": "2026-10-03T20:49:15.000Z"
     },
     {
@@ -81,15 +144,6 @@
       "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
       "summary": "\"...we were making history.\"",
       "publishedAt": "2026-10-03T19:45:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "summary": "88 points, 75 comments",
-      "publishedAt": "2026-10-03T19:33:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -106,17 +160,8 @@
       "category": "general",
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "34 points, 2 comments",
+      "summary": "191 points, 21 comments",
       "publishedAt": "2026-10-03T19:14:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to hack time, with C2PA",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "summary": "8 points, 1 comments",
-      "publishedAt": "2026-10-03T18:52:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -133,17 +178,8 @@
       "category": "general",
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "summary": "114 points, 79 comments",
+      "summary": "192 points, 132 comments",
       "publishedAt": "2026-10-03T18:29:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What Meta got right with Muse",
-      "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-      "summary": "10 points, 3 comments",
-      "publishedAt": "2026-10-03T18:23:48.000Z"
     },
     {
       "source": "Hacker News",
@@ -151,7 +187,7 @@
       "category": "general",
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "link": "https://notoriousbfg.com/hole-punch/",
-      "summary": "169 points, 47 comments",
+      "summary": "255 points, 62 comments",
       "publishedAt": "2026-10-03T18:06:45.000Z"
     },
     {
@@ -160,17 +196,8 @@
       "category": "general",
       "title": "Treachery in the Rodin Museum 3D scan verdict",
       "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "summary": "15 points, 3 comments",
+      "summary": "124 points, 64 comments",
       "publishedAt": "2026-10-03T18:01:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "summary": "28 points, 10 comments",
-      "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
       "source": "Hacker News",
@@ -178,17 +205,8 @@
       "category": "general",
       "title": "Agents don't need memory, they need documentation",
       "link": "https://liao.gg/blog/agents-dont-need-memory",
-      "summary": "14 points, 9 comments",
+      "summary": "94 points, 58 comments",
       "publishedAt": "2026-10-03T17:03:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "RetailReady (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-10-03T17:00:12.000Z"
     },
     {
       "source": "The Verge",
@@ -221,18 +239,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Docker has always used microVMs (well since 2016)",
-      "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "summary": "8 points, 0 comments",
-      "publishedAt": "2026-10-03T15:55:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "FTL: A new operating system for clouds",
       "link": "https://ftl-os.org/",
-      "summary": "135 points, 57 comments",
+      "summary": "158 points, 63 comments",
       "publishedAt": "2026-10-03T15:02:36.000Z"
     },
     {
@@ -322,26 +331,17 @@
       "category": "general",
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "summary": "465 points, 279 comments",
+      "summary": "546 points, 308 comments",
       "publishedAt": "2026-10-03T09:36:04.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "link": "https://thoreaubasic.com/",
-      "summary": "10 points, 3 comments",
-      "publishedAt": "2026-10-03T07:28:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "New York City should carefully measure a new tree",
-      "link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "summary": "17 points, 2 comments",
-      "publishedAt": "2026-10-03T02:28:03.000Z"
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "summary": "21 points, 7 comments",
+      "publishedAt": "2026-10-03T01:11:15.000Z"
     },
     {
       "source": "TechCrunch",
@@ -407,6 +407,15 @@
       "publishedAt": "2026-10-02T21:08:37.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "summary": "15 points, 0 comments",
+      "publishedAt": "2026-10-02T20:39:05.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -459,15 +468,6 @@
       "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
       "publishedAt": "2026-10-02T19:15:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "link": "https://pipod.dev/",
-      "summary": "64 points, 27 comments",
-      "publishedAt": "2026-10-02T19:10:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -740,15 +740,6 @@
       "publishedAt": "2026-10-01T22:07:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gboard Conveyor Belt Version",
-      "link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-      "summary": "10 points, 1 comments",
-      "publishedAt": "2026-10-01T21:54:26.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -781,7 +772,7 @@
       "category": "general",
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "summary": "105 points, 31 comments",
+      "summary": "167 points, 42 comments",
       "publishedAt": "2026-10-01T16:32:40.000Z"
     },
     {
@@ -792,6 +783,15 @@
       "link": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "publishedAt": "2026-10-01T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon introduces a redesigned Kindle family",
+      "link": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
+      "summary": "25 points, 33 comments",
+      "publishedAt": "2026-10-01T14:21:09.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -866,6 +866,15 @@
       "publishedAt": "2026-09-30T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "So You Think You Could Be an Electrician?",
+      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "summary": "79 points, 35 comments",
+      "publishedAt": "2026-09-30T15:43:27.000Z"
+    },
+    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -873,6 +882,15 @@
       "link": "https://deepmind.google/blog/introducing-synthid-bio/",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "publishedAt": "2026-09-30T15:03:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Your body of work thinks back at you",
+      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "summary": "37 points, 1 comments",
+      "publishedAt": "2026-09-30T13:20:03.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1100,15 +1118,6 @@
       "publishedAt": "2026-09-27T18:41:44.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management",
-      "link": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds. The feature checkpoints CPU and GPU memory through gVisor into Cloud Storage. Practi…",
-      "publishedAt": "2026-09-27T06:46:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1161,15 +1170,6 @@
       "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
       "publishedAt": "2026-09-24T20:06:53.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette 1.0a41",
-      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugi…",
-      "publishedAt": "2026-09-24T19:15:23.000Z"
     },
     {
       "source": "Google DeepMind",
