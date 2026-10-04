@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T04:45:01.626Z",
+  "updatedAt": "2026-10-04T10:57:56.310Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,19 +59,37 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Why don't more developers \"use the platform\"?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "summary": "20 points, 4 comments",
-      "publishedAt": "2026-10-04T04:10:47.000Z"
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "link": "https://gamehistory.org/5k-magazines/",
+      "summary": "23 points, 2 comments",
+      "publishedAt": "2026-10-04T09:07:11.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Iran says it seized US underwater vehicle conducting 'espionage'",
-      "link": "https://thearabweekly.com/iran-says-it-seized-us-underwater-vehicle-conducting-espionage",
-      "summary": "8 points, 1 comments",
-      "publishedAt": "2026-10-04T03:17:56.000Z"
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "summary": "82 points, 59 comments",
+      "publishedAt": "2026-10-04T08:39:58.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
+      "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "A team of developers working at AWS recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tasks in the background and return results through an inbox-style interface. Agents can perform…",
+      "publishedAt": "2026-10-04T06:34:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "summary": "151 points, 120 comments",
+      "publishedAt": "2026-10-04T04:10:47.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,16 +97,25 @@
       "category": "general",
       "title": "Religious scholars met with Anthropic",
       "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "summary": "49 points, 71 comments",
+      "summary": "83 points, 182 comments",
       "publishedAt": "2026-10-04T02:34:22.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Bob Cringely Has Died",
+      "title": "We're working on a new RuneScape MMO",
+      "link": "https://play.runescape.com/4",
+      "summary": "73 points, 30 comments",
+      "publishedAt": "2026-10-04T01:12:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tell HN: Bob Cringely has died",
       "link": "https://news.ycombinator.com/item?id=49949438",
-      "summary": "256 points, 46 comments",
+      "summary": "482 points, 100 comments",
       "publishedAt": "2026-10-04T00:50:52.000Z"
     },
     {
@@ -110,15 +137,6 @@
       "publishedAt": "2026-10-03T23:34:02.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "summary": "253 points, 207 comments",
-      "publishedAt": "2026-10-03T22:18:13.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -133,7 +151,7 @@
       "category": "general",
       "title": "Reasons I didn't become an EMT, ranked",
       "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "summary": "124 points, 60 comments",
+      "summary": "155 points, 76 comments",
       "publishedAt": "2026-10-03T20:49:15.000Z"
     },
     {
@@ -144,6 +162,15 @@
       "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
       "summary": "\"...we were making history.\"",
       "publishedAt": "2026-10-03T19:45:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "summary": "136 points, 117 comments",
+      "publishedAt": "2026-10-03T19:33:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -160,8 +187,17 @@
       "category": "general",
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "191 points, 21 comments",
+      "summary": "304 points, 46 comments",
       "publishedAt": "2026-10-03T19:14:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How to hack time, with C2PA",
+      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "summary": "41 points, 4 comments",
+      "publishedAt": "2026-10-03T18:52:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -176,18 +212,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "summary": "192 points, 132 comments",
-      "publishedAt": "2026-10-03T18:29:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "link": "https://notoriousbfg.com/hole-punch/",
-      "summary": "255 points, 62 comments",
+      "summary": "299 points, 67 comments",
       "publishedAt": "2026-10-03T18:06:45.000Z"
     },
     {
@@ -196,8 +223,17 @@
       "category": "general",
       "title": "Treachery in the Rodin Museum 3D scan verdict",
       "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "summary": "124 points, 64 comments",
+      "summary": "211 points, 92 comments",
       "publishedAt": "2026-10-03T18:01:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "summary": "145 points, 197 comments",
+      "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
       "source": "Hacker News",
@@ -205,7 +241,7 @@
       "category": "general",
       "title": "Agents don't need memory, they need documentation",
       "link": "https://liao.gg/blog/agents-dont-need-memory",
-      "summary": "94 points, 58 comments",
+      "summary": "188 points, 107 comments",
       "publishedAt": "2026-10-03T17:03:37.000Z"
     },
     {
@@ -234,15 +270,6 @@
       "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th…",
       "publishedAt": "2026-10-03T16:22:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FTL: A new operating system for clouds",
-      "link": "https://ftl-os.org/",
-      "summary": "158 points, 63 comments",
-      "publishedAt": "2026-10-03T15:02:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -329,18 +356,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "summary": "546 points, 308 comments",
-      "publishedAt": "2026-10-03T09:36:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Math's pedagogical curse – Grant Sanderson [video]",
       "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "summary": "21 points, 7 comments",
+      "summary": "45 points, 20 comments",
       "publishedAt": "2026-10-03T01:11:15.000Z"
     },
     {
@@ -405,15 +423,6 @@
       "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad…",
       "publishedAt": "2026-10-02T21:08:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "summary": "15 points, 0 comments",
-      "publishedAt": "2026-10-02T20:39:05.000Z"
     },
     {
       "source": "Ars Technica",
@@ -560,6 +569,15 @@
       "publishedAt": "2026-10-02T17:20:21.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "summary": "17 points, 2 comments",
+      "publishedAt": "2026-10-02T17:16:28.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -585,6 +603,15 @@
       "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
       "summary": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
       "publishedAt": "2026-10-02T16:05:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "gpuvis: GPU Trace Visualizer",
+      "link": "https://github.com/mikesart/gpuvis",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-10-02T16:04:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -772,7 +799,7 @@
       "category": "general",
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "summary": "167 points, 42 comments",
+      "summary": "198 points, 51 comments",
       "publishedAt": "2026-10-01T16:32:40.000Z"
     },
     {
@@ -783,15 +810,6 @@
       "link": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "publishedAt": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Amazon introduces a redesigned Kindle family",
-      "link": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
-      "summary": "25 points, 33 comments",
-      "publishedAt": "2026-10-01T14:21:09.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -869,9 +887,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "So You Think You Could Be an Electrician?",
+      "title": "So you think you could be an electrician?",
       "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "summary": "79 points, 35 comments",
+      "summary": "249 points, 171 comments",
       "publishedAt": "2026-09-30T15:43:27.000Z"
     },
     {
@@ -882,15 +900,6 @@
       "link": "https://deepmind.google/blog/introducing-synthid-bio/",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "publishedAt": "2026-09-30T15:03:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Your body of work thinks back at you",
-      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "summary": "37 points, 1 comments",
-      "publishedAt": "2026-09-30T13:20:03.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1053,15 +1062,6 @@
       "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "publishedAt": "2026-09-28T07:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "AWS Introduces Foreign Key Constraints in Aurora DSQL",
-      "link": "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "AWS recently announced that Aurora DSQL now supports foreign key constraints, allowing applications to enforce referential integrity directly in the database, including CASCADE, SET NULL, and other referential actions. T…",
-      "publishedAt": "2026-09-28T04:54:00.000Z"
     },
     {
       "source": "Simon Willison",
