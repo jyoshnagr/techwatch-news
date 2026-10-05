@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:33:18.142Z",
+  "updatedAt": "2026-10-05T12:05:13.161Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,40 +61,139 @@
   ],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "summary": "100 points, 54 comments",
-      "publishedAt": "2026-10-05T02:31:45.000Z"
+      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+      "summary": "TCL’s P80 Ultra is its first Nxtpaper phone with an OLED screen. | Photo: Dominic Preston / The Verge I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feat…",
+      "publishedAt": "2026-10-05T12:02:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "publishedAt": "2026-10-05T12:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
+      "link": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data scien…",
+      "publishedAt": "2026-10-05T11:19:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "summary": "125 points, 57 comments",
-      "publishedAt": "2026-10-05T01:54:08.000Z"
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "summary": "59 points, 24 comments",
+      "publishedAt": "2026-10-05T11:13:51.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Article: The Platform Engineering Playbook for Production LLMs",
+      "link": "https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "In this article, author discusses his experience with AI agent hallucinations in an inventory recommendation system and how this problem was solved by treating the LLM stack as a platform infrastructure concern instead o…",
+      "publishedAt": "2026-10-05T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks",
+      "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+      "summary": "This Asus Googlebook is one of the Intel models that may have issues. | Photo: Antonio G. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based model…",
+      "publishedAt": "2026-10-05T10:58:22.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "link": "https://frn.sh/go-gc/",
-      "summary": "17 points, 2 comments",
-      "publishedAt": "2026-10-05T01:11:56.000Z"
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "summary": "50 points, 16 comments",
+      "publishedAt": "2026-10-05T10:47:06.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "summary": "96 points, 27 comments",
-      "publishedAt": "2026-10-04T22:25:10.000Z"
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "summary": "21 points, 8 comments",
+      "publishedAt": "2026-10-05T10:35:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Apple and a Hacker's Future",
+      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "summary": "55 points, 23 comments",
+      "publishedAt": "2026-10-05T10:05:02.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "publishedAt": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Our minds aren’t equipped to handle AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.…",
+      "publishedAt": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "summary": "211 points, 162 comments",
+      "publishedAt": "2026-10-05T08:09:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "summary": "80 points, 54 comments",
+      "publishedAt": "2026-10-05T07:46:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Replacement of petroleum based products with plant-based materials (2025)",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+      "summary": "79 points, 40 comments",
+      "publishedAt": "2026-10-05T05:09:43.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "publishedAt": "2026-10-05T04:00:52.000Z"
     },
     {
       "source": "The Verge",
@@ -109,9 +208,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
       "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "summary": "69 points, 6 comments",
+      "summary": "162 points, 19 comments",
       "publishedAt": "2026-10-04T21:01:28.000Z"
     },
     {
@@ -147,26 +246,8 @@
       "category": "general",
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "link": "https://github.com/omlahore/RemoveMacAI",
-      "summary": "448 points, 280 comments",
+      "summary": "624 points, 419 comments",
       "publishedAt": "2026-10-04T19:42:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "65 points, 29 comments",
-      "publishedAt": "2026-10-04T19:42:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "summary": "300 points, 415 comments",
-      "publishedAt": "2026-10-04T19:37:05.000Z"
     },
     {
       "source": "Hacker News",
@@ -174,17 +255,8 @@
       "category": "general",
       "title": "A browser-native classic Visual Basic VB6 IDE",
       "link": "https://wieslawsoltes.github.io/VB6/",
-      "summary": "126 points, 47 comments",
+      "summary": "279 points, 93 comments",
       "publishedAt": "2026-10-04T18:49:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "link": "https://github.com/net4people/bbs/issues/672",
-      "summary": "65 points, 6 comments",
-      "publishedAt": "2026-10-04T17:38:54.000Z"
     },
     {
       "source": "The Verge",
@@ -264,35 +336,8 @@
       "category": "general",
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "link": "https://github.com/Niko1221/Strata",
-      "summary": "658 points, 307 comments",
+      "summary": "829 points, 365 comments",
       "publishedAt": "2026-10-04T12:51:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-      "summary": "Pictured: The 15-inch Apple MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the…",
-      "publishedAt": "2026-10-04T12:34:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The iPad Mini is slightly cheaper again during Prime Day",
-      "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-      "summary": "Apple’s iPad Mini is temporarily on sale for its old price. | Photo: David Pierce / The Verge Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahe…",
-      "publishedAt": "2026-10-04T12:31:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The forgotten Chromebook that started it all",
-      "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea abo…",
-      "publishedAt": "2026-10-04T12:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -302,15 +347,6 @@
       "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
       "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
       "publishedAt": "2026-10-04T11:05:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "summary": "69 points, 16 comments",
-      "publishedAt": "2026-10-04T08:41:58.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -327,7 +363,7 @@
       "category": "general",
       "title": "Tell HN: Bob Cringely has died",
       "link": "https://news.ycombinator.com/item?id=49949438",
-      "summary": "837 points, 180 comments",
+      "summary": "886 points, 192 comments",
       "publishedAt": "2026-10-04T00:50:52.000Z"
     },
     {
@@ -347,6 +383,15 @@
       "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
       "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say…",
       "publishedAt": "2026-10-03T23:34:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We ported the original Doom to SQL",
+      "link": "https://cedardb.com/blog/sqldoom/",
+      "summary": "162 points, 22 comments",
+      "publishedAt": "2026-10-03T22:14:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -433,19 +478,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Watson Jr. memo about CDC 6600 (1963)",
-      "link": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
-      "summary": "32 points, 18 comments",
-      "publishedAt": "2026-10-03T12:27:31.000Z"
+      "title": "Infidel goes wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "summary": "145 points, 26 comments",
+      "publishedAt": "2026-10-03T12:19:40.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Infidel goes wild",
-      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "summary": "96 points, 14 comments",
-      "publishedAt": "2026-10-03T12:19:40.000Z"
+      "title": "Type Safe Generic Data Structures in C",
+      "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-10-03T11:57:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -482,15 +527,6 @@
       "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
       "summary": "The proposed legislation would extend to all automotica license plate readers.",
       "publishedAt": "2026-10-03T00:21:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Demystifying Tufte's data-ink ratio",
-      "link": "https://tuftesrazor.scienceux.org/",
-      "summary": "19 points, 4 comments",
-      "publishedAt": "2026-10-02T23:55:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -664,15 +700,6 @@
       "publishedAt": "2026-10-02T16:05:26.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "summary": "The roughly $110 billion deal is expected to close October 6.",
-      "publishedAt": "2026-10-02T15:53:50.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -712,9 +739,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "summary": "88 points, 32 comments",
+      "publishedAt": "2026-10-02T13:47:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "The Tao of Backup",
       "link": "http://www.taobackup.com/index.html",
-      "summary": "73 points, 15 comments",
+      "summary": "170 points, 60 comments",
       "publishedAt": "2026-10-02T11:19:36.000Z"
     },
     {
@@ -763,24 +799,6 @@
       "publishedAt": "2026-10-02T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Quantitative Finance with OCaml",
-      "link": "https://qcaml.com/index.html",
-      "summary": "43 points, 9 comments",
-      "publishedAt": "2026-10-02T07:14:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "link": "https://niklasroy.com/gtc/",
-      "summary": "176 points, 26 comments",
-      "publishedAt": "2026-10-02T06:33:06.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -797,15 +815,6 @@
       "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
       "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
       "publishedAt": "2026-10-01T22:27:04.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-      "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
-      "publishedAt": "2026-10-01T22:07:33.000Z"
     },
     {
       "source": "OpenAI",
@@ -826,6 +835,24 @@
       "publishedAt": "2026-10-01T16:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Safe Optimistic Lock Coupling",
+      "link": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
+      "summary": "27 points, 2 comments",
+      "publishedAt": "2026-10-01T15:37:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "First Implantable Cochlear Implant Launches",
+      "link": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "summary": "21 points, 13 comments",
+      "publishedAt": "2026-10-01T12:31:40.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -833,6 +860,15 @@
       "link": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering…",
       "publishedAt": "2026-10-01T12:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "link": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+      "summary": "45 points, 23 comments",
+      "publishedAt": "2026-10-01T11:31:08.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -860,15 +896,6 @@
       "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that…",
       "publishedAt": "2026-10-01T06:29:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fixed Points and Strike Mandates",
-      "link": "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/",
-      "summary": "6 points, 1 comments",
-      "publishedAt": "2026-10-01T01:22:48.000Z"
     },
     {
       "source": "OpenAI",
@@ -923,15 +950,6 @@
       "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "publishedAt": "2026-09-30T10:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What it Proves",
-      "link": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by-frame replay harness. The agents built a playbook of codebas…",
-      "publishedAt": "2026-09-30T06:16:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1040,15 +1058,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "publishedAt": "2026-09-28T19:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: From Consumers to Builders: Turning 200 of our Team into Agent Creators in Two Weeks",
-      "link": "https://www.infoq.com/presentations/building-internal-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Ben Maraney shares how Forter demystified AI agent creation for technical and non-technical staff. He discusses leveraging custom MCP servers, combining no-code and code-based platforms, sidestepping complex RAG setups,…",
-      "publishedAt": "2026-09-28T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1193,15 +1202,6 @@
       "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "publishedAt": "2026-09-23T13:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "publishedAt": "2026-09-23T12:00:00.000Z"
     },
     {
       "source": "OpenAI",
