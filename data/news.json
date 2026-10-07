@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T23:37:59.568Z",
+  "updatedAt": "2026-10-07T04:48:00.477Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,108 @@
       "category": "ai"
     }
   ],
-  "itemCount": 146,
+  "itemCount": 147,
   "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Calling It Quits on ServerFault",
+      "link": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-10-07T04:22:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The art of defusing a second world war bomb",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-10-07T03:43:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "link": "https://nanochess.org/la_cueva_bbs.html",
+      "summary": "13 points, 1 comments",
+      "publishedAt": "2026-10-07T03:16:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "74 points, 9 comments",
+      "publishedAt": "2026-10-07T02:02:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ESP32-C3 Adblock",
+      "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "summary": "31 points, 7 comments",
+      "publishedAt": "2026-10-07T01:39:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "summary": "15 points, 3 comments",
+      "publishedAt": "2026-10-07T01:27:49.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: Th…",
+      "publishedAt": "2026-10-07T00:16:45.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Victoria Kim",
+      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon […",
+      "publishedAt": "2026-10-06T23:58:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "summary": "158 points, 123 comments",
+      "publishedAt": "2026-10-06T23:28:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a…",
+      "publishedAt": "2026-10-06T23:26:38.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-openai-decisions 0.1a0",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra rea…",
+      "publishedAt": "2026-10-06T23:04:13.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -79,16 +178,16 @@
       "category": "general",
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "publishedAt": "2026-10-06T22:34:03.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Sharing AI Progress in Mathematics",
+      "title": "Sharing AI progress in mathematics",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "194 points, 133 comments",
+      "summary": "619 points, 565 comments",
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -99,15 +198,6 @@
       "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
       "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources fami…",
       "publishedAt": "2026-10-06T22:12:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Query Transformation Pipeline",
-      "link": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
-      "summary": "5 points, 0 comments",
-      "publishedAt": "2026-10-06T22:09:14.000Z"
     },
     {
       "source": "The Verge",
@@ -124,17 +214,8 @@
       "category": "general",
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "link": "https://penguin-mail.com/",
-      "summary": "16 points, 0 comments",
+      "summary": "116 points, 53 comments",
       "publishedAt": "2026-10-06T21:59:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How Fast is Python 3.15?",
-      "link": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-      "summary": "7 points, 2 comments",
-      "publishedAt": "2026-10-06T21:52:57.000Z"
     },
     {
       "source": "The Verge",
@@ -144,15 +225,6 @@
       "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
       "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG brandin…",
       "publishedAt": "2026-10-06T21:39:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
-      "link": "https://news.ycombinator.com/item?id=49984484",
-      "summary": "28 points, 30 comments",
-      "publishedAt": "2026-10-06T21:37:01.000Z"
     },
     {
       "source": "Simon Willison",
@@ -187,7 +259,7 @@
       "category": "general",
       "title": "Decisions API is in public beta",
       "link": "https://developers.openai.com/api/docs/guides/decisions",
-      "summary": "86 points, 33 comments",
+      "summary": "196 points, 86 comments",
       "publishedAt": "2026-10-06T20:57:25.000Z"
     },
     {
@@ -207,24 +279,6 @@
       "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
       "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
       "publishedAt": "2026-10-06T20:47:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenSSH 10.6",
-      "link": "https://www.openssh.org/releasenotes.html#10.6",
-      "summary": "72 points, 14 comments",
-      "publishedAt": "2026-10-06T20:41:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vibecoding Photoshop: Time and pressure",
-      "link": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
-      "summary": "21 points, 20 comments",
-      "publishedAt": "2026-10-06T20:40:48.000Z"
     },
     {
       "source": "The Verge",
@@ -279,15 +333,6 @@
       "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
       "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NV…",
       "publishedAt": "2026-10-06T20:18:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "When random is not actually random enough",
-      "link": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "summary": "13 points, 1 comments",
-      "publishedAt": "2026-10-06T20:12:05.000Z"
     },
     {
       "source": "TechCrunch",
@@ -371,15 +416,6 @@
       "publishedAt": "2026-10-06T19:07:31.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
-      "link": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands",
-      "summary": "If you've been using an older Amazon Echo device as a speaker through its 3.5mm aux input, Alexa voice commands to play or pause from line in may stop working. Ars Technica points to this Reddit poster claiming they rece…",
-      "publishedAt": "2026-10-06T19:03:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -403,7 +439,7 @@
       "category": "general",
       "title": "Claude Code’s suggested message feature: I think the real customer is the model",
       "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "summary": "65 points, 31 comments",
+      "summary": "143 points, 75 comments",
       "publishedAt": "2026-10-06T18:00:34.000Z"
     },
     {
@@ -452,6 +488,15 @@
       "publishedAt": "2026-10-06T17:03:16.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "summary": "112 points, 114 comments",
+      "publishedAt": "2026-10-06T17:01:52.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -470,6 +515,15 @@
       "publishedAt": "2026-10-06T16:35:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Treg (OpenRouter for Tools)",
+      "link": "https://github.com/superdesigndev/treg",
+      "summary": "8 points, 1 comments",
+      "publishedAt": "2026-10-06T16:29:59.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -484,7 +538,7 @@
       "category": "general",
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "link": "https://github.com/FeSens/openTPU",
-      "summary": "208 points, 270 comments",
+      "summary": "255 points, 319 comments",
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
@@ -511,7 +565,7 @@
       "category": "general",
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "186 points, 26 comments",
+      "summary": "263 points, 31 comments",
       "publishedAt": "2026-10-06T16:03:49.000Z"
     },
     {
@@ -558,15 +612,6 @@
       "link": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/",
       "summary": "The Pebble Flow has a 45 kWh LFP battery and can even charge an EV.",
       "publishedAt": "2026-10-06T15:23:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Early History of Smalltalk (1993)",
-      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-      "summary": "108 points, 61 comments",
-      "publishedAt": "2026-10-06T15:19:57.000Z"
     },
     {
       "source": "Simon Willison",
@@ -632,6 +677,15 @@
       "publishedAt": "2026-10-06T14:00:25.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Is Codemode",
+      "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "summary": "32 points, 0 comments",
+      "publishedAt": "2026-10-06T13:41:03.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -646,7 +700,7 @@
       "category": "general",
       "title": "Mistral Large 4",
       "link": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "1536 points, 943 comments",
+      "summary": "1648 points, 984 comments",
       "publishedAt": "2026-10-06T13:15:49.000Z"
     },
     {
@@ -707,27 +761,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "link": "https://www.nobelprize.org/prizes/physics/2026/",
-      "summary": "506 points, 167 comments",
-      "publishedAt": "2026-10-06T09:48:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "summary": "285 points, 120 comments",
-      "publishedAt": "2026-10-06T08:08:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "LLMs may have helped my RSI",
       "link": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "summary": "16 points, 5 comments",
+      "summary": "65 points, 32 comments",
       "publishedAt": "2026-10-06T03:01:04.000Z"
     },
     {
@@ -738,15 +774,6 @@
       "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
       "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just…",
       "publishedAt": "2026-10-05T23:56:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-      "link": "https://news.ycombinator.com/item?id=49972125",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-10-05T23:24:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -794,15 +821,6 @@
       "publishedAt": "2026-10-05T17:59:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Benchmark in Milliseconds",
-      "link": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "summary": "126 points, 34 comments",
-      "publishedAt": "2026-10-05T17:00:10.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -815,7 +833,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects",
+      "title": "Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects",
       "link": "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software porting. The experiment measured time, token u…",
       "publishedAt": "2026-10-05T13:58:00.000Z"
@@ -857,6 +875,15 @@
       "publishedAt": "2026-10-04T23:34:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
+      "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-10-04T12:45:31.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -864,6 +891,15 @@
       "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A team of developers working at AWS recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tasks in the background and return results through an inbox-style interface. Agents can perform…",
       "publishedAt": "2026-10-04T06:34:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The cost of lies: A Mineserver story",
+      "link": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "summary": "46 points, 14 comments",
+      "publishedAt": "2026-10-04T05:17:12.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1118,24 +1154,6 @@
       "publishedAt": "2026-09-29T18:27:48.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this…",
-      "publishedAt": "2026-09-29T16:45:27.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "OpenAI DevDay 2026 live blog",
-      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the key…",
-      "publishedAt": "2026-09-29T15:55:13.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1161,15 +1179,6 @@
       "link": "https://openai.com/index/introducing-dots",
       "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "publishedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-anthropic 0.30",
-      "link": "https://simonwillison.net/2026/Sep/28/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.30 In addition to Claude Sonnet 5.5, this release adds the ability to run llm anthropic refresh to refresh the list of Anthropic models directly from their API - which means I don't need to push…",
-      "publishedAt": "2026-09-28T23:06:21.000Z"
     },
     {
       "source": "OpenAI",
