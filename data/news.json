@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T04:48:00.477Z",
+  "updatedAt": "2026-10-07T11:35:09.477Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,22 +56,121 @@
   "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "Calling It Quits on ServerFault",
-      "link": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-10-07T04:22:04.000Z"
+      "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+      "link": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+      "summary": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh disco…",
+      "publishedAt": "2026-10-07T11:26:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Samsung Wallet now unlocks some GM cars",
+      "link": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars",
+      "summary": "Digital keys, stored in your Samsung Wallet, can lock, unlock and start selected GM vehicles. | Image: GM Users of some Samsung devices in the US and Canada can now lock, unlock, and start select GM vehicles using a digi…",
+      "publishedAt": "2026-10-07T11:25:33.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The art of defusing a second world war bomb",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-10-07T03:43:14.000Z"
+      "title": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+      "link": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
+      "summary": "15 points, 9 comments",
+      "publishedAt": "2026-10-07T11:08:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Jaguar’s first EV looks just like its divisive concept car",
+      "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+      "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever…",
+      "publishedAt": "2026-10-07T10:03:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "summary": "55 points, 8 comments",
+      "publishedAt": "2026-10-07T09:51:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "link": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "96 points, 17 comments",
+      "publishedAt": "2026-10-07T09:17:55.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Article: Building a Session-Ordered Kafka Pipeline in Go",
+      "link": "https://www.infoq.com/articles/apache-kafka-golang-session-ordered-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "The article describes a custom implementation that provides a session-level ordering on top of Apache Kafka partitions, supporting strict message ordering across 1000s of independent channels. The solution required appli…",
+      "publishedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced i…",
+      "publishedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Cloudflare Uses an AI Harness to Probe and Harden Its WAF",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-sec-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Cloudflare placed frontier AI models inside a controlled testing harness to probe its Web Application Firewall (WAF), using blocked attacks as starting points for models to generate and refine new variations. By Matt Fos…",
+      "publishedAt": "2026-10-07T07:21:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "link": "https://github.com/shader-effects-inc/shaders",
+      "summary": "38 points, 20 comments",
+      "publishedAt": "2026-10-07T05:38:35.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Jake Boggan",
+      "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years o…",
+      "publishedAt": "2026-10-07T04:47:55.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "link": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with…",
+      "publishedAt": "2026-10-07T04:43:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +178,7 @@
       "category": "general",
       "title": "La Cueva BBS in Mexico in 1993 (session replay)",
       "link": "https://nanochess.org/la_cueva_bbs.html",
-      "summary": "13 points, 1 comments",
+      "summary": "55 points, 17 comments",
       "publishedAt": "2026-10-07T03:16:45.000Z"
     },
     {
@@ -88,7 +187,7 @@
       "category": "general",
       "title": "Strands Decider 2B: a small, open-source, decision model",
       "link": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "summary": "74 points, 9 comments",
+      "summary": "201 points, 48 comments",
       "publishedAt": "2026-10-07T02:02:11.000Z"
     },
     {
@@ -97,17 +196,8 @@
       "category": "general",
       "title": "ESP32-C3 Adblock",
       "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "summary": "31 points, 7 comments",
+      "summary": "119 points, 46 comments",
       "publishedAt": "2026-10-07T01:39:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "summary": "15 points, 3 comments",
-      "publishedAt": "2026-10-07T01:27:49.000Z"
     },
     {
       "source": "Simon Willison",
@@ -126,15 +216,6 @@
       "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
       "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon […",
       "publishedAt": "2026-10-06T23:58:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "link": "https://github.com/boykopovar/AnyPS5",
-      "summary": "158 points, 123 comments",
-      "publishedAt": "2026-10-06T23:28:08.000Z"
     },
     {
       "source": "The Verge",
@@ -187,14 +268,14 @@
       "category": "general",
       "title": "Sharing AI progress in mathematics",
       "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "619 points, 565 comments",
+      "summary": "971 points, 929 comments",
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "title": "Xbox has secured GTA 6 streaming rights",
       "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
       "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources fami…",
       "publishedAt": "2026-10-06T22:12:27.000Z"
@@ -214,7 +295,7 @@
       "category": "general",
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "link": "https://penguin-mail.com/",
-      "summary": "116 points, 53 comments",
+      "summary": "198 points, 128 comments",
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
@@ -259,7 +340,7 @@
       "category": "general",
       "title": "Decisions API is in public beta",
       "link": "https://developers.openai.com/api/docs/guides/decisions",
-      "summary": "196 points, 86 comments",
+      "summary": "319 points, 165 comments",
       "publishedAt": "2026-10-06T20:57:25.000Z"
     },
     {
@@ -317,15 +398,6 @@
       "publishedAt": "2026-10-06T20:32:12.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constella…",
-      "publishedAt": "2026-10-06T20:32:10.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -342,15 +414,6 @@
       "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "publishedAt": "2026-10-06T20:00:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-      "link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
-      "summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open boo…",
-      "publishedAt": "2026-10-06T20:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -380,15 +443,6 @@
       "publishedAt": "2026-10-06T19:55:50.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-      "summary": "The MacBook Air laptops are among the discounted Apple products. | Photo: Antonio G. Di Benedetto / The Verge Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple pr…",
-      "publishedAt": "2026-10-06T19:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -398,15 +452,6 @@
       "publishedAt": "2026-10-06T19:21:14.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-      "link": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
-      "summary": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they coul…",
-      "publishedAt": "2026-10-06T19:12:26.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -414,6 +459,15 @@
       "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
       "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterp…",
       "publishedAt": "2026-10-06T19:07:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "link": "https://news.ycombinator.com/item?id=49982498",
+      "summary": "294 points, 169 comments",
+      "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -439,7 +493,7 @@
       "category": "general",
       "title": "Claude Code’s suggested message feature: I think the real customer is the model",
       "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "summary": "143 points, 75 comments",
+      "summary": "218 points, 125 comments",
       "publishedAt": "2026-10-06T18:00:34.000Z"
     },
     {
@@ -488,15 +542,6 @@
       "publishedAt": "2026-10-06T17:03:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "summary": "112 points, 114 comments",
-      "publishedAt": "2026-10-06T17:01:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -515,15 +560,6 @@
       "publishedAt": "2026-10-06T16:35:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Treg (OpenRouter for Tools)",
-      "link": "https://github.com/superdesigndev/treg",
-      "summary": "8 points, 1 comments",
-      "publishedAt": "2026-10-06T16:29:59.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -531,15 +567,6 @@
       "link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
       "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
       "publishedAt": "2026-10-06T16:29:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "link": "https://github.com/FeSens/openTPU",
-      "summary": "255 points, 319 comments",
-      "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -565,7 +592,7 @@
       "category": "general",
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "263 points, 31 comments",
+      "summary": "345 points, 35 comments",
       "publishedAt": "2026-10-06T16:03:49.000Z"
     },
     {
@@ -668,21 +695,12 @@
       "publishedAt": "2026-10-06T14:00:49.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Uber is spending $2.3B to get into catering",
-      "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
-      "summary": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
-      "publishedAt": "2026-10-06T14:00:25.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "What Is Codemode",
+      "title": "What is Codemode",
       "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "summary": "32 points, 0 comments",
+      "summary": "100 points, 45 comments",
       "publishedAt": "2026-10-06T13:41:03.000Z"
     },
     {
@@ -700,7 +718,7 @@
       "category": "general",
       "title": "Mistral Large 4",
       "link": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "1648 points, 984 comments",
+      "summary": "1853 points, 1118 comments",
       "publishedAt": "2026-10-06T13:15:49.000Z"
     },
     {
@@ -756,15 +774,6 @@
       "link": "https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, modern data platforms, high-performance engineering, and Staff+ leadership.…",
       "publishedAt": "2026-10-06T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LLMs may have helped my RSI",
-      "link": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "summary": "65 points, 32 comments",
-      "publishedAt": "2026-10-06T03:01:04.000Z"
     },
     {
       "source": "Simon Willison",
@@ -878,10 +887,37 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
-      "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-10-04T12:45:31.000Z"
+      "title": "Show HN: Arcadeia – A self-hosted media library with animated video previews",
+      "link": "https://github.com/travelonium/arcadeia",
+      "summary": "7 points, 5 comments",
+      "publishedAt": "2026-10-04T19:33:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gallery of Processor Cache Effects (2010)",
+      "link": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+      "summary": "21 points, 3 comments",
+      "publishedAt": "2026-10-04T17:58:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "link": "https://astrohelm.app/",
+      "summary": "5 points, 2 comments",
+      "publishedAt": "2026-10-04T14:01:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Legend of the Paper Crane",
+      "link": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+      "summary": "19 points, 7 comments",
+      "publishedAt": "2026-10-04T13:49:51.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -898,7 +934,7 @@
       "category": "general",
       "title": "The cost of lies: A Mineserver story",
       "link": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "summary": "46 points, 14 comments",
+      "summary": "126 points, 55 comments",
       "publishedAt": "2026-10-04T05:17:12.000Z"
     },
     {
@@ -1046,33 +1082,6 @@
       "publishedAt": "2026-10-01T16:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
-      "link": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering…",
-      "publishedAt": "2026-10-01T12:30:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text",
-      "link": "https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabili…",
-      "publishedAt": "2026-10-01T06:47:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
-      "link": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond star…",
-      "publishedAt": "2026-10-01T06:31:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1143,15 +1152,6 @@
       "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
       "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so i…",
       "publishedAt": "2026-09-29T22:20:28.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-      "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devd…",
-      "publishedAt": "2026-09-29T18:27:48.000Z"
     },
     {
       "source": "OpenAI",
@@ -1292,7 +1292,7 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
-      "title": "Oct 6, 2026 Announcements Expanding the Cyber Verification Program",
+      "title": "Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "summary": "",
       "publishedAt": null
