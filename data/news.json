@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:26:03.558Z",
+  "updatedAt": "2026-10-08T04:58:15.578Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,7 +52,7 @@
       "category": "ai"
     }
   ],
-  "itemCount": 142,
+  "itemCount": 141,
   "errors": [
     {
       "source": "Google DeepMind",
@@ -60,6 +60,114 @@
     }
   ],
   "items": [
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "publishedAt": "2026-10-08T00:00:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "publishedAt": "2026-10-07T23:36:57.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Ben Affleck",
+      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has…",
+      "publishedAt": "2026-10-07T23:14:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "publishedAt": "2026-10-07T22:59:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality a…",
+      "publishedAt": "2026-10-07T22:01:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "publishedAt": "2026-10-07T21:56:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's…",
+      "publishedAt": "2026-10-07T21:19:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Margaret Hamilton has died",
+      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "summary": "1063 points, 120 comments",
+      "publishedAt": "2026-10-07T21:16:18.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Claude Haiku 5.5",
+      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million in…",
+      "publishedAt": "2026-10-07T20:56:21.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "publishedAt": "2026-10-07T20:48:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "summary": "What year is it, and what dessert name of Android are we up to? | Photo: Antonio G. Di Benedetto / The Verge A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They'r…",
+      "publishedAt": "2026-10-07T20:44:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "We found some great October Prime Day deals under $50",
+      "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+      "summary": "Anker’s 45W charger is less than $50 during Amazon’s October sale. In fact, you can get two for under $50. Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls…",
+      "publishedAt": "2026-10-07T20:30:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -73,19 +181,28 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
-      "link": "https://gtlds.fyi/",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-10-07T19:53:17.000Z"
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "summary": "101 points, 40 comments",
+      "publishedAt": "2026-10-07T20:01:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "The Mathocalypse",
-      "link": "https://scottaaronson.blog/?p=10169",
-      "summary": "27 points, 13 comments",
-      "publishedAt": "2026-10-07T19:33:40.000Z"
+      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+      "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+      "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
+      "publishedAt": "2026-10-07T20:01:14.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+      "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
+      "publishedAt": "2026-10-07T19:53:42.000Z"
     },
     {
       "source": "The Verge",
@@ -115,24 +232,6 @@
       "publishedAt": "2026-10-07T19:05:52.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-      "link": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-      "summary": "14 points, 14 comments",
-      "publishedAt": "2026-10-07T19:01:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "summary": "89 points, 92 comments",
-      "publishedAt": "2026-10-07T18:49:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -154,9 +253,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
       "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "summary": "30 points, 3 comments",
+      "summary": "124 points, 61 comments",
       "publishedAt": "2026-10-07T18:43:18.000Z"
     },
     {
@@ -210,7 +309,7 @@
       "category": "general",
       "title": "Claude Haiku 5.5",
       "link": "https://www.anthropic.com/claude-haiku-5-5",
-      "summary": "396 points, 184 comments",
+      "summary": "769 points, 380 comments",
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -228,7 +327,7 @@
       "category": "general",
       "title": "GPT‑6 and Intelligent UI for everyone",
       "link": "https://openai.com/index/gpt-6-for-everyone/",
-      "summary": "286 points, 136 comments",
+      "summary": "557 points, 287 comments",
       "publishedAt": "2026-10-07T18:00:58.000Z"
     },
     {
@@ -250,22 +349,13 @@
       "publishedAt": "2026-10-07T18:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "How Microsoft built its MacBook Pro competitor",
-      "link": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
-      "summary": "Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus, where the team develo…",
-      "publishedAt": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
-      "link": "https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale",
-      "summary": "The Meta Quest 3S features inside-out tracking for standalone functionality almost anywhere. | Photo by Vjeran Pavic / The Verge Until the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S…",
-      "publishedAt": "2026-10-07T18:00:00.000Z"
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "summary": "53 points, 3 comments",
+      "publishedAt": "2026-10-07T17:59:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -277,30 +367,12 @@
       "publishedAt": "2026-10-07T17:57:39.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "What The Social Reckoning gets right — and wrong",
-      "link": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-      "summary": "Image: Dimitrios Kambouris/Getty Images | Getty Images Aaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how F…",
-      "publishedAt": "2026-10-07T17:53:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599",
-      "link": "https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date",
-      "summary": "Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts at $2,599 for the base configuration, featuring an 18-core CP…",
-      "publishedAt": "2026-10-07T17:48:45.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Docker Agent",
       "link": "https://github.com/docker/docker-agent",
-      "summary": "85 points, 32 comments",
+      "summary": "204 points, 93 comments",
       "publishedAt": "2026-10-07T17:48:38.000Z"
     },
     {
@@ -320,15 +392,6 @@
       "link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
       "summary": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
       "publishedAt": "2026-10-07T17:04:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "link": "https://agent.reviews/",
-      "summary": "16 points, 18 comments",
-      "publishedAt": "2026-10-07T16:59:11.000Z"
     },
     {
       "source": "TechCrunch",
@@ -354,7 +417,7 @@
       "category": "general",
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "link": "https://bigwords.page/",
-      "summary": "199 points, 73 comments",
+      "summary": "419 points, 123 comments",
       "publishedAt": "2026-10-07T15:44:21.000Z"
     },
     {
@@ -363,7 +426,7 @@
       "category": "general",
       "title": "Navier–Stokes Lost in Translation",
       "link": "https://arxiv.org/abs/2610.08144",
-      "summary": "161 points, 124 comments",
+      "summary": "278 points, 171 comments",
       "publishedAt": "2026-10-07T15:24:38.000Z"
     },
     {
@@ -374,15 +437,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
       "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
       "publishedAt": "2026-10-07T15:19:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-      "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "summary": "372 points, 233 comments",
-      "publishedAt": "2026-10-07T15:09:59.000Z"
     },
     {
       "source": "TechCrunch",
@@ -399,7 +453,7 @@
       "category": "general",
       "title": "Animated ASCII Art for Web Pages",
       "link": "https://ascii.rest/",
-      "summary": "202 points, 53 comments",
+      "summary": "321 points, 59 comments",
       "publishedAt": "2026-10-07T15:05:37.000Z"
     },
     {
@@ -475,15 +529,6 @@
       "publishedAt": "2026-10-07T14:12:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-      "summary": "90 points, 42 comments",
-      "publishedAt": "2026-10-07T14:10:55.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -520,15 +565,6 @@
       "publishedAt": "2026-10-07T14:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
-      "link": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-      "summary": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
-      "publishedAt": "2026-10-07T14:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -536,15 +572,6 @@
       "link": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
       "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
       "publishedAt": "2026-10-07T13:56:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-      "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-      "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-      "publishedAt": "2026-10-07T13:45:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -579,7 +606,7 @@
       "category": "general",
       "title": "Shipping JPEG XL in Chrome",
       "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "summary": "417 points, 264 comments",
+      "summary": "513 points, 348 comments",
       "publishedAt": "2026-10-07T11:25:02.000Z"
     },
     {
@@ -590,24 +617,6 @@
       "link": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
       "summary": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
       "publishedAt": "2026-10-07T11:00:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "summary": "267 points, 49 comments",
-      "publishedAt": "2026-10-07T09:51:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "link": "https://github.com/szabadkai/c64-keyboard-font/",
-      "summary": "350 points, 59 comments",
-      "publishedAt": "2026-10-07T09:17:55.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -634,15 +643,6 @@
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "link": "https://openai.com/index/radisson",
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
@@ -698,6 +698,15 @@
       "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
       "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra rea…",
       "publishedAt": "2026-10-06T23:04:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "1257 points, 1425 comments",
+      "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -781,6 +790,15 @@
       "publishedAt": "2026-10-06T19:07:31.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Cleo (Mathematician)",
+      "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "summary": "88 points, 6 comments",
+      "publishedAt": "2026-10-06T18:49:45.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -808,48 +826,12 @@
       "publishedAt": "2026-10-06T17:33:44.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Support Ars and get a better reading experience in return",
-      "link": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-      "summary": "ArsPro gives you more ways to read while directly supporting our journalism.",
-      "publishedAt": "2026-10-06T17:21:15.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
-      "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
-      "publishedAt": "2026-10-06T17:03:16.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
-      "link": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
-      "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
-      "publishedAt": "2026-10-06T16:53:17.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
-      "link": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
-      "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
-      "publishedAt": "2026-10-06T16:15:50.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "How machines learned precision",
       "link": "https://glinscott.github.io/how-machines-learned-precision/",
-      "summary": "33 points, 10 comments",
+      "summary": "129 points, 59 comments",
       "publishedAt": "2026-10-06T16:14:42.000Z"
     },
     {
@@ -869,6 +851,24 @@
       "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
       "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an arti…",
       "publishedAt": "2026-10-06T15:17:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+      "summary": "50 points, 23 comments",
+      "publishedAt": "2026-10-06T13:39:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "link": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+      "summary": "48 points, 9 comments",
+      "publishedAt": "2026-10-06T12:20:03.000Z"
     },
     {
       "source": "OpenAI",
@@ -892,10 +892,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Why Pendulum had to write the most cursed \"+\" operator in all of Python",
-      "link": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-10-06T10:12:31.000Z"
+      "title": "Brownian Motion",
+      "link": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+      "summary": "49 points, 3 comments",
+      "publishedAt": "2026-10-06T11:11:34.000Z"
     },
     {
       "source": "OpenAI",
@@ -916,15 +916,6 @@
       "publishedAt": "2026-10-06T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Wood Tape (2004)",
-      "link": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "summary": "113 points, 12 comments",
-      "publishedAt": "2026-10-06T04:25:41.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -932,6 +923,24 @@
       "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
       "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just…",
       "publishedAt": "2026-10-05T23:56:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Living off-grid: Hundred Rabbits",
+      "link": "https://100r.ca/site/home.html",
+      "summary": "83 points, 16 comments",
+      "publishedAt": "2026-10-05T21:08:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "summary": "113 points, 46 comments",
+      "publishedAt": "2026-10-05T19:07:07.000Z"
     },
     {
       "source": "OpenAI",
@@ -950,6 +959,15 @@
       "link": "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software porting. The experiment measured time, token u…",
       "publishedAt": "2026-10-05T13:58:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "link": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "summary": "50 points, 19 comments",
+      "publishedAt": "2026-10-05T11:40:15.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1123,15 +1141,6 @@
       "publishedAt": "2026-10-01T16:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that…",
-      "publishedAt": "2026-10-01T06:29:01.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1139,15 +1148,6 @@
       "link": "https://openai.com/index/the-den-family-social",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "publishedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "He Built This City",
-      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my alrea…",
-      "publishedAt": "2026-09-30T21:54:19.000Z"
     },
     {
       "source": "OpenAI",
@@ -1171,18 +1171,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "publishedAt": "2026-09-29T10:00:00.000Z"
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T17:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "publishedAt": "2026-09-29T10:00:00.000Z"
     },
     {
@@ -1193,15 +1193,6 @@
       "link": "https://openai.com/index/introducing-dots",
       "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "publishedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "publishedAt": "2026-09-28T19:00:00.000Z"
     },
     {
       "source": "Google AI",
