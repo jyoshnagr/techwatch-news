@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:59:31.756Z",
+  "updatedAt": "2026-10-10T19:08:50.603Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,228 @@
   "errors": [],
   "items": [
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG…",
+      "publishedAt": "2026-10-10T18:52:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-10-10T18:48:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/workweave",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-10-10T18:16:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "summary": "19 points, 3 comments",
+      "publishedAt": "2026-10-10T18:11:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "summary": "34 points, 8 comments",
+      "publishedAt": "2026-10-10T18:10:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "publishedAt": "2026-10-10T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales…",
+      "publishedAt": "2026-10-10T16:36:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "publishedAt": "2026-10-10T16:25:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Knuth Reward Check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check",
+      "summary": "72 points, 27 comments",
+      "publishedAt": "2026-10-10T15:47:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+      "summary": "70 points, 15 comments",
+      "publishedAt": "2026-10-10T15:10:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be…",
+      "publishedAt": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\"…",
+      "publishedAt": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act…",
+      "publishedAt": "2026-10-10T14:41:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "summary": "254 points, 187 comments",
+      "publishedAt": "2026-10-10T14:32:50.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-10-10T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+      "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Sk…",
+      "publishedAt": "2026-10-10T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "summary": "134 points, 289 comments",
+      "publishedAt": "2026-10-10T13:29:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+      "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+      "summary": "The LG’s picture is bright and punchy, but its panel is very reflective. When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026…",
+      "publishedAt": "2026-10-10T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veil…",
+      "publishedAt": "2026-10-10T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The techlash has gone Hollywood",
+      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.)…",
+      "publishedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "publishedAt": "2026-10-10T11:15:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+      "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads…",
+      "publishedAt": "2026-10-10T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
+      "link": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+      "summary": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearin…",
+      "publishedAt": "2026-10-10T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "summary": "183 points, 96 comments",
+      "publishedAt": "2026-10-10T10:52:09.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "`123456' password used in Danish CPR data breach",
       "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "summary": "81 points, 52 comments",
+      "summary": "343 points, 178 comments",
       "publishedAt": "2026-10-10T09:51:49.000Z"
     },
     {
@@ -72,33 +288,6 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forward W3C traceparent…",
       "publishedAt": "2026-10-10T07:12:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "My brief romance with an AI bird feeder",
-      "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "summary": "I miss my sweet tits. It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first…",
-      "publishedAt": "2026-10-10T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Computers Cannot Make Decisions",
-      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "summary": "95 points, 80 comments",
-      "publishedAt": "2026-10-10T05:47:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Food processing influences metabolism and brain activity",
-      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "summary": "48 points, 29 comments",
-      "publishedAt": "2026-10-10T05:22:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -115,7 +304,7 @@
       "category": "general",
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "191 points, 91 comments",
+      "summary": "352 points, 181 comments",
       "publishedAt": "2026-10-10T03:02:47.000Z"
     },
     {
@@ -133,7 +322,7 @@
       "category": "general",
       "title": "REA Reverse – Engineer Anything",
       "link": "https://rea.tools/",
-      "summary": "451 points, 175 comments",
+      "summary": "623 points, 269 comments",
       "publishedAt": "2026-10-10T00:37:07.000Z"
     },
     {
@@ -144,24 +333,6 @@
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "publishedAt": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "summary": "78 points, 13 comments",
-      "publishedAt": "2026-10-09T23:53:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Compiling Rust to readable C with Eurydice",
-      "link": "https://lwn.net/Articles/1055211/",
-      "summary": "85 points, 19 comments",
-      "publishedAt": "2026-10-09T23:28:36.000Z"
     },
     {
       "source": "Simon Willison",
@@ -205,17 +376,8 @@
       "category": "general",
       "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
       "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
       "publishedAt": "2026-10-09T21:51:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Decade-old RAM is making a comeback",
-      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support…",
-      "publishedAt": "2026-10-09T21:50:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -236,15 +398,6 @@
       "publishedAt": "2026-10-09T21:34:09.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model…",
-      "publishedAt": "2026-10-09T21:15:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -263,15 +416,6 @@
       "publishedAt": "2026-10-09T19:43:50.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-      "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-      "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary b…",
-      "publishedAt": "2026-10-09T19:41:11.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -288,15 +432,6 @@
       "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
       "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
       "publishedAt": "2026-10-09T19:27:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of…",
-      "publishedAt": "2026-10-09T19:09:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -344,15 +479,6 @@
       "publishedAt": "2026-10-09T18:33:26.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-      "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-      "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the…",
-      "publishedAt": "2026-10-09T18:30:48.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -365,64 +491,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "link": "https://carrierexplode.com/",
-      "summary": "334 points, 43 comments",
-      "publishedAt": "2026-10-09T18:10:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regardi…",
-      "publishedAt": "2026-10-09T18:06:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google teases Fitbit Edge launch next week",
-      "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "summary": "Google shared a closeup of its upcoming fitness tracker. | Image: Google It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what ap…",
-      "publishedAt": "2026-10-09T18:05:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "summary": "123 points, 24 comments",
-      "publishedAt": "2026-10-09T17:42:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-      "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-      "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which c…",
-      "publishedAt": "2026-10-09T17:41:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon’s new Kindles appear to have a light leak problem",
-      "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-      "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great……",
-      "publishedAt": "2026-10-09T17:25:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "summary": "379 points, 281 comments",
-      "publishedAt": "2026-10-09T17:02:31.000Z"
+      "title": "Rampart: Browser native on-device PII radaction",
+      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "summary": "46 points, 17 comments",
+      "publishedAt": "2026-10-09T17:52:07.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -493,7 +565,7 @@
       "category": "general",
       "title": "Triple-A Minesweeper",
       "link": "https://minesweeper.mikelacher.com/",
-      "summary": "1014 points, 198 comments",
+      "summary": "1278 points, 256 comments",
       "publishedAt": "2026-10-09T15:51:05.000Z"
     },
     {
@@ -524,15 +596,6 @@
       "publishedAt": "2026-10-09T15:02:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "summary": "95 points, 28 comments",
-      "publishedAt": "2026-10-09T14:56:13.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -551,24 +614,6 @@
       "publishedAt": "2026-10-09T14:29:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of…",
-      "publishedAt": "2026-10-09T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-      "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-      "publishedAt": "2026-10-09T13:40:36.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -578,15 +623,6 @@
       "publishedAt": "2026-10-09T13:14:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cloudflare acquires Deno",
-      "link": "https://deno.com/blog/cloudflare",
-      "summary": "1244 points, 632 comments",
-      "publishedAt": "2026-10-09T13:03:48.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -594,24 +630,6 @@
       "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
       "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almos…",
       "publishedAt": "2026-10-09T12:54:06.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-      "publishedAt": "2026-10-09T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "summary": "149 points, 77 comments",
-      "publishedAt": "2026-10-09T11:36:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -659,6 +677,15 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "summary": "98 points, 19 comments",
+      "publishedAt": "2026-10-09T06:52:49.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -675,15 +702,6 @@
       "link": "https://simonwillison.net/2026/Oct/8/ttok/",
       "summary": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-…",
       "publishedAt": "2026-10-08T23:34:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-      "publishedAt": "2026-10-08T22:33:59.000Z"
     },
     {
       "source": "Ars Technica",
@@ -738,24 +756,6 @@
       "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
       "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
       "publishedAt": "2026-10-08T20:15:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-      "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-      "publishedAt": "2026-10-08T19:57:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cube Type – Isometric Typography Generator",
-      "link": "https://typeincube.com/",
-      "summary": "19 points, 1 comments",
-      "publishedAt": "2026-10-08T19:41:19.000Z"
     },
     {
       "source": "OpenAI",
@@ -821,15 +821,6 @@
       "publishedAt": "2026-10-07T23:14:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "summary": "52 points, 19 comments",
-      "publishedAt": "2026-10-07T21:06:54.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -842,18 +833,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "I tried to move my notes out of Emacs. I failed. Again",
-      "link": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
-      "summary": "35 points, 37 comments",
-      "publishedAt": "2026-10-07T20:27:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "summary": "169 points, 39 comments",
+      "summary": "268 points, 62 comments",
       "publishedAt": "2026-10-07T19:15:57.000Z"
     },
     {
@@ -882,6 +864,15 @@
       "link": "https://www.infoq.com/news/2026/10/infoq-ai-webinar/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "On October 14, InfoQ will host a free 60-minute panel with five practitioners on running AI in production. They'll discuss agent autonomy and human approval, how to verify AI-generated changes, sensitive-data exposure, a…",
       "publishedAt": "2026-10-07T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "2D Vehicles",
+      "link": "https://patkerr.co.uk/2d-vehicles/",
+      "summary": "16 points, 0 comments",
+      "publishedAt": "2026-10-07T12:30:40.000Z"
     },
     {
       "source": "OpenAI",
@@ -947,6 +938,15 @@
       "publishedAt": "2026-10-07T04:43:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "summary": "102 points, 34 comments",
+      "publishedAt": "2026-10-07T01:44:59.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -990,6 +990,15 @@
       "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
       "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
       "publishedAt": "2026-10-06T21:32:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "link": "https://openscad.org/",
+      "summary": "33 points, 34 comments",
+      "publishedAt": "2026-10-06T21:22:44.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1049,19 +1058,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
-      "link": "https://www.datocms.com/blog/handling-less-common-scripts",
-      "summary": "4 points, 1 comments",
-      "publishedAt": "2026-10-06T17:24:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to head into VR without wearing a headset",
-      "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "summary": "36 points, 17 comments",
-      "publishedAt": "2026-10-06T17:07:12.000Z"
+      "title": "Grieving the Loss of Details",
+      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "summary": "193 points, 130 comments",
+      "publishedAt": "2026-10-06T16:37:21.000Z"
     },
     {
       "source": "OpenAI",
@@ -1274,7 +1274,7 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
-      "title": "Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "title": "Expanding the Cyber Verification Program Announcements Oct 6, 2026 We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "summary": "",
       "publishedAt": null
