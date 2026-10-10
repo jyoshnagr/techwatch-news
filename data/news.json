@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:08:50.603Z",
+  "updatedAt": "2026-10-10T23:18:22.781Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,59 @@
       "category": "ai"
     }
   ],
-  "itemCount": 145,
-  "errors": [],
+  "itemCount": 139,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-10-10T22:50:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of…",
+      "publishedAt": "2026-10-10T22:10:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "publishedAt": "2026-10-10T21:47:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "summary": "91 points, 38 comments",
+      "publishedAt": "2026-10-10T20:31:50.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "publishedAt": "2026-10-10T19:50:00.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -70,35 +120,17 @@
       "category": "general",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "7 points, 0 comments",
+      "summary": "96 points, 62 comments",
       "publishedAt": "2026-10-10T18:48:35.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/workweave",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-10-10T18:16:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "summary": "19 points, 3 comments",
-      "publishedAt": "2026-10-10T18:11:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "summary": "34 points, 8 comments",
-      "publishedAt": "2026-10-10T18:10:54.000Z"
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "summary": "109 points, 34 comments",
+      "publishedAt": "2026-10-10T18:08:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -131,19 +163,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Knuth Reward Check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check",
-      "summary": "72 points, 27 comments",
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "summary": "126 points, 47 comments",
       "publishedAt": "2026-10-10T15:47:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "summary": "70 points, 15 comments",
-      "publishedAt": "2026-10-10T15:10:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -178,8 +201,17 @@
       "category": "general",
       "title": "Bitwarden Dual License Model",
       "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "summary": "254 points, 187 comments",
+      "summary": "328 points, 240 comments",
       "publishedAt": "2026-10-10T14:32:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "summary": "68 points, 30 comments",
+      "publishedAt": "2026-10-10T14:27:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -198,15 +230,6 @@
       "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
       "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Sk…",
       "publishedAt": "2026-10-10T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "summary": "134 points, 289 comments",
-      "publishedAt": "2026-10-10T13:29:03.000Z"
     },
     {
       "source": "The Verge",
@@ -254,13 +277,13 @@
       "publishedAt": "2026-10-10T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "link": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "summary": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearin…",
-      "publishedAt": "2026-10-10T11:00:00.000Z"
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "summary": "231 points, 210 comments",
+      "publishedAt": "2026-10-10T10:57:31.000Z"
     },
     {
       "source": "Hacker News",
@@ -268,17 +291,8 @@
       "category": "general",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "link": "https://github.com/rociiu/talorys",
-      "summary": "183 points, 96 comments",
+      "summary": "228 points, 114 comments",
       "publishedAt": "2026-10-10T10:52:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "`123456' password used in Danish CPR data breach",
-      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "summary": "343 points, 178 comments",
-      "publishedAt": "2026-10-10T09:51:49.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -288,6 +302,15 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forward W3C traceparent…",
       "publishedAt": "2026-10-10T07:12:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "summary": "153 points, 38 comments",
+      "publishedAt": "2026-10-10T04:12:26.000Z"
     },
     {
       "source": "TechCrunch",
@@ -304,7 +327,7 @@
       "category": "general",
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "352 points, 181 comments",
+      "summary": "397 points, 244 comments",
       "publishedAt": "2026-10-10T03:02:47.000Z"
     },
     {
@@ -322,7 +345,7 @@
       "category": "general",
       "title": "REA Reverse – Engineer Anything",
       "link": "https://rea.tools/",
-      "summary": "623 points, 269 comments",
+      "summary": "671 points, 294 comments",
       "publishedAt": "2026-10-10T00:37:07.000Z"
     },
     {
@@ -333,6 +356,15 @@
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "publishedAt": "2026-10-10T00:18:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How strong is the strong interaction?",
+      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "summary": "41 points, 11 comments",
+      "publishedAt": "2026-10-10T00:13:16.000Z"
     },
     {
       "source": "Simon Willison",
@@ -351,6 +383,15 @@
       "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
       "summary": "Dissolved rock precipitated around the tools, which then decayed.",
       "publishedAt": "2026-10-09T22:34:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "summary": "62 points, 50 comments",
+      "publishedAt": "2026-10-09T22:14:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -493,7 +534,7 @@
       "category": "general",
       "title": "Rampart: Browser native on-device PII radaction",
       "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "summary": "46 points, 17 comments",
+      "summary": "62 points, 28 comments",
       "publishedAt": "2026-10-09T17:52:07.000Z"
     },
     {
@@ -560,15 +601,6 @@
       "publishedAt": "2026-10-09T15:56:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Triple-A Minesweeper",
-      "link": "https://minesweeper.mikelacher.com/",
-      "summary": "1278 points, 256 comments",
-      "publishedAt": "2026-10-09T15:51:05.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -578,15 +610,6 @@
       "publishedAt": "2026-10-09T15:43:33.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-      "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous posit…",
-      "publishedAt": "2026-10-09T15:02:30.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -594,15 +617,6 @@
       "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
       "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence…",
       "publishedAt": "2026-10-09T15:02:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week,…",
-      "publishedAt": "2026-10-09T14:42:34.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -659,6 +673,15 @@
       "publishedAt": "2026-10-09T10:00:59.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nix wrote half of my debugger",
+      "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "summary": "93 points, 8 comments",
+      "publishedAt": "2026-10-09T07:29:08.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -682,7 +705,7 @@
       "category": "general",
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "98 points, 19 comments",
+      "summary": "146 points, 32 comments",
       "publishedAt": "2026-10-09T06:52:49.000Z"
     },
     {
@@ -830,15 +853,6 @@
       "publishedAt": "2026-10-07T20:56:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "summary": "268 points, 62 comments",
-      "publishedAt": "2026-10-07T19:15:57.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -871,7 +885,7 @@
       "category": "general",
       "title": "2D Vehicles",
       "link": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "16 points, 0 comments",
+      "summary": "308 points, 72 comments",
       "publishedAt": "2026-10-07T12:30:40.000Z"
     },
     {
@@ -938,15 +952,6 @@
       "publishedAt": "2026-10-07T04:43:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "summary": "102 points, 34 comments",
-      "publishedAt": "2026-10-07T01:44:59.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -997,7 +1002,7 @@
       "category": "general",
       "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
       "link": "https://openscad.org/",
-      "summary": "33 points, 34 comments",
+      "summary": "82 points, 75 comments",
       "publishedAt": "2026-10-06T21:22:44.000Z"
     },
     {
@@ -1017,15 +1022,6 @@
       "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
       "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NV…",
       "publishedAt": "2026-10-06T20:18:19.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1058,9 +1054,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Grieving the Loss of Details",
+      "title": "Grieving the loss of details",
       "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "summary": "193 points, 130 comments",
+      "summary": "311 points, 248 comments",
       "publishedAt": "2026-10-06T16:37:21.000Z"
     },
     {
@@ -1208,24 +1204,6 @@
       "publishedAt": "2026-10-01T00:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1235,15 +1213,6 @@
       "publishedAt": "2026-09-28T19:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:20:39.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1251,24 +1220,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
       "publishedAt": "2026-09-23T18:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "publishedAt": "2026-09-23T16:00:57.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "Anthropic",
