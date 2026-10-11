@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:32:19.931Z",
+  "updatedAt": "2026-10-11T11:16:13.645Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,49 +52,71 @@
       "category": "ai"
     }
   ],
-  "itemCount": 138,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 145,
+  "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "The Verge",
+      "color": "#fa4616",
       "category": "general",
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "link": "https://github.com/vscarpenter/gsd-task-manager",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-10-11T03:42:56.000Z"
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services ha…",
+      "publishedAt": "2026-10-11T11:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-      "link": "https://worldfacts.app",
-      "summary": "15 points, 9 comments",
-      "publishedAt": "2026-10-11T03:13:46.000Z"
+      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+      "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "summary": "9 points, 4 comments",
+      "publishedAt": "2026-10-11T10:47:21.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "summary": "62 points, 44 comments",
-      "publishedAt": "2026-10-11T02:02:38.000Z"
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "link": "https://nitter.net",
+      "summary": "66 points, 0 comments",
+      "publishedAt": "2026-10-11T10:37:55.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A plastic once thought harmless may be fueling fatty liver disease",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
-      "summary": "21 points, 2 comments",
-      "publishedAt": "2026-10-11T01:56:04.000Z"
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "summary": "5 points, 5 comments",
+      "publishedAt": "2026-10-11T10:34:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
+      "summary": "76 points, 51 comments",
+      "publishedAt": "2026-10-11T10:11:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I wish you the best in the Offline",
+      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "summary": "50 points, 28 comments",
+      "publishedAt": "2026-10-11T07:53:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LineageOS 24.0",
+      "link": "https://lineageos.org/Changelog-32/",
+      "summary": "133 points, 35 comments",
+      "publishedAt": "2026-10-11T06:18:59.000Z"
     },
     {
       "source": "Simon Willison",
@@ -109,28 +131,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "link": "https://wallhop.io/",
-      "summary": "176 points, 79 comments",
-      "publishedAt": "2026-10-11T00:46:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "PSPi 6 – Raspberry Pi in a PSP",
       "link": "https://github.com/othermod/PSPi-Version-6",
-      "summary": "35 points, 5 comments",
+      "summary": "95 points, 9 comments",
       "publishedAt": "2026-10-11T00:45:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "link": "https://github.com/vahmoh25/Veda",
-      "summary": "37 points, 7 comments",
-      "publishedAt": "2026-10-11T00:22:33.000Z"
     },
     {
       "source": "Simon Willison",
@@ -147,7 +151,7 @@
       "category": "general",
       "title": "Build your own decision model",
       "link": "https://nishtahir.com/build-your-own-decision-model/",
-      "summary": "171 points, 33 comments",
+      "summary": "331 points, 74 comments",
       "publishedAt": "2026-10-10T22:50:10.000Z"
     },
     {
@@ -174,7 +178,7 @@
       "category": "general",
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
-      "summary": "240 points, 84 comments",
+      "summary": "369 points, 126 comments",
       "publishedAt": "2026-10-10T20:31:50.000Z"
     },
     {
@@ -194,15 +198,6 @@
       "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG…",
       "publishedAt": "2026-10-10T18:52:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "171 points, 52 comments",
-      "publishedAt": "2026-10-10T18:08:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -237,7 +232,7 @@
       "category": "general",
       "title": "Knuth reward check",
       "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "173 points, 63 comments",
+      "summary": "197 points, 71 comments",
       "publishedAt": "2026-10-10T15:47:01.000Z"
     },
     {
@@ -322,21 +317,12 @@
       "publishedAt": "2026-10-10T11:15:35.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-      "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads…",
-      "publishedAt": "2026-10-10T11:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "link": "https://github.com/rociiu/talorys",
-      "summary": "267 points, 123 comments",
+      "summary": "299 points, 134 comments",
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
@@ -352,9 +338,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Rat's Register Allocator",
+      "link": "https://hexrat.cc/pages/blog/2026_10_07",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-10-10T07:10:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "The Lightbulb Computer",
       "link": "https://lightbulbcomputer.com/",
-      "summary": "313 points, 46 comments",
+      "summary": "443 points, 67 comments",
       "publishedAt": "2026-10-10T04:12:26.000Z"
     },
     {
@@ -374,6 +369,15 @@
       "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applic…",
       "publishedAt": "2026-10-10T02:04:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Decade-old RAM is making a comeback",
+      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "79 points, 69 comments",
+      "publishedAt": "2026-10-10T01:37:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -610,6 +614,15 @@
       "publishedAt": "2026-10-09T15:43:33.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "summary": "142 points, 57 comments",
+      "publishedAt": "2026-10-09T15:26:33.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -626,15 +639,6 @@
       "link": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated test…",
       "publishedAt": "2026-10-09T14:29:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Getting old Macromedia Director Games to run on modern Hardware",
-      "link": "https://werwolv.net/posts/macromedia_copy_protection/",
-      "summary": "54 points, 8 comments",
-      "publishedAt": "2026-10-09T14:18:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -685,9 +689,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "How big is a Git commit?",
+      "link": "https://ratfactor.com/cards/git-commit-size",
+      "summary": "41 points, 19 comments",
+      "publishedAt": "2026-10-09T08:13:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Nix wrote half of my debugger",
       "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "summary": "159 points, 30 comments",
+      "summary": "201 points, 48 comments",
       "publishedAt": "2026-10-09T07:29:08.000Z"
     },
     {
@@ -712,18 +725,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "173 points, 40 comments",
-      "publishedAt": "2026-10-09T06:52:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
       "link": "https://hangul.ink/blog/hangul-day",
-      "summary": "18 points, 2 comments",
+      "summary": "51 points, 10 comments",
       "publishedAt": "2026-10-09T03:58:16.000Z"
     },
     {
@@ -849,7 +853,7 @@
       "category": "general",
       "title": "Retrofitting language models to operate over bytes",
       "link": "https://www.nature.com/articles/s41586-026-11111-4",
-      "summary": "29 points, 0 comments",
+      "summary": "71 points, 8 comments",
       "publishedAt": "2026-10-08T02:15:16.000Z"
     },
     {
@@ -912,7 +916,7 @@
       "category": "general",
       "title": "2D Vehicles",
       "link": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "396 points, 88 comments",
+      "summary": "496 points, 102 comments",
       "publishedAt": "2026-10-07T12:30:40.000Z"
     },
     {
@@ -1040,6 +1044,15 @@
       "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
       "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NV…",
       "publishedAt": "2026-10-06T20:18:19.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1195,6 +1208,24 @@
       "publishedAt": "2026-10-01T00:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "publishedAt": "2026-09-30T20:01:45.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "publishedAt": "2026-09-30T15:03:07.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1204,6 +1235,15 @@
       "publishedAt": "2026-09-28T19:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "publishedAt": "2026-09-24T16:20:39.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1211,6 +1251,24 @@
       "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
       "publishedAt": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z"
     },
     {
       "source": "Anthropic",
