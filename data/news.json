@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:18:22.781Z",
+  "updatedAt": "2026-10-11T04:32:19.931Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,7 +52,7 @@
       "category": "ai"
     }
   ],
-  "itemCount": 139,
+  "itemCount": 138,
   "errors": [
     {
       "source": "Google DeepMind",
@@ -64,9 +64,90 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "link": "https://github.com/vscarpenter/gsd-task-manager",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-10-11T03:42:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "link": "https://worldfacts.app",
+      "summary": "15 points, 9 comments",
+      "publishedAt": "2026-10-11T03:13:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "summary": "62 points, 44 comments",
+      "publishedAt": "2026-10-11T02:02:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+      "summary": "21 points, 2 comments",
+      "publishedAt": "2026-10-11T01:56:04.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Dwarf Fortress uses version control now",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from versi…",
+      "publishedAt": "2026-10-11T00:52:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "summary": "176 points, 79 comments",
+      "publishedAt": "2026-10-11T00:46:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "summary": "35 points, 5 comments",
+      "publishedAt": "2026-10-11T00:45:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "link": "https://github.com/vahmoh25/Veda",
+      "summary": "37 points, 7 comments",
+      "publishedAt": "2026-10-11T00:22:33.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull…",
+      "publishedAt": "2026-10-10T23:58:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Build your own decision model",
       "link": "https://nishtahir.com/build-your-own-decision-model/",
-      "summary": "5 points, 0 comments",
+      "summary": "171 points, 33 comments",
       "publishedAt": "2026-10-10T22:50:10.000Z"
     },
     {
@@ -93,7 +174,7 @@
       "category": "general",
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
-      "summary": "91 points, 38 comments",
+      "summary": "240 points, 84 comments",
       "publishedAt": "2026-10-10T20:31:50.000Z"
     },
     {
@@ -118,18 +199,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "96 points, 62 comments",
-      "publishedAt": "2026-10-10T18:48:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Why DuckDB 2.0 is faster",
       "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "109 points, 34 comments",
+      "summary": "171 points, 52 comments",
       "publishedAt": "2026-10-10T18:08:49.000Z"
     },
     {
@@ -165,7 +237,7 @@
       "category": "general",
       "title": "Knuth reward check",
       "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "126 points, 47 comments",
+      "summary": "173 points, 63 comments",
       "publishedAt": "2026-10-10T15:47:01.000Z"
     },
     {
@@ -194,24 +266,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
       "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act…",
       "publishedAt": "2026-10-10T14:41:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bitwarden Dual License Model",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "summary": "328 points, 240 comments",
-      "publishedAt": "2026-10-10T14:32:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Unikernels were hard. key word: were",
-      "link": "https://ghuntley.com/unikernels/",
-      "summary": "68 points, 30 comments",
-      "publishedAt": "2026-10-10T14:27:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -280,18 +334,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Apple/macOS removed from official Unix registry",
-      "link": "https://www.opengroup.org//openbrand/register/",
-      "summary": "231 points, 210 comments",
-      "publishedAt": "2026-10-10T10:57:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "link": "https://github.com/rociiu/talorys",
-      "summary": "228 points, 114 comments",
+      "summary": "267 points, 123 comments",
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
@@ -309,7 +354,7 @@
       "category": "general",
       "title": "The Lightbulb Computer",
       "link": "https://lightbulbcomputer.com/",
-      "summary": "153 points, 38 comments",
+      "summary": "313 points, 46 comments",
       "publishedAt": "2026-10-10T04:12:26.000Z"
     },
     {
@@ -322,15 +367,6 @@
       "publishedAt": "2026-10-10T03:10:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "397 points, 244 comments",
-      "publishedAt": "2026-10-10T03:02:47.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -340,15 +376,6 @@
       "publishedAt": "2026-10-10T02:04:12.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "REA Reverse – Engineer Anything",
-      "link": "https://rea.tools/",
-      "summary": "671 points, 294 comments",
-      "publishedAt": "2026-10-10T00:37:07.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -356,15 +383,6 @@
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "publishedAt": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How strong is the strong interaction?",
-      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-      "summary": "41 points, 11 comments",
-      "publishedAt": "2026-10-10T00:13:16.000Z"
     },
     {
       "source": "Simon Willison",
@@ -383,15 +401,6 @@
       "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
       "summary": "Dissolved rock precipitated around the tools, which then decayed.",
       "publishedAt": "2026-10-09T22:34:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "link": "https://epoch.ai/publications/innovationeval",
-      "summary": "62 points, 50 comments",
-      "publishedAt": "2026-10-09T22:14:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -529,15 +538,6 @@
       "publishedAt": "2026-10-09T18:24:39.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rampart: Browser native on-device PII radaction",
-      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "summary": "62 points, 28 comments",
-      "publishedAt": "2026-10-09T17:52:07.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -628,6 +628,15 @@
       "publishedAt": "2026-10-09T14:29:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "link": "https://werwolv.net/posts/macromedia_copy_protection/",
+      "summary": "54 points, 8 comments",
+      "publishedAt": "2026-10-09T14:18:03.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -678,7 +687,7 @@
       "category": "general",
       "title": "Nix wrote half of my debugger",
       "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "summary": "93 points, 8 comments",
+      "summary": "159 points, 30 comments",
       "publishedAt": "2026-10-09T07:29:08.000Z"
     },
     {
@@ -705,8 +714,17 @@
       "category": "general",
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "146 points, 32 comments",
+      "summary": "173 points, 40 comments",
       "publishedAt": "2026-10-09T06:52:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "link": "https://hangul.ink/blog/hangul-day",
+      "summary": "18 points, 2 comments",
+      "publishedAt": "2026-10-09T03:58:16.000Z"
     },
     {
       "source": "Simon Willison",
@@ -826,6 +844,15 @@
       "publishedAt": "2026-10-08T06:54:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Retrofitting language models to operate over bytes",
+      "link": "https://www.nature.com/articles/s41586-026-11111-4",
+      "summary": "29 points, 0 comments",
+      "publishedAt": "2026-10-08T02:15:16.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -885,7 +912,7 @@
       "category": "general",
       "title": "2D Vehicles",
       "link": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "308 points, 72 comments",
+      "summary": "396 points, 88 comments",
       "publishedAt": "2026-10-07T12:30:40.000Z"
     },
     {
@@ -997,15 +1024,6 @@
       "publishedAt": "2026-10-06T21:32:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "link": "https://openscad.org/",
-      "summary": "82 points, 75 comments",
-      "publishedAt": "2026-10-06T21:22:44.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1031,33 +1049,6 @@
       "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
       "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterp…",
       "publishedAt": "2026-10-06T19:07:31.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Mistral Large 4",
-      "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "summary": "My comment on Mistral Large 4 &mdash; Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m clau…",
-      "publishedAt": "2026-10-06T18:20:58.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-atom 0.11a0",
-      "link": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
-      "summary": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom , datasette",
-      "publishedAt": "2026-10-06T17:35:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Grieving the loss of details",
-      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "summary": "311 points, 248 comments",
-      "publishedAt": "2026-10-06T16:37:21.000Z"
     },
     {
       "source": "OpenAI",
