@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:49:18.996Z",
+  "updatedAt": "2026-10-12T22:24:41.760Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,7 +52,7 @@
       "category": "ai"
     }
   ],
-  "itemCount": 139,
+  "itemCount": 138,
   "errors": [
     {
       "source": "Google DeepMind",
@@ -61,21 +61,408 @@
   ],
   "items": [
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-      "publishedAt": "2026-10-12T12:47:59.000Z"
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "70 points, 50 comments",
+      "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Hackers activate automatic defrosting accross European supermarket fridges",
+      "title": "Phreak.ing – Internet Phone Switch",
+      "link": "https://phreak.ing/",
+      "summary": "16 points, 0 comments",
+      "publishedAt": "2026-10-12T21:39:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Social Reckoning is flopping at the box office",
+      "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5…",
+      "publishedAt": "2026-10-12T21:20:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Who Is Vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-10-12T21:12:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "link": "https://brickbrag.com/",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-10-12T21:03:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "publishedAt": "2026-10-12T20:59:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "publishedAt": "2026-10-12T20:26:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "summary": "44 points, 4 comments",
+      "publishedAt": "2026-10-12T19:40:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "summary": "25 points, 3 comments",
+      "publishedAt": "2026-10-12T19:36:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+      "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+      "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+      "publishedAt": "2026-10-12T18:46:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "link": "https://github.com/openai/codex/issues/48195",
+      "summary": "375 points, 212 comments",
+      "publishedAt": "2026-10-12T18:29:04.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "publishedAt": "2026-10-12T18:21:36.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported P…",
+      "publishedAt": "2026-10-12T18:15:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "publishedAt": "2026-10-12T17:56:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "publishedAt": "2026-10-12T17:52:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "publishedAt": "2026-10-12T17:19:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta has some Wonder Full new AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t…",
+      "publishedAt": "2026-10-12T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Thinking will become a hobby",
+      "link": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "summary": "184 points, 239 comments",
+      "publishedAt": "2026-10-12T16:54:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "summary": "So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the…",
+      "publishedAt": "2026-10-12T16:52:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Muse Wonder",
+      "link": "https://research.meta.ai/blog/muse-wonder",
+      "summary": "464 points, 249 comments",
+      "publishedAt": "2026-10-12T16:48:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "link": "https://news.ycombinator.com/item?id=50059096",
+      "summary": "74 points, 51 comments",
+      "publishedAt": "2026-10-12T16:46:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "summary": "326 points, 135 comments",
+      "publishedAt": "2026-10-12T16:13:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "GLM-Legal",
+      "link": "https://z.ai/blog/glm-legal",
+      "summary": "373 points, 211 comments",
+      "publishedAt": "2026-10-12T16:11:45.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+      "publishedAt": "2026-10-12T16:01:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "publishedAt": "2026-10-12T15:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people asso…",
+      "publishedAt": "2026-10-12T15:43:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "publishedAt": "2026-10-12T15:31:19.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "publishedAt": "2026-10-12T15:27:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "link": "https://taylor.town/kk-ai-2026",
+      "summary": "108 points, 31 comments",
+      "publishedAt": "2026-10-12T15:16:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "publishedAt": "2026-10-12T15:11:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+      "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+      "summary": "The Basecase seen here with 3D-printed grips and a rear plate that offers (unofficial) compatibility with Lego blocks and minifigs. Most companies have slowed down releasing new Switch 2 cases, but one of my favorite acc…",
+      "publishedAt": "2026-10-12T15:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "F1 in Singapore: There's a new fastest car now",
+      "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+      "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
+      "publishedAt": "2026-10-12T14:43:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "publishedAt": "2026-10-12T14:09:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping w…",
+      "publishedAt": "2026-10-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Android is the best and worst thing about Googlebooks",
+      "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "summary": "I’ve been testing two Googlebooks: this Asus model, and HP’s too. My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a w…",
+      "publishedAt": "2026-10-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "link": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad av…",
+      "publishedAt": "2026-10-12T14:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development",
+      "link": "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Spotify reports that AI-assisted development more than doubled monthly merged changes, prompting a review of quality and reliability controls across its engineering organization. The company describes changes to testing,…",
+      "publishedAt": "2026-10-12T13:57:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "link": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Lik…",
+      "publishedAt": "2026-10-12T13:13:53.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "publishedAt": "2026-10-12T13:00:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "CMF’s first wireless speakers look like musical milk cartons",
+      "link": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+      "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's p…",
+      "publishedAt": "2026-10-12T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+      "link": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+      "summary": "The leaked specs turned out to be spot-on, but there are some neat software updates too. | Image: Google The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official.…",
+      "publishedAt": "2026-10-12T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps a…",
+      "publishedAt": "2026-10-12T12:47:59.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "publishedAt": "2026-10-12T12:43:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "link": "https://github.com/h0m3us3r/w1700k-sdr",
+      "summary": "217 points, 54 comments",
+      "publishedAt": "2026-10-12T12:41:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "summary": "39 points, 18 comments",
+      "summary": "335 points, 553 comments",
       "publishedAt": "2026-10-12T12:16:42.000Z"
     },
     {
@@ -83,27 +470,9 @@
       "color": "#ff6600",
       "category": "general",
       "title": "Citroen revives the 2CV for an electric age",
-      "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
-      "summary": "15 points, 8 comments",
+      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "summary": "230 points, 270 comments",
       "publishedAt": "2026-10-12T12:09:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "How Apple can win the smart home",
-      "link": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
-      "summary": "Apple’s second-gen HomePod. | Photo by Chris Welch / The Verge This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home…",
-      "publishedAt": "2026-10-12T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "QGIS bans AI assisted contributions",
-      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "summary": "116 points, 89 comments",
-      "publishedAt": "2026-10-12T11:22:24.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -133,58 +502,13 @@
       "publishedAt": "2026-10-12T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Inside the mini factory where GM builds its EV future",
-      "link": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-      "summary": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, whi…",
-      "publishedAt": "2026-10-12T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "summary": "307 points, 88 comments",
-      "publishedAt": "2026-10-12T10:21:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "link": "https://github.com/snuri00/ps2-web-recomp",
-      "summary": "88 points, 41 comments",
-      "publishedAt": "2026-10-12T06:46:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Postgres isn't slow, your storage is",
-      "link": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "summary": "127 points, 127 comments",
-      "publishedAt": "2026-10-12T06:36:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "summary": "149 points, 95 comments",
-      "publishedAt": "2026-10-12T05:03:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Type-safe HTML templating in Zig",
-      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "summary": "149 points, 61 comments",
-      "publishedAt": "2026-10-12T05:02:34.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-ports 0.4",
+      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to…",
+      "publishedAt": "2026-10-12T04:57:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -194,33 +518,6 @@
       "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
       "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
       "publishedAt": "2026-10-12T00:59:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Doory – Open-Source Canva",
-      "link": "https://github.com/shaongitbd/doory",
-      "summary": "143 points, 54 comments",
-      "publishedAt": "2026-10-12T00:48:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Whatever became of holography? (2011)",
-      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "summary": "147 points, 74 comments",
-      "publishedAt": "2026-10-11T23:50:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fingerprints are the new cookies",
-      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "465 points, 232 comments",
-      "publishedAt": "2026-10-11T22:33:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -235,7 +532,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
       "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
       "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
       "publishedAt": "2026-10-11T20:51:47.000Z"
@@ -244,28 +541,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "link": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "516 points, 757 comments",
-      "publishedAt": "2026-10-11T20:20:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
-      "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-      "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boul…",
-      "publishedAt": "2026-10-11T20:06:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cartographers of North Korea (2019)",
-      "link": "https://cartographers-nk.wonyoung.so/",
-      "summary": "280 points, 56 comments",
-      "publishedAt": "2026-10-11T19:46:40.000Z"
+      "title": "America's Longest Highway Tunnel (2025)",
+      "link": "https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-10-11T19:12:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -277,15 +556,6 @@
       "publishedAt": "2026-10-11T19:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking w…",
-      "publishedAt": "2026-10-11T18:33:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -295,15 +565,6 @@
       "publishedAt": "2026-10-11T18:10:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "link": "https://nanolathe.gg",
-      "summary": "558 points, 215 comments",
-      "publishedAt": "2026-10-11T18:04:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -311,15 +572,6 @@
       "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
       "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
       "publishedAt": "2026-10-11T17:53:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-      "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-      "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remot…",
-      "publishedAt": "2026-10-11T17:31:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -349,30 +601,12 @@
       "publishedAt": "2026-10-11T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "NASA dumped over 800GB of Artemis II data online",
-      "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-      "summary": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This w…",
-      "publishedAt": "2026-10-11T15:34:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-      "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-      "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known fil…",
-      "publishedAt": "2026-10-11T15:15:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
       "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
       "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
       "publishedAt": "2026-10-11T15:00:00.000Z"
     },
     {
@@ -381,7 +615,7 @@
       "category": "general",
       "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
       "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+      "summary": "Also: New trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One.",
       "publishedAt": "2026-10-11T14:50:24.000Z"
     },
     {
@@ -408,53 +642,8 @@
       "category": "general",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "publishedAt": "2026-10-11T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "summary": "434 points, 448 comments",
-      "publishedAt": "2026-10-11T13:16:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Vurt wants you to look at vertical videos as a genre of their own",
-      "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-      "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok…",
-      "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub.…",
-      "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Horror is big business",
-      "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Su…",
-      "publishedAt": "2026-10-11T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Running the unmodified Linux amdgpu driver on an iPad",
-      "link": "https://github.com/Geramy/LemonSeed-Studio",
-      "summary": "46 points, 16 comments",
-      "publishedAt": "2026-10-11T10:18:18.000Z"
     },
     {
       "source": "Simon Willison",
@@ -480,26 +669,8 @@
       "category": "general",
       "title": "Secret of Orange Cats Revealed After 60-Year Search",
       "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "summary": "47 points, 17 comments",
+      "summary": "211 points, 169 comments",
       "publishedAt": "2026-10-10T22:10:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "publishedAt": "2026-10-10T21:47:51.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "publishedAt": "2026-10-10T19:50:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -507,62 +678,8 @@
       "category": "general",
       "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
       "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "summary": "31 points, 6 comments",
+      "summary": "205 points, 77 comments",
       "publishedAt": "2026-10-10T19:28:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bag of Decisions Reranker",
-      "link": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-      "summary": "15 points, 0 comments",
-      "publishedAt": "2026-10-10T17:12:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "publishedAt": "2026-10-10T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "publishedAt": "2026-10-10T16:25:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Calculus with Julia",
-      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "summary": "161 points, 18 comments",
-      "publishedAt": "2026-10-10T15:59:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be…",
-      "publishedAt": "2026-10-10T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "publishedAt": "2026-10-10T14:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -583,15 +700,6 @@
       "publishedAt": "2026-10-10T07:12:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "publishedAt": "2026-10-10T03:10:06.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -599,15 +707,6 @@
       "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applic…",
       "publishedAt": "2026-10-10T02:04:12.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "publishedAt": "2026-10-10T00:18:32.000Z"
     },
     {
       "source": "Simon Willison",
@@ -651,7 +750,7 @@
       "category": "general",
       "title": "NASA issues long-awaited call to industry for private space stations",
       "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-      "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "summary": "\"We’ve made it clear that NASA will never give up its presence in low-Earth orbit.\"",
       "publishedAt": "2026-10-09T21:34:09.000Z"
     },
     {
@@ -691,33 +790,6 @@
       "publishedAt": "2026-10-09T18:54:52.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-      "publishedAt": "2026-10-09T18:44:06.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Your artwork could be featured in the next Debian release",
-      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-      "publishedAt": "2026-10-09T18:33:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-      "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
-      "publishedAt": "2026-10-09T18:24:39.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -745,15 +817,6 @@
       "publishedAt": "2026-10-09T14:29:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Microsoft barred from sponsoring foreign workers for US residency",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
-      "publishedAt": "2026-10-09T13:14:33.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -763,15 +826,6 @@
       "publishedAt": "2026-10-09T12:54:06.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-      "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-      "publishedAt": "2026-10-09T11:00:57.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -779,15 +833,6 @@
       "link": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec. They discuss replacing reactive monitoring with an AI-driven operational ontology and agentic workflows using C…",
       "publishedAt": "2026-10-09T11:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Volkswagen's replacement for the ID.4 crossover is here",
-      "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-      "publishedAt": "2026-10-09T10:00:59.000Z"
     },
     {
       "source": "OpenAI",
@@ -826,15 +871,6 @@
       "publishedAt": "2026-10-08T23:34:28.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-      "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-      "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-      "publishedAt": "2026-10-08T21:37:32.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -842,24 +878,6 @@
       "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
       "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve probl…",
       "publishedAt": "2026-10-08T21:05:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-      "publishedAt": "2026-10-08T20:53:01.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "publishedAt": "2026-10-08T20:39:31.000Z"
     },
     {
       "source": "OpenAI",
@@ -1015,15 +1033,6 @@
       "publishedAt": "2026-10-07T04:47:55.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
-      "link": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with…",
-      "publishedAt": "2026-10-07T04:43:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1076,24 +1085,6 @@
       "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
       "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary…",
       "publishedAt": "2026-10-06T20:37:53.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NV…",
-      "publishedAt": "2026-10-06T20:18:19.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterp…",
-      "publishedAt": "2026-10-06T19:07:31.000Z"
     },
     {
       "source": "OpenAI",
