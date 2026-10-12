@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:28:47.156Z",
+  "updatedAt": "2026-10-12T04:47:32.593Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,22 +56,67 @@
   "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "TechCrunch",
+      "color": "#0aa860",
       "category": "general",
-      "title": "Google Data Centers around the world",
-      "link": "https://datacenters.google/locations/",
-      "summary": "15 points, 5 comments",
-      "publishedAt": "2026-10-11T22:45:40.000Z"
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "publishedAt": "2026-10-12T00:59:01.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Fingerprints Are the New Cookies",
+      "title": "Doory – Open-Source Canva",
+      "link": "https://github.com/shaongitbd/doory",
+      "summary": "41 points, 4 comments",
+      "publishedAt": "2026-10-12T00:48:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "link": "https://tedhaley.ca/pensieve/",
+      "summary": "44 points, 8 comments",
+      "publishedAt": "2026-10-12T00:03:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "summary": "99 points, 47 comments",
+      "publishedAt": "2026-10-11T23:50:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "summary": "47 points, 0 comments",
+      "publishedAt": "2026-10-11T23:22:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fingerprints are the new cookies",
       "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "8 points, 3 comments",
+      "summary": "188 points, 83 comments",
       "publishedAt": "2026-10-11T22:33:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "summary": "271 points, 71 comments",
+      "publishedAt": "2026-10-11T22:33:30.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,16 +124,16 @@
       "category": "general",
       "title": "Recursive self-improvement through collective intelligence",
       "link": "https://pub.sakana.ai/mass/",
-      "summary": "17 points, 1 comments",
+      "summary": "84 points, 44 comments",
       "publishedAt": "2026-10-11T22:22:10.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Passkeys are a trap. Do not use them",
+      "title": "Passkeys are a trap",
       "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "summary": "116 points, 43 comments",
+      "summary": "404 points, 229 comments",
       "publishedAt": "2026-10-11T21:59:48.000Z"
     },
     {
@@ -104,10 +149,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-      "summary": "101 points, 61 comments",
-      "publishedAt": "2026-10-11T21:07:20.000Z"
+      "title": "Tattoos you can turn on and off",
+      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "summary": "39 points, 11 comments",
+      "publishedAt": "2026-10-11T21:04:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -124,7 +169,7 @@
       "category": "general",
       "title": "The gap in shared understanding of LLM capability is widening",
       "link": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "154 points, 215 comments",
+      "summary": "335 points, 506 comments",
       "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
@@ -140,9 +185,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Cartographers of North Korea",
+      "title": "Cartographers of North Korea (2019)",
       "link": "https://cartographers-nk.wonyoung.so/",
-      "summary": "141 points, 22 comments",
+      "summary": "214 points, 39 comments",
       "publishedAt": "2026-10-11T19:46:40.000Z"
     },
     {
@@ -151,7 +196,7 @@
       "category": "general",
       "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
       "link": "https://theonion.com/archivehunt/",
-      "summary": "219 points, 26 comments",
+      "summary": "281 points, 40 comments",
       "publishedAt": "2026-10-11T19:43:32.000Z"
     },
     {
@@ -176,10 +221,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
       "link": "https://www.ways-of-seeing.com/ch1",
-      "summary": "62 points, 10 comments",
+      "summary": "93 points, 14 comments",
       "publishedAt": "2026-10-11T18:26:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "publishedAt": "2026-10-11T18:10:54.000Z"
     },
     {
       "source": "Hacker News",
@@ -187,17 +241,8 @@
       "category": "general",
       "title": "Total Annihilation, rebuilt for modern computers",
       "link": "https://nanolathe.gg",
-      "summary": "299 points, 129 comments",
+      "summary": "422 points, 180 comments",
       "publishedAt": "2026-10-11T18:04:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "link": "https://www.nyc.gov/main/click-to-cancel",
-      "summary": "300 points, 145 comments",
-      "publishedAt": "2026-10-11T18:01:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -216,15 +261,6 @@
       "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
       "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remot…",
       "publishedAt": "2026-10-11T17:31:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "apsw: Another Python SQLite Wrapper",
-      "link": "https://github.com/rogerbinns/apsw",
-      "summary": "49 points, 13 comments",
-      "publishedAt": "2026-10-11T16:58:22.000Z"
     },
     {
       "source": "TechCrunch",
@@ -286,7 +322,7 @@
       "category": "general",
       "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
       "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
+      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
       "publishedAt": "2026-10-11T14:50:24.000Z"
     },
     {
@@ -322,7 +358,7 @@
       "category": "general",
       "title": "Terence Tao: Math 2.0 [pdf]",
       "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "summary": "289 points, 349 comments",
+      "summary": "350 points, 397 comments",
       "publishedAt": "2026-10-11T13:16:45.000Z"
     },
     {
@@ -342,15 +378,6 @@
       "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
       "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub.…",
       "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The tilde in your PATH may not be your HOME",
-      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "summary": "198 points, 137 comments",
-      "publishedAt": "2026-10-11T12:13:13.000Z"
     },
     {
       "source": "The Verge",
@@ -383,28 +410,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "IRCv3",
-      "link": "https://ircv3.net/",
-      "summary": "329 points, 281 comments",
-      "publishedAt": "2026-10-11T10:11:27.000Z"
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "link": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "summary": "35 points, 4 comments",
+      "publishedAt": "2026-10-11T09:19:46.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "LineageOS 24",
-      "link": "https://lineageos.org/Changelog-32/",
-      "summary": "401 points, 163 comments",
-      "publishedAt": "2026-10-11T06:18:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "summary": "134 points, 101 comments",
-      "publishedAt": "2026-10-11T02:02:38.000Z"
+      "title": "Vectorized CLZ and CTZ",
+      "link": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "summary": "27 points, 3 comments",
+      "publishedAt": "2026-10-11T03:36:42.000Z"
     },
     {
       "source": "Simon Willison",
@@ -461,6 +479,24 @@
       "publishedAt": "2026-10-10T16:25:42.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Calculus with Julia",
+      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "summary": "42 points, 1 comments",
+      "publishedAt": "2026-10-10T15:59:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "link": "https://sebsite.pw/w/20261009-strtod.html",
+      "summary": "14 points, 2 comments",
+      "publishedAt": "2026-10-10T15:39:30.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -468,24 +504,6 @@
       "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be…",
       "publishedAt": "2026-10-10T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Safe SIMD in Rust, even on the inside",
-      "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
-      "summary": "18 points, 1 comments",
-      "publishedAt": "2026-10-10T14:56:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FlowCE: Calculus on your TI-84 Plus CE",
-      "link": "https://tommyb3ll.github.io/FlowCE/",
-      "summary": "17 points, 5 comments",
-      "publishedAt": "2026-10-10T14:43:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -587,15 +605,6 @@
       "publishedAt": "2026-10-09T21:51:12.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "publishedAt": "2026-10-09T21:41:29.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -682,7 +691,7 @@
       "category": "general",
       "title": "I guess I'm using WebP now?",
       "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "summary": "55 points, 58 comments",
+      "summary": "94 points, 95 comments",
       "publishedAt": "2026-10-09T15:32:04.000Z"
     },
     {
@@ -819,15 +828,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
       "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
       "publishedAt": "2026-10-08T20:39:31.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Feds get ready to rewrite car headlight rules",
-      "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-      "summary": "Reducing glare and allowing modern light technologies will be two goals.",
-      "publishedAt": "2026-10-08T20:26:13.000Z"
     },
     {
       "source": "OpenAI",
