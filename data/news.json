@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:37:51.277Z",
+  "updatedAt": "2026-10-14T03:54:34.960Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,33 @@
   "errors": [],
   "items": [
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "publishedAt": "2026-10-14T01:30:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "link": "https://blumify.io/people",
+      "summary": "29 points, 22 comments",
+      "publishedAt": "2026-10-14T01:09:13.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -70,7 +97,7 @@
       "category": "general",
       "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
       "link": "https://pulseos.finance",
-      "summary": "4 points, 0 comments",
+      "summary": "79 points, 44 comments",
       "publishedAt": "2026-10-13T23:13:23.000Z"
     },
     {
@@ -101,6 +128,24 @@
       "publishedAt": "2026-10-13T23:00:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "publishedAt": "2026-10-13T22:48:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Grace Hopper Celebration Cancelled",
+      "link": "https://anitab.org/press-release",
+      "summary": "21 points, 2 comments",
+      "publishedAt": "2026-10-13T22:46:49.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -108,6 +153,15 @@
       "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
       "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
       "publishedAt": "2026-10-13T22:36:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "summary": "95 points, 32 comments",
+      "publishedAt": "2026-10-13T22:33:33.000Z"
     },
     {
       "source": "Simon Willison",
@@ -133,7 +187,7 @@
       "category": "general",
       "title": "AlphaNIST",
       "link": "https://alpha-nist.github.io/",
-      "summary": "19 points, 0 comments",
+      "summary": "56 points, 14 comments",
       "publishedAt": "2026-10-13T21:57:29.000Z"
     },
     {
@@ -144,15 +198,6 @@
       "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
       "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
       "publishedAt": "2026-10-13T21:55:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-      "link": "https://www.pi.website/blog/api-beta",
-      "summary": "11 points, 0 comments",
-      "publishedAt": "2026-10-13T21:55:25.000Z"
     },
     {
       "source": "Ars Technica",
@@ -209,15 +254,6 @@
       "publishedAt": "2026-10-13T20:36:44.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "summary": "333 points, 286 comments",
-      "publishedAt": "2026-10-13T20:23:55.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -254,15 +290,6 @@
       "publishedAt": "2026-10-13T19:50:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "link": "https://parsimony.lasu.dev/",
-      "summary": "31 points, 2 comments",
-      "publishedAt": "2026-10-13T19:50:31.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -286,7 +313,7 @@
       "category": "general",
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "link": "https://guitoro.com/",
-      "summary": "197 points, 76 comments",
+      "summary": "338 points, 96 comments",
       "publishedAt": "2026-10-13T19:11:48.000Z"
     },
     {
@@ -461,6 +488,15 @@
       "publishedAt": "2026-10-13T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: How random are you?",
+      "link": "https://lab.specr.net/rigged-draw/",
+      "summary": "90 points, 51 comments",
+      "publishedAt": "2026-10-13T16:57:57.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -475,7 +511,7 @@
       "category": "general",
       "title": "Gemini 4 Argon",
       "link": "https://deepmind.google/models/gemini/",
-      "summary": "895 points, 699 comments",
+      "summary": "1102 points, 805 comments",
       "publishedAt": "2026-10-13T16:03:16.000Z"
     },
     {
@@ -520,7 +556,7 @@
       "category": "general",
       "title": "Redesigning source control at Anthropic",
       "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "summary": "471 points, 467 comments",
+      "summary": "604 points, 578 comments",
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
@@ -538,7 +574,7 @@
       "category": "general",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "summary": "224 points, 139 comments",
+      "summary": "278 points, 157 comments",
       "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
@@ -556,7 +592,7 @@
       "category": "general",
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "summary": "176 points, 248 comments",
+      "summary": "232 points, 326 comments",
       "publishedAt": "2026-10-13T15:12:57.000Z"
     },
     {
@@ -565,17 +601,8 @@
       "category": "general",
       "title": "Thunderbird for iOS",
       "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "summary": "305 points, 123 comments",
+      "summary": "372 points, 162 comments",
       "publishedAt": "2026-10-13T15:07:37.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-      "publishedAt": "2026-10-13T15:02:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -583,7 +610,7 @@
       "category": "general",
       "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
       "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "summary": "163 points, 273 comments",
+      "summary": "217 points, 360 comments",
       "publishedAt": "2026-10-13T14:26:08.000Z"
     },
     {
@@ -601,7 +628,7 @@
       "category": "general",
       "title": "New Apple TV 4K",
       "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "269 points, 514 comments",
+      "summary": "312 points, 568 comments",
       "publishedAt": "2026-10-13T13:21:35.000Z"
     },
     {
@@ -619,17 +646,8 @@
       "category": "general",
       "title": "Apple HomeView",
       "link": "https://www.apple.com/apple-homeview/",
-      "summary": "631 points, 756 comments",
+      "summary": "694 points, 814 comments",
       "publishedAt": "2026-10-13T13:02:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Firefox Enterprise",
-      "link": "https://www.firefox.com/en-US/enterprise/",
-      "summary": "605 points, 252 comments",
-      "publishedAt": "2026-10-13T12:00:42.000Z"
     },
     {
       "source": "OpenAI",
@@ -648,24 +666,6 @@
       "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Once AI is in production, code arrives faster than it can be reviewed, token costs rise, evals have to be good enough to act on, and agents need permissions and guardrails. QCon AI New York 2026 (December 15-16) has conf…",
       "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "link": "https://eg2.haku.sh/",
-      "summary": "379 points, 85 comments",
-      "publishedAt": "2026-10-13T11:27:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "link": "https://github.com/rust-lang/rust/issues/164250",
-      "summary": "651 points, 363 comments",
-      "publishedAt": "2026-10-13T10:27:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -711,15 +711,6 @@
       "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
       "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
       "publishedAt": "2026-10-12T20:26:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "summary": "123 points, 22 comments",
-      "publishedAt": "2026-10-12T19:28:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -803,15 +794,6 @@
       "publishedAt": "2026-10-12T13:57:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-      "publishedAt": "2026-10-12T13:00:52.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -844,8 +826,17 @@
       "category": "general",
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "summary": "360 points, 290 comments",
+      "summary": "511 points, 373 comments",
       "publishedAt": "2026-10-12T10:09:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "summary": "74 points, 7 comments",
+      "publishedAt": "2026-10-12T09:05:02.000Z"
     },
     {
       "source": "Simon Willison",
@@ -855,6 +846,15 @@
       "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
       "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to…",
       "publishedAt": "2026-10-12T04:57:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sound – Bartosz Ciechanowski",
+      "link": "https://ciechanow.ski/sound/",
+      "summary": "4 points, 1 comments",
+      "publishedAt": "2026-10-11T16:46:43.000Z"
     },
     {
       "source": "InfoQ AI/ML",
