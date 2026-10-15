@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:36:26.417Z",
+  "updatedAt": "2026-10-15T09:39:12.673Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -64,9 +64,45 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "AI was great until it was not",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "summary": "32 points, 12 comments",
+      "publishedAt": "2026-10-15T08:18:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "link": "https://github.com/awslabs/aidlc-workflows",
+      "summary": "6 points, 4 comments",
+      "publishedAt": "2026-10-15T07:20:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "publishedAt": "2026-10-15T04:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "link": "https://github.com/andunieee/flipflop",
+      "summary": "37 points, 11 comments",
+      "publishedAt": "2026-10-15T04:25:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "The Double Headed Stack Allocator",
       "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "summary": "20 points, 1 comments",
+      "summary": "64 points, 18 comments",
       "publishedAt": "2026-10-15T02:06:36.000Z"
     },
     {
@@ -111,7 +147,7 @@
       "category": "general",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "101 points, 25 comments",
+      "summary": "211 points, 44 comments",
       "publishedAt": "2026-10-14T23:59:37.000Z"
     },
     {
@@ -138,7 +174,7 @@
       "category": "general",
       "title": "Tiny Little Office",
       "link": "https://tinylittleoffice.com/",
-      "summary": "209 points, 24 comments",
+      "summary": "429 points, 67 comments",
       "publishedAt": "2026-10-14T22:10:08.000Z"
     },
     {
@@ -192,7 +228,7 @@
       "category": "ai",
       "title": "Tree Appreciator",
       "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appr…",
+      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree app…",
       "publishedAt": "2026-10-14T21:23:01.000Z"
     },
     {
@@ -212,15 +248,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel…",
       "publishedAt": "2026-10-14T21:11:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "link": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "217 points, 72 comments",
-      "publishedAt": "2026-10-14T21:11:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -246,7 +273,7 @@
       "category": "general",
       "title": "OpenCode 2.0",
       "link": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "375 points, 158 comments",
+      "summary": "608 points, 238 comments",
       "publishedAt": "2026-10-14T20:48:24.000Z"
     },
     {
@@ -334,18 +361,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Fancy Curl Sites",
-      "link": "https://nytpu.com/gemlog/2026-03-18",
-      "summary": "94 points, 17 comments",
-      "publishedAt": "2026-10-14T19:29:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Things to know when you get cancer",
       "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "922 points, 228 comments",
+      "summary": "1350 points, 332 comments",
       "publishedAt": "2026-10-14T19:26:30.000Z"
     },
     {
@@ -394,24 +412,6 @@
       "publishedAt": "2026-10-14T18:38:59.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "308 points, 207 comments",
-      "publishedAt": "2026-10-14T18:37:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "324 points, 230 comments",
-      "publishedAt": "2026-10-14T18:32:52.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -421,15 +421,6 @@
       "publishedAt": "2026-10-14T18:23:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "link": "https://petal.live/",
-      "summary": "127 points, 33 comments",
-      "publishedAt": "2026-10-14T18:23:14.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -437,15 +428,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
       "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply…",
       "publishedAt": "2026-10-14T18:22:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "link": "https://oxide.computer/blog/voxel-labs",
-      "summary": "85 points, 9 comments",
-      "publishedAt": "2026-10-14T18:21:14.000Z"
     },
     {
       "source": "The Verge",
@@ -464,15 +446,6 @@
       "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
       "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "publishedAt": "2026-10-14T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "848 points, 465 comments",
-      "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
       "source": "The Verge",
@@ -516,7 +489,7 @@
       "category": "general",
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "link": "https://go.dev/blog/http-connection-reuse",
-      "summary": "214 points, 30 comments",
+      "summary": "254 points, 36 comments",
       "publishedAt": "2026-10-14T16:29:33.000Z"
     },
     {
@@ -534,7 +507,7 @@
       "category": "general",
       "title": "Americans' social activity has steeply declined in the past 30 years",
       "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "summary": "276 points, 281 comments",
+      "summary": "399 points, 375 comments",
       "publishedAt": "2026-10-14T16:09:00.000Z"
     },
     {
@@ -563,15 +536,6 @@
       "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
       "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
       "publishedAt": "2026-10-14T15:16:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "publishedAt": "2026-10-14T15:13:24.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -664,6 +628,15 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Creating a Garmin \"MCP\"",
+      "link": "https://jackantico.io/garmin-mcp",
+      "summary": "33 points, 32 comments",
+      "publishedAt": "2026-10-14T00:52:25.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -700,6 +673,15 @@
       "publishedAt": "2026-10-13T22:28:54.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "summary": "14 points, 2 comments",
+      "publishedAt": "2026-10-13T22:17:41.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -723,7 +705,7 @@
       "category": "general",
       "title": "Donaldson Futuro House in Idyllwild, California, USA",
       "link": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-      "summary": "9 points, 0 comments",
+      "summary": "45 points, 16 comments",
       "publishedAt": "2026-10-13T19:55:41.000Z"
     },
     {
@@ -754,15 +736,6 @@
       "publishedAt": "2026-10-13T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Your C is not standard C",
-      "link": "https://sebsite.pw/w/20261012-notstdc.html",
-      "summary": "46 points, 12 comments",
-      "publishedAt": "2026-10-13T13:36:21.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -770,6 +743,24 @@
       "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
       "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observ…",
       "publishedAt": "2026-10-13T13:32:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "It took me nine years to hack my Xbox 360",
+      "link": "https://kennedn.com/blog/posts/glitching/",
+      "summary": "82 points, 21 comments",
+      "publishedAt": "2026-10-13T12:33:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "summary": "74 points, 28 comments",
+      "publishedAt": "2026-10-13T12:30:08.000Z"
     },
     {
       "source": "OpenAI",
@@ -790,15 +781,6 @@
       "publishedAt": "2026-10-13T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "link": "https://news.ycombinator.com/item?id=50067325",
-      "summary": "45 points, 39 comments",
-      "publishedAt": "2026-10-13T05:54:01.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -815,6 +797,24 @@
       "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
       "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as…",
       "publishedAt": "2026-10-12T23:58:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "link": "https://indigene.app/",
+      "summary": "23 points, 5 comments",
+      "publishedAt": "2026-10-12T23:25:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "summary": "28 points, 9 comments",
+      "publishedAt": "2026-10-12T18:20:17.000Z"
     },
     {
       "source": "Simon Willison",
@@ -883,18 +883,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Phloem: Git history grown like a slime mold",
-      "link": "https://phloem.stemdeck.app/",
-      "summary": "90 points, 20 comments",
-      "publishedAt": "2026-10-12T10:52:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Catch a Bird – I made it for my own sanity",
       "link": "https://catchabird.com",
-      "summary": "32 points, 7 comments",
+      "summary": "168 points, 42 comments",
       "publishedAt": "2026-10-12T08:51:18.000Z"
     },
     {
@@ -912,8 +903,17 @@
       "category": "general",
       "title": "Do dentists know what they're doing?",
       "link": "https://mapwriting.substack.com/p/dentists",
-      "summary": "486 points, 358 comments",
+      "summary": "693 points, 503 comments",
       "publishedAt": "2026-10-12T02:21:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "link": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+      "summary": "39 points, 1 comments",
+      "publishedAt": "2026-10-11T20:36:56.000Z"
     },
     {
       "source": "InfoQ AI/ML",
