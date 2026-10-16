@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:32:23.174Z",
+  "updatedAt": "2026-10-16T14:36:36.813Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,13 +56,229 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "publishedAt": "2026-10-16T14:26:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. Th…",
+      "publishedAt": "2026-10-16T14:15:29.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance",
+      "link": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "A recent InfoQ webinar examined operational challenges in deploying agentic systems. Key points included issues like semantic and embedding drift, which can lead to significant errors. Experts discussed the need for auto…",
+      "publishedAt": "2026-10-16T14:14:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, whic…",
+      "publishedAt": "2026-10-16T14:02:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "publishedAt": "2026-10-16T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks…",
+      "publishedAt": "2026-10-16T13:33:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every config…",
+      "publishedAt": "2026-10-16T13:10:11.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The insider trading you're allowed to do",
-      "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-      "summary": "20 points, 9 comments",
-      "publishedAt": "2026-10-16T07:12:09.000Z"
+      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
+      "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+      "summary": "21 points, 8 comments",
+      "publishedAt": "2026-10-16T13:09:25.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "publishedAt": "2026-10-16T12:55:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I Love Software Rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "summary": "101 points, 68 comments",
+      "publishedAt": "2026-10-16T12:52:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+      "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 releas…",
+      "publishedAt": "2026-10-16T12:36:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The first vibe-coded gun is here",
+      "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "summary": "The WASP. | Image: Defense Distributed Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. N…",
+      "publishedAt": "2026-10-16T12:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "summary": "10 points, 3 comments",
+      "publishedAt": "2026-10-16T12:22:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Artificial intelligence is capitalism's final destination",
+      "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+      "summary": "52 points, 9 comments",
+      "publishedAt": "2026-10-16T12:08:40.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "publishedAt": "2026-10-16T12:00:05.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour",
+      "link": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Grafana Labs is proposing a familiar reliability engineering approach for one of the less familiar problems in modern software: how to measure whether an AI agent is actually behaving well. By Craig Risi",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The iPhone Duo is now available to preorder at $1,999",
+      "link": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+      "summary": "The iPhone Duo is Apple’s first foldable phone. | Photo by Antonio Di Benedetto / The Verge Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's…",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+      "link": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+      "summary": "This MacBook Pro lookalike is designed for developers. After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its br…",
+      "publishedAt": "2026-10-16T12:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Mini book: Evolutionary Architecture in Practice",
+      "link": "https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Discover how to keep software evolvable as systems, technology, and teams shift. This edition explores agentic fitness functions for semantic drift, treating human comprehension as a core design metric, cross-cloud guard…",
+      "publishedAt": "2026-10-16T11:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+      "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
+      "publishedAt": "2026-10-16T11:00:53.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Exploding GPUs",
+      "link": "https://www.infoq.com/presentations/ai-security-kubernetes-gpu-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Andrew Martin discusses why AI security is fundamentally tied to Kubernetes security. He shares insights into the evolving AI threat landscape, covering non-deterministic agent behavior, GPU supply chain vulnerabilities,…",
+      "publishedAt": "2026-10-16T11:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development",
+      "link": "https://www.infoq.com/news/2026/10/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "AWS has introduced two open-source projects for AI agent development: Strands Decider 2B, a small model designed to make decisions within agent workflows, and Strands Box, a sandbox for controlling agent execution. Both…",
+      "publishedAt": "2026-10-16T10:47:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Blue Origin is going all in on the New Glenn rocket",
+      "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+      "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
+      "publishedAt": "2026-10-16T10:00:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "publishedAt": "2026-10-16T10:00:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Time is a-changin’: say goodbye to the leap second",
+      "link": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to…",
+      "publishedAt": "2026-10-16T10:00:25.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -86,28 +302,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Last rites for Gentoo's Chromium package",
-      "link": "https://lwn.net/Articles/1097760/",
-      "summary": "54 points, 42 comments",
-      "publishedAt": "2026-10-16T05:14:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "The Folders Programming Language",
       "link": "https://danieltemkin.com/esolangs/folders",
-      "summary": "52 points, 8 comments",
+      "summary": "152 points, 24 comments",
       "publishedAt": "2026-10-16T05:11:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
-      "summary": "142 points, 33 comments",
-      "publishedAt": "2026-10-16T01:43:17.000Z"
     },
     {
       "source": "The Verge",
@@ -133,7 +331,7 @@
       "category": "general",
       "title": "RPKI now protects 70% of internet routes",
       "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "summary": "153 points, 44 comments",
+      "summary": "194 points, 84 comments",
       "publishedAt": "2026-10-16T00:52:35.000Z"
     },
     {
@@ -151,7 +349,7 @@
       "category": "general",
       "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
       "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "summary": "284 points, 102 comments",
+      "summary": "405 points, 144 comments",
       "publishedAt": "2026-10-15T23:37:42.000Z"
     },
     {
@@ -164,31 +362,13 @@
       "publishedAt": "2026-10-15T23:33:45.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock…",
-      "publishedAt": "2026-10-15T23:18:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca…",
-      "publishedAt": "2026-10-15T22:43:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a…",
-      "publishedAt": "2026-10-15T22:35:55.000Z"
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "link": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-10-15T23:23:51.000Z"
     },
     {
       "source": "Ars Technica",
@@ -198,15 +378,6 @@
       "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
       "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
       "publishedAt": "2026-10-15T22:21:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Re…",
-      "publishedAt": "2026-10-15T21:39:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -225,15 +396,6 @@
       "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
       "summary": "Medical experts explicitly recommend against blanket screenings.",
       "publishedAt": "2026-10-15T21:09:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re…",
-      "publishedAt": "2026-10-15T21:09:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -263,15 +425,6 @@
       "publishedAt": "2026-10-15T20:30:02.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What I self-host",
-      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "summary": "477 points, 297 comments",
-      "publishedAt": "2026-10-15T20:23:25.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -281,24 +434,6 @@
       "publishedAt": "2026-10-15T20:04:53.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others…",
-      "publishedAt": "2026-10-15T19:57:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "summary": "285 points, 183 comments",
-      "publishedAt": "2026-10-15T19:55:49.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -306,15 +441,6 @@
       "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
       "publishedAt": "2026-10-15T19:55:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Withings now charges $100 per year to sync your data to other apps",
-      "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
-      "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. Accordi…",
-      "publishedAt": "2026-10-15T19:52:13.000Z"
     },
     {
       "source": "Simon Willison",
@@ -333,15 +459,6 @@
       "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
       "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
       "publishedAt": "2026-10-15T19:29:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "summary": "342 points, 153 comments",
-      "publishedAt": "2026-10-15T19:21:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -407,15 +524,6 @@
       "publishedAt": "2026-10-15T18:16:36.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model…",
-      "publishedAt": "2026-10-15T18:15:36.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -425,21 +533,12 @@
       "publishedAt": "2026-10-15T18:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-      "summary": "This render with a transparent background is the closest we’ll ever come to touching one of these things. | Image: Sony Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,8…",
-      "publishedAt": "2026-10-15T17:48:57.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Muse Spark Open",
       "link": "https://research.meta.ai/blog/muse-spark-open",
-      "summary": "807 points, 402 comments",
+      "summary": "876 points, 438 comments",
       "publishedAt": "2026-10-15T17:47:39.000Z"
     },
     {
@@ -475,17 +574,8 @@
       "category": "general",
       "title": "Jev meets the Trolley Problem",
       "link": "https://zachlandes.com/trolley-problem/",
-      "summary": "454 points, 197 comments",
+      "summary": "558 points, 227 comments",
       "publishedAt": "2026-10-15T16:24:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "summary": "176 points, 82 comments",
-      "publishedAt": "2026-10-15T16:11:36.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -502,7 +592,7 @@
       "category": "general",
       "title": "Neural networks are clean",
       "link": "https://already-clean.goodfire.com/",
-      "summary": "681 points, 249 comments",
+      "summary": "758 points, 295 comments",
       "publishedAt": "2026-10-15T16:04:01.000Z"
     },
     {
@@ -513,6 +603,15 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "publishedAt": "2026-10-15T15:43:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gyroscopes Got So Small [video]",
+      "link": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "summary": "10 points, 1 comments",
+      "publishedAt": "2026-10-15T15:20:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -569,15 +668,6 @@
       "publishedAt": "2026-10-15T14:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "link": "https://github.com/fyzugx/DEsk",
-      "summary": "606 points, 237 comments",
-      "publishedAt": "2026-10-15T13:23:44.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -596,15 +686,6 @@
       "publishedAt": "2026-10-15T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create t…",
-      "publishedAt": "2026-10-15T12:00:00.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -612,24 +693,6 @@
       "link": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Brendan O'Leary discusses how real-world AI adoption depends on building trust rather than chasing model benchmarks. Drawing from 40 trillion tokens of usage data, he explains the four rungs of the AI adoption ladder and…",
       "publishedAt": "2026-10-15T11:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads",
-      "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
-      "publishedAt": "2026-10-15T10:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "publishedAt": "2026-10-15T04:30:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -677,42 +740,6 @@
       "publishedAt": "2026-10-14T20:48:07.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-      "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-      "publishedAt": "2026-10-14T20:15:56.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-      "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-      "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-      "publishedAt": "2026-10-14T19:53:01.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Software development and rules stability: Prototype racing in 2030",
-      "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-      "publishedAt": "2026-10-14T19:44:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-      "summary": "\"Have you ever seen a world born?\"",
-      "publishedAt": "2026-10-14T19:10:58.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -729,6 +756,15 @@
       "link": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Meta has extended Private Processing to AI glasses, using confidential VMs, trusted execution environments, remote attestation, anonymous credentials, OHTTP routing, and TEE-based storage to process AI workloads and pers…",
       "publishedAt": "2026-10-14T13:57:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Men with Queer Nerves: The Jumping Frenchmen of Maine",
+      "link": "https://publicdomainreview.org/essay/the-jumping-frenchmen-of-maine",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-10-14T12:22:36.000Z"
     },
     {
       "source": "OpenAI",
@@ -752,9 +788,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "link": "https://github.com/mixelpixx/Konnect",
+      "summary": "55 points, 18 comments",
+      "publishedAt": "2026-10-14T10:51:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "The Economic Complexity of the Western Roman Empire",
       "link": "https://www.michelecoscia.com/?p=2613",
-      "summary": "8 points, 1 comments",
+      "summary": "90 points, 15 comments",
       "publishedAt": "2026-10-14T09:32:09.000Z"
     },
     {
@@ -788,10 +833,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "summary": "36 points, 23 comments",
-      "publishedAt": "2026-10-14T03:41:42.000Z"
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "summary": "16 points, 9 comments",
+      "publishedAt": "2026-10-14T04:55:40.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -830,6 +875,15 @@
       "publishedAt": "2026-10-13T22:28:54.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+      "link": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "summary": "59 points, 31 comments",
+      "publishedAt": "2026-10-13T21:42:38.000Z"
+    },
+    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -837,6 +891,15 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Yet another way to invoke functions without parentheses",
+      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "summary": "174 points, 63 comments",
+      "publishedAt": "2026-10-13T19:25:18.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -871,17 +934,8 @@
       "category": "general",
       "title": "Two-Stack Sliding-Window Aggregation",
       "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "summary": "9 points, 0 comments",
+      "summary": "89 points, 17 comments",
       "publishedAt": "2026-10-13T14:40:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "link": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "summary": "141 points, 90 comments",
-      "publishedAt": "2026-10-13T14:14:20.000Z"
     },
     {
       "source": "Simon Willison",
@@ -914,18 +968,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "summary": "134 points, 94 comments",
-      "publishedAt": "2026-10-13T07:52:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "summary": "279 points, 83 comments",
+      "summary": "607 points, 196 comments",
       "publishedAt": "2026-10-13T02:32:53.000Z"
     },
     {
@@ -1046,15 +1091,6 @@
       "publishedAt": "2026-10-10T23:58:04.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
-      "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forward W3C traceparent…",
-      "publishedAt": "2026-10-10T07:12:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1073,15 +1109,6 @@
       "publishedAt": "2026-10-09T22:48:37.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-      "link": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation,…",
-      "publishedAt": "2026-10-09T17:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1091,15 +1118,6 @@
       "publishedAt": "2026-10-09T15:02:29.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
-      "link": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated test…",
-      "publishedAt": "2026-10-09T14:29:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1107,15 +1125,6 @@
       "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
       "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almos…",
       "publishedAt": "2026-10-09T12:54:06.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
-      "link": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec. They discuss replacing reactive monitoring with an AI-driven operational ontology and agentic workflows using C…",
-      "publishedAt": "2026-10-09T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1170,15 +1179,6 @@
       "link": "https://openai.com/index/legalon-halves-codex-costs",
       "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
-      "link": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java. He shares key architectural patterns, domain ownership models, deterministic guardrails, and tracin…",
-      "publishedAt": "2026-10-08T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
