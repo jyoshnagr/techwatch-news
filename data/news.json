@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:39:47.937Z",
+  "updatedAt": "2026-10-16T22:37:21.365Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,156 @@
   "errors": [],
   "items": [
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happe…",
+      "publishedAt": "2026-10-16T22:06:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "publishedAt": "2026-10-16T21:22:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "summary": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to…",
+      "publishedAt": "2026-10-16T20:50:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technolog…",
+      "publishedAt": "2026-10-16T20:49:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "summary": "115 points, 68 comments",
+      "publishedAt": "2026-10-16T20:33:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "publishedAt": "2026-10-16T20:20:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "73 points, 13 comments",
+      "publishedAt": "2026-10-16T19:47:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "summary": "There are still significant hurdles ahead, both technical and legislative.",
+      "publishedAt": "2026-10-16T19:41:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "publishedAt": "2026-10-16T19:40:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "publishedAt": "2026-10-16T19:11:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "163 points, 160 comments",
+      "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "64 points, 12 comments",
+      "publishedAt": "2026-10-16T19:01:17.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
+      "link": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google researchers open sourced EnvHarness, a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the agent, environment, or evaluation system. According to the resear…",
+      "publishedAt": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "517 points, 219 comments",
+      "publishedAt": "2026-10-16T18:55:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "C++26: The New Debugging Header",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "summary": "41 points, 2 comments",
+      "publishedAt": "2026-10-16T18:52:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "link": "https://github.com/cobanov/PS5LM",
+      "summary": "137 points, 40 comments",
+      "publishedAt": "2026-10-16T18:32:35.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
       "title": "Why Apple is finally making its own smart home devices",
       "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "Apple’s Home Collection is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other companies to build smart home de…",
+      "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other comp…",
       "publishedAt": "2026-10-16T18:30:27.000Z"
     },
     {
@@ -70,7 +214,7 @@
       "category": "general",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "28 points, 9 comments",
+      "summary": "127 points, 110 comments",
       "publishedAt": "2026-10-16T18:06:17.000Z"
     },
     {
@@ -79,7 +223,7 @@
       "category": "general",
       "title": "Designing more efficient quantum circuits with Claude",
       "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "15 points, 0 comments",
+      "summary": "75 points, 14 comments",
       "publishedAt": "2026-10-16T18:00:18.000Z"
     },
     {
@@ -106,8 +250,26 @@
       "category": "general",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "146 points, 111 comments",
+      "summary": "342 points, 299 comments",
       "publishedAt": "2026-10-16T17:08:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "publishedAt": "2026-10-16T17:05:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "/dev/null: social network for developers",
+      "link": "https://dev-null.sh",
+      "summary": "101 points, 95 comments",
+      "publishedAt": "2026-10-16T16:57:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -124,7 +286,7 @@
       "category": "general",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "92 points, 61 comments",
+      "summary": "169 points, 133 comments",
       "publishedAt": "2026-10-16T16:12:02.000Z"
     },
     {
@@ -135,15 +297,6 @@
       "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
       "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
       "publishedAt": "2026-10-16T16:06:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "summary": "122 points, 68 comments",
-      "publishedAt": "2026-10-16T16:03:02.000Z"
     },
     {
       "source": "The Verge",
@@ -180,15 +333,6 @@
       "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
       "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
       "publishedAt": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "111 points, 34 comments",
-      "publishedAt": "2026-10-16T15:55:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -248,28 +392,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "summary": "221 points, 328 comments",
+      "publishedAt": "2026-10-16T14:44:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "link": "https://calif.io/research/big-fish",
-      "summary": "119 points, 31 comments",
+      "summary": "152 points, 43 comments",
       "publishedAt": "2026-10-16T14:44:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "link": "https://rstation.ai/",
-      "summary": "36 points, 18 comments",
-      "publishedAt": "2026-10-16T14:35:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "90 points, 28 comments",
-      "publishedAt": "2026-10-16T14:31:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -295,17 +430,8 @@
       "category": "general",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "122 points, 57 comments",
+      "summary": "174 points, 77 comments",
       "publishedAt": "2026-10-16T14:18:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "link": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "summary": "33 points, 18 comments",
-      "publishedAt": "2026-10-16T14:16:34.000Z"
     },
     {
       "source": "The Verge",
@@ -313,7 +439,7 @@
       "category": "general",
       "title": "The incredible flying Tesla Roadster is just for show",
       "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. Th…",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That…",
       "publishedAt": "2026-10-16T14:15:29.000Z"
     },
     {
@@ -367,35 +493,8 @@
       "category": "general",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "183 points, 87 comments",
+      "summary": "243 points, 109 comments",
       "publishedAt": "2026-10-16T13:43:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "link": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "summary": "65 points, 28 comments",
-      "publishedAt": "2026-10-16T13:38:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks…",
-      "publishedAt": "2026-10-16T13:33:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every config…",
-      "publishedAt": "2026-10-16T13:10:11.000Z"
     },
     {
       "source": "TechCrunch",
@@ -405,15 +504,6 @@
       "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
       "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
       "publishedAt": "2026-10-16T12:55:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I Love Software Rendering",
-      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "summary": "230 points, 160 comments",
-      "publishedAt": "2026-10-16T12:52:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -511,7 +601,7 @@
       "category": "general",
       "title": "Tesla Roadster",
       "link": "https://www.tesla.com/roadster",
-      "summary": "589 points, 916 comments",
+      "summary": "1019 points, 1838 comments",
       "publishedAt": "2026-10-16T01:32:45.000Z"
     },
     {
@@ -522,6 +612,15 @@
       "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
       "publishedAt": "2026-10-16T01:17:43.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -540,15 +639,6 @@
       "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
       "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
       "publishedAt": "2026-10-15T23:33:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "link": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "summary": "58 points, 37 comments",
-      "publishedAt": "2026-10-15T23:23:51.000Z"
     },
     {
       "source": "Ars Technica",
@@ -641,15 +731,6 @@
       "publishedAt": "2026-10-15T19:29:05.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "publishedAt": "2026-10-15T19:14:26.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -666,15 +747,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "publishedAt": "2026-10-15T18:56:46.000Z"
     },
     {
       "source": "Ars Technica",
@@ -695,24 +767,6 @@
       "publishedAt": "2026-10-15T18:39:17.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump cancels Pentagon plans to livestream firing squad execution",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
-      "summary": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
-      "publishedAt": "2026-10-15T18:16:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Neutron's first launch slips again amid trouble with carbon composites",
-      "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
-      "publishedAt": "2026-10-15T16:57:24.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -720,24 +774,6 @@
       "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "publishedAt": "2026-10-15T15:43:24.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-      "publishedAt": "2026-10-15T15:12:58.000Z"
     },
     {
       "source": "Simon Willison",
@@ -765,6 +801,15 @@
       "link": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Brendan O'Leary discusses how real-world AI adoption depends on building trust rather than chasing model benchmarks. Drawing from 40 trillion tokens of usage data, he explains the four rungs of the AI adoption ladder and…",
       "publishedAt": "2026-10-15T11:00:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "LaTeX renderer",
+      "link": "https://simonwillison.net/2026/Oct/15/latex/",
+      "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculat…",
+      "publishedAt": "2026-10-15T02:07:28.000Z"
     },
     {
       "source": "OpenAI",
@@ -828,6 +873,15 @@
       "link": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has introduced support for local models in the Antigravity SDK, enabling developers to build and execute agentic workflows directly on their own machines, while retaining the flexibility to mix in cloud-based mode…",
       "publishedAt": "2026-10-14T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "summary": "40 points, 1 comments",
+      "publishedAt": "2026-10-14T07:21:12.000Z"
     },
     {
       "source": "OpenAI",
@@ -896,19 +950,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Yet another way to invoke functions without parentheses",
-      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "summary": "224 points, 99 comments",
-      "publishedAt": "2026-10-13T19:25:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "summary": "66 points, 44 comments",
-      "publishedAt": "2026-10-13T16:26:03.000Z"
+      "title": "Monte-Carlo Simulations",
+      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "summary": "44 points, 7 comments",
+      "publishedAt": "2026-10-13T18:11:46.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -963,15 +1008,6 @@
       "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Once AI is in production, code arrives faster than it can be reviewed, token costs rise, evals have to be good enough to act on, and agents need permissions and guardrails. QCon AI New York 2026 (December 15-16) has conf…",
       "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "summary": "756 points, 229 comments",
-      "publishedAt": "2026-10-13T02:32:53.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1064,15 +1100,6 @@
       "publishedAt": "2026-10-12T04:57:07.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
-      "link": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language models to manage and edit their own context rather than relying on predefined me…",
-      "publishedAt": "2026-10-11T14:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1118,24 +1145,6 @@
       "publishedAt": "2026-10-09T15:02:29.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "A new feature for my blog, built using my voice",
-      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almos…",
-      "publishedAt": "2026-10-09T12:54:06.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1145,13 +1154,13 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "OpenAI",
+      "color": "#10a37f",
       "category": "ai",
-      "title": "ttok 1.0",
-      "link": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "summary": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instea…",
-      "publishedAt": "2026-10-09T00:34:43.000Z"
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1241,15 +1250,6 @@
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "link": "https://openai.com/index/jump-trading",
       "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "publishedAt": "2026-10-06T12:00:00.000Z"
     },
     {
