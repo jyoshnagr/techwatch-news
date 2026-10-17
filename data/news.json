@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:37:21.365Z",
+  "updatedAt": "2026-10-17T03:22:19.908Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,68 @@
       "category": "ai"
     }
   ],
-  "itemCount": 147,
-  "errors": [],
+  "itemCount": 139,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "publishedAt": "2026-10-17T02:36:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "summary": "78 points, 34 comments",
+      "publishedAt": "2026-10-17T02:21:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "link": "https://www.flexport.com/company/careers/",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-10-17T01:01:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease.…",
+      "publishedAt": "2026-10-16T23:36:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use…",
+      "publishedAt": "2026-10-16T22:51:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nine-Inch Snails",
+      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "summary": "36 points, 17 comments",
+      "publishedAt": "2026-10-16T22:21:05.000Z"
+    },
     {
       "source": "Simon Willison",
       "color": "#b3541e",
@@ -72,6 +131,15 @@
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
       "publishedAt": "2026-10-16T21:22:28.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "publishedAt": "2026-10-16T20:59:01.000Z"
     },
     {
       "source": "The Verge",
@@ -92,15 +160,6 @@
       "publishedAt": "2026-10-16T20:49:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I never authorized an integration that scans my secrets",
-      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "summary": "115 points, 68 comments",
-      "publishedAt": "2026-10-16T20:33:41.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -115,7 +174,7 @@
       "category": "general",
       "title": "FLUX 3 Image Klein",
       "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "73 points, 13 comments",
+      "summary": "124 points, 37 comments",
       "publishedAt": "2026-10-16T19:47:13.000Z"
     },
     {
@@ -151,7 +210,7 @@
       "category": "general",
       "title": "How the Claude Code team does code review",
       "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "163 points, 160 comments",
+      "summary": "258 points, 247 comments",
       "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
@@ -160,8 +219,17 @@
       "category": "general",
       "title": "You could have invented transformers from memory",
       "link": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "64 points, 12 comments",
+      "summary": "174 points, 46 comments",
       "publishedAt": "2026-10-16T19:01:17.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "publishedAt": "2026-10-16T19:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -178,7 +246,7 @@
       "category": "general",
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "517 points, 219 comments",
+      "summary": "727 points, 279 comments",
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -187,7 +255,7 @@
       "category": "general",
       "title": "C++26: The New Debugging Header",
       "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "summary": "41 points, 2 comments",
+      "summary": "74 points, 11 comments",
       "publishedAt": "2026-10-16T18:52:39.000Z"
     },
     {
@@ -196,7 +264,7 @@
       "category": "general",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "link": "https://github.com/cobanov/PS5LM",
-      "summary": "137 points, 40 comments",
+      "summary": "222 points, 61 comments",
       "publishedAt": "2026-10-16T18:32:35.000Z"
     },
     {
@@ -214,7 +282,7 @@
       "category": "general",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "127 points, 110 comments",
+      "summary": "183 points, 150 comments",
       "publishedAt": "2026-10-16T18:06:17.000Z"
     },
     {
@@ -223,7 +291,7 @@
       "category": "general",
       "title": "Designing more efficient quantum circuits with Claude",
       "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "75 points, 14 comments",
+      "summary": "109 points, 21 comments",
       "publishedAt": "2026-10-16T18:00:18.000Z"
     },
     {
@@ -239,18 +307,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Piramidal (YC W24) Is Hiring",
-      "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-10-16T17:08:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "342 points, 299 comments",
+      "summary": "422 points, 366 comments",
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -261,15 +320,6 @@
       "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
       "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
       "publishedAt": "2026-10-16T17:05:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "/dev/null: social network for developers",
-      "link": "https://dev-null.sh",
-      "summary": "101 points, 95 comments",
-      "publishedAt": "2026-10-16T16:57:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -286,7 +336,7 @@
       "category": "general",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "169 points, 133 comments",
+      "summary": "216 points, 153 comments",
       "publishedAt": "2026-10-16T16:12:02.000Z"
     },
     {
@@ -394,17 +444,8 @@
       "category": "general",
       "title": "Waymo in Toronto",
       "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "summary": "221 points, 328 comments",
+      "summary": "291 points, 395 comments",
       "publishedAt": "2026-10-16T14:44:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "152 points, 43 comments",
-      "publishedAt": "2026-10-16T14:44:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -425,24 +466,6 @@
       "publishedAt": "2026-10-16T14:19:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "174 points, 77 comments",
-      "publishedAt": "2026-10-16T14:18:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That…",
-      "publishedAt": "2026-10-16T14:15:29.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -459,15 +482,6 @@
       "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
       "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
       "publishedAt": "2026-10-16T14:03:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, whic…",
-      "publishedAt": "2026-10-16T14:02:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -493,7 +507,7 @@
       "category": "general",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "243 points, 109 comments",
+      "summary": "276 points, 126 comments",
       "publishedAt": "2026-10-16T13:43:48.000Z"
     },
     {
@@ -601,7 +615,7 @@
       "category": "general",
       "title": "Tesla Roadster",
       "link": "https://www.tesla.com/roadster",
-      "summary": "1019 points, 1838 comments",
+      "summary": "1251 points, 2248 comments",
       "publishedAt": "2026-10-16T01:32:45.000Z"
     },
     {
@@ -722,15 +736,6 @@
       "publishedAt": "2026-10-15T19:47:52.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-      "publishedAt": "2026-10-15T19:29:05.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -756,24 +761,6 @@
       "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
       "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
       "publishedAt": "2026-10-15T18:48:11.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-      "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-      "summary": "Its effect on people remains an ongoing question.",
-      "publishedAt": "2026-10-15T18:39:17.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -830,6 +817,15 @@
       "publishedAt": "2026-10-14T21:23:01.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ultramarine 1 Flash: Frontier Model 100X Cheaper",
+      "link": "https://www.paperinstruments.com/ultramarine",
+      "summary": "18 points, 2 comments",
+      "publishedAt": "2026-10-14T18:32:17.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -837,6 +833,15 @@
       "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
       "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and…",
       "publishedAt": "2026-10-14T16:26:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I built the RealWorld app in Lean 4",
+      "link": "https://leangineer.com/blog/realworld-in-lean/",
+      "summary": "18 points, 3 comments",
+      "publishedAt": "2026-10-14T15:03:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -880,7 +885,7 @@
       "category": "general",
       "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
       "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "summary": "40 points, 1 comments",
+      "summary": "77 points, 10 comments",
       "publishedAt": "2026-10-14T07:21:12.000Z"
     },
     {
@@ -900,15 +905,6 @@
       "link": "https://openai.com/index/block-ai-powered-security",
       "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
     },
     {
       "source": "OpenAI",
@@ -938,40 +934,13 @@
       "publishedAt": "2026-10-13T22:28:54.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Monte-Carlo Simulations",
       "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "summary": "44 points, 7 comments",
+      "summary": "77 points, 17 comments",
       "publishedAt": "2026-10-13T18:11:46.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1235,24 +1204,6 @@
       "publishedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1260,24 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
       "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "Google AI",
