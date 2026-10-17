@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:29:42.094Z",
+  "updatedAt": "2026-10-17T17:46:57.458Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -55,6 +55,141 @@
   "itemCount": 147,
   "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
+      "link": "https://lwn.net/Articles/1088776/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-10-17T17:14:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "link": "https://www.artie.com/careers",
+      "summary": "1 points, 0 comments",
+      "publishedAt": "2026-10-17T17:02:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cou…",
+      "publishedAt": "2026-10-17T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona…",
+      "publishedAt": "2026-10-17T16:39:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI discloses four more rogue incidents",
+      "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "summary": "38 points, 9 comments",
+      "publishedAt": "2026-10-17T16:31:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "GLP-1 may slow biological aging",
+      "link": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+      "summary": "106 points, 82 comments",
+      "publishedAt": "2026-10-17T16:10:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "summary": "81 points, 12 comments",
+      "publishedAt": "2026-10-17T16:04:23.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "publishedAt": "2026-10-17T15:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the…",
+      "publishedAt": "2026-10-17T15:04:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+      "summary": "Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery…",
+      "publishedAt": "2026-10-17T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives…",
+      "publishedAt": "2026-10-17T14:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "summary": "257 points, 149 comments",
+      "publishedAt": "2026-10-17T14:01:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
+      "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+      "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed…",
+      "publishedAt": "2026-10-17T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making Chicken Transparent Using Dorito Dust",
+      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "summary": "136 points, 45 comments",
+      "publishedAt": "2026-10-17T13:55:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "summary": "44 points, 10 comments",
+      "publishedAt": "2026-10-17T13:51:08.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -113,10 +248,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "summary": "328 points, 131 comments",
-      "publishedAt": "2026-10-17T08:37:46.000Z"
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "summary": "168 points, 23 comments",
+      "publishedAt": "2026-10-17T10:59:31.000Z"
     },
     {
       "source": "Hacker News",
@@ -124,7 +259,7 @@
       "category": "general",
       "title": "DeepSeek-v4.1-Flash-1017",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "262 points, 101 comments",
+      "summary": "444 points, 446 comments",
       "publishedAt": "2026-10-17T08:21:25.000Z"
     },
     {
@@ -151,7 +286,7 @@
       "category": "general",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "link": "https://llmspeed.dev/",
-      "summary": "133 points, 47 comments",
+      "summary": "201 points, 66 comments",
       "publishedAt": "2026-10-17T04:36:53.000Z"
     },
     {
@@ -162,33 +297,6 @@
       "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
       "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
       "publishedAt": "2026-10-17T02:36:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Butlerian Jihad",
-      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "summary": "290 points, 161 comments",
-      "publishedAt": "2026-10-17T02:21:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "All the news about the iPhone Duo",
-      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease.…",
-      "publishedAt": "2026-10-16T23:36:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use…",
-      "publishedAt": "2026-10-16T22:51:22.000Z"
     },
     {
       "source": "Simon Willison",
@@ -218,24 +326,6 @@
       "publishedAt": "2026-10-16T20:59:01.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "summary": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to…",
-      "publishedAt": "2026-10-16T20:50:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technolog…",
-      "publishedAt": "2026-10-16T20:49:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -243,15 +333,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
       "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
       "publishedAt": "2026-10-16T20:20:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FLUX 3 Image Klein",
-      "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "179 points, 51 comments",
-      "publishedAt": "2026-10-16T19:47:13.000Z"
     },
     {
       "source": "Ars Technica",
@@ -281,15 +362,6 @@
       "publishedAt": "2026-10-16T19:11:50.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "You could have invented transformers from memory",
-      "link": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "346 points, 80 comments",
-      "publishedAt": "2026-10-16T19:01:17.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -311,46 +383,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Claude reveals ECDSA curve origins",
-      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "923 points, 339 comments",
-      "publishedAt": "2026-10-16T18:55:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "link": "https://github.com/cobanov/PS5LM",
-      "summary": "311 points, 76 comments",
+      "summary": "349 points, 84 comments",
       "publishedAt": "2026-10-16T18:32:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Why Apple is finally making its own smart home devices",
-      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other comp…",
-      "publishedAt": "2026-10-16T18:30:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "236 points, 212 comments",
-      "publishedAt": "2026-10-16T18:06:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "154 points, 33 comments",
-      "publishedAt": "2026-10-16T18:00:18.000Z"
     },
     {
       "source": "TechCrunch",
@@ -360,6 +396,15 @@
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "publishedAt": "2026-10-16T17:52:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The First Candid",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+      "summary": "34 points, 7 comments",
+      "publishedAt": "2026-10-16T17:28:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -380,15 +425,6 @@
       "publishedAt": "2026-10-16T16:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "285 points, 190 comments",
-      "publishedAt": "2026-10-16T16:12:02.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -396,15 +432,6 @@
       "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
       "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
       "publishedAt": "2026-10-16T16:06:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "summary": "The new Apple TV 4K will be available in November. | Image: The Verge Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the f…",
-      "publishedAt": "2026-10-16T16:02:22.000Z"
     },
     {
       "source": "TechCrunch",
@@ -450,6 +477,15 @@
       "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
       "publishedAt": "2026-10-16T15:33:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rendering pretty sky in Around The World game",
+      "link": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+      "summary": "83 points, 6 comments",
+      "publishedAt": "2026-10-16T15:06:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -504,15 +540,6 @@
       "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
       "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
       "publishedAt": "2026-10-16T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "333 points, 167 comments",
-      "publishedAt": "2026-10-16T13:43:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -596,6 +623,15 @@
       "publishedAt": "2026-10-16T10:00:32.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Development of Norton Commander",
+      "link": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
+      "summary": "51 points, 15 comments",
+      "publishedAt": "2026-10-16T07:41:36.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -614,15 +650,6 @@
       "publishedAt": "2026-10-16T05:16:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tesla Roadster",
-      "link": "https://www.tesla.com/roadster",
-      "summary": "1497 points, 2697 comments",
-      "publishedAt": "2026-10-16T01:32:45.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -635,18 +662,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
@@ -731,15 +758,6 @@
       "publishedAt": "2026-10-15T20:04:53.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "publishedAt": "2026-10-15T19:55:25.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -763,7 +781,7 @@
       "category": "general",
       "title": "Ultramarine 1 Flash",
       "link": "https://www.paperinstruments.com/ultramarine",
-      "summary": "286 points, 94 comments",
+      "summary": "353 points, 103 comments",
       "publishedAt": "2026-10-15T17:06:01.000Z"
     },
     {
@@ -774,24 +792,6 @@
       "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
-      "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
-      "summary": "22 points, 5 comments",
-      "publishedAt": "2026-10-15T15:06:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Intuitive concurrent programming in any language",
-      "link": "https://www.lf-lang.org/",
-      "summary": "77 points, 16 comments",
-      "publishedAt": "2026-10-15T13:18:44.000Z"
     },
     {
       "source": "Simon Willison",
@@ -821,6 +821,33 @@
       "publishedAt": "2026-10-15T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "link": "https://furifont.antfu.me/",
+      "summary": "44 points, 8 comments",
+      "publishedAt": "2026-10-15T08:48:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What changes when your search index lives on S3?",
+      "link": "https://infino.ai/blog/search-index-on-s3/",
+      "summary": "11 points, 7 comments",
+      "publishedAt": "2026-10-15T07:55:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We Still Use Paper",
+      "link": "https://humanpro.co/articles/we-still-use-paper/",
+      "summary": "57 points, 65 comments",
+      "publishedAt": "2026-10-15T07:27:55.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -839,15 +866,6 @@
       "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Orbital Angular Momentum of Light",
-      "link": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
-      "summary": "13 points, 1 comments",
-      "publishedAt": "2026-10-14T21:39:50.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -864,24 +882,6 @@
       "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
       "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and…",
       "publishedAt": "2026-10-14T16:26:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "0/1 Knapsack Problem in PyTorch",
-      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-      "summary": "29 points, 4 comments",
-      "publishedAt": "2026-10-14T15:04:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I built the RealWorld app in Lean 4",
-      "link": "https://leangineer.com/blog/realworld-in-lean/",
-      "summary": "71 points, 7 comments",
-      "publishedAt": "2026-10-14T15:03:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -938,6 +938,15 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Tudor Life in the Time of Plague",
+      "link": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
+      "summary": "26 points, 0 comments",
+      "publishedAt": "2026-10-14T04:23:25.000Z"
+    },
+    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -981,15 +990,6 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Monte-Carlo Simulations",
-      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "summary": "139 points, 27 comments",
-      "publishedAt": "2026-10-13T18:11:46.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -1166,18 +1166,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
