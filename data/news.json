@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T03:22:19.908Z",
+  "updatedAt": "2026-10-17T09:02:50.025Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,45 @@
       "category": "ai"
     }
   ],
-  "itemCount": 139,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 147,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "31 points, 11 comments",
+      "publishedAt": "2026-10-17T08:21:25.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+      "link": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets…",
+      "publishedAt": "2026-10-17T06:28:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+      "link": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Amazon has acquired DuckLabs, the company behind the analytical database DuckDB. Co-founders Hannes Mühleisen and Mark Raasveldt will continue to lead the team under AWS. The acquisition aims to enhance the development a…",
+      "publishedAt": "2026-10-17T06:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "summary": "58 points, 23 comments",
+      "publishedAt": "2026-10-17T04:36:53.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -75,7 +106,7 @@
       "category": "general",
       "title": "Butlerian Jihad",
       "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "summary": "78 points, 34 comments",
+      "summary": "219 points, 117 comments",
       "publishedAt": "2026-10-17T02:21:08.000Z"
     },
     {
@@ -104,15 +135,6 @@
       "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use…",
       "publishedAt": "2026-10-16T22:51:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "summary": "36 points, 17 comments",
-      "publishedAt": "2026-10-16T22:21:05.000Z"
     },
     {
       "source": "Simon Willison",
@@ -174,7 +196,7 @@
       "category": "general",
       "title": "FLUX 3 Image Klein",
       "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "124 points, 37 comments",
+      "summary": "165 points, 45 comments",
       "publishedAt": "2026-10-16T19:47:13.000Z"
     },
     {
@@ -208,18 +230,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "How the Claude Code team does code review",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "258 points, 247 comments",
-      "publishedAt": "2026-10-16T19:04:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "You could have invented transformers from memory",
       "link": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "174 points, 46 comments",
+      "summary": "288 points, 67 comments",
       "publishedAt": "2026-10-16T19:01:17.000Z"
     },
     {
@@ -246,17 +259,8 @@
       "category": "general",
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "727 points, 279 comments",
+      "summary": "858 points, 318 comments",
       "publishedAt": "2026-10-16T18:55:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "C++26: The New Debugging Header",
-      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "summary": "74 points, 11 comments",
-      "publishedAt": "2026-10-16T18:52:39.000Z"
     },
     {
       "source": "Hacker News",
@@ -264,7 +268,7 @@
       "category": "general",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "link": "https://github.com/cobanov/PS5LM",
-      "summary": "222 points, 61 comments",
+      "summary": "284 points, 72 comments",
       "publishedAt": "2026-10-16T18:32:35.000Z"
     },
     {
@@ -282,7 +286,7 @@
       "category": "general",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "183 points, 150 comments",
+      "summary": "217 points, 185 comments",
       "publishedAt": "2026-10-16T18:06:17.000Z"
     },
     {
@@ -291,7 +295,7 @@
       "category": "general",
       "title": "Designing more efficient quantum circuits with Claude",
       "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "109 points, 21 comments",
+      "summary": "138 points, 32 comments",
       "publishedAt": "2026-10-16T18:00:18.000Z"
     },
     {
@@ -302,15 +306,6 @@
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "publishedAt": "2026-10-16T17:52:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "422 points, 366 comments",
-      "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -336,7 +331,7 @@
       "category": "general",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "216 points, 153 comments",
+      "summary": "253 points, 178 comments",
       "publishedAt": "2026-10-16T16:12:02.000Z"
     },
     {
@@ -394,6 +389,15 @@
       "publishedAt": "2026-10-16T15:41:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "summary": "44 points, 3 comments",
+      "publishedAt": "2026-10-16T15:38:28.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -437,15 +441,6 @@
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h…",
       "publishedAt": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Waymo in Toronto",
-      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "summary": "291 points, 395 comments",
-      "publishedAt": "2026-10-16T14:44:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -507,7 +502,7 @@
       "category": "general",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "276 points, 126 comments",
+      "summary": "312 points, 158 comments",
       "publishedAt": "2026-10-16T13:43:48.000Z"
     },
     {
@@ -615,7 +610,7 @@
       "category": "general",
       "title": "Tesla Roadster",
       "link": "https://www.tesla.com/roadster",
-      "summary": "1251 points, 2248 comments",
+      "summary": "1411 points, 2475 comments",
       "publishedAt": "2026-10-16T01:32:45.000Z"
     },
     {
@@ -634,6 +629,15 @@
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
@@ -763,6 +767,33 @@
       "publishedAt": "2026-10-15T18:48:11.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ultramarine 1 Flash",
+      "link": "https://www.paperinstruments.com/ultramarine",
+      "summary": "229 points, 68 comments",
+      "publishedAt": "2026-10-15T17:06:01.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Intuitive concurrent programming in any language",
+      "link": "https://www.lf-lang.org/",
+      "summary": "29 points, 6 comments",
+      "publishedAt": "2026-10-15T13:18:44.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -817,15 +848,6 @@
       "publishedAt": "2026-10-14T21:23:01.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ultramarine 1 Flash: Frontier Model 100X Cheaper",
-      "link": "https://www.paperinstruments.com/ultramarine",
-      "summary": "18 points, 2 comments",
-      "publishedAt": "2026-10-14T18:32:17.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -838,9 +860,27 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Tell HN: Remember to migrate away from .name domain",
+      "link": "https://news.ycombinator.com/item?id=50089577",
+      "summary": "14 points, 5 comments",
+      "publishedAt": "2026-10-14T15:49:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "summary": "19 points, 1 comments",
+      "publishedAt": "2026-10-14T15:04:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "I built the RealWorld app in Lean 4",
       "link": "https://leangineer.com/blog/realworld-in-lean/",
-      "summary": "18 points, 3 comments",
+      "summary": "56 points, 4 comments",
       "publishedAt": "2026-10-14T15:03:14.000Z"
     },
     {
@@ -880,15 +920,6 @@
       "publishedAt": "2026-10-14T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "summary": "77 points, 10 comments",
-      "publishedAt": "2026-10-14T07:21:12.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -905,6 +936,15 @@
       "link": "https://openai.com/index/block-ai-powered-security",
       "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
     },
     {
       "source": "OpenAI",
@@ -934,13 +974,40 @@
       "publishedAt": "2026-10-13T22:28:54.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Monte-Carlo Simulations",
       "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "summary": "77 points, 17 comments",
+      "summary": "117 points, 21 comments",
       "publishedAt": "2026-10-13T18:11:46.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1039,24 +1106,6 @@
       "title": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies",
       "link": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Physical data layout is one of the most consequential decisions in lakehouse engineering. The author compares Liquid Clustering, ZOrdering, and partitioning across four workload types on Delta Lake, uncovering two undocu…",
-      "publishedAt": "2026-10-12T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz",
-      "link": "https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "In this podcast, Michael Stiefel spoke to Joy Ebertz about how the use of artificial intelligence is changing the way architects and developers do their jobs. Focusing on the long term success of the business is one of t…",
-      "publishedAt": "2026-10-12T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
-      "link": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Erik Peterson discusses why AI spend is eclipsing cloud bills, triggering a major software engineering cost crisis. He explains tokenmaxxing, unit economics, forced developer promotions, and why fully autonomous AI will…",
       "publishedAt": "2026-10-12T11:00:00.000Z"
     },
     {
@@ -1195,13 +1244,13 @@
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "publishedAt": "2026-10-07T00:00:00.000Z"
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Google AI",
@@ -1211,6 +1260,24 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
       "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "publishedAt": "2026-09-30T20:01:45.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "Google AI",
