@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:27:53.259Z",
+  "updatedAt": "2026-10-18T09:21:21.987Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,9 +59,63 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "164 points, 72 comments",
+      "publishedAt": "2026-10-18T06:50:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+      "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+      "summary": "38 points, 38 comments",
+      "publishedAt": "2026-10-18T06:36:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "summary": "91 points, 61 comments",
+      "publishedAt": "2026-10-18T05:09:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Notes on the Complex Roots of Unity",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "summary": "22 points, 3 comments",
+      "publishedAt": "2026-10-18T04:49:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "summary": "116 points, 30 comments",
+      "publishedAt": "2026-10-18T04:33:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "summary": "131 points, 128 comments",
+      "publishedAt": "2026-10-18T03:19:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
       "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "summary": "113 points, 24 comments",
+      "summary": "275 points, 98 comments",
       "publishedAt": "2026-10-18T00:14:22.000Z"
     },
     {
@@ -119,33 +173,6 @@
       "publishedAt": "2026-10-17T18:48:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "link": "https://github.com/openai/codex/issues/25921",
-      "summary": "91 points, 33 comments",
-      "publishedAt": "2026-10-17T17:45:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I Became a Citizen of Japan",
-      "link": "https://www.derekwessman.com/blog-1/natural",
-      "summary": "166 points, 78 comments",
-      "publishedAt": "2026-10-17T17:36:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gold is now the top U.S. export",
-      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "summary": "264 points, 135 comments",
-      "publishedAt": "2026-10-17T17:06:07.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -169,7 +196,7 @@
       "category": "general",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "link": "https://pele.run/",
-      "summary": "288 points, 27 comments",
+      "summary": "426 points, 38 comments",
       "publishedAt": "2026-10-17T15:55:09.000Z"
     },
     {
@@ -209,15 +236,6 @@
       "publishedAt": "2026-10-17T14:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "summary": "505 points, 319 comments",
-      "publishedAt": "2026-10-17T14:01:01.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -232,17 +250,8 @@
       "category": "general",
       "title": "Making chicken transparent using Dorito dust",
       "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "summary": "267 points, 68 comments",
+      "summary": "301 points, 81 comments",
       "publishedAt": "2026-10-17T13:55:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "link": "https://celphase.github.io/duck-pond/",
-      "summary": "98 points, 25 comments",
-      "publishedAt": "2026-10-17T13:28:46.000Z"
     },
     {
       "source": "Simon Willison",
@@ -270,6 +279,15 @@
       "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
       "summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wir…",
       "publishedAt": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Interactive Linear Programming in the Browser",
+      "link": "https://lpviz.net/",
+      "summary": "30 points, 0 comments",
+      "publishedAt": "2026-10-17T12:06:44.000Z"
     },
     {
       "source": "The Verge",
@@ -304,7 +322,7 @@
       "category": "general",
       "title": "DeepSeek-v4.1-Flash-1017",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "739 points, 605 comments",
+      "summary": "854 points, 652 comments",
       "publishedAt": "2026-10-17T08:21:25.000Z"
     },
     {
@@ -326,15 +344,6 @@
       "publishedAt": "2026-10-17T06:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Source code of the Estonian online voting system",
-      "link": "https://github.com/valimised/ivxv",
-      "summary": "177 points, 146 comments",
-      "publishedAt": "2026-10-17T03:18:39.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -349,7 +358,7 @@
       "category": "general",
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "225 points, 58 comments",
+      "summary": "272 points, 65 comments",
       "publishedAt": "2026-10-16T23:47:31.000Z"
     },
     {
@@ -358,7 +367,7 @@
       "category": "general",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "link": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "353 points, 77 comments",
+      "summary": "446 points, 99 comments",
       "publishedAt": "2026-10-16T23:38:27.000Z"
     },
     {
@@ -369,6 +378,15 @@
       "link": "https://simonwillison.net/2026/Oct/16/code-review/",
       "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happe…",
       "publishedAt": "2026-10-16T22:06:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "link": "https://teal-language.org/",
+      "summary": "18 points, 0 comments",
+      "publishedAt": "2026-10-16T21:07:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -421,7 +439,7 @@
       "category": "general",
       "title": "You could have invented transformers from memory",
       "link": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "515 points, 120 comments",
+      "summary": "561 points, 127 comments",
       "publishedAt": "2026-10-16T19:01:17.000Z"
     },
     {
@@ -578,15 +596,6 @@
       "publishedAt": "2026-10-16T14:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Superoptimizing an FPU Emulator",
-      "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-      "summary": "3 points, 0 comments",
-      "publishedAt": "2026-10-16T13:08:32.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -671,18 +680,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Processing my father's death by climbing in his footsteps",
-      "link": "https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html",
-      "summary": "7 points, 0 comments",
-      "publishedAt": "2026-10-16T09:35:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Lean now ships with verified kernels",
       "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "summary": "35 points, 2 comments",
+      "summary": "132 points, 45 comments",
       "publishedAt": "2026-10-16T06:16:13.000Z"
     },
     {
@@ -767,6 +767,15 @@
       "publishedAt": "2026-10-15T21:09:57.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "link": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "summary": "28 points, 3 comments",
+      "publishedAt": "2026-10-15T20:55:40.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -801,6 +810,15 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fun Extending the C Preprocessor",
+      "link": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "summary": "22 points, 4 comments",
+      "publishedAt": "2026-10-15T17:08:26.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -844,7 +862,7 @@
       "category": "general",
       "title": "Furifont, a Japanese font that shows furigana",
       "link": "https://furifont.antfu.me/",
-      "summary": "290 points, 59 comments",
+      "summary": "341 points, 69 comments",
       "publishedAt": "2026-10-15T08:48:30.000Z"
     },
     {
@@ -853,7 +871,7 @@
       "category": "general",
       "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "link": "https://github.com/antirez/c64-hw-simulator",
-      "summary": "155 points, 24 comments",
+      "summary": "185 points, 27 comments",
       "publishedAt": "2026-10-15T07:18:14.000Z"
     },
     {
@@ -875,15 +893,6 @@
       "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Custom server to revive neato bots",
-      "link": "https://github.com/vacuula/vacuula",
-      "summary": "15 points, 1 comments",
-      "publishedAt": "2026-10-14T23:48:38.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -891,15 +900,6 @@
       "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree app…",
       "publishedAt": "2026-10-14T21:23:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Types of types: Haskell's Kind system",
-      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "summary": "62 points, 33 comments",
-      "publishedAt": "2026-10-14T17:00:31.000Z"
     },
     {
       "source": "Simon Willison",
