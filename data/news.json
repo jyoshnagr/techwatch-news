@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:16:14.546Z",
+  "updatedAt": "2026-10-19T03:39:29.635Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,90 @@
       "category": "ai"
     }
   ],
-  "itemCount": 139,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 147,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "13 points, 6 comments",
+      "publishedAt": "2026-10-19T02:01:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "summary": "38 points, 10 comments",
+      "publishedAt": "2026-10-19T01:55:03.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins…",
+      "publishedAt": "2026-10-18T23:43:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
+      "summary": "91 points, 13 comments",
+      "publishedAt": "2026-10-18T23:37:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "summary": "23 points, 5 comments",
+      "publishedAt": "2026-10-18T23:37:54.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-echo 0.5",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the p…",
+      "publishedAt": "2026-10-18T23:16:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not sha…",
+      "publishedAt": "2026-10-18T22:20:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "summary": "54 points, 37 comments",
+      "publishedAt": "2026-10-18T21:36:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "66 points, 46 comments",
+      "publishedAt": "2026-10-18T21:09:12.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -75,7 +151,7 @@
       "category": "general",
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "link": "https://arxiv.org/abs/2610.18861",
-      "summary": "77 points, 30 comments",
+      "summary": "259 points, 153 comments",
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
@@ -111,7 +187,7 @@
       "category": "general",
       "title": "Free Pascal compiler now supports dynamic packages",
       "link": "https://www.getlazarus.org/dynamic/",
-      "summary": "79 points, 13 comments",
+      "summary": "122 points, 24 comments",
       "publishedAt": "2026-10-18T18:48:04.000Z"
     },
     {
@@ -129,17 +205,8 @@
       "category": "general",
       "title": "PalmOS Lemmings",
       "link": "https://github.com/ardiri/palmos-lemmings",
-      "summary": "65 points, 19 comments",
+      "summary": "101 points, 24 comments",
       "publishedAt": "2026-10-18T17:56:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Namecheap just seized and disabled all my domains",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "summary": "316 points, 155 comments",
-      "publishedAt": "2026-10-18T16:56:56.000Z"
     },
     {
       "source": "Hacker News",
@@ -147,7 +214,7 @@
       "category": "general",
       "title": "Someone behind the software",
       "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "summary": "247 points, 101 comments",
+      "summary": "349 points, 141 comments",
       "publishedAt": "2026-10-18T16:32:00.000Z"
     },
     {
@@ -178,15 +245,6 @@
       "publishedAt": "2026-10-18T16:25:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "summary": "78 points, 22 comments",
-      "publishedAt": "2026-10-18T16:20:27.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -205,15 +263,6 @@
       "publishedAt": "2026-10-18T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "summary": "119 points, 94 comments",
-      "publishedAt": "2026-10-18T14:47:37.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -228,7 +277,7 @@
       "category": "general",
       "title": "RepRapMicron",
       "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "summary": "304 points, 46 comments",
+      "summary": "345 points, 55 comments",
       "publishedAt": "2026-10-18T13:48:48.000Z"
     },
     {
@@ -239,15 +288,6 @@
       "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
       "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentione…",
       "publishedAt": "2026-10-18T13:25:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "link": "https://legendofhyrule.com/",
-      "summary": "149 points, 84 comments",
-      "publishedAt": "2026-10-18T13:06:54.000Z"
     },
     {
       "source": "The Verge",
@@ -280,18 +320,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "summary": "511 points, 251 comments",
-      "publishedAt": "2026-10-18T06:50:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
       "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "summary": "68 points, 52 comments",
+      "summary": "152 points, 88 comments",
       "publishedAt": "2026-10-18T01:38:08.000Z"
     },
     {
@@ -300,17 +331,8 @@
       "category": "general",
       "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
       "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "summary": "57 points, 17 comments",
+      "summary": "222 points, 229 comments",
       "publishedAt": "2026-10-17T23:26:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
-      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-      "summary": "49 points, 0 comments",
-      "publishedAt": "2026-10-17T23:08:30.000Z"
     },
     {
       "source": "Hacker News",
@@ -318,7 +340,7 @@
       "category": "general",
       "title": "I built a programming language that LLMs can't use",
       "link": "https://blog.picheta.me/post/killswitch-lang/",
-      "summary": "27 points, 24 comments",
+      "summary": "106 points, 84 comments",
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
@@ -343,7 +365,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
       "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "publishedAt": "2026-10-17T20:55:52.000Z"
@@ -356,15 +378,6 @@
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "publishedAt": "2026-10-17T20:21:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "TikTok bans Musk documentary account",
-      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images…",
-      "publishedAt": "2026-10-17T19:32:23.000Z"
     },
     {
       "source": "TechCrunch",
@@ -383,15 +396,6 @@
       "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
       "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
       "publishedAt": "2026-10-17T15:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Developing for Debugging (2025)",
-      "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-      "summary": "16 points, 0 comments",
-      "publishedAt": "2026-10-17T13:34:43.000Z"
     },
     {
       "source": "Simon Willison",
@@ -448,6 +452,15 @@
       "publishedAt": "2026-10-17T02:36:18.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The DNS Museum",
+      "link": "https://dns.museum",
+      "summary": "14 points, 0 comments",
+      "publishedAt": "2026-10-16T22:21:34.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -493,6 +506,15 @@
       "publishedAt": "2026-10-16T19:40:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "\"Traditional, but Puzzling\"",
+      "link": "https://unsung.aresluna.org/traditional-but-puzzling/",
+      "summary": "28 points, 4 comments",
+      "publishedAt": "2026-10-16T19:17:23.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -525,7 +547,7 @@
       "category": "general",
       "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
       "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-      "summary": "22 points, 5 comments",
+      "summary": "57 points, 9 comments",
       "publishedAt": "2026-10-16T18:07:44.000Z"
     },
     {
@@ -655,15 +677,6 @@
       "publishedAt": "2026-10-16T14:00:59.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-      "link": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-      "summary": "43 points, 34 comments",
-      "publishedAt": "2026-10-16T13:30:20.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -739,7 +752,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions",
+      "title": "Microsoft Commits Maia to Multi-Gigawatt Inference, and its Efficiency Metric Draws Questions",
       "link": "https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Microsoft will scale its Maia accelerator family to multi-gigawatt deployments from 2027, making it the primary inference system for its own products. Maia 300 collapses scale-up and scale-out onto one Ethernet fabric an…",
       "publishedAt": "2026-10-16T06:02:00.000Z"
@@ -761,6 +774,15 @@
       "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Laptop Based on 6502 CPU",
+      "link": "https://www.maddox.pro/?p=448",
+      "summary": "55 points, 24 comments",
+      "publishedAt": "2026-10-15T22:56:23.000Z"
     },
     {
       "source": "Ars Technica",
@@ -817,6 +839,15 @@
       "publishedAt": "2026-10-15T19:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -833,6 +864,15 @@
       "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "publishedAt": "2026-10-15T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Faster command recall with substring search",
+      "link": "https://www.dantleech.com/blog/2026/10/15/faster-command-recall-with-substring-search./",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-15T12:52:54.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -858,7 +898,7 @@
       "category": "general",
       "title": "16-bit fully functional DIY magnetic core memory",
       "link": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-      "summary": "11 points, 2 comments",
+      "summary": "41 points, 18 comments",
       "publishedAt": "2026-10-15T01:51:02.000Z"
     },
     {
@@ -871,15 +911,6 @@
       "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "SIGSALY: Churchill's top secret hotline to the president",
-      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "summary": "94 points, 30 comments",
-      "publishedAt": "2026-10-14T22:07:47.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -887,15 +918,6 @@
       "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree app…",
       "publishedAt": "2026-10-14T21:23:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I electrified my push scooter with a power drill",
-      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-      "summary": "100 points, 41 comments",
-      "publishedAt": "2026-10-14T18:53:52.000Z"
     },
     {
       "source": "Simon Willison",
@@ -961,6 +983,15 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -986,6 +1017,33 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1105,22 +1163,13 @@
       "publishedAt": "2026-10-11T00:52:37.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "OpenAI",
+      "color": "#10a37f",
       "category": "ai",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull…",
-      "publishedAt": "2026-10-10T23:58:04.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting The New York Times",
-      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applic…",
-      "publishedAt": "2026-10-10T02:04:12.000Z"
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1129,15 +1178,6 @@
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "link": "https://openai.com/index/asana-browser-agent",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
@@ -1204,6 +1244,15 @@
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1211,6 +1260,24 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
       "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "publishedAt": "2026-09-30T20:01:45.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "Google AI",
