@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:50:03.597Z",
+  "updatedAt": "2026-10-20T09:50:04.926Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,16 +52,93 @@
       "category": "ai"
     }
   ],
-  "itemCount": 146,
-  "errors": [],
+  "itemCount": 138,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "link": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-10-20T09:30:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fizzpoker – No-login Online Poker with friends",
+      "link": "https://www.fizzpoker.com",
+      "summary": "5 points, 4 comments",
+      "publishedAt": "2026-10-20T08:55:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "There is no official XScreenSaver GitHub repository",
+      "link": "https://github.com/xscreensaver-official/xscreensaver",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-10-20T08:51:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "publishedAt": "2026-10-20T07:01:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "link": "https://github.com/microg/GmsCore/wiki",
+      "summary": "31 points, 2 comments",
+      "publishedAt": "2026-10-20T06:37:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "publishedAt": "2026-10-20T05:59:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "summary": "The bright spotlight’s focused beam improves the quality of video captured at night while scaring off unwanted visitors. | Image: Baseus Baseus announced a new addition to its lineup of AI-assisted security cameras that'…",
+      "publishedAt": "2026-10-20T04:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "link": "https://github.com/golang/go/issues/82345",
+      "summary": "97 points, 35 comments",
+      "publishedAt": "2026-10-20T03:05:07.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "OpenBSD 8.0",
       "link": "https://www.openbsd.org/80.html",
-      "summary": "25 points, 6 comments",
+      "summary": "293 points, 87 comments",
       "publishedAt": "2026-10-20T02:06:40.000Z"
     },
     {
@@ -72,15 +149,6 @@
       "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
       "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
       "publishedAt": "2026-10-20T02:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-      "link": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-      "summary": "43 points, 18 comments",
-      "publishedAt": "2026-10-20T01:34:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -95,18 +163,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "summary": "229 points, 120 comments",
-      "publishedAt": "2026-10-20T00:53:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "France's supermarket fridges were vulnerable online for months",
       "link": "https://ipinfo.io/blog/france-fridges-hack",
-      "summary": "71 points, 65 comments",
+      "summary": "170 points, 152 comments",
       "publishedAt": "2026-10-20T00:00:49.000Z"
     },
     {
@@ -133,8 +192,17 @@
       "category": "general",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "summary": "88 points, 12 comments",
+      "summary": "434 points, 123 comments",
       "publishedAt": "2026-10-19T23:22:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How abliterated models can get you pwned",
+      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "summary": "128 points, 75 comments",
+      "publishedAt": "2026-10-19T23:08:52.000Z"
     },
     {
       "source": "TechCrunch",
@@ -160,7 +228,7 @@
       "category": "general",
       "title": "An ad-free Android TV",
       "link": "https://cretezy.com/2026/ad-free-android-tv",
-      "summary": "63 points, 16 comments",
+      "summary": "213 points, 66 comments",
       "publishedAt": "2026-10-19T22:32:37.000Z"
     },
     {
@@ -200,15 +268,6 @@
       "publishedAt": "2026-10-19T21:28:20.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "link": "https://bsd.network/@brynet/117407035545900963",
-      "summary": "112 points, 27 comments",
-      "publishedAt": "2026-10-19T21:11:45.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -225,15 +284,6 @@
       "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
       "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
       "publishedAt": "2026-10-19T20:54:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "One Hash Bloom Filters",
-      "link": "https://calabro.io/ohbf",
-      "summary": "67 points, 10 comments",
-      "publishedAt": "2026-10-19T20:50:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -374,18 +424,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Android apps running native on macOS",
-      "link": "https://github.com/kksimp/Mac.apk",
-      "summary": "282 points, 147 comments",
-      "publishedAt": "2026-10-19T16:45:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "MiniMax M3.1 Flash",
       "link": "https://www.minimax.io/blog/minimax-m31f",
-      "summary": "406 points, 174 comments",
+      "summary": "465 points, 198 comments",
       "publishedAt": "2026-10-19T16:39:09.000Z"
     },
     {
@@ -403,7 +444,7 @@
       "category": "general",
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "47 points, 62 comments",
+      "summary": "248 points, 209 comments",
       "publishedAt": "2026-10-19T16:16:46.000Z"
     },
     {
@@ -448,7 +489,7 @@
       "category": "general",
       "title": "Ukraine claims first drone evacuation of wounded soldier",
       "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "summary": "161 points, 119 comments",
+      "summary": "290 points, 218 comments",
       "publishedAt": "2026-10-19T15:31:34.000Z"
     },
     {
@@ -488,21 +529,12 @@
       "publishedAt": "2026-10-19T14:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-      "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-      "summary": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. T…",
-      "publishedAt": "2026-10-19T14:24:42.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Wine ported to OpenBSD",
       "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "summary": "521 points, 174 comments",
+      "summary": "568 points, 194 comments",
       "publishedAt": "2026-10-19T13:35:34.000Z"
     },
     {
@@ -601,7 +633,7 @@
       "category": "general",
       "title": "I built a drone with only one motor [video]",
       "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "summary": "441 points, 97 comments",
+      "summary": "543 points, 111 comments",
       "publishedAt": "2026-10-19T09:05:07.000Z"
     },
     {
@@ -612,15 +644,6 @@
       "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
       "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
       "publishedAt": "2026-10-19T07:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Starcraft: Ashfall",
-      "link": "https://starcraft-shooter-2026.pages.dev/",
-      "summary": "358 points, 113 comments",
-      "publishedAt": "2026-10-19T01:18:02.000Z"
     },
     {
       "source": "Simon Willison",
@@ -641,15 +664,6 @@
       "publishedAt": "2026-10-18T23:16:16.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "publishedAt": "2026-10-18T21:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -662,37 +676,28 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "link": "https://github.com/tywr/Nordwand-Mono",
+      "summary": "251 points, 77 comments",
+      "publishedAt": "2026-10-18T14:48:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Weball: Play Katamari on Websites",
       "link": "https://www.funwithcomputervision.com/weball/",
-      "summary": "110 points, 10 comments",
+      "summary": "207 points, 16 comments",
       "publishedAt": "2026-10-18T12:39:56.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The ovary doesn't retire after menopause",
-      "link": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
-      "summary": "43 points, 5 comments",
-      "publishedAt": "2026-10-18T03:48:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "link": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "summary": "169 points, 64 comments",
-      "publishedAt": "2026-10-17T23:24:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
-      "link": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-      "summary": "17 points, 10 comments",
-      "publishedAt": "2026-10-17T21:12:16.000Z"
+      "title": "Restoration of Retinal Regenerative Potential",
+      "link": "https://www.nature.com/articles/s41467-025-58290-8",
+      "summary": "54 points, 4 comments",
+      "publishedAt": "2026-10-18T11:32:38.000Z"
     },
     {
       "source": "Simon Willison",
@@ -709,8 +714,17 @@
       "category": "general",
       "title": "It's still ok to enjoy programming",
       "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "summary": "492 points, 458 comments",
+      "summary": "600 points, 518 comments",
       "publishedAt": "2026-10-17T19:53:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making a 88x31 button book using ImageMagick",
+      "link": "https://k.sosnierz.me/08-11-24/",
+      "summary": "20 points, 2 comments",
+      "publishedAt": "2026-10-17T15:55:43.000Z"
     },
     {
       "source": "Simon Willison",
@@ -783,15 +797,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
       "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
       "publishedAt": "2026-10-16T20:20:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "summary": "There are still significant hurdles ahead, both technical and legislative.",
-      "publishedAt": "2026-10-16T19:41:18.000Z"
     },
     {
       "source": "OpenAI",
@@ -900,15 +905,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1028,15 +1024,6 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1062,33 +1049,6 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1244,15 +1204,6 @@
       "publishedAt": "2026-10-07T12:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1260,24 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
       "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "Anthropic",
