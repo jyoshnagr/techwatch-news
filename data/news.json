@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T03:40:57.497Z",
+  "updatedAt": "2026-10-21T09:52:09.476Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,42 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "summary": "25 points, 2 comments",
+      "publishedAt": "2026-10-21T09:08:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "summary": "85 points, 28 comments",
+      "publishedAt": "2026-10-21T09:07:49.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "summary": "56 points, 32 comments",
+      "publishedAt": "2026-10-21T03:51:25.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -63,6 +99,15 @@
       "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0. It automatically accelerates Java programs on multi-core CPUs and GPUs and provides a rich GPU programming ecosystem in Java…",
       "publishedAt": "2026-10-21T03:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "C# now beats Rust on WASM size",
+      "link": "https://github.com/zion-sati/NetWasm",
+      "summary": "64 points, 15 comments",
+      "publishedAt": "2026-10-21T02:53:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -79,7 +124,7 @@
       "category": "general",
       "title": "In Hilbert space, all things are quantumly possible",
       "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "summary": "26 points, 9 comments",
+      "summary": "97 points, 51 comments",
       "publishedAt": "2026-10-21T02:04:15.000Z"
     },
     {
@@ -88,7 +133,7 @@
       "category": "general",
       "title": "The Future of CSS",
       "link": "https://www.joshwcomeau.com/css/interop-2027/",
-      "summary": "49 points, 15 comments",
+      "summary": "372 points, 152 comments",
       "publishedAt": "2026-10-21T01:47:28.000Z"
     },
     {
@@ -97,7 +142,7 @@
       "category": "general",
       "title": "Good type against all odds",
       "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "summary": "33 points, 5 comments",
+      "summary": "123 points, 12 comments",
       "publishedAt": "2026-10-21T01:45:07.000Z"
     },
     {
@@ -133,7 +178,7 @@
       "category": "general",
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "link": "https://www.thebeliever.net/the-other-epidemic/",
-      "summary": "91 points, 61 comments",
+      "summary": "199 points, 146 comments",
       "publishedAt": "2026-10-20T23:04:09.000Z"
     },
     {
@@ -142,7 +187,7 @@
       "category": "general",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "publishedAt": "2026-10-20T23:01:23.000Z"
     },
     {
@@ -160,7 +205,7 @@
       "category": "general",
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "publishedAt": "2026-10-20T22:24:02.000Z"
     },
     {
@@ -169,7 +214,7 @@
       "category": "general",
       "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
       "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "128 points, 49 comments",
+      "summary": "203 points, 94 comments",
       "publishedAt": "2026-10-20T22:21:05.000Z"
     },
     {
@@ -259,7 +304,7 @@
       "category": "general",
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "publishedAt": "2026-10-20T20:40:41.000Z"
     },
     {
@@ -311,9 +356,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Upcoming critical PHP security release",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "link": "https://news-web.php.net/php.announce/509",
-      "summary": "167 points, 48 comments",
+      "summary": "839 points, 335 comments",
       "publishedAt": "2026-10-20T20:15:50.000Z"
     },
     {
@@ -421,7 +466,7 @@
       "category": "general",
       "title": "Show HN: SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
-      "summary": "626 points, 317 comments",
+      "summary": "795 points, 376 comments",
       "publishedAt": "2026-10-20T18:29:09.000Z"
     },
     {
@@ -461,15 +506,6 @@
       "publishedAt": "2026-10-20T17:40:20.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "summary": "305 points, 368 comments",
-      "publishedAt": "2026-10-20T17:25:07.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -484,7 +520,7 @@
       "category": "general",
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "link": "https://github.com/google-pytorch/torch_tpu",
-      "summary": "285 points, 64 comments",
+      "summary": "342 points, 73 comments",
       "publishedAt": "2026-10-20T16:40:24.000Z"
     },
     {
@@ -502,7 +538,7 @@
       "category": "general",
       "title": "Voxtral 3",
       "link": "https://mistral.ai/news/voxtral-3/",
-      "summary": "556 points, 146 comments",
+      "summary": "674 points, 168 comments",
       "publishedAt": "2026-10-20T16:02:07.000Z"
     },
     {
@@ -524,15 +560,6 @@
       "publishedAt": "2026-10-20T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "summary": "220 points, 129 comments",
-      "publishedAt": "2026-10-20T15:59:06.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -551,15 +578,6 @@
       "publishedAt": "2026-10-20T14:53:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ofcom concedes defeat in 4chan case",
-      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "summary": "350 points, 262 comments",
-      "publishedAt": "2026-10-20T14:30:31.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -574,17 +592,8 @@
       "category": "general",
       "title": "eMudhra intermediate CA compromise",
       "link": "https://emudhra.we-have-a-problem.com/",
-      "summary": "710 points, 346 comments",
+      "summary": "947 points, 399 comments",
       "publishedAt": "2026-10-20T13:58:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "link": "https://blog.cloudflare.com/typescript-rust-port/",
-      "summary": "366 points, 177 comments",
-      "publishedAt": "2026-10-20T13:18:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -626,10 +635,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "summary": "509 points, 265 comments",
-      "publishedAt": "2026-10-20T12:17:28.000Z"
+      "title": "Four Years with Decker",
+      "link": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "summary": "40 points, 6 comments",
+      "publishedAt": "2026-10-20T12:18:02.000Z"
     },
     {
       "source": "Ars Technica",
@@ -650,15 +659,6 @@
       "publishedAt": "2026-10-20T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "summary": "352 points, 175 comments",
-      "publishedAt": "2026-10-20T10:26:02.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -666,15 +666,6 @@
       "link": "https://openai.com/index/ted-taylor-restaurant",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "publishedAt": "2026-10-20T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
-      "summary": "2167 points, 841 comments",
-      "publishedAt": "2026-10-20T09:08:54.000Z"
     },
     {
       "source": "OpenAI",
@@ -731,6 +722,15 @@
       "publishedAt": "2026-10-19T20:54:17.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-10-19T12:13:36.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -770,9 +770,27 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "The Decoherence Trap",
+      "link": "https://maevyn.codes/decoherence",
+      "summary": "42 points, 11 comments",
+      "publishedAt": "2026-10-19T08:35:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "summary": "27 points, 26 comments",
+      "publishedAt": "2026-10-19T05:54:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "ZX Spectrum Next Laptop",
       "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "summary": "7 points, 0 comments",
+      "summary": "79 points, 13 comments",
       "publishedAt": "2026-10-19T02:48:11.000Z"
     },
     {
@@ -792,15 +810,6 @@
       "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
       "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the p…",
       "publishedAt": "2026-10-18T23:16:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "To Make, or to Buy: The Economics of Decision Models",
-      "link": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-      "summary": "13 points, 0 comments",
-      "publishedAt": "2026-10-18T17:40:56.000Z"
     },
     {
       "source": "Simon Willison",
@@ -945,15 +954,6 @@
       "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
       "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seem…",
       "publishedAt": "2026-10-15T19:47:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "summary": "196 points, 84 comments",
-      "publishedAt": "2026-10-15T19:09:34.000Z"
     },
     {
       "source": "OpenAI",
@@ -1202,18 +1202,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
