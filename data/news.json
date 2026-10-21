@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:58:34.129Z",
+  "updatedAt": "2026-10-21T03:40:57.497Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,99 @@
       "category": "ai"
     }
   ],
-  "itemCount": 148,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 156,
+  "errors": [],
   "items": [
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
+      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0. It automatically accelerates Java programs on multi-core CPUs and GPUs and provides a rich GPU programming ecosystem in Java…",
+      "publishedAt": "2026-10-21T03:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "publishedAt": "2026-10-21T02:12:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "26 points, 9 comments",
+      "publishedAt": "2026-10-21T02:04:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Future of CSS",
+      "link": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": "49 points, 15 comments",
+      "publishedAt": "2026-10-21T01:47:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Good type against all odds",
+      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "summary": "33 points, 5 comments",
+      "publishedAt": "2026-10-21T01:45:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "YouTube might be testing hiding the dislike button",
+      "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and…",
+      "publishedAt": "2026-10-21T00:00:56.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "eMudhra Intermediate CA Compromise",
+      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrom…",
+      "publishedAt": "2026-10-20T23:50:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by…",
+      "publishedAt": "2026-10-20T23:04:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "link": "https://www.thebeliever.net/the-other-epidemic/",
+      "summary": "91 points, 61 comments",
+      "publishedAt": "2026-10-20T23:04:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "publishedAt": "2026-10-20T23:01:23.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -82,9 +167,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
       "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "5 points, 0 comments",
+      "summary": "128 points, 49 comments",
       "publishedAt": "2026-10-20T22:21:05.000Z"
     },
     {
@@ -223,13 +308,13 @@
       "publishedAt": "2026-10-20T20:20:12.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility…",
-      "publishedAt": "2026-10-20T20:16:04.000Z"
+      "title": "Upcoming critical PHP security release",
+      "link": "https://news-web.php.net/php.announce/509",
+      "summary": "167 points, 48 comments",
+      "publishedAt": "2026-10-20T20:15:50.000Z"
     },
     {
       "source": "Ars Technica",
@@ -256,15 +341,6 @@
       "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
       "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
       "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses wh…",
-      "publishedAt": "2026-10-20T20:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-      "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-      "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but it has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X…",
       "publishedAt": "2026-10-20T20:00:00.000Z"
     },
     {
@@ -298,7 +374,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
       "publishedAt": "2026-10-20T19:32:43.000Z"
@@ -322,15 +398,6 @@
       "publishedAt": "2026-10-20T19:13:31.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "summary": "48 points, 20 comments",
-      "publishedAt": "2026-10-20T18:51:40.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -352,9 +419,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
-      "summary": "418 points, 226 comments",
+      "summary": "626 points, 317 comments",
       "publishedAt": "2026-10-20T18:29:09.000Z"
     },
     {
@@ -381,17 +448,8 @@
       "category": "general",
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
       "publishedAt": "2026-10-20T17:55:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "summary": "79 points, 42 comments",
-      "publishedAt": "2026-10-20T17:48:29.000Z"
     },
     {
       "source": "Ars Technica",
@@ -408,16 +466,16 @@
       "category": "general",
       "title": "What shall I teach my son?",
       "link": "https://stevekrouse.com/ends",
-      "summary": "193 points, 267 comments",
+      "summary": "305 points, 368 comments",
       "publishedAt": "2026-10-20T17:25:07.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI riv…",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "publishedAt": "2026-10-20T17:12:48.000Z"
     },
     {
@@ -426,14 +484,14 @@
       "category": "general",
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "link": "https://github.com/google-pytorch/torch_tpu",
-      "summary": "223 points, 53 comments",
+      "summary": "285 points, 64 comments",
       "publishedAt": "2026-10-20T16:40:24.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
       "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
       "publishedAt": "2026-10-20T16:20:06.000Z"
@@ -444,7 +502,7 @@
       "category": "general",
       "title": "Voxtral 3",
       "link": "https://mistral.ai/news/voxtral-3/",
-      "summary": "471 points, 129 comments",
+      "summary": "556 points, 146 comments",
       "publishedAt": "2026-10-20T16:02:07.000Z"
     },
     {
@@ -469,19 +527,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
       "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "summary": "141 points, 95 comments",
+      "summary": "220 points, 129 comments",
       "publishedAt": "2026-10-20T15:59:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "IKEA – 3D Guide",
-      "link": "https://sael.net/flatpack/",
-      "summary": "122 points, 38 comments",
-      "publishedAt": "2026-10-20T15:42:45.000Z"
     },
     {
       "source": "TechCrunch",
@@ -507,7 +556,7 @@
       "category": "general",
       "title": "Ofcom concedes defeat in 4chan case",
       "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "summary": "292 points, 201 comments",
+      "summary": "350 points, 262 comments",
       "publishedAt": "2026-10-20T14:30:31.000Z"
     },
     {
@@ -523,19 +572,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "EMudhra Intermediate CA Compromise",
+      "title": "eMudhra intermediate CA compromise",
       "link": "https://emudhra.we-have-a-problem.com/",
-      "summary": "540 points, 288 comments",
+      "summary": "710 points, 346 comments",
       "publishedAt": "2026-10-20T13:58:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How I got over 300 Tor exit nodes removed",
-      "link": "https://kaba.cx/posts/20261020_Tor/",
-      "summary": "295 points, 71 comments",
-      "publishedAt": "2026-10-20T13:39:24.000Z"
     },
     {
       "source": "Hacker News",
@@ -543,7 +583,7 @@
       "category": "general",
       "title": "Tsrs: A Port of TypeScript to Rust",
       "link": "https://blog.cloudflare.com/typescript-rust-port/",
-      "summary": "321 points, 146 comments",
+      "summary": "366 points, 177 comments",
       "publishedAt": "2026-10-20T13:18:07.000Z"
     },
     {
@@ -561,7 +601,7 @@
       "category": "general",
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "publishedAt": "2026-10-20T13:07:24.000Z"
     },
     {
@@ -570,16 +610,7 @@
       "category": "general",
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "publishedAt": "2026-10-20T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "summary": "The raise comes as venture dollars pile up on the West Coast.",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
       "publishedAt": "2026-10-20T13:00:00.000Z"
     },
     {
@@ -597,7 +628,7 @@
       "category": "general",
       "title": "Apple broke an essential presentation feature of iPads",
       "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "summary": "457 points, 243 comments",
+      "summary": "509 points, 265 comments",
       "publishedAt": "2026-10-20T12:17:28.000Z"
     },
     {
@@ -624,7 +655,7 @@
       "category": "general",
       "title": "Google Cloud outage affects almost all banking and other operations in Europe",
       "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "summary": "302 points, 156 comments",
+      "summary": "352 points, 175 comments",
       "publishedAt": "2026-10-20T10:26:02.000Z"
     },
     {
@@ -642,8 +673,17 @@
       "category": "general",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "link": "https://github.com/deepseek-ai/DeepInfer",
-      "summary": "2074 points, 811 comments",
+      "summary": "2167 points, 841 comments",
       "publishedAt": "2026-10-20T09:08:54.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -691,24 +731,6 @@
       "publishedAt": "2026-10-19T20:54:17.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "publishedAt": "2026-10-19T20:21:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Meta's GB{2,3}00 Cluster",
-      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "summary": "42 points, 20 comments",
-      "publishedAt": "2026-10-19T14:23:55.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -745,6 +767,15 @@
       "publishedAt": "2026-10-19T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ZX Spectrum Next Laptop",
+      "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-10-19T02:48:11.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -766,19 +797,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Silicon-photonics-enabled chip-based 3D printer (2024)",
-      "link": "https://www.nature.com/articles/s41377-024-01478-2",
-      "summary": "4 points, 0 comments",
-      "publishedAt": "2026-10-18T18:56:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Making Solar Panels with a Microwave [video]",
-      "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-      "summary": "18 points, 2 comments",
-      "publishedAt": "2026-10-18T10:25:07.000Z"
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "link": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "summary": "13 points, 0 comments",
+      "publishedAt": "2026-10-18T17:40:56.000Z"
     },
     {
       "source": "Simon Willison",
@@ -901,18 +923,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
@@ -930,7 +952,7 @@
       "category": "general",
       "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
       "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "summary": "123 points, 50 comments",
+      "summary": "196 points, 84 comments",
       "publishedAt": "2026-10-15T19:09:34.000Z"
     },
     {
@@ -941,6 +963,15 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1006,15 +1037,6 @@
       "publishedAt": "2026-10-14T16:26:53.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Meta Extends Confidential Computing to AI Glasses with Private Processing",
-      "link": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Meta has extended Private Processing to AI glasses, using confidential VMs, trusted execution environments, remote attestation, anonymous credentials, OHTTP routing, and TEE-based storage to process AI workloads and pers…",
-      "publishedAt": "2026-10-14T13:57:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1051,6 +1073,15 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1076,6 +1107,33 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1141,13 +1199,13 @@
       "publishedAt": "2026-10-12T16:58:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "OpenAI",
+      "color": "#10a37f",
       "category": "ai",
-      "title": "web-edit 0.1a0",
-      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Code…",
-      "publishedAt": "2026-10-12T15:54:36.000Z"
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1156,15 +1214,6 @@
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "link": "https://openai.com/index/asana-browser-agent",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
@@ -1186,15 +1235,6 @@
       "publishedAt": "2026-10-08T12:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "publishedAt": "2026-10-08T12:00:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1202,6 +1242,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Google AI",
@@ -1213,11 +1262,38 @@
       "publishedAt": "2026-10-02T15:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "publishedAt": "2026-09-30T20:01:45.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "publishedAt": "2026-09-30T15:03:07.000Z"
+    },
+    {
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
       "title": "Announcements",
       "link": "https://www.anthropic.com/news/announcements",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
       "summary": "",
       "publishedAt": null
     },
@@ -1234,17 +1310,8 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
-      "title": "Partnerships",
-      "link": "https://www.anthropic.com/news/partnerships",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "Investing in the public benefit",
-      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "title": "Features",
+      "link": "https://www.anthropic.com/news/features",
       "summary": "",
       "publishedAt": null
     },
@@ -1333,6 +1400,15 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
+      "title": "Partnerships",
+      "link": "https://www.anthropic.com/news/partnerships",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "link": "https://www.anthropic.com/news/claude-frontier-academy",
       "summary": "",
@@ -1380,15 +1456,6 @@
       "category": "ai",
       "title": "Improving our alignment and security efforts",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "summary": "",
       "publishedAt": null
     }
