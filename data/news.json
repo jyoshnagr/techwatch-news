@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:54:42.547Z",
+  "updatedAt": "2026-10-21T19:08:45.886Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,26 +52,283 @@
       "category": "ai"
     }
   ],
-  "itemCount": 156,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "TechCrunch",
+      "color": "#0aa860",
       "category": "general",
-      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
-      "link": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
-      "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re in…",
-      "publishedAt": "2026-10-21T14:47:14.000Z"
+      "title": "The internet is having a very bad cybersecurity day",
+      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "publishedAt": "2026-10-21T19:03:28.000Z"
     },
     {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
-      "link": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
-      "summary": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estim…",
-      "publishedAt": "2026-10-21T14:22:59.000Z"
+      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+      "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million v…",
+      "publishedAt": "2026-10-21T19:02:49.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "publishedAt": "2026-10-21T18:51:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Canary Tokens",
+      "link": "https://canarytokens.org/",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-10-21T18:45:04.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code executi…",
+      "publishedAt": "2026-10-21T18:41:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
+      "link": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
+      "summary": "Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Edgerunners anime on Netflix. There's a lo…",
+      "publishedAt": "2026-10-21T18:39:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Xbox mandates a four-day return to office",
+      "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
+      "summary": "Microsoft asked its employees to return to the office three days per week last year, and it's now upping this requirement to four days a week for most Xbox employees. An internal memo, seen by The Verge, describes the ch…",
+      "publishedAt": "2026-10-21T18:31:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Open Source Games",
+      "link": "https://opensourcegames.dev/",
+      "summary": "12 points, 5 comments",
+      "publishedAt": "2026-10-21T18:31:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
+      "link": "https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale",
+      "summary": "Zero Company will have you teaming up with some unlikely new allies. | Image: EA and Disney If you’ve been curious about Star Wars Zero Company, the XCOM-like strategy game set in the Star Wars universe, Amazon has both…",
+      "publishedAt": "2026-10-21T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Anthropic's Public Benefit Charter",
+      "link": "https://www.anthropic.com/public-benefit-charter",
+      "summary": "13 points, 3 comments",
+      "publishedAt": "2026-10-21T18:29:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The compiler was supposed to end programming too",
+      "link": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "summary": "40 points, 31 comments",
+      "publishedAt": "2026-10-21T18:00:51.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "GM is giving OnStar an AI makeover",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+      "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+      "summary": "A TP-Link Wi-Fi 8 router. | Image: TP-Link TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can'…",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "summary": "A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly Plant March 10, 2010 in Lansing, Michigan. | Photo: Getty Images General Motors is still very m…",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+      "link": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+      "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud…",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "publishedAt": "2026-10-21T17:59:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
+      "link": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
+      "summary": "Samsung’s latest version of The Frame TV is $400 off. | Image: Samsung If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like…",
+      "publishedAt": "2026-10-21T17:35:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chose…",
+      "publishedAt": "2026-10-21T17:19:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "publishedAt": "2026-10-21T17:18:27.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "publishedAt": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "They want your blood",
+      "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
+      "summary": "Your blood, for “immortality.” | Image: Cath Virgina / The Verge, Getty Images This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potion…",
+      "publishedAt": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "publishedAt": "2026-10-21T16:59:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+      "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+      "summary": "\"We have had significant constructive engagement with the FAA.\"",
+      "publishedAt": "2026-10-21T16:46:19.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk…",
+      "publishedAt": "2026-10-21T16:25:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "summary": "32 points, 13 comments",
+      "publishedAt": "2026-10-21T16:20:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "summary": "32 points, 3 comments",
+      "publishedAt": "2026-10-21T16:09:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "summary": "35 points, 17 comments",
+      "publishedAt": "2026-10-21T16:05:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "330 points, 161 comments",
+      "publishedAt": "2026-10-21T15:48:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "summary": "113 points, 65 comments",
+      "publishedAt": "2026-10-21T15:20:04.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "publishedAt": "2026-10-21T15:14:07.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +336,7 @@
       "category": "general",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "60 points, 26 comments",
+      "summary": "177 points, 107 comments",
       "publishedAt": "2026-10-21T14:03:43.000Z"
     },
     {
@@ -95,18 +352,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-      "link": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-      "summary": "90 points, 28 comments",
-      "publishedAt": "2026-10-21T14:01:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "63 points, 4 comments",
+      "summary": "272 points, 29 comments",
       "publishedAt": "2026-10-21T14:01:22.000Z"
     },
     {
@@ -115,7 +363,7 @@
       "category": "general",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "7 points, 0 comments",
+      "summary": "262 points, 98 comments",
       "publishedAt": "2026-10-21T14:00:26.000Z"
     },
     {
@@ -128,76 +376,31 @@
       "publishedAt": "2026-10-21T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Blink brings 4K to its low-cost security camera lineup",
-      "link": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
-      "summary": "From left to right, here are the Outdoor 2K XR Plus and Mini Pant-Tilt 2K Plus (top), and the Spotlight Cam 2K Plus, Mini 4K Plus, and Frontier XR Plus (bottom). | Image: Amazon / Blink Amazon is launching a new lineup o…",
-      "publishedAt": "2026-10-21T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor w…",
-      "publishedAt": "2026-10-21T13:57:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Now Serato DJ works on your iPhone",
-      "link": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
-      "summary": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some auto…",
-      "publishedAt": "2026-10-21T13:51:31.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "PHP 8.2.35",
       "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "summary": "329 points, 132 comments",
+      "summary": "862 points, 481 comments",
       "publishedAt": "2026-10-21T13:45:33.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "link": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "156 points, 37 comments",
-      "publishedAt": "2026-10-21T13:43:19.000Z"
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "summary": "95 points, 44 comments",
+      "publishedAt": "2026-10-21T13:37:00.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
       "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
       "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
       "publishedAt": "2026-10-21T13:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Most advice is right for the person giving it",
-      "link": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-      "summary": "66 points, 46 comments",
-      "publishedAt": "2026-10-21T13:17:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-      "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, re…",
-      "publishedAt": "2026-10-21T13:09:26.000Z"
     },
     {
       "source": "OpenAI",
@@ -221,37 +424,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "link": "https://layerfs.ai/",
-      "summary": "37 points, 18 comments",
-      "publishedAt": "2026-10-21T12:34:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "link": "https://www.ncsc.nl/actueel",
-      "summary": "209 points, 70 comments",
-      "publishedAt": "2026-10-21T12:31:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-      "summary": "175 points, 86 comments",
-      "publishedAt": "2026-10-21T12:22:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I reviewed the iPhone Duo, ask me anything",
-      "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our…",
-      "publishedAt": "2026-10-21T12:15:00.000Z"
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "summary": "136 points, 47 comments",
+      "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
       "source": "Hacker News",
@@ -272,33 +448,6 @@
       "publishedAt": "2026-10-21T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-      "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-      "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models,…",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-      "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-      "summary": "Easy on the eyes. The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen…",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The iPhone Duo is a messy, expensive, good time",
-      "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet…",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -308,13 +457,22 @@
       "publishedAt": "2026-10-21T11:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Whatever Happened to Fire Escapes",
-      "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "summary": "116 points, 72 comments",
-      "publishedAt": "2026-10-21T10:14:43.000Z"
+      "title": "Review: Carrie is a triumphant remix with one major flaw",
+      "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "publishedAt": "2026-10-21T11:19:12.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
+      "publishedAt": "2026-10-21T11:00:04.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -329,10 +487,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "summary": "495 points, 225 comments",
+      "summary": "700 points, 331 comments",
       "publishedAt": "2026-10-21T09:08:08.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -378,15 +545,6 @@
       "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
       "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
       "publishedAt": "2026-10-21T02:12:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Future of CSS",
-      "link": "https://www.joshwcomeau.com/css/interop-2027/",
-      "summary": "506 points, 209 comments",
-      "publishedAt": "2026-10-21T01:47:28.000Z"
     },
     {
       "source": "Simon Willison",
@@ -488,15 +646,6 @@
       "publishedAt": "2026-10-20T20:20:12.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "link": "https://news-web.php.net/php.announce/509",
-      "summary": "1392 points, 590 comments",
-      "publishedAt": "2026-10-20T20:15:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -596,15 +745,6 @@
       "publishedAt": "2026-10-20T18:36:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: SimCity, but with Permits",
-      "link": "https://permit.petercai.com/",
-      "summary": "867 points, 394 comments",
-      "publishedAt": "2026-10-20T18:29:09.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -623,15 +763,6 @@
       "publishedAt": "2026-10-20T18:08:57.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-      "publishedAt": "2026-10-20T17:55:12.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -639,51 +770,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
       "summary": "Meta argues nobody “decided” to pirate books to train AI.",
       "publishedAt": "2026-10-20T17:40:20.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "publishedAt": "2026-10-20T17:12:48.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "publishedAt": "2026-10-20T16:20:06.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-      "publishedAt": "2026-10-20T16:01:24.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "publishedAt": "2026-10-20T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-      "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-      "publishedAt": "2026-10-20T15:03:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -695,15 +781,6 @@
       "publishedAt": "2026-10-20T14:53:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "eMudhra intermediate CA compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
-      "summary": "1117 points, 428 comments",
-      "publishedAt": "2026-10-20T13:58:33.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -711,15 +788,6 @@
       "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
       "publishedAt": "2026-10-20T12:33:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-      "publishedAt": "2026-10-20T11:00:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -749,13 +817,13 @@
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-      "publishedAt": "2026-10-20T05:59:56.000Z"
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "summary": "83 points, 7 comments",
+      "publishedAt": "2026-10-20T06:20:54.000Z"
     },
     {
       "source": "OpenAI",
@@ -776,31 +844,13 @@
       "publishedAt": "2026-10-19T23:58:25.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-      "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
-      "publishedAt": "2026-10-19T22:44:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-      "publishedAt": "2026-10-19T20:54:17.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "C++ futures part 1: The mental model",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-      "summary": "13 points, 1 comments",
-      "publishedAt": "2026-10-19T18:05:53.000Z"
+      "title": "Drupal is now light-years ahead of its reputation",
+      "link": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "summary": "80 points, 92 comments",
+      "publishedAt": "2026-10-19T21:38:02.000Z"
     },
     {
       "source": "OpenAI",
@@ -837,15 +887,6 @@
       "link": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make semantic search and retrieval-augmented generation (RAG) more e…",
       "publishedAt": "2026-10-19T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "link": "https://www.pagetable.com/303",
-      "summary": "105 points, 35 comments",
-      "publishedAt": "2026-10-19T09:21:34.000Z"
     },
     {
       "source": "Simon Willison",
@@ -974,6 +1015,15 @@
       "publishedAt": "2026-10-16T10:47:00.000Z"
     },
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+      "summary": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic wo…",
+      "publishedAt": "2026-10-16T01:58:00.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1008,15 +1058,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1109,24 +1150,6 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "The EU’s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "publishedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1143,33 +1166,6 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1190,15 +1186,6 @@
       "publishedAt": "2026-10-13T13:32:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1206,33 +1193,6 @@
       "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
       "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
       "publishedAt": "2026-10-13T01:40:05.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-meta-ai 0.2",
-      "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as…",
-      "publishedAt": "2026-10-12T23:58:46.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported P…",
-      "publishedAt": "2026-10-12T18:15:38.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a…",
-      "publishedAt": "2026-10-12T16:58:00.000Z"
     },
     {
       "source": "Google AI",
@@ -1244,15 +1204,6 @@
       "publishedAt": "2026-10-07T12:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1260,24 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
       "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z"
     },
     {
       "source": "Anthropic",
@@ -1312,6 +1245,15 @@
       "category": "ai",
       "title": "Features",
       "link": "https://www.anthropic.com/news/features",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
+      "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
       "summary": "",
       "publishedAt": null
     },
@@ -1447,15 +1389,6 @@
       "category": "ai",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "summary": "",
       "publishedAt": null
     }
