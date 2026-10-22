@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T03:40:20.950Z",
+  "updatedAt": "2026-10-22T09:52:22.293Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,40 +52,89 @@
       "category": "ai"
     }
   ],
-  "itemCount": 149,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 155,
+  "errors": [],
   "items": [
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
+      "link": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Vercel Labs has released fx, an experimental open-source coding agent written in Zig. It runs as a CLI, a script component, or an embedded library, including a WebAssembly build. Early feedback questioned its model-agnos…",
+      "publishedAt": "2026-10-22T09:33:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-22T09:31:18.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Article: AI Changes the Data Interface, Not the Query Engine",
+      "link": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the agent interprets the results. It explains th…",
+      "publishedAt": "2026-10-22T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "66 points, 12 comments",
+      "publishedAt": "2026-10-22T08:51:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Achieving AI-style reasoning without an LLM",
+      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-10-22T08:46:58.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready",
+      "link": "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "A developer used Claude Opus 5.5 to build open-source replacements for seven Adobe applications, promoted them across Reddit with a projection of roughly 100% parity within a month, then told Hacker News the project was…",
+      "publishedAt": "2026-10-22T07:41:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "summary": "118 points, 68 comments",
+      "publishedAt": "2026-10-22T05:23:11.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "34 points, 18 comments",
+      "summary": "206 points, 134 comments",
       "publishedAt": "2026-10-22T02:30:52.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "LLM Agents Play Pokemon Showdown",
-      "link": "https://olivergrabner.com/research/pokemon/",
-      "summary": "13 points, 10 comments",
-      "publishedAt": "2026-10-22T02:13:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "66 points, 21 comments",
-      "publishedAt": "2026-10-22T01:52:03.000Z"
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "204 points, 61 comments",
+      "publishedAt": "2026-10-22T02:18:41.000Z"
     },
     {
       "source": "TechCrunch",
@@ -102,7 +151,7 @@
       "category": "general",
       "title": "mitmproxy adds --emudhra option",
       "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "301 points, 79 comments",
+      "summary": "477 points, 114 comments",
       "publishedAt": "2026-10-21T23:51:37.000Z"
     },
     {
@@ -122,15 +171,6 @@
       "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
       "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings cal…",
       "publishedAt": "2026-10-21T23:36:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "link": "https://eliastaylor.com/noexploit/",
-      "summary": "251 points, 127 comments",
-      "publishedAt": "2026-10-21T23:13:27.000Z"
     },
     {
       "source": "TechCrunch",
@@ -192,7 +232,7 @@
       "category": "general",
       "title": "Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "354 points, 205 comments",
+      "summary": "462 points, 270 comments",
       "publishedAt": "2026-10-21T21:58:03.000Z"
     },
     {
@@ -237,7 +277,7 @@
       "category": "general",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "publishedAt": "2026-10-21T21:14:19.000Z"
     },
     {
@@ -376,6 +416,15 @@
       "publishedAt": "2026-10-21T19:30:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "summary": "376 points, 344 comments",
+      "publishedAt": "2026-10-21T19:14:01.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -390,7 +439,7 @@
       "category": "general",
       "title": "Rust Style Guide",
       "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "236 points, 128 comments",
+      "summary": "305 points, 184 comments",
       "publishedAt": "2026-10-21T19:11:57.000Z"
     },
     {
@@ -406,9 +455,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "GitLab Critical Patch Release",
+      "title": "GitLab critical patch release",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "265 points, 65 comments",
+      "summary": "349 points, 82 comments",
       "publishedAt": "2026-10-21T19:01:12.000Z"
     },
     {
@@ -489,7 +538,7 @@
       "category": "general",
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "422 points, 273 comments",
+      "summary": "554 points, 326 comments",
       "publishedAt": "2026-10-21T17:45:13.000Z"
     },
     {
@@ -529,15 +578,6 @@
       "publishedAt": "2026-10-21T16:46:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "link": "https://github.com/omnara-ai/omnara",
-      "summary": "32 points, 11 comments",
-      "publishedAt": "2026-10-21T16:44:53.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -545,15 +585,6 @@
       "link": "https://simonwillison.net/2026/Oct/21/panache/",
       "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk…",
       "publishedAt": "2026-10-21T16:25:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "695 points, 343 comments",
-      "publishedAt": "2026-10-21T15:48:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -579,7 +610,7 @@
       "category": "general",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "455 points, 154 comments",
+      "summary": "513 points, 171 comments",
       "publishedAt": "2026-10-21T14:00:26.000Z"
     },
     {
@@ -590,15 +621,6 @@
       "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "publishedAt": "2026-10-21T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud/",
-      "summary": "255 points, 107 comments",
-      "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
       "source": "OpenAI",
@@ -678,7 +700,7 @@
       "category": "general",
       "title": "Using LLM for confidence scoring is a bad idea",
       "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "summary": "19 points, 10 comments",
+      "summary": "93 points, 48 comments",
       "publishedAt": "2026-10-21T04:27:51.000Z"
     },
     {
@@ -741,7 +763,7 @@
       "category": "general",
       "title": "PingCap TiDB Leaks",
       "link": "https://fulcrumsec.vg/pingcap/",
-      "summary": "244 points, 35 comments",
+      "summary": "347 points, 53 comments",
       "publishedAt": "2026-10-20T22:45:39.000Z"
     },
     {
@@ -804,7 +826,7 @@
       "category": "general",
       "title": "Beyond the &",
       "link": "https://lwn.net/Articles/1096028/",
-      "summary": "25 points, 0 comments",
+      "summary": "64 points, 3 comments",
       "publishedAt": "2026-10-20T13:59:11.000Z"
     },
     {
@@ -840,7 +862,7 @@
       "category": "general",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "164 points, 28 comments",
+      "summary": "218 points, 48 comments",
       "publishedAt": "2026-10-20T06:20:54.000Z"
     },
     {
@@ -849,8 +871,17 @@
       "category": "general",
       "title": "No more icons in every menu by default",
       "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "summary": "211 points, 148 comments",
+      "summary": "314 points, 194 comments",
       "publishedAt": "2026-10-20T04:27:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Is the Karakoram Anomaly?",
+      "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "summary": "32 points, 7 comments",
+      "publishedAt": "2026-10-20T01:26:53.000Z"
     },
     {
       "source": "OpenAI",
@@ -874,19 +905,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Chain of Thought for Humans",
-      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "summary": "44 points, 24 comments",
-      "publishedAt": "2026-10-19T16:06:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Code is clay now",
-      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "summary": "112 points, 58 comments",
-      "publishedAt": "2026-10-19T15:19:45.000Z"
+      "title": "The Robot I Didn't Expect to Build",
+      "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-10-19T17:57:18.000Z"
     },
     {
       "source": "OpenAI",
@@ -1024,33 +1046,6 @@
       "publishedAt": "2026-10-16T12:00:00.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Mini book: Evolutionary Architecture in Practice",
-      "link": "https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Discover how to keep software evolvable as systems, technology, and teams shift. This edition explores agentic fitness functions for semantic drift, treating human comprehension as a core design metric, cross-cloud guard…",
-      "publishedAt": "2026-10-16T11:30:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Exploding GPUs and the AI Infrastructure Challenge",
-      "link": "https://www.infoq.com/presentations/ai-security-kubernetes-gpu-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Andrew Martin discusses why AI security is fundamentally tied to Kubernetes security. He shares insights into the evolving AI threat landscape, covering non-deterministic agent behavior, GPU supply chain vulnerabilities,…",
-      "publishedAt": "2026-10-16T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development",
-      "link": "https://www.infoq.com/news/2026/10/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "AWS has introduced two open-source projects for AI agent development: Strands Decider 2B, a small model designed to make decisions within agent workflows, and Strands Box, a sandbox for controlling agent execution. Both…",
-      "publishedAt": "2026-10-16T10:47:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1094,6 +1089,15 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1159,6 +1163,15 @@
       "publishedAt": "2026-10-14T12:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1175,6 +1188,33 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1211,6 +1251,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Google AI",
