@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:02:52.487Z",
+  "updatedAt": "2026-10-22T03:40:20.950Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,86 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
-  "errors": [],
+  "itemCount": 149,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "34 points, 18 comments",
+      "publishedAt": "2026-10-22T02:30:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "link": "https://olivergrabner.com/research/pokemon/",
+      "summary": "13 points, 10 comments",
+      "publishedAt": "2026-10-22T02:13:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "summary": "66 points, 21 comments",
+      "publishedAt": "2026-10-22T01:52:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater…",
+      "publishedAt": "2026-10-22T00:17:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "301 points, 79 comments",
+      "publishedAt": "2026-10-21T23:51:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a Yo…",
+      "publishedAt": "2026-10-21T23:46:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings cal…",
+      "publishedAt": "2026-10-21T23:36:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "summary": "251 points, 127 comments",
+      "publishedAt": "2026-10-21T23:13:27.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -83,6 +160,15 @@
       "publishedAt": "2026-10-21T22:33:44.000Z"
     },
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "publishedAt": "2026-10-21T22:17:50.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -104,9 +190,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Railway Security Disclosure",
+      "title": "Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "138 points, 42 comments",
+      "summary": "354 points, 205 comments",
       "publishedAt": "2026-10-21T21:58:03.000Z"
     },
     {
@@ -155,15 +241,6 @@
       "publishedAt": "2026-10-21T21:14:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "summary": "83 points, 20 comments",
-      "publishedAt": "2026-10-21T21:12:59.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -178,7 +255,7 @@
       "category": "general",
       "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
       "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "publishedAt": "2026-10-21T20:57:40.000Z"
     },
     {
@@ -241,7 +318,7 @@
       "category": "general",
       "title": "Automattic begins layoffs following board upheaval and executive departures",
       "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as…",
+      "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
       "publishedAt": "2026-10-21T20:15:00.000Z"
     },
     {
@@ -261,15 +338,6 @@
       "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservati…",
       "publishedAt": "2026-10-21T19:54:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthr…",
-      "publishedAt": "2026-10-21T19:53:20.000Z"
     },
     {
       "source": "TechCrunch",
@@ -293,7 +361,7 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
       "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
       "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
       "publishedAt": "2026-10-21T19:42:32.000Z"
@@ -308,24 +376,6 @@
       "publishedAt": "2026-10-21T19:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limi…",
-      "publishedAt": "2026-10-21T19:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "summary": "270 points, 219 comments",
-      "publishedAt": "2026-10-21T19:14:01.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -338,9 +388,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Google's Rust Style Guide",
+      "title": "Rust Style Guide",
       "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "138 points, 92 comments",
+      "summary": "236 points, 128 comments",
       "publishedAt": "2026-10-21T19:11:57.000Z"
     },
     {
@@ -358,7 +408,7 @@
       "category": "general",
       "title": "GitLab Critical Patch Release",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "191 points, 42 comments",
+      "summary": "265 points, 65 comments",
       "publishedAt": "2026-10-21T19:01:12.000Z"
     },
     {
@@ -439,17 +489,8 @@
       "category": "general",
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "279 points, 168 comments",
+      "summary": "422 points, 273 comments",
       "publishedAt": "2026-10-21T17:45:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "summary": "452 points, 276 comments",
-      "publishedAt": "2026-10-21T17:29:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -488,6 +529,15 @@
       "publishedAt": "2026-10-21T16:46:19.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "link": "https://github.com/omnara-ai/omnara",
+      "summary": "32 points, 11 comments",
+      "publishedAt": "2026-10-21T16:44:53.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -500,28 +550,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "summary": "89 points, 29 comments",
-      "publishedAt": "2026-10-21T16:20:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Today's PHP security release, and how we're strengthening security",
       "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "606 points, 303 comments",
+      "summary": "695 points, 343 comments",
       "publishedAt": "2026-10-21T15:48:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "summary": "157 points, 79 comments",
-      "publishedAt": "2026-10-21T15:20:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -531,15 +563,6 @@
       "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
       "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
       "publishedAt": "2026-10-21T15:14:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "219 points, 141 comments",
-      "publishedAt": "2026-10-21T14:03:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -554,37 +577,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "345 points, 41 comments",
-      "publishedAt": "2026-10-21T14:01:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "394 points, 123 comments",
+      "summary": "455 points, 154 comments",
       "publishedAt": "2026-10-21T14:00:26.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "publishedAt": "2026-10-21T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PHP 8.2.35",
-      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "summary": "948 points, 527 comments",
-      "publishedAt": "2026-10-21T13:45:33.000Z"
     },
     {
       "source": "OpenAI",
@@ -601,7 +597,7 @@
       "category": "general",
       "title": "OpenAI models are coming to Google Cloud",
       "link": "https://openai.com/index/openai-models-google-cloud/",
-      "summary": "205 points, 91 comments",
+      "summary": "255 points, 107 comments",
       "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
@@ -650,15 +646,6 @@
       "publishedAt": "2026-10-21T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "summary": "802 points, 391 comments",
-      "publishedAt": "2026-10-21T09:08:08.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -684,6 +671,15 @@
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
       "publishedAt": "2026-10-21T04:50:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "summary": "19 points, 10 comments",
+      "publishedAt": "2026-10-21T04:27:51.000Z"
     },
     {
       "source": "Google AI",
@@ -716,6 +712,15 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "publishedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
       "link": "https://openai.com/index/empowering-cyber-defenders",
       "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
@@ -729,6 +734,15 @@
       "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
       "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrom…",
       "publishedAt": "2026-10-20T23:50:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "PingCap TiDB Leaks",
+      "link": "https://fulcrumsec.vg/pingcap/",
+      "summary": "244 points, 35 comments",
+      "publishedAt": "2026-10-20T22:45:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -776,15 +790,6 @@
       "publishedAt": "2026-10-20T20:07:58.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "publishedAt": "2026-10-20T20:00:33.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -792,6 +797,15 @@
       "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat emba…",
       "publishedAt": "2026-10-20T19:34:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Beyond the &",
+      "link": "https://lwn.net/Articles/1096028/",
+      "summary": "25 points, 0 comments",
+      "publishedAt": "2026-10-20T13:59:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -826,26 +840,17 @@
       "category": "general",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "131 points, 25 comments",
+      "summary": "164 points, 28 comments",
       "publishedAt": "2026-10-20T06:20:54.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "No More Icons in Every Menu by Default",
+      "title": "No more icons in every menu by default",
       "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "summary": "93 points, 62 comments",
+      "summary": "211 points, 148 comments",
       "publishedAt": "2026-10-20T04:27:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "summary": "108 points, 74 comments",
-      "publishedAt": "2026-10-20T00:14:03.000Z"
     },
     {
       "source": "OpenAI",
@@ -869,10 +874,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Rise and Fall of the Plasma Screen",
-      "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "summary": "13 points, 3 comments",
-      "publishedAt": "2026-10-19T14:20:04.000Z"
+      "title": "Chain of Thought for Humans",
+      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "summary": "44 points, 24 comments",
+      "publishedAt": "2026-10-19T16:06:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Code is clay now",
+      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "summary": "112 points, 58 comments",
+      "publishedAt": "2026-10-19T15:19:45.000Z"
     },
     {
       "source": "OpenAI",
@@ -1049,18 +1063,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "publishedAt": "2026-10-16T00:00:00.000Z"
     },
     {
@@ -1080,15 +1094,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "publishedAt": "2026-10-15T19:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1154,24 +1159,6 @@
       "publishedAt": "2026-10-14T12:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "publishedAt": "2026-10-14T12:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1188,33 +1175,6 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high…",
       "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
@@ -1251,15 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Google AI",
