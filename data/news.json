@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T09:52:22.293Z",
+  "updatedAt": "2026-10-22T14:54:11.817Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,252 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
+  "itemCount": 156,
   "errors": [],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "link": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+      "summary": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting the…",
+      "publishedAt": "2026-10-22T14:41:02.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+      "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in C…",
+      "publishedAt": "2026-10-22T14:24:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What's Getting Pwned",
+      "link": "https://pwn.watch/",
+      "summary": "45 points, 9 comments",
+      "publishedAt": "2026-10-22T14:08:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "publishedAt": "2026-10-22T14:03:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks",
+      "link": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding increase in completed wo…",
+      "publishedAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months,…",
+      "publishedAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "publishedAt": "2026-10-22T13:53:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "194 points, 109 comments",
+      "publishedAt": "2026-10-22T13:33:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "publishedAt": "2026-10-22T13:26:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra scre…",
+      "publishedAt": "2026-10-22T13:20:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Crystal 1.22.0 Is Released",
+      "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "48 points, 14 comments",
+      "publishedAt": "2026-10-22T13:20:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "link": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "summary": "Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On Februa…",
+      "publishedAt": "2026-10-22T13:17:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "publishedAt": "2026-10-22T13:11:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "SBD: We Have a Filesystem at Home",
+      "link": "https://fly.io/blog/sprites-block-device/",
+      "summary": "9 points, 6 comments",
+      "publishedAt": "2026-10-22T13:09:33.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "summary": "General Motors' plans will require quite a lot of customers' trust.",
+      "publishedAt": "2026-10-22T13:04:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
+      "link": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen",
+      "summary": "Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a che…",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
+      "link": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+      "summary": "Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a small…",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Googlebooks just aren’t ready",
+      "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
+      "summary": "The Acer Googlebook 14 (left), Lenovo Googlebook 15 (center), and HP Googlebook 14 (right). | Photo: Antonio G. Di Benedetto / The Verge Every Googlebook laptop we've tested so far has great hardware. The problem is the…",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Birdbuddy’s budget feeder foiled my squirrels",
+      "link": "https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on",
+      "summary": "The smaller, cheaper Birdbuddy Nook offers a lot of bang for your birdseed. | Photo by Jennifer Pattison Tuohy / The Verge Birdbuddy's next-generation smart bird feeders have finally arrived. After spending a few days wi…",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all…",
+      "publishedAt": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "link": "https://lastmuseum.com/",
+      "summary": "19 points, 3 comments",
+      "publishedAt": "2026-10-22T12:40:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "137 points, 29 comments",
+      "publishedAt": "2026-10-22T11:50:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "publishedAt": "2026-10-22T11:30:33.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+      "publishedAt": "2026-10-22T11:15:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "157 points, 38 comments",
+      "publishedAt": "2026-10-22T11:12:37.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Presentation: Actors for Agents: Patterns for Production AI",
+      "link": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents. By treating agents as distributed systems, he discusses state ownership, message passing, write-through state,…",
+      "publishedAt": "2026-10-22T11:00:00.000Z"
+    },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
@@ -70,7 +313,7 @@
       "category": "general",
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "summary": "3 points, 0 comments",
+      "summary": "128 points, 21 comments",
       "publishedAt": "2026-10-22T09:31:18.000Z"
     },
     {
@@ -86,19 +329,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "summary": "66 points, 12 comments",
-      "publishedAt": "2026-10-22T08:51:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Achieving AI-style reasoning without an LLM",
-      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-10-22T08:46:58.000Z"
+      "title": "Jailbreaking the Switch 2",
+      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "361 points, 131 comments",
+      "publishedAt": "2026-10-22T08:01:52.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -110,13 +344,13 @@
       "publishedAt": "2026-10-22T07:41:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI CLI",
-      "link": "https://github.com/openai/openai-cli",
-      "summary": "118 points, 68 comments",
-      "publishedAt": "2026-10-22T05:23:11.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "publishedAt": "2026-10-22T06:00:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -124,7 +358,7 @@
       "category": "general",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "206 points, 134 comments",
+      "summary": "264 points, 213 comments",
       "publishedAt": "2026-10-22T02:30:52.000Z"
     },
     {
@@ -133,7 +367,7 @@
       "category": "general",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "summary": "204 points, 61 comments",
+      "summary": "378 points, 115 comments",
       "publishedAt": "2026-10-22T02:18:41.000Z"
     },
     {
@@ -144,33 +378,6 @@
       "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
       "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater…",
       "publishedAt": "2026-10-22T00:17:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "477 points, 114 comments",
-      "publishedAt": "2026-10-21T23:51:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "YouTube says it isn’t testing hiding the dislike button",
-      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a Yo…",
-      "publishedAt": "2026-10-21T23:46:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings cal…",
-      "publishedAt": "2026-10-21T23:36:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -189,15 +396,6 @@
       "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
       "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
       "publishedAt": "2026-10-21T22:45:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Data centers could erase decades of air quality gains",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data cent…",
-      "publishedAt": "2026-10-21T22:33:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -232,7 +430,7 @@
       "category": "general",
       "title": "Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "462 points, 270 comments",
+      "summary": "538 points, 312 comments",
       "publishedAt": "2026-10-21T21:58:03.000Z"
     },
     {
@@ -250,17 +448,8 @@
       "category": "general",
       "title": "Tesla profits drop 43% in Q3",
       "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
       "publishedAt": "2026-10-21T21:35:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta to create a new class of shares to fund AI push",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisition…",
-      "publishedAt": "2026-10-21T21:30:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -299,33 +488,6 @@
       "publishedAt": "2026-10-21T20:57:40.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "New York’s first microdrama film festival searches for its audience",
-      "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-      "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Life…",
-      "publishedAt": "2026-10-21T20:49:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-      "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which say…",
-      "publishedAt": "2026-10-21T20:46:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "PHP: The three letters that shut down sites all over the internet today",
-      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the P…",
-      "publishedAt": "2026-10-21T20:36:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -344,15 +506,6 @@
       "publishedAt": "2026-10-21T20:27:41.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in rev…",
-      "publishedAt": "2026-10-21T20:22:31.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -360,24 +513,6 @@
       "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
       "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
       "publishedAt": "2026-10-21T20:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - in…",
-      "publishedAt": "2026-10-21T20:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservati…",
-      "publishedAt": "2026-10-21T19:54:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -421,7 +556,7 @@
       "category": "general",
       "title": "Claude Duet",
       "link": "https://claude.com/product/claude-duet",
-      "summary": "376 points, 344 comments",
+      "summary": "483 points, 443 comments",
       "publishedAt": "2026-10-21T19:14:01.000Z"
     },
     {
@@ -434,15 +569,6 @@
       "publishedAt": "2026-10-21T19:12:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "305 points, 184 comments",
-      "publishedAt": "2026-10-21T19:11:57.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -450,15 +576,6 @@
       "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
       "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
       "publishedAt": "2026-10-21T19:03:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GitLab critical patch release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "349 points, 82 comments",
-      "publishedAt": "2026-10-21T19:01:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -524,33 +641,6 @@
       "publishedAt": "2026-10-21T18:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "publishedAt": "2026-10-21T17:59:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "554 points, 326 comments",
-      "publishedAt": "2026-10-21T17:45:13.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "publishedAt": "2026-10-21T17:18:27.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -558,15 +648,6 @@
       "link": "https://openai.com/index/att-legal",
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "publishedAt": "2026-10-21T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Waymo starts offering rides at the Las Vegas airport",
-      "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-      "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
-      "publishedAt": "2026-10-21T16:59:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -596,21 +677,12 @@
       "publishedAt": "2026-10-21T15:14:07.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-      "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-      "publishedAt": "2026-10-21T14:03:11.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "513 points, 171 comments",
+      "summary": "568 points, 184 comments",
       "publishedAt": "2026-10-21T14:00:26.000Z"
     },
     {
@@ -695,15 +767,6 @@
       "publishedAt": "2026-10-21T04:50:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "summary": "93 points, 48 comments",
-      "publishedAt": "2026-10-21T04:27:51.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -761,10 +824,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "PingCap TiDB Leaks",
-      "link": "https://fulcrumsec.vg/pingcap/",
-      "summary": "347 points, 53 comments",
-      "publishedAt": "2026-10-20T22:45:39.000Z"
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "link": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "summary": "25 points, 0 comments",
+      "publishedAt": "2026-10-20T23:09:43.000Z"
     },
     {
       "source": "Ars Technica",
@@ -785,33 +848,6 @@
       "publishedAt": "2026-10-20T21:44:34.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
-      "publishedAt": "2026-10-20T21:14:33.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-      "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-      "summary": "A lifetime ad-free subscription is available.",
-      "publishedAt": "2026-10-20T20:20:12.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "publishedAt": "2026-10-20T20:07:58.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -819,15 +855,6 @@
       "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat emba…",
       "publishedAt": "2026-10-20T19:34:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Beyond the &",
-      "link": "https://lwn.net/Articles/1096028/",
-      "summary": "64 points, 3 comments",
-      "publishedAt": "2026-10-20T13:59:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -860,28 +887,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "218 points, 48 comments",
-      "publishedAt": "2026-10-20T06:20:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "No more icons in every menu by default",
       "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "summary": "314 points, 194 comments",
+      "summary": "403 points, 232 comments",
       "publishedAt": "2026-10-20T04:27:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What Is the Karakoram Anomaly?",
-      "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "summary": "32 points, 7 comments",
-      "publishedAt": "2026-10-20T01:26:53.000Z"
     },
     {
       "source": "OpenAI",
@@ -905,10 +914,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Robot I Didn't Expect to Build",
-      "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-10-19T17:57:18.000Z"
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "summary": "65 points, 25 comments",
+      "publishedAt": "2026-10-19T20:12:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "link": "https://eigenmoon.vercel.app/",
+      "summary": "31 points, 7 comments",
+      "publishedAt": "2026-10-19T20:02:03.000Z"
     },
     {
       "source": "OpenAI",
@@ -947,6 +965,15 @@
       "publishedAt": "2026-10-19T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Is Gridifcation",
+      "link": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "summary": "158 points, 52 comments",
+      "publishedAt": "2026-10-19T09:13:12.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -963,6 +990,15 @@
       "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
       "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the p…",
       "publishedAt": "2026-10-18T23:16:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "link": "https://github.com/rhargreaves/vmmouse-nt3",
+      "summary": "9 points, 0 comments",
+      "publishedAt": "2026-10-18T19:50:11.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1026,24 +1062,6 @@
       "link": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google researchers open sourced EnvHarness, a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the agent, environment, or evaluation system. According to the resear…",
       "publishedAt": "2026-10-16T19:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance",
-      "link": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "A recent InfoQ webinar examined operational challenges in deploying agentic systems. Key points included issues like semantic and embedding drift, which can lead to significant errors. Experts discussed the need for auto…",
-      "publishedAt": "2026-10-16T14:14:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour",
-      "link": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Grafana Labs is proposing a familiar reliability engineering approach for one of the less familiar problems in modern software: how to measure whether an AI agent is actually behaving well. By Craig Risi",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1152,15 +1170,6 @@
       "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
       "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and…",
       "publishedAt": "2026-10-14T16:26:53.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "publishedAt": "2026-10-14T12:00:00.000Z"
     },
     {
       "source": "Google DeepMind",
