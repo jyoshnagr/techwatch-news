@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:52:14.690Z",
+  "updatedAt": "2026-10-24T17:54:42.039Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,17 +52,157 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-      "summary": "106 points, 62 comments",
-      "publishedAt": "2026-10-24T13:09:28.000Z"
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "link": "https://de.numista.com/9866",
+      "summary": "36 points, 2 comments",
+      "publishedAt": "2026-10-24T16:41:55.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "summary": "Instacart might sell itself to a larger competitor.",
+      "publishedAt": "2026-10-24T16:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "link": "https://blog.roku.com/developer/gitlab-move",
+      "summary": "109 points, 60 comments",
+      "publishedAt": "2026-10-24T16:06:26.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
+      "link": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google explained how an 11-hour unattended run of Gemini 4 Argon produced two accepted optimizations for Google Agent Development Kit's codebase, reducing in-memory session-preparation overhead by about 40% in long sessi…",
+      "publishedAt": "2026-10-24T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "publishedAt": "2026-10-24T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Neural chip decodes interactions between brain regions",
+      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "39 points, 5 comments",
+      "publishedAt": "2026-10-24T15:57:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "publishedAt": "2026-10-24T15:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "FreeDNS",
+      "link": "https://freedns.afraid.org/",
+      "summary": "145 points, 34 comments",
+      "publishedAt": "2026-10-24T15:20:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "publishedAt": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "publishedAt": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project…",
+      "publishedAt": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has alr…",
+      "publishedAt": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "publishedAt": "2026-10-24T14:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
+      "publishedAt": "2026-10-24T14:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-10-24T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next w…",
+      "publishedAt": "2026-10-24T14:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -101,15 +241,6 @@
       "publishedAt": "2026-10-24T11:50:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "summary": "48 points, 12 comments",
-      "publishedAt": "2026-10-24T11:18:54.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -122,9 +253,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "summary": "86 points, 40 comments",
+      "publishedAt": "2026-10-24T09:58:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "I Don't Understand Quantum Physics (2018)",
       "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "143 points, 90 comments",
+      "summary": "211 points, 150 comments",
       "publishedAt": "2026-10-24T09:53:26.000Z"
     },
     {
@@ -142,7 +282,7 @@
       "category": "general",
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "76 points, 36 comments",
+      "summary": "188 points, 88 comments",
       "publishedAt": "2026-10-24T08:06:39.000Z"
     },
     {
@@ -151,26 +291,17 @@
       "category": "general",
       "title": "OBS Studio 33",
       "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "261 points, 79 comments",
+      "summary": "371 points, 129 comments",
       "publishedAt": "2026-10-24T04:49:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "summary": "160 points, 30 comments",
-      "publishedAt": "2026-10-24T03:43:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple Security Research Device",
-      "link": "https://security.apple.com/research-device/",
-      "summary": "100 points, 44 comments",
-      "publishedAt": "2026-10-24T02:36:38.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - f…",
+      "publishedAt": "2026-10-24T03:59:57.000Z"
     },
     {
       "source": "Hacker News",
@@ -178,7 +309,7 @@
       "category": "general",
       "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "262 points, 41 comments",
+      "summary": "326 points, 47 comments",
       "publishedAt": "2026-10-24T01:16:58.000Z"
     },
     {
@@ -187,7 +318,7 @@
       "category": "general",
       "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "summary": "289 points, 79 comments",
+      "summary": "530 points, 189 comments",
       "publishedAt": "2026-10-24T01:15:14.000Z"
     },
     {
@@ -317,15 +448,6 @@
       "publishedAt": "2026-10-23T19:33:58.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a litt…",
-      "publishedAt": "2026-10-23T19:32:39.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -344,15 +466,6 @@
       "publishedAt": "2026-10-23T19:20:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Dessa: Conversation Model trained only on speech",
-      "link": "https://block.xyz/dessa",
-      "summary": "421 points, 157 comments",
-      "publishedAt": "2026-10-23T19:09:54.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -360,33 +473,6 @@
       "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le…",
       "publishedAt": "2026-10-23T19:06:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "summary": "The Space 2 comes in multiple colors, including an attractive seafoam green. | Photo: Amelia Holowaty Krales / The Verge My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling…",
-      "publishedAt": "2026-10-23T18:43:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "link": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes se…",
-      "publishedAt": "2026-10-23T17:55:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, whi…",
-      "publishedAt": "2026-10-23T17:35:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -421,7 +507,7 @@
       "category": "general",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "971 points, 581 comments",
+      "summary": "1031 points, 628 comments",
       "publishedAt": "2026-10-23T16:59:08.000Z"
     },
     {
@@ -466,7 +552,7 @@
       "category": "general",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "link": "https://blog.calif.io/p/iphone",
-      "summary": "954 points, 618 comments",
+      "summary": "1036 points, 645 comments",
       "publishedAt": "2026-10-23T16:21:50.000Z"
     },
     {
@@ -511,7 +597,7 @@
       "category": "general",
       "title": "Apple Music 404 Not Found",
       "link": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "819 points, 245 comments",
+      "summary": "873 points, 258 comments",
       "publishedAt": "2026-10-23T12:28:47.000Z"
     },
     {
@@ -578,15 +664,6 @@
       "publishedAt": "2026-10-23T04:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "publishedAt": "2026-10-23T00:45:37.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -596,49 +673,13 @@
       "publishedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "publishedAt": "2026-10-22T23:50:41.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "publishedAt": "2026-10-22T23:15:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "link": "https://edjefferson.com/localwiki/",
-      "summary": "1433 points, 238 comments",
+      "summary": "1491 points, 240 comments",
       "publishedAt": "2026-10-22T23:01:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "summary": "450 points, 233 comments",
-      "publishedAt": "2026-10-22T22:43:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "publishedAt": "2026-10-22T22:34:54.000Z"
     },
     {
       "source": "Ars Technica",
@@ -659,15 +700,6 @@
       "publishedAt": "2026-10-22T22:12:19.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "publishedAt": "2026-10-22T22:08:24.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -684,24 +716,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
       "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
       "publishedAt": "2026-10-22T21:07:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "publishedAt": "2026-10-22T21:05:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-      "publishedAt": "2026-10-22T20:01:51.000Z"
     },
     {
       "source": "Simon Willison",
@@ -740,13 +754,13 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Parsing EDIFACT in Python with syntax trees",
+      "link": "https://github.com/AmadeusITGroup/Edison",
+      "summary": "14 points, 1 comments",
+      "publishedAt": "2026-10-22T14:07:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -756,15 +770,6 @@
       "link": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding increase in completed wo…",
       "publishedAt": "2026-10-22T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to run a city builder on 16 MHz",
-      "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "summary": "46 points, 12 comments",
-      "publishedAt": "2026-10-22T12:40:56.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -783,6 +788,15 @@
       "link": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Vercel Labs has released fx, an experimental open-source coding agent written in Zig. It runs as a CLI, a script component, or an embedded library, including a WebAssembly build. Early feedback questioned its model-agnos…",
       "publishedAt": "2026-10-22T09:33:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "summary": "61 points, 11 comments",
+      "publishedAt": "2026-10-22T09:01:10.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -835,7 +849,7 @@
       "category": "general",
       "title": "Physicists trap a single antimatter particle for a month",
       "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "summary": "123 points, 48 comments",
+      "summary": "214 points, 70 comments",
       "publishedAt": "2026-10-21T19:40:01.000Z"
     },
     {
@@ -871,7 +885,7 @@
       "category": "general",
       "title": "Appreciating the beauty of all your body's scars and scratches",
       "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "summary": "30 points, 21 comments",
+      "summary": "65 points, 39 comments",
       "publishedAt": "2026-10-21T14:00:08.000Z"
     },
     {
@@ -882,6 +896,15 @@
       "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "publishedAt": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "summary": "11 points, 0 comments",
+      "publishedAt": "2026-10-21T12:40:46.000Z"
     },
     {
       "source": "OpenAI",
@@ -983,15 +1006,6 @@
       "publishedAt": "2026-10-20T23:50:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bringing uv and ty together",
-      "link": "https://astral.sh/blog/uv-ty-integration",
-      "summary": "205 points, 65 comments",
-      "publishedAt": "2026-10-20T21:30:56.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1006,7 +1020,7 @@
       "category": "general",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "link": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "141 points, 42 comments",
+      "summary": "207 points, 60 comments",
       "publishedAt": "2026-10-20T19:22:39.000Z"
     },
     {
@@ -1127,15 +1141,6 @@
       "publishedAt": "2026-10-17T13:16:49.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
-      "link": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets…",
-      "publishedAt": "2026-10-17T06:28:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1172,15 +1177,6 @@
       "publishedAt": "2026-10-15T19:47:52.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1199,51 +1195,6 @@
       "publishedAt": "2026-10-15T02:07:28.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Tree Appreciator",
-      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree app…",
-      "publishedAt": "2026-10-14T21:23:01.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1260,15 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Anthropic",
