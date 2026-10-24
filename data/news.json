@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:54:42.039Z",
+  "updatedAt": "2026-10-24T22:16:41.339Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,12 +61,111 @@
   ],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "publishedAt": "2026-10-24T20:46:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Steal My Bitcoin",
+      "link": "https://stealmybitcoin.com/",
+      "summary": "192 points, 65 comments",
+      "publishedAt": "2026-10-24T20:30:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "publishedAt": "2026-10-24T20:15:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "No signs of AI payoff outside the tech sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "summary": "356 points, 326 comments",
+      "publishedAt": "2026-10-24T19:47:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
+      "summary": "71 points, 34 comments",
+      "publishedAt": "2026-10-24T19:43:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
+      "summary": "15 points, 2 comments",
+      "publishedAt": "2026-10-24T19:19:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Goose Programming Language",
+      "link": "https://aardappel.github.io/goose/",
+      "summary": "123 points, 106 comments",
+      "publishedAt": "2026-10-24T19:06:55.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "publishedAt": "2026-10-24T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
+      "publishedAt": "2026-10-24T18:32:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "summary": "169 points, 111 comments",
+      "publishedAt": "2026-10-24T18:31:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dream-1",
+      "link": "https://dreamlabs.ai/research/dream-1/",
+      "summary": "129 points, 65 comments",
+      "publishedAt": "2026-10-24T18:23:24.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
-      "summary": "36 points, 2 comments",
+      "summary": "77 points, 16 comments",
       "publishedAt": "2026-10-24T16:41:55.000Z"
     },
     {
@@ -84,7 +183,7 @@
       "category": "general",
       "title": "Roku developer repositories moved from GitHub to GitLab",
       "link": "https://blog.roku.com/developer/gitlab-move",
-      "summary": "109 points, 60 comments",
+      "summary": "220 points, 145 comments",
       "publishedAt": "2026-10-24T16:06:26.000Z"
     },
     {
@@ -111,7 +210,7 @@
       "category": "general",
       "title": "Neural chip decodes interactions between brain regions",
       "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "summary": "39 points, 5 comments",
+      "summary": "74 points, 23 comments",
       "publishedAt": "2026-10-24T15:57:17.000Z"
     },
     {
@@ -129,7 +228,7 @@
       "category": "general",
       "title": "FreeDNS",
       "link": "https://freedns.afraid.org/",
-      "summary": "145 points, 34 comments",
+      "summary": "216 points, 57 comments",
       "publishedAt": "2026-10-24T15:20:01.000Z"
     },
     {
@@ -255,16 +354,16 @@
       "category": "general",
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "link": "https://github.com/Zagitta/gpu-unlock",
-      "summary": "86 points, 40 comments",
+      "summary": "149 points, 59 comments",
       "publishedAt": "2026-10-24T09:58:27.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "I Don't Understand Quantum Physics (2018)",
+      "title": "I don't understand quantum physics (2018)",
       "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "211 points, 150 comments",
+      "summary": "249 points, 184 comments",
       "publishedAt": "2026-10-24T09:53:26.000Z"
     },
     {
@@ -282,7 +381,7 @@
       "category": "general",
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "188 points, 88 comments",
+      "summary": "255 points, 125 comments",
       "publishedAt": "2026-10-24T08:06:39.000Z"
     },
     {
@@ -291,7 +390,7 @@
       "category": "general",
       "title": "OBS Studio 33",
       "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "371 points, 129 comments",
+      "summary": "431 points, 155 comments",
       "publishedAt": "2026-10-24T04:49:58.000Z"
     },
     {
@@ -302,24 +401,6 @@
       "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - f…",
       "publishedAt": "2026-10-24T03:59:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Twelve years of distributed SQLite",
-      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "326 points, 47 comments",
-      "publishedAt": "2026-10-24T01:16:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "summary": "530 points, 189 comments",
-      "publishedAt": "2026-10-24T01:15:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -430,15 +511,6 @@
       "publishedAt": "2026-10-23T19:40:54.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netfl…",
-      "publishedAt": "2026-10-23T19:35:15.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -502,15 +574,6 @@
       "publishedAt": "2026-10-23T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "1031 points, 628 comments",
-      "publishedAt": "2026-10-23T16:59:08.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -547,15 +610,6 @@
       "publishedAt": "2026-10-23T16:26:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "link": "https://blog.calif.io/p/iphone",
-      "summary": "1036 points, 645 comments",
-      "publishedAt": "2026-10-23T16:21:50.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -574,15 +628,6 @@
       "publishedAt": "2026-10-23T16:02:43.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "publishedAt": "2026-10-23T15:00:09.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -590,15 +635,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
       "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
       "publishedAt": "2026-10-23T13:43:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Apple Music 404 Not Found",
-      "link": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "873 points, 258 comments",
-      "publishedAt": "2026-10-23T12:28:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -646,24 +682,6 @@
       "publishedAt": "2026-10-23T09:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "publishedAt": "2026-10-23T04:22:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "publishedAt": "2026-10-23T04:00:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -671,15 +689,6 @@
       "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "summary": "1491 points, 240 comments",
-      "publishedAt": "2026-10-22T23:01:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -754,15 +763,6 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Parsing EDIFACT in Python with syntax trees",
-      "link": "https://github.com/AmadeusITGroup/Edison",
-      "summary": "14 points, 1 comments",
-      "publishedAt": "2026-10-22T14:07:48.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -770,6 +770,15 @@
       "link": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding increase in completed wo…",
       "publishedAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Full Disk Encryption on Fedora with TPM2",
+      "link": "https://www.apalrd.net/posts/2026/ent_luks/",
+      "summary": "4 points, 1 comments",
+      "publishedAt": "2026-10-22T12:46:40.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -795,7 +804,7 @@
       "category": "general",
       "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
       "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "summary": "61 points, 11 comments",
+      "summary": "81 points, 14 comments",
       "publishedAt": "2026-10-22T09:01:10.000Z"
     },
     {
@@ -826,6 +835,15 @@
       "publishedAt": "2026-10-22T06:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+      "link": "https://sourceforge.net/projects/zac-os-9/",
+      "summary": "34 points, 23 comments",
+      "publishedAt": "2026-10-22T01:28:27.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -849,7 +867,7 @@
       "category": "general",
       "title": "Physicists trap a single antimatter particle for a month",
       "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "summary": "214 points, 70 comments",
+      "summary": "258 points, 77 comments",
       "publishedAt": "2026-10-21T19:40:01.000Z"
     },
     {
@@ -880,15 +898,6 @@
       "publishedAt": "2026-10-21T16:25:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Appreciating the beauty of all your body's scars and scratches",
-      "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "summary": "65 points, 39 comments",
-      "publishedAt": "2026-10-21T14:00:08.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -896,15 +905,6 @@
       "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "publishedAt": "2026-10-21T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-      "summary": "11 points, 0 comments",
-      "publishedAt": "2026-10-21T12:40:46.000Z"
     },
     {
       "source": "OpenAI",
@@ -1006,6 +1006,15 @@
       "publishedAt": "2026-10-20T23:50:25.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Symbolic Learning in Python and Julia",
+      "link": "https://github.com/astroautomata/PySR",
+      "summary": "45 points, 6 comments",
+      "publishedAt": "2026-10-20T20:07:35.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1013,15 +1022,6 @@
       "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat emba…",
       "publishedAt": "2026-10-20T19:34:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "207 points, 60 comments",
-      "publishedAt": "2026-10-20T19:22:39.000Z"
     },
     {
       "source": "InfoQ AI/ML",
