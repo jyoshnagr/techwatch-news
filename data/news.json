@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:19:44.967Z",
+  "updatedAt": "2026-10-24T13:52:14.690Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,78 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "summary": "106 points, 62 comments",
+      "publishedAt": "2026-10-24T13:09:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the…",
+      "publishedAt": "2026-10-24T12:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a…",
+      "publishedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "It’s time to find a new browser",
+      "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read…",
+      "publishedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "publishedAt": "2026-10-24T11:50:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "summary": "48 points, 12 comments",
+      "publishedAt": "2026-10-24T11:18:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "publishedAt": "2026-10-24T11:00:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "143 points, 90 comments",
+      "publishedAt": "2026-10-24T09:53:26.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -68,10 +140,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "summary": "106 points, 18 comments",
-      "publishedAt": "2026-10-24T05:49:57.000Z"
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "76 points, 36 comments",
+      "publishedAt": "2026-10-24T08:06:39.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,7 +151,7 @@
       "category": "general",
       "title": "OBS Studio 33",
       "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "131 points, 35 comments",
+      "summary": "261 points, 79 comments",
       "publishedAt": "2026-10-24T04:49:58.000Z"
     },
     {
@@ -88,17 +160,8 @@
       "category": "general",
       "title": "How close can pure functional programming get to C?",
       "link": "https://rtfeldman.com/fp-vs-c",
-      "summary": "112 points, 10 comments",
+      "summary": "160 points, 30 comments",
       "publishedAt": "2026-10-24T03:43:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How Block Blast harvests its players for ad money",
-      "link": "https://ayoships.com/breakdowns/block-blast",
-      "summary": "51 points, 12 comments",
-      "publishedAt": "2026-10-24T02:43:43.000Z"
     },
     {
       "source": "Hacker News",
@@ -106,7 +169,7 @@
       "category": "general",
       "title": "Apple Security Research Device",
       "link": "https://security.apple.com/research-device/",
-      "summary": "61 points, 19 comments",
+      "summary": "100 points, 44 comments",
       "publishedAt": "2026-10-24T02:36:38.000Z"
     },
     {
@@ -115,7 +178,7 @@
       "category": "general",
       "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "190 points, 23 comments",
+      "summary": "262 points, 41 comments",
       "publishedAt": "2026-10-24T01:16:58.000Z"
     },
     {
@@ -124,7 +187,7 @@
       "category": "general",
       "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "summary": "48 points, 3 comments",
+      "summary": "289 points, 79 comments",
       "publishedAt": "2026-10-24T01:15:14.000Z"
     },
     {
@@ -180,15 +243,6 @@
       "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
       "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my pre…",
       "publishedAt": "2026-10-23T21:35:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "CVE Tracker",
-      "link": "https://cve.0xosprey.com/",
-      "summary": "168 points, 61 comments",
-      "publishedAt": "2026-10-23T21:21:47.000Z"
     },
     {
       "source": "The Verge",
@@ -295,7 +349,7 @@
       "category": "general",
       "title": "Dessa: Conversation Model trained only on speech",
       "link": "https://block.xyz/dessa",
-      "summary": "383 points, 137 comments",
+      "summary": "421 points, 157 comments",
       "publishedAt": "2026-10-23T19:09:54.000Z"
     },
     {
@@ -353,15 +407,6 @@
       "publishedAt": "2026-10-23T17:18:31.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The iPhone Duo should have been an iPad",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smar…",
-      "publishedAt": "2026-10-23T17:00:18.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -376,7 +421,7 @@
       "category": "general",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "906 points, 529 comments",
+      "summary": "971 points, 581 comments",
       "publishedAt": "2026-10-23T16:59:08.000Z"
     },
     {
@@ -389,15 +434,6 @@
       "publishedAt": "2026-10-23T16:58:39.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exce…",
-      "publishedAt": "2026-10-23T16:52:55.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -405,15 +441,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
       "summary": "Corporate phishing tests are common, but this one was especially cruel.",
       "publishedAt": "2026-10-23T16:51:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The first broken iPhone Duos are here",
-      "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some k…",
-      "publishedAt": "2026-10-23T16:37:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -439,7 +466,7 @@
       "category": "general",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "link": "https://blog.calif.io/p/iphone",
-      "summary": "873 points, 565 comments",
+      "summary": "954 points, 618 comments",
       "publishedAt": "2026-10-23T16:21:50.000Z"
     },
     {
@@ -484,7 +511,7 @@
       "category": "general",
       "title": "Apple Music 404 Not Found",
       "link": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "755 points, 230 comments",
+      "summary": "819 points, 245 comments",
       "publishedAt": "2026-10-23T12:28:47.000Z"
     },
     {
@@ -592,7 +619,7 @@
       "category": "general",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "link": "https://edjefferson.com/localwiki/",
-      "summary": "1375 points, 234 comments",
+      "summary": "1433 points, 238 comments",
       "publishedAt": "2026-10-22T23:01:18.000Z"
     },
     {
@@ -601,7 +628,7 @@
       "category": "general",
       "title": "Canadians are running out of time to oppose Bill C-22",
       "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "summary": "413 points, 216 comments",
+      "summary": "450 points, 233 comments",
       "publishedAt": "2026-10-22T22:43:19.000Z"
     },
     {
@@ -668,15 +695,6 @@
       "publishedAt": "2026-10-22T21:05:05.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-      "publishedAt": "2026-10-22T20:17:52.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -684,15 +702,6 @@
       "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
       "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
       "publishedAt": "2026-10-22T20:01:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-      "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-      "summary": "We can't have nice things, but at least we can get trailers for them.",
-      "publishedAt": "2026-10-22T19:59:37.000Z"
     },
     {
       "source": "Simon Willison",
@@ -754,7 +763,7 @@
       "category": "general",
       "title": "How to run a city builder on 16 MHz",
       "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "summary": "6 points, 0 comments",
+      "summary": "46 points, 12 comments",
       "publishedAt": "2026-10-22T12:40:56.000Z"
     },
     {
@@ -826,7 +835,7 @@
       "category": "general",
       "title": "Physicists trap a single antimatter particle for a month",
       "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "summary": "24 points, 7 comments",
+      "summary": "123 points, 48 comments",
       "publishedAt": "2026-10-21T19:40:01.000Z"
     },
     {
@@ -855,6 +864,15 @@
       "link": "https://simonwillison.net/2026/Oct/21/panache/",
       "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk…",
       "publishedAt": "2026-10-21T16:25:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "summary": "30 points, 21 comments",
+      "publishedAt": "2026-10-21T14:00:08.000Z"
     },
     {
       "source": "OpenAI",
@@ -929,15 +947,6 @@
       "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "link": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "summary": "22 points, 13 comments",
-      "publishedAt": "2026-10-21T03:30:11.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -979,7 +988,7 @@
       "category": "general",
       "title": "Bringing uv and ty together",
       "link": "https://astral.sh/blog/uv-ty-integration",
-      "summary": "147 points, 34 comments",
+      "summary": "205 points, 65 comments",
       "publishedAt": "2026-10-20T21:30:56.000Z"
     },
     {
@@ -997,17 +1006,8 @@
       "category": "general",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "link": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "85 points, 22 comments",
+      "summary": "141 points, 42 comments",
       "publishedAt": "2026-10-20T19:22:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Real Kevin Bacon",
-      "link": "https://pudding.cool/2026/10/kevin-bacon/",
-      "summary": "302 points, 78 comments",
-      "publishedAt": "2026-10-20T17:10:05.000Z"
     },
     {
       "source": "InfoQ AI/ML",
