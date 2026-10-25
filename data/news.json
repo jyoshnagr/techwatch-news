@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T03:36:48.085Z",
+  "updatedAt": "2026-10-25T09:36:21.183Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,26 +52,22 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-      "summary": "23 points, 3 comments",
-      "publishedAt": "2026-10-25T03:05:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-      "summary": "28 points, 5 comments",
-      "publishedAt": "2026-10-25T02:18:35.000Z"
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "summary": "26 points, 1 comments",
+      "publishedAt": "2026-10-25T09:00:40.000Z"
     },
     {
       "source": "Hacker News",
@@ -79,17 +75,8 @@
       "category": "general",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "20 points, 5 comments",
+      "summary": "157 points, 55 comments",
       "publishedAt": "2026-10-25T01:33:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "link": "https://codeberg.org/Misom/FindMyWeb",
-      "summary": "32 points, 7 comments",
-      "publishedAt": "2026-10-24T23:42:52.000Z"
     },
     {
       "source": "Hacker News",
@@ -97,7 +84,7 @@
       "category": "general",
       "title": "Why Gopher in 2026?",
       "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "summary": "41 points, 10 comments",
+      "summary": "75 points, 24 comments",
       "publishedAt": "2026-10-24T23:33:19.000Z"
     },
     {
@@ -106,7 +93,7 @@
       "category": "general",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "220 points, 205 comments",
+      "summary": "359 points, 352 comments",
       "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
@@ -115,7 +102,7 @@
       "category": "general",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "248 points, 212 comments",
+      "summary": "418 points, 361 comments",
       "publishedAt": "2026-10-24T21:47:31.000Z"
     },
     {
@@ -124,7 +111,7 @@
       "category": "general",
       "title": "Small Programs and Languages",
       "link": "https://ratfactor.com/cards/pl-small",
-      "summary": "55 points, 5 comments",
+      "summary": "107 points, 8 comments",
       "publishedAt": "2026-10-24T21:44:23.000Z"
     },
     {
@@ -133,7 +120,7 @@
       "category": "general",
       "title": "The Importance of Limitations for Creativity and Learning (2023)",
       "link": "https://ratfactor.com/cards/limitations",
-      "summary": "35 points, 10 comments",
+      "summary": "71 points, 19 comments",
       "publishedAt": "2026-10-24T21:42:47.000Z"
     },
     {
@@ -155,15 +142,6 @@
       "publishedAt": "2026-10-24T20:46:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Steal My Bitcoin",
-      "link": "https://stealmybitcoin.com/",
-      "summary": "432 points, 261 comments",
-      "publishedAt": "2026-10-24T20:30:31.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -176,18 +154,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
-      "summary": "139 points, 88 comments",
-      "publishedAt": "2026-10-24T19:43:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "SpeedCrunch 1.1",
       "link": "https://www.speedcrunch.org/",
-      "summary": "95 points, 12 comments",
+      "summary": "146 points, 24 comments",
       "publishedAt": "2026-10-24T19:19:43.000Z"
     },
     {
@@ -196,7 +165,7 @@
       "category": "general",
       "title": "The Goose Programming Language",
       "link": "https://aardappel.github.io/goose/",
-      "summary": "277 points, 181 comments",
+      "summary": "389 points, 250 comments",
       "publishedAt": "2026-10-24T19:06:55.000Z"
     },
     {
@@ -223,7 +192,7 @@
       "category": "general",
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
-      "summary": "100 points, 32 comments",
+      "summary": "116 points, 37 comments",
       "publishedAt": "2026-10-24T16:41:55.000Z"
     },
     {
@@ -268,7 +237,7 @@
       "category": "general",
       "title": "FreeDNS",
       "link": "https://freedns.afraid.org/",
-      "summary": "262 points, 66 comments",
+      "summary": "292 points, 77 comments",
       "publishedAt": "2026-10-24T15:20:01.000Z"
     },
     {
@@ -394,7 +363,7 @@
       "category": "general",
       "title": "I don't understand quantum physics (2018)",
       "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "289 points, 222 comments",
+      "summary": "315 points, 251 comments",
       "publishedAt": "2026-10-24T09:53:26.000Z"
     },
     {
@@ -405,6 +374,15 @@
       "link": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of guardrail ship with it, and p…",
       "publishedAt": "2026-10-24T08:34:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "315 points, 153 comments",
+      "publishedAt": "2026-10-24T08:06:39.000Z"
     },
     {
       "source": "Simon Willison",
@@ -695,6 +673,15 @@
       "publishedAt": "2026-10-23T00:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "summary": "1587 points, 246 comments",
+      "publishedAt": "2026-10-22T23:01:18.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -767,15 +754,6 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -783,6 +761,24 @@
       "link": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding increase in completed wo…",
       "publishedAt": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "summary": "15 points, 5 comments",
+      "publishedAt": "2026-10-22T12:50:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How Japanese Dried Bonito Is Made",
+      "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "summary": "37 points, 12 comments",
+      "publishedAt": "2026-10-22T11:31:03.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -839,15 +835,6 @@
       "publishedAt": "2026-10-22T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "link": "https://xingjianbai.com/reactive-optimizers/",
-      "summary": "19 points, 1 comments",
-      "publishedAt": "2026-10-21T22:17:12.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -862,7 +849,7 @@
       "category": "general",
       "title": "A story of a Figma bug that wasn't a bug at all (2021)",
       "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "summary": "9 points, 0 comments",
+      "summary": "30 points, 1 comments",
       "publishedAt": "2026-10-21T19:30:52.000Z"
     },
     {
@@ -947,6 +934,15 @@
       "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "link": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "summary": "16 points, 1 comments",
+      "publishedAt": "2026-10-21T06:09:04.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1006,7 +1002,7 @@
       "category": "general",
       "title": "I Built a Stereo Vision Board for Hardware Hackers",
       "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "summary": "44 points, 1 comments",
+      "summary": "76 points, 12 comments",
       "publishedAt": "2026-10-20T20:45:52.000Z"
     },
     {
@@ -1024,7 +1020,7 @@
       "category": "general",
       "title": "Social dynamics of toxic metal industry in medieval Europe",
       "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "summary": "21 points, 0 comments",
+      "summary": "48 points, 20 comments",
       "publishedAt": "2026-10-20T17:06:48.000Z"
     },
     {
@@ -1181,15 +1177,6 @@
       "publishedAt": "2026-10-15T19:47:52.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1208,42 +1195,6 @@
       "publishedAt": "2026-10-15T02:07:28.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1260,15 +1211,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Anthropic",
