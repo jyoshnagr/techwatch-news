@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:08:25.317Z",
+  "updatedAt": "2026-10-25T18:12:40.565Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -64,10 +64,145 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "link": "https://github.com/winnin/farol",
-      "summary": "7 points, 2 comments",
-      "publishedAt": "2026-10-25T13:28:06.000Z"
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-10-25T18:04:11.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "link": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to move larger LLM workloads onto TPUs with it. AWS released TorchNeuron…",
+      "publishedAt": "2026-10-25T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "summary": "79 points, 6 comments",
+      "publishedAt": "2026-10-25T17:30:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fuck Nuance (2015)",
+      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+      "summary": "9 points, 1 comments",
+      "publishedAt": "2026-10-25T17:26:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "72 points, 33 comments",
+      "publishedAt": "2026-10-25T17:15:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sabre Wulf Remastered",
+      "link": "https://gp-64.com/swr/",
+      "summary": "32 points, 4 comments",
+      "publishedAt": "2026-10-25T17:15:16.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+      "link": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google has released ML Drift, an open-source, cross-platform GPU compute engine designed for on-device AI and machine learning inference. Licensed under Apache 2.0, it abstracts the complexities of different GPU hardware…",
+      "publishedAt": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "summary": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect stick…",
+      "publishedAt": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "publishedAt": "2026-10-25T16:57:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Mathematician Reads the AI Future",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "summary": "29 points, 22 comments",
+      "publishedAt": "2026-10-25T16:31:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "link": "https://github.com/socrates6969/jukebox-os",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-10-25T16:29:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "47 points, 66 comments",
+      "publishedAt": "2026-10-25T16:28:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f…",
+      "publishedAt": "2026-10-25T16:20:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-10-25T16:05:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "link": "https://bigwhalehunting.com/workforce/",
+      "summary": "130 points, 39 comments",
+      "publishedAt": "2026-10-25T15:05:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "publishedAt": "2026-10-25T14:10:00.000Z"
     },
     {
       "source": "The Verge",
@@ -82,28 +217,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Lego group reveals collaboration with Daft Punk",
-      "link": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
-      "summary": "21 points, 12 comments",
-      "publishedAt": "2026-10-25T12:48:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Challenge Is Gone",
-      "link": "https://blog.alxgsv.com/challenge-is-gone/",
-      "summary": "38 points, 34 comments",
-      "publishedAt": "2026-10-25T12:43:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "link": "https://loeffelholz-codex.org/en/",
-      "summary": "41 points, 5 comments",
-      "publishedAt": "2026-10-25T12:37:54.000Z"
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
+      "summary": "33 points, 10 comments",
+      "publishedAt": "2026-10-25T13:09:16.000Z"
     },
     {
       "source": "The Verge",
@@ -120,26 +237,8 @@
       "category": "general",
       "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
       "link": "https://github.com/ihhub/fheroes2",
-      "summary": "82 points, 25 comments",
+      "summary": "174 points, 59 comments",
       "publishedAt": "2026-10-25T11:09:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "link": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "summary": "146 points, 88 comments",
-      "publishedAt": "2026-10-25T10:42:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "summary": "53 points, 11 comments",
-      "publishedAt": "2026-10-25T09:51:17.000Z"
     },
     {
       "source": "Hacker News",
@@ -147,26 +246,8 @@
       "category": "general",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "236 points, 75 comments",
+      "summary": "311 points, 111 comments",
       "publishedAt": "2026-10-25T01:33:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why Gopher in 2026?",
-      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "summary": "100 points, 50 comments",
-      "publishedAt": "2026-10-24T23:33:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "408 points, 437 comments",
-      "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
       "source": "Hacker News",
@@ -174,17 +255,8 @@
       "category": "general",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "533 points, 482 comments",
+      "summary": "641 points, 618 comments",
       "publishedAt": "2026-10-24T21:47:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Small Programs and Languages",
-      "link": "https://ratfactor.com/cards/pl-small",
-      "summary": "139 points, 19 comments",
-      "publishedAt": "2026-10-24T21:44:23.000Z"
     },
     {
       "source": "The Verge",
@@ -219,7 +291,7 @@
       "category": "general",
       "title": "SpeedCrunch 1.1",
       "link": "https://www.speedcrunch.org/",
-      "summary": "179 points, 36 comments",
+      "summary": "206 points, 47 comments",
       "publishedAt": "2026-10-24T19:19:43.000Z"
     },
     {
@@ -228,7 +300,7 @@
       "category": "general",
       "title": "The Goose Programming Language",
       "link": "https://aardappel.github.io/goose/",
-      "summary": "472 points, 284 comments",
+      "summary": "526 points, 324 comments",
       "publishedAt": "2026-10-24T19:06:55.000Z"
     },
     {
@@ -248,6 +320,15 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
       "publishedAt": "2026-10-24T18:32:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
+      "summary": "16 points, 2 comments",
+      "publishedAt": "2026-10-24T17:42:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -358,24 +439,6 @@
       "publishedAt": "2026-10-24T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the…",
-      "publishedAt": "2026-10-24T12:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Laika has spent 20 years building up to Wildwood",
-      "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a…",
-      "publishedAt": "2026-10-24T12:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -394,15 +457,6 @@
       "publishedAt": "2026-10-24T11:00:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "336 points, 263 comments",
-      "publishedAt": "2026-10-24T09:53:26.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -415,10 +469,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "347 points, 168 comments",
-      "publishedAt": "2026-10-24T08:06:39.000Z"
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "summary": "615 points, 494 comments",
+      "publishedAt": "2026-10-24T05:49:57.000Z"
     },
     {
       "source": "Simon Willison",
@@ -610,33 +664,6 @@
       "publishedAt": "2026-10-23T16:35:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "publishedAt": "2026-10-23T16:26:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "publishedAt": "2026-10-23T16:20:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "publishedAt": "2026-10-23T16:02:43.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -698,15 +725,6 @@
       "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "summary": "1620 points, 251 comments",
-      "publishedAt": "2026-10-22T23:01:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -777,7 +795,7 @@
       "category": "general",
       "title": "Reverse engineer of PC-98 Touhou games retires",
       "link": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "summary": "27 points, 25 comments",
+      "summary": "57 points, 36 comments",
       "publishedAt": "2026-10-22T16:16:01.000Z"
     },
     {
@@ -802,10 +820,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Rewriting a Commercial Engine in Jai",
-      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "summary": "53 points, 39 comments",
-      "publishedAt": "2026-10-22T12:50:43.000Z"
+      "title": "Bring Back the Cool Save File Screens",
+      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+      "summary": "39 points, 8 comments",
+      "publishedAt": "2026-10-22T13:40:05.000Z"
     },
     {
       "source": "Hacker News",
@@ -813,7 +831,7 @@
       "category": "general",
       "title": "How Japanese Dried Bonito Is Made",
       "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "100 points, 26 comments",
+      "summary": "158 points, 41 comments",
       "publishedAt": "2026-10-22T11:31:03.000Z"
     },
     {
@@ -1085,24 +1103,6 @@
       "link": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "The article examines the transition from microservices to agentic AI architecture in distributed systems. Microservices allow for functional decomposition, while agentic systems focus on decision decomposition. This shif…",
       "publishedAt": "2026-10-19T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
-      "link": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Rachel Lee Nabors, former React core team member, dives into the architecture and philosophy behind local-first applications, exploring how small language models (SLMs) running directly on-device can deliver privacy-focu…",
-      "publishedAt": "2026-10-19T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "EmbeddingGemma 2 Expands beyond Text to Support Code, Images, Video, and Audio",
-      "link": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make semantic search and retrieval-augmented generation (RAG) more e…",
-      "publishedAt": "2026-10-19T10:00:00.000Z"
     },
     {
       "source": "Simon Willison",
