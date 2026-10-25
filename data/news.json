@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:12:40.565Z",
+  "updatedAt": "2026-10-25T22:21:08.370Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,12 +61,147 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repa…",
+      "publishedAt": "2026-10-25T21:40:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "publishedAt": "2026-10-25T21:31:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "21 points, 24 comments",
+      "publishedAt": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "summary": "77 points, 26 comments",
+      "publishedAt": "2026-10-25T21:08:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing…",
+      "publishedAt": "2026-10-25T21:08:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "19 points, 1 comments",
+      "publishedAt": "2026-10-25T20:32:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "summary": "34 points, 15 comments",
+      "publishedAt": "2026-10-25T20:27:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "publishedAt": "2026-10-25T20:20:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on…",
+      "publishedAt": "2026-10-25T20:16:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "49 points, 39 comments",
+      "publishedAt": "2026-10-25T19:40:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long ti…",
+      "publishedAt": "2026-10-25T19:24:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "65 points, 10 comments",
+      "publishedAt": "2026-10-25T19:11:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "summary": "37 points, 0 comments",
+      "publishedAt": "2026-10-25T19:10:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "summary": "23 points, 7 comments",
+      "publishedAt": "2026-10-25T18:58:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "summary": "263 points, 48 comments",
+      "publishedAt": "2026-10-25T18:23:54.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "summary": "4 points, 0 comments",
+      "summary": "294 points, 73 comments",
       "publishedAt": "2026-10-25T18:04:11.000Z"
     },
     {
@@ -84,17 +219,8 @@
       "category": "general",
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "link": "https://talkweb.eu/openweb/4558/",
-      "summary": "79 points, 6 comments",
+      "summary": "310 points, 165 comments",
       "publishedAt": "2026-10-25T17:30:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fuck Nuance (2015)",
-      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-      "summary": "9 points, 1 comments",
-      "publishedAt": "2026-10-25T17:26:08.000Z"
     },
     {
       "source": "Hacker News",
@@ -102,17 +228,8 @@
       "category": "general",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "link": "https://lynchlab.net/llm-skin-cancer",
-      "summary": "72 points, 33 comments",
+      "summary": "332 points, 172 comments",
       "publishedAt": "2026-10-25T17:15:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sabre Wulf Remastered",
-      "link": "https://gp-64.com/swr/",
-      "summary": "32 points, 4 comments",
-      "publishedAt": "2026-10-25T17:15:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -145,28 +262,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A Mathematician Reads the AI Future",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "summary": "29 points, 22 comments",
-      "publishedAt": "2026-10-25T16:31:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "link": "https://github.com/socrates6969/jukebox-os",
-      "summary": "8 points, 0 comments",
-      "publishedAt": "2026-10-25T16:29:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "summary": "47 points, 66 comments",
-      "publishedAt": "2026-10-25T16:28:26.000Z"
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "link": "https://unicode.org/reports/tr39/",
+      "summary": "25 points, 4 comments",
+      "publishedAt": "2026-10-25T16:40:37.000Z"
     },
     {
       "source": "The Verge",
@@ -185,15 +284,6 @@
       "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "publishedAt": "2026-10-25T16:05:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "link": "https://bigwhalehunting.com/workforce/",
-      "summary": "130 points, 39 comments",
-      "publishedAt": "2026-10-25T15:05:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -219,7 +309,7 @@
       "category": "general",
       "title": "Active incident at Dreamhost forcing password reset",
       "link": "https://www.dreamhoststatus.com/",
-      "summary": "33 points, 10 comments",
+      "summary": "91 points, 33 comments",
       "publishedAt": "2026-10-25T13:09:16.000Z"
     },
     {
@@ -235,19 +325,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "link": "https://github.com/ihhub/fheroes2",
-      "summary": "174 points, 59 comments",
-      "publishedAt": "2026-10-25T11:09:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "311 points, 111 comments",
-      "publishedAt": "2026-10-25T01:33:49.000Z"
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "summary": "32 points, 10 comments",
+      "publishedAt": "2026-10-25T01:30:13.000Z"
     },
     {
       "source": "Hacker News",
@@ -255,7 +336,7 @@
       "category": "general",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "641 points, 618 comments",
+      "summary": "724 points, 670 comments",
       "publishedAt": "2026-10-24T21:47:31.000Z"
     },
     {
@@ -286,24 +367,6 @@
       "publishedAt": "2026-10-24T20:15:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "SpeedCrunch 1.1",
-      "link": "https://www.speedcrunch.org/",
-      "summary": "206 points, 47 comments",
-      "publishedAt": "2026-10-24T19:19:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "summary": "526 points, 324 comments",
-      "publishedAt": "2026-10-24T19:06:55.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -327,7 +390,7 @@
       "category": "general",
       "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
       "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "summary": "16 points, 2 comments",
+      "summary": "45 points, 11 comments",
       "publishedAt": "2026-10-24T17:42:08.000Z"
     },
     {
@@ -385,24 +448,6 @@
       "publishedAt": "2026-10-24T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project…",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-      "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has alr…",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -412,30 +457,12 @@
       "publishedAt": "2026-10-24T14:15:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look…",
-      "publishedAt": "2026-10-24T14:15:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next w…",
       "publishedAt": "2026-10-24T14:00:00.000Z"
     },
     {
@@ -464,15 +491,6 @@
       "link": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of guardrail ship with it, and p…",
       "publishedAt": "2026-10-24T08:34:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "summary": "615 points, 494 comments",
-      "publishedAt": "2026-10-24T05:49:57.000Z"
     },
     {
       "source": "Simon Willison",
@@ -583,15 +601,6 @@
       "publishedAt": "2026-10-23T19:33:58.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "publishedAt": "2026-10-23T19:25:13.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -601,13 +610,13 @@
       "publishedAt": "2026-10-23T19:20:27.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le…",
-      "publishedAt": "2026-10-23T19:06:23.000Z"
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-23T18:46:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -793,10 +802,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "link": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "summary": "57 points, 36 comments",
-      "publishedAt": "2026-10-22T16:16:01.000Z"
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "link": "https://charliegerard.dev/blog/overgrown-extension/",
+      "summary": "42 points, 10 comments",
+      "publishedAt": "2026-10-22T15:52:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -808,6 +817,15 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The U.S. Power Grid",
+      "link": "https://nomagicpill.site/knowledge/powergrid.html",
+      "summary": "43 points, 13 comments",
+      "publishedAt": "2026-10-22T15:20:04.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -815,24 +833,6 @@
       "link": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding increase in completed wo…",
       "publishedAt": "2026-10-22T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Bring Back the Cool Save File Screens",
-      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
-      "summary": "39 points, 8 comments",
-      "publishedAt": "2026-10-22T13:40:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How Japanese Dried Bonito Is Made",
-      "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "158 points, 41 comments",
-      "publishedAt": "2026-10-22T11:31:03.000Z"
     },
     {
       "source": "InfoQ AI/ML",
