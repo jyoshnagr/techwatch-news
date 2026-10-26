@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:21:08.370Z",
+  "updatedAt": "2026-10-26T03:39:42.649Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,90 @@
       "category": "ai"
     }
   ],
-  "itemCount": 148,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 155,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-10-26T03:23:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "summary": "15 points, 1 comments",
+      "publishedAt": "2026-10-26T03:04:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-10-26T02:22:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "60 points, 18 comments",
+      "publishedAt": "2026-10-26T01:47:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "iPhone Duo Teardown",
+      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "summary": "59 points, 21 comments",
+      "publishedAt": "2026-10-26T01:23:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "publishedAt": "2026-10-26T01:10:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "60 points, 20 comments",
+      "publishedAt": "2026-10-26T01:03:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "summary": "42 points, 15 comments",
+      "publishedAt": "2026-10-25T23:52:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "77 points, 38 comments",
+      "publishedAt": "2026-10-25T23:27:30.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -84,17 +160,8 @@
       "category": "general",
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "link": "https://minimaxir.com/2026/10/cheap-llms/",
-      "summary": "21 points, 24 comments",
+      "summary": "196 points, 222 comments",
       "publishedAt": "2026-10-25T21:11:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "summary": "77 points, 26 comments",
-      "publishedAt": "2026-10-25T21:08:28.000Z"
     },
     {
       "source": "The Verge",
@@ -111,7 +178,7 @@
       "category": "general",
       "title": "The State of Context Engineering",
       "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "summary": "19 points, 1 comments",
+      "summary": "103 points, 32 comments",
       "publishedAt": "2026-10-25T20:32:31.000Z"
     },
     {
@@ -120,7 +187,7 @@
       "category": "general",
       "title": "What goes into making an animated film?",
       "link": "https://www.disneyanimation.com/process/",
-      "summary": "34 points, 15 comments",
+      "summary": "110 points, 43 comments",
       "publishedAt": "2026-10-25T20:27:09.000Z"
     },
     {
@@ -142,15 +209,6 @@
       "publishedAt": "2026-10-25T20:16:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Eunice is almost here",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "49 points, 39 comments",
-      "publishedAt": "2026-10-25T19:40:27.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -165,26 +223,8 @@
       "category": "general",
       "title": "Why I Am a Programmer",
       "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "summary": "65 points, 10 comments",
+      "summary": "156 points, 56 comments",
       "publishedAt": "2026-10-25T19:11:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "summary": "37 points, 0 comments",
-      "publishedAt": "2026-10-25T19:10:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Where the Romans Fought (interactive map)",
-      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "summary": "23 points, 7 comments",
-      "publishedAt": "2026-10-25T18:58:14.000Z"
     },
     {
       "source": "Hacker News",
@@ -192,17 +232,8 @@
       "category": "general",
       "title": "Dolly Parton's Imagination Library",
       "link": "https://imaginationlibrary.com/",
-      "summary": "263 points, 48 comments",
+      "summary": "441 points, 84 comments",
       "publishedAt": "2026-10-25T18:23:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "summary": "294 points, 73 comments",
-      "publishedAt": "2026-10-25T18:04:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -219,7 +250,7 @@
       "category": "general",
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "link": "https://talkweb.eu/openweb/4558/",
-      "summary": "310 points, 165 comments",
+      "summary": "420 points, 207 comments",
       "publishedAt": "2026-10-25T17:30:55.000Z"
     },
     {
@@ -228,7 +259,7 @@
       "category": "general",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "link": "https://lynchlab.net/llm-skin-cancer",
-      "summary": "332 points, 172 comments",
+      "summary": "480 points, 217 comments",
       "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
@@ -257,15 +288,6 @@
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "publishedAt": "2026-10-25T16:57:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "UTS #39: Unicode Security Mechanisms",
-      "link": "https://unicode.org/reports/tr39/",
-      "summary": "25 points, 4 comments",
-      "publishedAt": "2026-10-25T16:40:37.000Z"
     },
     {
       "source": "The Verge",
@@ -304,15 +326,6 @@
       "publishedAt": "2026-10-25T13:25:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Active incident at Dreamhost forcing password reset",
-      "link": "https://www.dreamhoststatus.com/",
-      "summary": "91 points, 33 comments",
-      "publishedAt": "2026-10-25T13:09:16.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -325,10 +338,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "link": "https://huggingface.co/destined/hurston-1",
-      "summary": "32 points, 10 comments",
-      "publishedAt": "2026-10-25T01:30:13.000Z"
+      "title": "Show HN: A Truly Modular Keyboard",
+      "link": "https://github.com/notaroomba/keybytes",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-10-25T03:47:56.000Z"
     },
     {
       "source": "Hacker News",
@@ -336,7 +349,7 @@
       "category": "general",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "724 points, 670 comments",
+      "summary": "755 points, 697 comments",
       "publishedAt": "2026-10-24T21:47:31.000Z"
     },
     {
@@ -383,15 +396,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide…",
       "publishedAt": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "summary": "45 points, 11 comments",
-      "publishedAt": "2026-10-24T17:42:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -574,15 +578,6 @@
       "publishedAt": "2026-10-23T20:19:55.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, netw…",
-      "publishedAt": "2026-10-23T20:03:14.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -615,7 +610,7 @@
       "category": "general",
       "title": "Making the Buddha Head from Merv Whole Again",
       "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "summary": "3 points, 0 comments",
+      "summary": "27 points, 0 comments",
       "publishedAt": "2026-10-23T18:46:00.000Z"
     },
     {
@@ -804,7 +799,7 @@
       "category": "general",
       "title": "Overgrown, when plants invade your abandoned tabs",
       "link": "https://charliegerard.dev/blog/overgrown-extension/",
-      "summary": "42 points, 10 comments",
+      "summary": "176 points, 53 comments",
       "publishedAt": "2026-10-22T15:52:21.000Z"
     },
     {
@@ -817,13 +812,13 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The U.S. Power Grid",
-      "link": "https://nomagicpill.site/knowledge/powergrid.html",
-      "summary": "43 points, 13 comments",
-      "publishedAt": "2026-10-22T15:20:04.000Z"
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -905,6 +900,15 @@
       "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
       "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code executi…",
       "publishedAt": "2026-10-21T18:41:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon's \"digital pacifier\" for toddlers",
+      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "summary": "116 points, 170 comments",
+      "publishedAt": "2026-10-21T18:37:48.000Z"
     },
     {
       "source": "OpenAI",
@@ -1177,6 +1181,15 @@
       "publishedAt": "2026-10-15T19:47:52.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1195,6 +1208,42 @@
       "publishedAt": "2026-10-15T02:07:28.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1211,6 +1260,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Anthropic",
