@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:03:46.469Z",
+  "updatedAt": "2026-10-27T10:14:36.221Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,17 +52,85 @@
       "category": "ai"
     }
   ],
-  "itemCount": 156,
-  "errors": [],
+  "itemCount": 149,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Data center backlash is uniting America",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with…",
+      "publishedAt": "2026-10-27T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the…",
+      "publishedAt": "2026-10-27T09:54:22.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Incremental rust builds up to 92x faster than cargo/rustc",
-      "link": "https://github.com/indexable-inc/blaze",
-      "summary": "14 points, 4 comments",
-      "publishedAt": "2026-10-27T03:09:07.000Z"
+      "title": "AI is ruining haunted houses",
+      "link": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-10-27T08:50:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "summary": "Whose hand is behind this travesty?",
+      "publishedAt": "2026-10-27T06:34:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "140 points, 108 comments",
+      "publishedAt": "2026-10-27T06:25:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Writing about pratt parsing so I remember it",
+      "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "summary": "32 points, 1 comments",
+      "publishedAt": "2026-10-27T06:02:23.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Developers Reporting Double-Digit Weekly Time Savings From AI Fell From 68% to 26%",
+      "link": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Atlassian’s State of Developer Experience 2026 finds the share of developers saving ten or more hours a week with AI dropped from 68% to 26% year over year, while only 28% report noticeably less friction than before AI.…",
+      "publishedAt": "2026-10-27T04:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I still teach OpenGL ES 3.0",
+      "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "summary": "64 points, 41 comments",
+      "publishedAt": "2026-10-27T02:15:10.000Z"
     },
     {
       "source": "TechCrunch",
@@ -79,7 +147,7 @@
       "category": "general",
       "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
       "link": "https://github.com/otya128/winevdm",
-      "summary": "39 points, 2 comments",
+      "summary": "90 points, 22 comments",
       "publishedAt": "2026-10-27T01:15:04.000Z"
     },
     {
@@ -115,7 +183,7 @@
       "category": "general",
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "96 points, 30 comments",
+      "summary": "137 points, 45 comments",
       "publishedAt": "2026-10-26T22:41:48.000Z"
     },
     {
@@ -126,15 +194,6 @@
       "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
       "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
       "publishedAt": "2026-10-26T22:36:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-      "summary": "34 points, 25 comments",
-      "publishedAt": "2026-10-26T22:27:17.000Z"
     },
     {
       "source": "OpenAI",
@@ -169,7 +228,7 @@
       "category": "general",
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "411 points, 154 comments",
+      "summary": "626 points, 226 comments",
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -196,7 +255,7 @@
       "category": "general",
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "616 points, 264 comments",
+      "summary": "909 points, 437 comments",
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -304,7 +363,7 @@
       "category": "general",
       "title": "Type Server Protocol",
       "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "summary": "208 points, 145 comments",
+      "summary": "243 points, 163 comments",
       "publishedAt": "2026-10-26T18:14:49.000Z"
     },
     {
@@ -331,7 +390,7 @@
       "category": "general",
       "title": "Oldest GUI application that still runs on Windows 11",
       "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "summary": "338 points, 204 comments",
+      "summary": "428 points, 245 comments",
       "publishedAt": "2026-10-26T17:56:55.000Z"
     },
     {
@@ -340,7 +399,7 @@
       "category": "general",
       "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
       "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "summary": "136 points, 66 comments",
+      "summary": "177 points, 81 comments",
       "publishedAt": "2026-10-26T17:49:55.000Z"
     },
     {
@@ -387,33 +446,6 @@
       "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
       "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth co…",
       "publishedAt": "2026-10-26T17:25:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nietzschian Debugger",
-      "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "summary": "144 points, 48 comments",
-      "publishedAt": "2026-10-26T17:25:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to…",
-      "publishedAt": "2026-10-26T17:10:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Everything old is new again with the Fitbit Edge",
-      "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-      "summary": "The bezels aren’t that noticeable with other watchfaces, but some things don’t change. Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in se…",
-      "publishedAt": "2026-10-26T17:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -475,7 +507,7 @@
       "category": "general",
       "title": "CSS-Tricks has a new owner",
       "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "404 points, 93 comments",
+      "summary": "481 points, 105 comments",
       "publishedAt": "2026-10-26T15:51:23.000Z"
     },
     {
@@ -484,7 +516,7 @@
       "category": "general",
       "title": "Solar power is becoming bigger than nuclear",
       "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-      "summary": "182 points, 298 comments",
+      "summary": "321 points, 478 comments",
       "publishedAt": "2026-10-26T15:26:17.000Z"
     },
     {
@@ -493,7 +525,7 @@
       "category": "general",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "summary": "608 points, 86 comments",
+      "summary": "711 points, 99 comments",
       "publishedAt": "2026-10-26T15:11:59.000Z"
     },
     {
@@ -574,17 +606,8 @@
       "category": "general",
       "title": "New iPad mini",
       "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "summary": "155 points, 435 comments",
+      "summary": "209 points, 514 comments",
       "publishedAt": "2026-10-26T13:13:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anthropic S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "summary": "1523 points, 1486 comments",
-      "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
       "source": "TechCrunch",
@@ -630,6 +653,15 @@
       "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
       "publishedAt": "2026-10-26T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How to grow a cacao tree at home (2024)",
+      "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "summary": "74 points, 25 comments",
+      "publishedAt": "2026-10-26T07:50:17.000Z"
     },
     {
       "source": "OpenAI",
@@ -686,15 +718,6 @@
       "publishedAt": "2026-10-25T20:20:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-      "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "summary": "13 points, 0 comments",
-      "publishedAt": "2026-10-25T18:43:01.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -740,42 +763,6 @@
       "publishedAt": "2026-10-25T15:10:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Historical Telecommunications",
-      "link": "https://retronetworking.org/",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-10-25T15:06:15.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "publishedAt": "2026-10-25T14:10:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "link": "https://t3x.org/lisp64k/index.html",
-      "summary": "39 points, 7 comments",
-      "publishedAt": "2026-10-25T12:53:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Virtual and Real World Combine at LAN Party (1998)",
-      "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-      "summary": "21 points, 1 comments",
-      "publishedAt": "2026-10-25T00:07:19.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -810,6 +797,15 @@
       "link": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of guardrail ship with it, and p…",
       "publishedAt": "2026-10-24T08:34:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Encarta 95 Web",
+      "link": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+      "summary": "19 points, 10 comments",
+      "publishedAt": "2026-10-24T07:18:37.000Z"
     },
     {
       "source": "Simon Willison",
@@ -884,6 +880,15 @@
       "publishedAt": "2026-10-23T19:20:27.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+      "link": "https://johnhendersontravel.com/txoko/",
+      "summary": "24 points, 8 comments",
+      "publishedAt": "2026-10-23T17:37:05.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -925,7 +930,7 @@
       "category": "general",
       "title": "A Printer Printing onto Paper",
       "link": "https://twitter.com/macrofying/status/2112904628509528219",
-      "summary": "81 points, 21 comments",
+      "summary": "131 points, 29 comments",
       "publishedAt": "2026-10-23T05:01:30.000Z"
     },
     {
@@ -974,13 +979,13 @@
       "publishedAt": "2026-10-22T15:34:13.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "link": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+      "summary": "57 points, 25 comments",
+      "publishedAt": "2026-10-22T14:50:22.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1017,15 +1022,6 @@
       "link": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the agent interprets the results. It explains th…",
       "publishedAt": "2026-10-22T09:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Developer behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready\"",
-      "link": "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "A developer used Claude Opus 5.5 to build open-source replacements for seven Adobe applications, promoted them across Reddit with a projection of roughly 100% parity within a month, then told Hacker News the project was…",
-      "publishedAt": "2026-10-22T07:41:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1208,51 +1204,6 @@
       "publishedAt": "2026-10-16T22:06:37.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1269,15 +1220,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
       "source": "Anthropic",
