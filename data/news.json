@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:34:51.818Z",
+  "updatedAt": "2026-10-28T04:30:12.158Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,24 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Git for US Legislation",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "summary": "103 points, 44 comments",
+      "publishedAt": "2026-10-28T01:47:50.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "publishedAt": "2026-10-28T01:15:28.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -97,7 +115,7 @@
       "category": "general",
       "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
       "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "summary": "12 points, 13 comments",
+      "summary": "84 points, 75 comments",
       "publishedAt": "2026-10-27T22:31:15.000Z"
     },
     {
@@ -196,7 +214,7 @@
       "category": "general",
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "77 points, 67 comments",
+      "summary": "168 points, 158 comments",
       "publishedAt": "2026-10-27T20:50:42.000Z"
     },
     {
@@ -214,17 +232,8 @@
       "category": "general",
       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
       "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "summary": "65 points, 19 comments",
+      "summary": "123 points, 54 comments",
       "publishedAt": "2026-10-27T20:48:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Hex Raises $100M",
-      "link": "https://hex.tech/blog/hex-new-era/",
-      "summary": "28 points, 11 comments",
-      "publishedAt": "2026-10-27T20:36:38.000Z"
     },
     {
       "source": "TechCrunch",
@@ -248,18 +257,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Four Months of Zig",
-      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "summary": "52 points, 24 comments",
-      "publishedAt": "2026-10-27T20:13:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Tailscale SSH: Investigation and remediation update",
       "link": "https://tailscale.com/ssh-investigation-update",
-      "summary": "154 points, 90 comments",
+      "summary": "230 points, 116 comments",
       "publishedAt": "2026-10-27T19:55:21.000Z"
     },
     {
@@ -268,7 +268,7 @@
       "category": "general",
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "link": "https://www.brangus.io/survival-llm",
-      "summary": "134 points, 86 comments",
+      "summary": "236 points, 117 comments",
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
@@ -317,15 +317,6 @@
       "publishedAt": "2026-10-27T18:49:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Three TLS Bugs in GoAhead",
-      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "summary": "50 points, 8 comments",
-      "publishedAt": "2026-10-27T18:33:48.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -348,8 +339,8 @@
       "color": "#ff6600",
       "category": "general",
       "title": "Radio-tagged Monarch butterflies",
-      "link": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
-      "summary": "14 points, 4 comments",
+      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "summary": "39 points, 15 comments",
       "publishedAt": "2026-10-27T17:48:15.000Z"
     },
     {
@@ -369,15 +360,6 @@
       "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
       "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "publishedAt": "2026-10-27T17:08:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "link": "https://www.liquid.ai/blog/lfm3",
-      "summary": "105 points, 39 comments",
-      "publishedAt": "2026-10-27T17:04:50.000Z"
     },
     {
       "source": "The Verge",
@@ -403,7 +385,7 @@
       "category": "general",
       "title": "Ghostty 1.4",
       "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "summary": "653 points, 204 comments",
+      "summary": "854 points, 266 comments",
       "publishedAt": "2026-10-27T16:51:22.000Z"
     },
     {
@@ -430,7 +412,7 @@
       "category": "general",
       "title": "Classification of Finite Simple Groups Formalized in Lean",
       "link": "https://cfsg.axiommath.ai/",
-      "summary": "155 points, 41 comments",
+      "summary": "187 points, 52 comments",
       "publishedAt": "2026-10-27T16:29:02.000Z"
     },
     {
@@ -457,7 +439,7 @@
       "category": "general",
       "title": "New 14‑inch MacBook Pro with M6",
       "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "252 points, 304 comments",
+      "summary": "307 points, 396 comments",
       "publishedAt": "2026-10-27T16:08:32.000Z"
     },
     {
@@ -551,15 +533,6 @@
       "publishedAt": "2026-10-27T14:20:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "727 points, 262 comments",
-      "publishedAt": "2026-10-27T14:06:42.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -610,7 +583,7 @@
       "category": "general",
       "title": "New iMac with M6",
       "link": "https://www.apple.com/imac/",
-      "summary": "295 points, 352 comments",
+      "summary": "319 points, 395 comments",
       "publishedAt": "2026-10-27T13:02:02.000Z"
     },
     {
@@ -621,15 +594,6 @@
       "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
       "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
       "publishedAt": "2026-10-27T13:01:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "publishedAt": "2026-10-27T13:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -646,17 +610,8 @@
       "category": "general",
       "title": "Python's experimental JIT to be removed",
       "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "summary": "427 points, 220 comments",
+      "summary": "465 points, 253 comments",
       "publishedAt": "2026-10-27T11:17:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "summary": "429 points, 197 comments",
-      "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -821,6 +776,15 @@
       "publishedAt": "2026-10-26T13:45:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "81 Jokes for the ZX81",
+      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "summary": "50 points, 4 comments",
+      "publishedAt": "2026-10-26T12:45:16.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -871,7 +835,7 @@
       "category": "general",
       "title": "SS United States to be sunk as largest artificial reef",
       "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "summary": "52 points, 36 comments",
+      "summary": "107 points, 76 comments",
       "publishedAt": "2026-10-26T04:41:15.000Z"
     },
     {
@@ -882,6 +846,15 @@
       "link": "https://openai.com/index/introducing-gpt-6-1-terra",
       "summary": "Bringing fast and capable computer use to everyone",
       "publishedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "summary": "123 points, 23 comments",
+      "publishedAt": "2026-10-25T18:49:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -914,9 +887,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Assembly Nights",
+      "link": "https://ratfactor.com/assembly-nights",
+      "summary": "29 points, 4 comments",
+      "publishedAt": "2026-10-25T12:35:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "An examination of lost firefly species of the US and Canada",
       "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "summary": "69 points, 9 comments",
+      "summary": "103 points, 24 comments",
       "publishedAt": "2026-10-24T19:04:42.000Z"
     },
     {
@@ -938,6 +920,15 @@
       "publishedAt": "2026-10-24T08:34:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "link": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "summary": "15 points, 1 comments",
+      "publishedAt": "2026-10-24T08:30:32.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -945,6 +936,15 @@
       "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - f…",
       "publishedAt": "2026-10-24T03:59:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tabletop Whale is an original science illustration blog",
+      "link": "https://tabletopwhale.com",
+      "summary": "29 points, 3 comments",
+      "publishedAt": "2026-10-24T02:51:39.000Z"
     },
     {
       "source": "Simon Willison",
