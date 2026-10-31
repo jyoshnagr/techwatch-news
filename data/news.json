@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:44:49.303Z",
+  "updatedAt": "2026-10-31T19:08:02.217Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,228 @@
   "errors": [],
   "items": [
     {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 1…",
+      "publishedAt": "2026-10-31T18:40:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I post trained a model on Demoscenes",
+      "link": "https://datavorous.com/writing/demoscener/",
+      "summary": "11 points, 4 comments",
+      "publishedAt": "2026-10-31T18:08:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Impact of Generative AI on Critical Thinking",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "summary": "39 points, 19 comments",
+      "publishedAt": "2026-10-31T18:02:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "William Nordhaus, Nobel-winning climate economist, dies at 85",
+      "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "summary": "14 points, 1 comments",
+      "publishedAt": "2026-10-31T17:59:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Happy Pikmin Day Eve",
+      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an…",
+      "publishedAt": "2026-10-31T17:50:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "summary": "129 points, 98 comments",
+      "publishedAt": "2026-10-31T17:37:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "link": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
+      "summary": "5 points, 2 comments",
+      "publishedAt": "2026-10-31T17:36:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "publishedAt": "2026-10-31T16:12:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+      "summary": "52 points, 24 comments",
+      "publishedAt": "2026-10-31T16:09:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w…",
+      "publishedAt": "2026-10-31T16:05:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Casio Watches of the 1980s",
+      "link": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "summary": "136 points, 63 comments",
+      "publishedAt": "2026-10-31T16:00:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "publishedAt": "2026-10-31T15:41:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit…",
+      "publishedAt": "2026-10-31T15:12:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "summary": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder acros…",
+      "publishedAt": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "summary": "No lies detected. | Photo: Onda Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the m…",
+      "publishedAt": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "summary": "190 points, 97 comments",
+      "publishedAt": "2026-10-31T14:29:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "publishedAt": "2026-10-31T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "link": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "84 points, 40 comments",
+      "publishedAt": "2026-10-31T13:39:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Touchscreens everywhere!",
+      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) T…",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked…",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "publishedAt": "2026-10-31T11:15:26.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "publishedAt": "2026-10-31T11:02:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "260 points, 119 comments",
+      "publishedAt": "2026-10-31T10:30:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "summary": "245 points, 150 comments",
+      "publishedAt": "2026-10-31T10:23:41.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Serbia just elected the world's brainiest parliament",
       "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "summary": "46 points, 11 comments",
+      "summary": "701 points, 402 comments",
       "publishedAt": "2026-10-31T10:21:30.000Z"
     },
     {
@@ -70,7 +286,7 @@
       "category": "general",
       "title": "Switch Lowering in GCC",
       "link": "https://xoranth.net/gcc-switch/",
-      "summary": "62 points, 6 comments",
+      "summary": "169 points, 32 comments",
       "publishedAt": "2026-10-31T08:02:26.000Z"
     },
     {
@@ -86,9 +302,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Digital Minimalism",
+      "title": "Digital minimalism",
       "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "summary": "51 points, 28 comments",
+      "summary": "246 points, 184 comments",
       "publishedAt": "2026-10-31T06:16:36.000Z"
     },
     {
@@ -99,15 +315,6 @@
       "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
       "summary": "The money behind the money is thrilled, mostly.",
       "publishedAt": "2026-10-31T04:16:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tell HN: Scribd Breached",
-      "link": "https://news.ycombinator.com/item?id=50312756",
-      "summary": "218 points, 89 comments",
-      "publishedAt": "2026-10-31T02:46:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -126,15 +333,6 @@
       "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
       "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "publishedAt": "2026-10-31T00:07:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "link": "https://tng.episodle.com/",
-      "summary": "194 points, 55 comments",
-      "publishedAt": "2026-10-30T23:51:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -263,15 +461,6 @@
       "publishedAt": "2026-10-30T21:01:32.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky…",
-      "publishedAt": "2026-10-30T20:48:43.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -279,15 +468,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
       "summary": "People who love AI don't always love telling others they used it.",
       "publishedAt": "2026-10-30T20:40:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can ap…",
-      "publishedAt": "2026-10-30T20:26:10.000Z"
     },
     {
       "source": "Ars Technica",
@@ -308,15 +488,6 @@
       "publishedAt": "2026-10-30T19:55:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "summary": "155 points, 59 comments",
-      "publishedAt": "2026-10-30T19:51:33.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -324,24 +495,6 @@
       "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
       "summary": "But it's still early days for the relatively new e-commerce use case.",
       "publishedAt": "2026-10-30T19:30:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Infinite Mac: BeOS",
-      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "summary": "160 points, 76 comments",
-      "publishedAt": "2026-10-30T19:30:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma…",
-      "publishedAt": "2026-10-30T18:21:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -380,51 +533,6 @@
       "publishedAt": "2026-10-30T17:38:19.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that r…",
-      "publishedAt": "2026-10-30T17:38:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The delightfully messy state of Apple gadgets",
-      "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't…",
-      "publishedAt": "2026-10-30T17:25:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "311 points, 90 comments",
-      "publishedAt": "2026-10-30T17:25:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "summary": "Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings…",
-      "publishedAt": "2026-10-30T17:16:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "summary": "Walmart’s inexpensive Vizio produces a nice, bright image, though its black levels aren’t that deep. | Photo: John Higgins / The Verge Modern smart TVs let you skip the streaming device, which is convenient, but they als…",
-      "publishedAt": "2026-10-30T17:01:07.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -443,15 +551,6 @@
       "publishedAt": "2026-10-30T16:53:49.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "link": "https://github.com/dbreunig/nesformer",
-      "summary": "255 points, 122 comments",
-      "publishedAt": "2026-10-30T16:40:22.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -468,42 +567,6 @@
       "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
       "publishedAt": "2026-10-30T16:03:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "link": "https://github.com/kevinraymond/florilegium",
-      "summary": "288 points, 47 comments",
-      "publishedAt": "2026-10-30T15:48:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazo…",
-      "publishedAt": "2026-10-30T15:29:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Northflank Breached",
-      "link": "https://status.northflank.com",
-      "summary": "439 points, 316 comments",
-      "publishedAt": "2026-10-30T15:10:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "summary": "198 points, 230 comments",
-      "publishedAt": "2026-10-30T14:08:20.000Z"
     },
     {
       "source": "TechCrunch",
@@ -558,33 +621,6 @@
       "link": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "DoorDash reduced grocery reorder latency from 16 to 2 seconds by precomputing recurring purchase needs using batch LLM inference and deterministic validation. Live catalog resolution keeps product selections current, whi…",
       "publishedAt": "2026-10-30T13:31:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "publishedAt": "2026-10-30T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "publishedAt": "2026-10-30T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "458 points, 312 comments",
-      "publishedAt": "2026-10-30T12:50:01.000Z"
     },
     {
       "source": "Ars Technica",
@@ -671,19 +707,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "summary": "901 points, 532 comments",
-      "publishedAt": "2026-10-30T07:09:12.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "publishedAt": "2026-10-30T07:01:00.000Z"
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "link": "https://github.com/4yk5/Ghostman",
+      "summary": "25 points, 18 comments",
+      "publishedAt": "2026-10-30T07:48:40.000Z"
     },
     {
       "source": "OpenAI",
@@ -713,22 +740,13 @@
       "publishedAt": "2026-10-29T21:47:57.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-      "publishedAt": "2026-10-29T20:18:49.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "summary": "Inspector general rejected request from Democratic and Republican senators.",
-      "publishedAt": "2026-10-29T20:08:10.000Z"
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "link": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "summary": "10 points, 3 comments",
+      "publishedAt": "2026-10-29T18:33:40.000Z"
     },
     {
       "source": "Simon Willison",
@@ -754,14 +772,14 @@
       "category": "general",
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "summary": "36 points, 5 comments",
+      "summary": "159 points, 36 comments",
       "publishedAt": "2026-10-29T15:29:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+      "title": "Bug0 Releases QA Agent to Automate Regression Testing with Cached Playwright Replays",
       "link": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appro…",
       "publishedAt": "2026-10-29T15:17:00.000Z"
@@ -848,15 +866,6 @@
       "publishedAt": "2026-10-28T23:23:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "link": "https://github.com/chris124567/cfsolve",
-      "summary": "215 points, 62 comments",
-      "publishedAt": "2026-10-28T17:29:23.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -878,10 +887,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-      "link": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
-      "summary": "34 points, 19 comments",
-      "publishedAt": "2026-10-28T15:04:12.000Z"
+      "title": "Redox: Ring Buffers Project Summary",
+      "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
+      "summary": "19 points, 1 comments",
+      "publishedAt": "2026-10-28T14:27:12.000Z"
     },
     {
       "source": "Simon Willison",
@@ -929,6 +938,15 @@
       "publishedAt": "2026-10-28T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "summary": "49 points, 14 comments",
+      "publishedAt": "2026-10-28T09:38:07.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -938,15 +956,6 @@
       "publishedAt": "2026-10-28T09:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sneezecount (2018)",
-      "link": "https://sneezecount.joyfeed.com",
-      "summary": "3 points, 0 comments",
-      "publishedAt": "2026-10-28T03:31:07.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -954,15 +963,6 @@
       "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into w…",
       "publishedAt": "2026-10-27T19:34:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Breaking the open web won't stop the bad bots",
-      "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "265 points, 115 comments",
-      "publishedAt": "2026-10-27T18:42:55.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -977,10 +977,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "link": "https://zebra.rodeo/en/blog/marelleo/",
-      "summary": "63 points, 25 comments",
-      "publishedAt": "2026-10-27T15:24:36.000Z"
+      "title": "Simple circuits can create complex behaviors",
+      "link": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "summary": "146 points, 41 comments",
+      "publishedAt": "2026-10-27T16:01:06.000Z"
     },
     {
       "source": "OpenAI",
