@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:29:35.790Z",
+  "updatedAt": "2026-10-31T04:30:17.127Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -64,19 +64,64 @@
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "publishedAt": "2026-10-30T23:21:23.000Z"
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "summary": "The money behind the money is thrilled, mostly.",
+      "publishedAt": "2026-10-31T04:16:50.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Federal Bureau of Prisons employees serve as election monitors at polling sites",
-      "link": "https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-10-30T23:12:02.000Z"
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "summary": "77 points, 20 comments",
+      "publishedAt": "2026-10-31T02:46:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+      "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+      "summary": "31 points, 5 comments",
+      "publishedAt": "2026-10-31T02:42:02.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "publishedAt": "2026-10-31T01:20:05.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "publishedAt": "2026-10-31T00:07:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "summary": "123 points, 40 comments",
+      "publishedAt": "2026-10-30T23:51:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "publishedAt": "2026-10-30T23:21:23.000Z"
     },
     {
       "source": "TechCrunch",
@@ -91,7 +136,7 @@
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
       "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
       "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
       "publishedAt": "2026-10-30T22:36:41.000Z"
@@ -115,15 +160,6 @@
       "publishedAt": "2026-10-30T22:21:05.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "France is getting download tax for content providers (€0.055/GB)",
-      "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
-      "summary": "60 points, 42 comments",
-      "publishedAt": "2026-10-30T22:10:12.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -131,15 +167,6 @@
       "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
       "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mar…",
       "publishedAt": "2026-10-30T21:59:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Linode Security Incident",
-      "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
-      "summary": "106 points, 51 comments",
-      "publishedAt": "2026-10-30T21:57:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -183,7 +210,7 @@
       "category": "general",
       "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "link": "https://www.firezone.dev/blog/introducing-sanstun",
-      "summary": "41 points, 3 comments",
+      "summary": "91 points, 15 comments",
       "publishedAt": "2026-10-30T21:30:00.000Z"
     },
     {
@@ -203,15 +230,6 @@
       "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
       "publishedAt": "2026-10-30T21:17:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AO3 Down for Maintenance",
-      "link": "https://www.otwstatus.org",
-      "summary": "68 points, 9 comments",
-      "publishedAt": "2026-10-30T21:17:23.000Z"
     },
     {
       "source": "Ars Technica",
@@ -264,7 +282,7 @@
       "category": "general",
       "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
       "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "summary": "139 points, 73 comments",
+      "summary": "258 points, 145 comments",
       "publishedAt": "2026-10-30T20:23:30.000Z"
     },
     {
@@ -291,7 +309,7 @@
       "category": "general",
       "title": "Jules Verne's Lost Novel",
       "link": "https://blue-continuum.com/verne-paris",
-      "summary": "61 points, 13 comments",
+      "summary": "89 points, 19 comments",
       "publishedAt": "2026-10-30T19:55:10.000Z"
     },
     {
@@ -300,7 +318,7 @@
       "category": "general",
       "title": "The oldest ice disappears and the Stone Age emerges from it",
       "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "summary": "60 points, 17 comments",
+      "summary": "110 points, 46 comments",
       "publishedAt": "2026-10-30T19:51:33.000Z"
     },
     {
@@ -318,17 +336,8 @@
       "category": "general",
       "title": "Infinite Mac: BeOS",
       "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "summary": "81 points, 16 comments",
+      "summary": "125 points, 49 comments",
       "publishedAt": "2026-10-30T19:30:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Pickpocket's Guide to New York",
-      "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-      "summary": "45 points, 6 comments",
-      "publishedAt": "2026-10-30T19:26:39.000Z"
     },
     {
       "source": "The Verge",
@@ -399,7 +408,7 @@
       "category": "general",
       "title": "My favourite PowerMac is a Nintendo Wii",
       "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "206 points, 55 comments",
+      "summary": "266 points, 77 comments",
       "publishedAt": "2026-10-30T17:25:15.000Z"
     },
     {
@@ -444,7 +453,7 @@
       "category": "general",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "link": "https://github.com/dbreunig/nesformer",
-      "summary": "167 points, 105 comments",
+      "summary": "213 points, 118 comments",
       "publishedAt": "2026-10-30T16:40:22.000Z"
     },
     {
@@ -471,7 +480,7 @@
       "category": "general",
       "title": "Florilegium: Procedural Flowers in LaTeX",
       "link": "https://github.com/kevinraymond/florilegium",
-      "summary": "196 points, 34 comments",
+      "summary": "234 points, 41 comments",
       "publishedAt": "2026-10-30T15:48:12.000Z"
     },
     {
@@ -480,7 +489,7 @@
       "category": "general",
       "title": "The federated code forge",
       "link": "https://tangled.org/blog/forge/",
-      "summary": "207 points, 68 comments",
+      "summary": "247 points, 82 comments",
       "publishedAt": "2026-10-30T15:44:29.000Z"
     },
     {
@@ -498,7 +507,7 @@
       "category": "general",
       "title": "Northflank Breached",
       "link": "https://status.northflank.com",
-      "summary": "328 points, 249 comments",
+      "summary": "389 points, 289 comments",
       "publishedAt": "2026-10-30T15:10:31.000Z"
     },
     {
@@ -574,6 +583,15 @@
       "publishedAt": "2026-10-30T13:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "376 points, 256 comments",
+      "publishedAt": "2026-10-30T12:50:01.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -624,7 +642,7 @@
       "category": "general",
       "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
       "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "summary": "255 points, 46 comments",
+      "summary": "281 points, 56 comments",
       "publishedAt": "2026-10-30T10:06:15.000Z"
     },
     {
@@ -669,7 +687,7 @@
       "category": "general",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "summary": "717 points, 445 comments",
+      "summary": "835 points, 504 comments",
       "publishedAt": "2026-10-30T07:09:12.000Z"
     },
     {
@@ -682,15 +700,6 @@
       "publishedAt": "2026-10-30T07:01:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "publishedAt": "2026-10-30T01:20:48.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -698,15 +707,6 @@
       "link": "https://openai.com/index/fair-use-benefits-everyone",
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "publishedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-      "publishedAt": "2026-10-29T23:44:56.000Z"
     },
     {
       "source": "Simon Willison",
@@ -743,24 +743,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
       "summary": "Inspector general rejected request from Democratic and Republican senators.",
       "publishedAt": "2026-10-29T20:08:10.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump declares robot imports a national security threat",
-      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "publishedAt": "2026-10-29T19:07:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Turning a solar power system into its own backup",
-      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "summary": "26 points, 7 comments",
-      "publishedAt": "2026-10-29T18:10:33.000Z"
     },
     {
       "source": "Simon Willison",
@@ -876,8 +858,17 @@
       "category": "general",
       "title": "Cloudflare Turnstile solver library (no headless browser required)",
       "link": "https://github.com/chris124567/cfsolve",
-      "summary": "9 points, 0 comments",
+      "summary": "130 points, 35 comments",
       "publishedAt": "2026-10-28T17:29:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Double Buffering with Cloudflare Queues",
+      "link": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+      "summary": "9 points, 2 comments",
+      "publishedAt": "2026-10-28T16:48:23.000Z"
     },
     {
       "source": "Simon Willison",
@@ -887,6 +878,15 @@
       "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
       "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particu…",
       "publishedAt": "2026-10-28T16:45:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "link": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-10-28T15:04:12.000Z"
     },
     {
       "source": "Simon Willison",
@@ -957,7 +957,7 @@
       "category": "general",
       "title": "Breaking the open web won't stop the bad bots",
       "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "164 points, 68 comments",
+      "summary": "214 points, 99 comments",
       "publishedAt": "2026-10-27T18:42:55.000Z"
     },
     {
