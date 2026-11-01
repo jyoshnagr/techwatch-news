@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:51:06.587Z",
+  "updatedAt": "2026-11-01T11:43:18.885Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,59 @@
       "category": "ai"
     }
   ],
-  "itemCount": 156,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Norway makes shithouses great again",
+      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "summary": "96 points, 36 comments",
+      "publishedAt": "2026-11-01T10:47:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "summary": "5 points, 1 comments",
+      "publishedAt": "2026-11-01T10:44:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "summary": "24 points, 6 comments",
+      "publishedAt": "2026-11-01T10:05:09.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "link": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues to reserve headroom for On Demand, EC2 and Bedrock. Pract…",
+      "publishedAt": "2026-11-01T08:03:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "99 points, 56 comments",
+      "publishedAt": "2026-11-01T06:06:19.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -70,26 +120,17 @@
       "category": "general",
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "summary": "32 points, 15 comments",
+      "summary": "148 points, 60 comments",
       "publishedAt": "2026-11-01T02:19:53.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
       "link": "https://arxiv.org/abs/2409.02292",
-      "summary": "23 points, 10 comments",
+      "summary": "94 points, 48 comments",
       "publishedAt": "2026-11-01T01:46:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-      "link": "https://emarzion.github.io/KSRT/",
-      "summary": "14 points, 1 comments",
-      "publishedAt": "2026-10-31T23:55:21.000Z"
     },
     {
       "source": "Simon Willison",
@@ -104,18 +145,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "When electric cars were for women",
-      "link": "https://spectrum.ieee.org/early-electric-vehicles",
-      "summary": "53 points, 35 comments",
-      "publishedAt": "2026-10-31T23:08:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Altoids Project",
       "link": "https://uvdn7.github.io/altoids-project/",
-      "summary": "77 points, 4 comments",
+      "summary": "117 points, 6 comments",
       "publishedAt": "2026-10-31T22:54:55.000Z"
     },
     {
@@ -124,7 +156,7 @@
       "category": "general",
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "summary": "140 points, 76 comments",
+      "summary": "260 points, 120 comments",
       "publishedAt": "2026-10-31T22:46:12.000Z"
     },
     {
@@ -133,7 +165,7 @@
       "category": "general",
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "summary": "252 points, 71 comments",
+      "summary": "485 points, 149 comments",
       "publishedAt": "2026-10-31T22:41:06.000Z"
     },
     {
@@ -144,24 +176,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
       "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default…",
       "publishedAt": "2026-10-31T22:10:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI text watermarking and quality loss",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "summary": "38 points, 6 comments",
-      "publishedAt": "2026-10-31T21:50:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "ChatGPT and Codex usage limits merging",
-      "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "summary": "35 points, 11 comments",
-      "publishedAt": "2026-10-31T21:49:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -203,18 +217,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Surviving \"The Graduate\"",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "summary": "83 points, 26 comments",
-      "publishedAt": "2026-10-31T20:02:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "938 points, 293 comments",
+      "summary": "1434 points, 388 comments",
       "publishedAt": "2026-10-31T19:56:53.000Z"
     },
     {
@@ -230,37 +235,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
-      "summary": "73 points, 44 comments",
-      "publishedAt": "2026-10-31T19:18:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "summary": "410 points, 190 comments",
+      "summary": "531 points, 246 comments",
       "publishedAt": "2026-10-31T19:16:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "summary": "60 points, 11 comments",
-      "publishedAt": "2026-10-31T19:13:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Duty of a Scholar",
-      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "summary": "101 points, 31 comments",
-      "publishedAt": "2026-10-31T19:07:36.000Z"
     },
     {
       "source": "The Verge",
@@ -277,7 +255,7 @@
       "category": "general",
       "title": "It's the memory latency, stupid",
       "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "summary": "164 points, 43 comments",
+      "summary": "205 points, 63 comments",
       "publishedAt": "2026-10-31T18:38:16.000Z"
     },
     {
@@ -356,10 +334,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "link": "https://jepsen.io/analyses/particledb-1.1.4",
-      "summary": "230 points, 123 comments",
-      "publishedAt": "2026-10-31T13:39:52.000Z"
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "summary": "4 points, 5 comments",
+      "publishedAt": "2026-10-31T13:41:18.000Z"
     },
     {
       "source": "The Verge",
@@ -396,15 +374,6 @@
       "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
       "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
       "publishedAt": "2026-10-31T11:02:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "summary": "312 points, 155 comments",
-      "publishedAt": "2026-10-31T10:30:11.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -466,7 +435,7 @@
       "category": "general",
       "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
       "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "summary": "59 points, 15 comments",
+      "summary": "124 points, 34 comments",
       "publishedAt": "2026-10-30T22:41:03.000Z"
     },
     {
@@ -560,6 +529,15 @@
       "publishedAt": "2026-10-30T21:09:54.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Understanding Email Encryption",
+      "link": "https://www.fastmail.com/blog/email-encryption/",
+      "summary": "24 points, 7 comments",
+      "publishedAt": "2026-10-30T20:55:56.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -585,6 +563,15 @@
       "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
       "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
       "publishedAt": "2026-10-30T19:55:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "link": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "summary": "51 points, 9 comments",
+      "publishedAt": "2026-10-30T19:52:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -657,6 +644,24 @@
       "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
       "summary": "There's no evidence that Starship will launch traditional satellites, either.",
       "publishedAt": "2026-10-30T16:12:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "summary": "49 points, 4 comments",
+      "publishedAt": "2026-10-30T14:46:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "summary": "110 points, 28 comments",
+      "publishedAt": "2026-10-30T13:58:42.000Z"
     },
     {
       "source": "Ars Technica",
@@ -812,6 +817,24 @@
       "publishedAt": "2026-10-29T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "link": "https://outcrop.rocks/",
+      "summary": "15 points, 3 comments",
+      "publishedAt": "2026-10-29T15:22:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "summary": "45 points, 35 comments",
+      "publishedAt": "2026-10-29T15:20:04.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -884,15 +907,6 @@
       "publishedAt": "2026-10-29T07:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "link": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "summary": "17 points, 0 comments",
-      "publishedAt": "2026-10-29T05:10:00.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -909,15 +923,6 @@
       "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
       "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the varia…",
       "publishedAt": "2026-10-28T23:23:21.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:00:58.000Z"
     },
     {
       "source": "Simon Willison",
@@ -992,15 +997,6 @@
       "publishedAt": "2026-10-27T19:34:18.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "publishedAt": "2026-10-27T16:01:38.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1035,15 +1031,6 @@
       "link": "https://openai.com/index/oracle-apps-in-chatgpt",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
       "publishedAt": "2026-10-27T07:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Developers Reporting Double-Digit Weekly Time Savings from AI Fell from 68% to 26%",
-      "link": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Atlassian’s State of Developer Experience 2026 finds the share of developers saving ten or more hours a week with AI dropped from 68% to 26% year over year, while only 28% report noticeably less friction than before AI.…",
-      "publishedAt": "2026-10-27T04:45:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1208,15 +1195,6 @@
       "publishedAt": "2026-10-22T18:09:56.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1224,51 +1202,6 @@
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
       "publishedAt": "2026-10-21T04:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
