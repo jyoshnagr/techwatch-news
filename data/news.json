@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:23:31.650Z",
+  "updatedAt": "2026-11-01T23:24:13.159Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,26 +52,85 @@
       "category": "ai"
     }
   ],
-  "itemCount": 156,
-  "errors": [],
+  "itemCount": 148,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "18 points, 4 comments",
+      "publishedAt": "2026-11-01T22:10:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "publishedAt": "2026-11-01T21:55:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "So I guess everyone uses LLMs to think now",
+      "link": "https://eva.ac/blog/llms/",
+      "summary": "38 points, 25 comments",
+      "publishedAt": "2026-11-01T21:49:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in t…",
+      "publishedAt": "2026-11-01T21:09:21.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "publishedAt": "2026-11-01T20:57:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock i…",
+      "publishedAt": "2026-11-01T19:58:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "link": "https://news.ycombinator.com/item?id=50328896",
+      "summary": "68 points, 124 comments",
+      "publishedAt": "2026-11-01T19:35:27.000Z"
+    },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Mathematics has changed. Let's act like it",
       "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "summary": "41 points, 34 comments",
+      "summary": "185 points, 198 comments",
       "publishedAt": "2026-11-01T18:28:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Patrick Stewart taught us what good men do with power",
-      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "summary": "162 points, 110 comments",
-      "publishedAt": "2026-11-01T17:28:16.000Z"
     },
     {
       "source": "The Verge",
@@ -104,18 +163,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Frontier Airlines Likely Breached",
-      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "summary": "97 points, 24 comments",
-      "publishedAt": "2026-11-01T16:46:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
       "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "summary": "87 points, 15 comments",
+      "summary": "124 points, 31 comments",
       "publishedAt": "2026-11-01T16:23:26.000Z"
     },
     {
@@ -142,7 +192,7 @@
       "category": "general",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "link": "https://hackerbooks.org",
-      "summary": "410 points, 116 comments",
+      "summary": "775 points, 161 comments",
       "publishedAt": "2026-11-01T15:58:28.000Z"
     },
     {
@@ -158,18 +208,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "summary": "320 points, 111 comments",
-      "publishedAt": "2026-11-01T14:36:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
       "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "summary": "246 points, 93 comments",
+      "summary": "357 points, 124 comments",
       "publishedAt": "2026-11-01T14:34:43.000Z"
     },
     {
@@ -205,7 +246,7 @@
       "category": "general",
       "title": "Novellas with Groff",
       "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "summary": "75 points, 29 comments",
+      "summary": "104 points, 46 comments",
       "publishedAt": "2026-11-01T13:51:41.000Z"
     },
     {
@@ -214,7 +255,7 @@
       "category": "general",
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
       "link": "https://arxiv.org/abs/2610.39302",
-      "summary": "81 points, 43 comments",
+      "summary": "98 points, 55 comments",
       "publishedAt": "2026-11-01T13:24:49.000Z"
     },
     {
@@ -223,7 +264,7 @@
       "category": "general",
       "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "link": "https://github.com/ivankovic/omnidiff",
-      "summary": "56 points, 25 comments",
+      "summary": "127 points, 37 comments",
       "publishedAt": "2026-11-01T13:02:30.000Z"
     },
     {
@@ -254,15 +295,6 @@
       "publishedAt": "2026-11-01T08:03:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "232 points, 164 comments",
-      "publishedAt": "2026-11-01T06:06:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -277,7 +309,7 @@
       "category": "general",
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "summary": "271 points, 149 comments",
+      "summary": "310 points, 195 comments",
       "publishedAt": "2026-11-01T02:19:53.000Z"
     },
     {
@@ -288,24 +320,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called…",
       "publishedAt": "2026-10-31T23:15:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "summary": "389 points, 192 comments",
-      "publishedAt": "2026-10-31T22:46:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "summary": "684 points, 187 comments",
-      "publishedAt": "2026-10-31T22:41:06.000Z"
     },
     {
       "source": "Simon Willison",
@@ -358,7 +372,7 @@
       "category": "general",
       "title": "Bidirectional charging during grid outages",
       "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "summary": "49 points, 65 comments",
+      "summary": "78 points, 116 comments",
       "publishedAt": "2026-10-31T20:21:55.000Z"
     },
     {
@@ -367,7 +381,7 @@
       "category": "general",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "1945 points, 489 comments",
+      "summary": "2178 points, 529 comments",
       "publishedAt": "2026-10-31T19:56:53.000Z"
     },
     {
@@ -380,22 +394,13 @@
       "publishedAt": "2026-10-31T19:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 1…",
-      "publishedAt": "2026-10-31T18:40:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Happy Pikmin Day Eve",
-      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an…",
-      "publishedAt": "2026-10-31T17:50:12.000Z"
+      "title": "The She-Wolves of Jülich",
+      "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-10-31T17:29:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -448,17 +453,8 @@
       "category": "general",
       "title": "One-minute frequency disturbances from synchronization in power systems",
       "link": "https://www.nature.com/articles/s41560-026-02144-0",
-      "summary": "80 points, 34 comments",
+      "summary": "109 points, 39 comments",
       "publishedAt": "2026-10-31T10:14:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "link": "https://kevs3d.co.uk/phoria2/",
-      "summary": "51 points, 7 comments",
-      "publishedAt": "2026-10-31T09:49:42.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -475,7 +471,7 @@
       "category": "general",
       "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
       "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "summary": "5 points, 2 comments",
+      "summary": "30 points, 13 comments",
       "publishedAt": "2026-10-31T04:31:06.000Z"
     },
     {
@@ -587,24 +583,6 @@
       "publishedAt": "2026-10-30T21:41:54.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "publishedAt": "2026-10-30T21:26:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "publishedAt": "2026-10-30T21:17:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -646,7 +624,7 @@
       "category": "general",
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "link": "https://tibleiz.net/copper/",
-      "summary": "65 points, 31 comments",
+      "summary": "115 points, 70 comments",
       "publishedAt": "2026-10-30T19:09:33.000Z"
     },
     {
@@ -794,6 +772,24 @@
       "publishedAt": "2026-10-30T09:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "link": "https://github.com/raphlinus/nibnib",
+      "summary": "69 points, 7 comments",
+      "publishedAt": "2026-10-30T04:17:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "summary": "23 points, 10 comments",
+      "publishedAt": "2026-10-30T03:06:52.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -929,15 +925,6 @@
       "publishedAt": "2026-10-28T23:23:21.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:00:58.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -992,6 +979,15 @@
       "publishedAt": "2026-10-28T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "link": "https://nullprogram.com/blog/2025/02/05/",
+      "summary": "57 points, 7 comments",
+      "publishedAt": "2026-10-28T09:46:12.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1008,15 +1004,6 @@
       "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into w…",
       "publishedAt": "2026-10-27T19:34:18.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "publishedAt": "2026-10-27T16:01:38.000Z"
     },
     {
       "source": "OpenAI",
@@ -1208,15 +1195,6 @@
       "publishedAt": "2026-10-22T19:42:26.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1224,51 +1202,6 @@
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
       "publishedAt": "2026-10-21T04:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "publishedAt": "2026-10-15T16:08:03.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
