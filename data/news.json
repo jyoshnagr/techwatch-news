@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:43:18.885Z",
+  "updatedAt": "2026-11-01T19:23:31.650Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,40 +52,197 @@
       "category": "ai"
     }
   ],
-  "itemCount": 148,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 156,
+  "errors": [],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Norway makes shithouses great again",
-      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "summary": "96 points, 36 comments",
-      "publishedAt": "2026-11-01T10:47:58.000Z"
+      "title": "Mathematics has changed. Let's act like it",
+      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "summary": "41 points, 34 comments",
+      "publishedAt": "2026-11-01T18:28:42.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-11-01T10:44:20.000Z"
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "summary": "162 points, 110 comments",
+      "publishedAt": "2026-11-01T17:28:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple’s HomeView could add security camera features",
+      "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming,…",
+      "publishedAt": "2026-11-01T17:16:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-11-01T17:04:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Kyle Kingsbury",
+      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to…",
+      "publishedAt": "2026-11-01T16:49:04.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "summary": "24 points, 6 comments",
-      "publishedAt": "2026-11-01T10:05:09.000Z"
+      "title": "Frontier Airlines Likely Breached",
+      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "summary": "97 points, 24 comments",
+      "publishedAt": "2026-11-01T16:46:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "summary": "87 points, 15 comments",
+      "publishedAt": "2026-11-01T16:23:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "publishedAt": "2026-11-01T16:20:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map…",
+      "publishedAt": "2026-11-01T16:19:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "link": "https://hackerbooks.org",
+      "summary": "410 points, 116 comments",
+      "publishedAt": "2026-11-01T15:58:28.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "publishedAt": "2026-11-01T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "summary": "320 points, 111 comments",
+      "publishedAt": "2026-11-01T14:36:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "summary": "246 points, 93 comments",
+      "publishedAt": "2026-11-01T14:34:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack conve…",
+      "publishedAt": "2026-11-01T14:33:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "publishedAt": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "summary": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge When I first heard about the new $149 HomePod Mini 2 at Apple's Welco…",
+      "publishedAt": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Novellas with Groff",
+      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "summary": "75 points, 29 comments",
+      "publishedAt": "2026-11-01T13:51:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "link": "https://arxiv.org/abs/2610.39302",
+      "summary": "81 points, 43 comments",
+      "publishedAt": "2026-11-01T13:24:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "summary": "56 points, 25 comments",
+      "publishedAt": "2026-11-01T13:02:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes…",
+      "publishedAt": "2026-11-01T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45…",
+      "publishedAt": "2026-11-01T13:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -102,7 +259,7 @@
       "category": "general",
       "title": "The AI cost of JavaScript frameworks",
       "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "99 points, 56 comments",
+      "summary": "232 points, 164 comments",
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
@@ -120,17 +277,8 @@
       "category": "general",
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "summary": "148 points, 60 comments",
+      "summary": "271 points, 149 comments",
       "publishedAt": "2026-11-01T02:19:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "link": "https://arxiv.org/abs/2409.02292",
-      "summary": "94 points, 48 comments",
-      "publishedAt": "2026-11-01T01:46:29.000Z"
     },
     {
       "source": "Simon Willison",
@@ -145,18 +293,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Altoids Project",
-      "link": "https://uvdn7.github.io/altoids-project/",
-      "summary": "117 points, 6 comments",
-      "publishedAt": "2026-10-31T22:54:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "summary": "260 points, 120 comments",
+      "summary": "389 points, 192 comments",
       "publishedAt": "2026-10-31T22:46:12.000Z"
     },
     {
@@ -165,7 +304,7 @@
       "category": "general",
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "summary": "485 points, 149 comments",
+      "summary": "684 points, 187 comments",
       "publishedAt": "2026-10-31T22:41:06.000Z"
     },
     {
@@ -208,7 +347,7 @@
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "Get in the spirit with these horrors from YouTube",
+      "title": "Get in the spooky spirit with these horrors from YouTube",
       "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. The…",
       "publishedAt": "2026-10-31T21:06:58.000Z"
@@ -217,9 +356,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Bidirectional charging during grid outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "summary": "49 points, 65 comments",
+      "publishedAt": "2026-10-31T20:21:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "1434 points, 388 comments",
+      "summary": "1945 points, 489 comments",
       "publishedAt": "2026-10-31T19:56:53.000Z"
     },
     {
@@ -232,15 +380,6 @@
       "publishedAt": "2026-10-31T19:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "summary": "531 points, 246 comments",
-      "publishedAt": "2026-10-31T19:16:30.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -248,15 +387,6 @@
       "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 1…",
       "publishedAt": "2026-10-31T18:40:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "It's the memory latency, stupid",
-      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "summary": "205 points, 63 comments",
-      "publishedAt": "2026-10-31T18:38:16.000Z"
     },
     {
       "source": "The Verge",
@@ -277,15 +407,6 @@
       "publishedAt": "2026-10-31T16:12:55.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w…",
-      "publishedAt": "2026-10-31T16:05:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -295,33 +416,6 @@
       "publishedAt": "2026-10-31T15:41:57.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit…",
-      "publishedAt": "2026-10-31T15:12:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-      "summary": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder acros…",
-      "publishedAt": "2026-10-31T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Vic Mensa can’t live without the Voice Memos app",
-      "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-      "summary": "No lies detected. | Photo: Onda Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the m…",
-      "publishedAt": "2026-10-31T15:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -329,33 +423,6 @@
       "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
       "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
       "publishedAt": "2026-10-31T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "summary": "4 points, 5 comments",
-      "publishedAt": "2026-10-31T13:41:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Touchscreens everywhere!",
-      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) T…",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
-      "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked…",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -376,6 +443,24 @@
       "publishedAt": "2026-10-31T11:02:34.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "link": "https://www.nature.com/articles/s41560-026-02144-0",
+      "summary": "80 points, 34 comments",
+      "publishedAt": "2026-10-31T10:14:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "link": "https://kevs3d.co.uk/phoria2/",
+      "summary": "51 points, 7 comments",
+      "publishedAt": "2026-10-31T09:49:42.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -383,6 +468,15 @@
       "link": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full operation in January. PageBreak uses Gemini models t…",
       "publishedAt": "2026-10-31T06:20:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "summary": "5 points, 2 comments",
+      "publishedAt": "2026-10-31T04:31:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -428,15 +522,6 @@
       "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
       "publishedAt": "2026-10-30T22:56:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "summary": "124 points, 34 comments",
-      "publishedAt": "2026-10-30T22:41:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -529,15 +614,6 @@
       "publishedAt": "2026-10-30T21:09:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Understanding Email Encryption",
-      "link": "https://www.fastmail.com/blog/email-encryption/",
-      "summary": "24 points, 7 comments",
-      "publishedAt": "2026-10-30T20:55:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -556,24 +632,6 @@
       "publishedAt": "2026-10-30T20:17:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "publishedAt": "2026-10-30T19:55:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "link": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "summary": "51 points, 9 comments",
-      "publishedAt": "2026-10-30T19:52:56.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -581,6 +639,15 @@
       "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
       "summary": "But it's still early days for the relatively new e-commerce use case.",
       "publishedAt": "2026-10-30T19:30:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "link": "https://tibleiz.net/copper/",
+      "summary": "65 points, 31 comments",
+      "publishedAt": "2026-10-30T19:09:33.000Z"
     },
     {
       "source": "Ars Technica",
@@ -592,24 +659,6 @@
       "publishedAt": "2026-10-30T18:13:42.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
-      "publishedAt": "2026-10-30T18:01:24.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "publishedAt": "2026-10-30T17:47:12.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -617,15 +666,6 @@
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "summary": "Low costs and offline security mean magnetic tape still has a job.",
       "publishedAt": "2026-10-30T17:38:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "publishedAt": "2026-10-30T17:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -644,24 +684,6 @@
       "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
       "summary": "There's no evidence that Starship will launch traditional satellites, either.",
       "publishedAt": "2026-10-30T16:12:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "summary": "49 points, 4 comments",
-      "publishedAt": "2026-10-30T14:46:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "summary": "110 points, 28 comments",
-      "publishedAt": "2026-10-30T13:58:42.000Z"
     },
     {
       "source": "Ars Technica",
@@ -817,24 +839,6 @@
       "publishedAt": "2026-10-29T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "link": "https://outcrop.rocks/",
-      "summary": "15 points, 3 comments",
-      "publishedAt": "2026-10-29T15:22:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "summary": "45 points, 35 comments",
-      "publishedAt": "2026-10-29T15:20:04.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -925,6 +929,15 @@
       "publishedAt": "2026-10-28T23:23:21.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -995,6 +1008,15 @@
       "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into w…",
       "publishedAt": "2026-10-27T19:34:18.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
     },
     {
       "source": "OpenAI",
@@ -1186,13 +1208,13 @@
       "publishedAt": "2026-10-22T19:42:26.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foun…",
-      "publishedAt": "2026-10-22T18:09:56.000Z"
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "Google AI",
@@ -1202,6 +1224,51 @@
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
       "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
       "source": "Google AI",
