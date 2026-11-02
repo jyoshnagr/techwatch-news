@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:24:13.159Z",
+  "updatedAt": "2026-11-02T04:52:17.288Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,13 +61,49 @@
   ],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "publishedAt": "2026-11-02T04:23:48.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "18 points, 4 comments",
-      "publishedAt": "2026-11-01T22:10:45.000Z"
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "47 points, 3 comments",
+      "publishedAt": "2026-11-02T01:59:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "summary": "49 points, 20 comments",
+      "publishedAt": "2026-11-02T01:47:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Trigger.dev customer environment variables exposed",
+      "link": "https://trigger.dev/blog/security-incident-nov-2026",
+      "summary": "36 points, 8 comments",
+      "publishedAt": "2026-11-02T01:09:16.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "If in doubt, delete the uv.lock file",
+      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which…",
+      "publishedAt": "2026-11-01T23:24:22.000Z"
     },
     {
       "source": "TechCrunch",
@@ -77,15 +113,6 @@
       "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
       "publishedAt": "2026-11-01T21:55:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "So I guess everyone uses LLMs to think now",
-      "link": "https://eva.ac/blog/llms/",
-      "summary": "38 points, 25 comments",
-      "publishedAt": "2026-11-01T21:49:04.000Z"
     },
     {
       "source": "The Verge",
@@ -120,7 +147,7 @@
       "category": "general",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "link": "https://news.ycombinator.com/item?id=50328896",
-      "summary": "68 points, 124 comments",
+      "summary": "219 points, 387 comments",
       "publishedAt": "2026-11-01T19:35:27.000Z"
     },
     {
@@ -129,7 +156,7 @@
       "category": "general",
       "title": "Mathematics has changed. Let's act like it",
       "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "summary": "185 points, 198 comments",
+      "summary": "253 points, 276 comments",
       "publishedAt": "2026-11-01T18:28:42.000Z"
     },
     {
@@ -160,15 +187,6 @@
       "publishedAt": "2026-11-01T16:49:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "summary": "124 points, 31 comments",
-      "publishedAt": "2026-11-01T16:23:26.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -192,7 +210,7 @@
       "category": "general",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "link": "https://hackerbooks.org",
-      "summary": "775 points, 161 comments",
+      "summary": "1103 points, 201 comments",
       "publishedAt": "2026-11-01T15:58:28.000Z"
     },
     {
@@ -210,7 +228,7 @@
       "category": "general",
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
       "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "summary": "357 points, 124 comments",
+      "summary": "429 points, 154 comments",
       "publishedAt": "2026-11-01T14:34:43.000Z"
     },
     {
@@ -244,18 +262,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Novellas with Groff",
-      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "summary": "104 points, 46 comments",
-      "publishedAt": "2026-11-01T13:51:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
       "link": "https://arxiv.org/abs/2610.39302",
-      "summary": "98 points, 55 comments",
+      "summary": "124 points, 64 comments",
       "publishedAt": "2026-11-01T13:24:49.000Z"
     },
     {
@@ -264,7 +273,7 @@
       "category": "general",
       "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "link": "https://github.com/ivankovic/omnidiff",
-      "summary": "127 points, 37 comments",
+      "summary": "192 points, 45 comments",
       "publishedAt": "2026-11-01T13:02:30.000Z"
     },
     {
@@ -295,6 +304,15 @@
       "publishedAt": "2026-11-01T08:03:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "331 points, 251 comments",
+      "publishedAt": "2026-11-01T06:06:19.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -302,15 +320,6 @@
       "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
       "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
       "publishedAt": "2026-11-01T02:22:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "summary": "310 points, 195 comments",
-      "publishedAt": "2026-11-01T02:19:53.000Z"
     },
     {
       "source": "Simon Willison",
@@ -372,7 +381,7 @@
       "category": "general",
       "title": "Bidirectional charging during grid outages",
       "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "summary": "78 points, 116 comments",
+      "summary": "93 points, 132 comments",
       "publishedAt": "2026-10-31T20:21:55.000Z"
     },
     {
@@ -381,7 +390,7 @@
       "category": "general",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "2178 points, 529 comments",
+      "summary": "2395 points, 548 comments",
       "publishedAt": "2026-10-31T19:56:53.000Z"
     },
     {
@@ -392,15 +401,6 @@
       "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably…",
       "publishedAt": "2026-10-31T19:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The She-Wolves of Jülich",
-      "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "summary": "5 points, 0 comments",
-      "publishedAt": "2026-10-31T17:29:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -430,6 +430,15 @@
       "publishedAt": "2026-10-31T14:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "summary": "51 points, 13 comments",
+      "publishedAt": "2026-10-31T11:53:47.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -453,7 +462,7 @@
       "category": "general",
       "title": "One-minute frequency disturbances from synchronization in power systems",
       "link": "https://www.nature.com/articles/s41560-026-02144-0",
-      "summary": "109 points, 39 comments",
+      "summary": "135 points, 45 comments",
       "publishedAt": "2026-10-31T10:14:08.000Z"
     },
     {
@@ -466,15 +475,6 @@
       "publishedAt": "2026-10-31T06:20:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "summary": "30 points, 13 comments",
-      "publishedAt": "2026-10-31T04:31:06.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -482,6 +482,15 @@
       "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
       "summary": "The money behind the money is thrilled, mostly.",
       "publishedAt": "2026-10-31T04:16:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "summary": "192 points, 116 comments",
+      "publishedAt": "2026-10-31T01:38:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -565,15 +574,6 @@
       "publishedAt": "2026-10-30T21:52:03.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "publishedAt": "2026-10-30T21:48:53.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -624,7 +624,7 @@
       "category": "general",
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "link": "https://tibleiz.net/copper/",
-      "summary": "115 points, 70 comments",
+      "summary": "149 points, 79 comments",
       "publishedAt": "2026-10-30T19:09:33.000Z"
     },
     {
@@ -689,6 +689,15 @@
       "link": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "DoorDash reduced grocery reorder latency from 16 to 2 seconds by precomputing recurring purchase needs using batch LLM inference and deterministic validation. Live catalog resolution keeps product selections current, whi…",
       "publishedAt": "2026-10-30T13:31:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "link": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "summary": "35 points, 19 comments",
+      "publishedAt": "2026-10-30T12:40:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -777,7 +786,7 @@
       "category": "general",
       "title": "Nibnib: Image compression with extreme decompression speed",
       "link": "https://github.com/raphlinus/nibnib",
-      "summary": "69 points, 7 comments",
+      "summary": "118 points, 19 comments",
       "publishedAt": "2026-10-30T04:17:06.000Z"
     },
     {
@@ -786,7 +795,7 @@
       "category": "general",
       "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "summary": "23 points, 10 comments",
+      "summary": "60 points, 30 comments",
       "publishedAt": "2026-10-30T03:06:52.000Z"
     },
     {
@@ -984,7 +993,7 @@
       "category": "general",
       "title": "Tips for more effective fuzz testing with AFL++",
       "link": "https://nullprogram.com/blog/2025/02/05/",
-      "summary": "57 points, 7 comments",
+      "summary": "96 points, 16 comments",
       "publishedAt": "2026-10-28T09:46:12.000Z"
     },
     {
@@ -1184,15 +1193,6 @@
       "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
       "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version tha…",
       "publishedAt": "2026-10-23T19:40:54.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leav…",
-      "publishedAt": "2026-10-22T19:42:26.000Z"
     },
     {
       "source": "Google AI",
