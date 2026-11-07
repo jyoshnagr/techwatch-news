@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:16:17.072Z",
+  "updatedAt": "2026-11-07T23:28:55.577Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,72 @@
       "category": "ai"
     }
   ],
-  "itemCount": 149,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 155,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
+      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-11-07T22:45:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making any integer with four 2s (2025)",
+      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "11 points, 3 comments",
+      "publishedAt": "2026-11-07T22:38:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "publishedAt": "2026-11-07T22:07:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "link": "https://eyesrhythm.com/",
+      "summary": "12 points, 4 comments",
+      "publishedAt": "2026-11-07T21:47:47.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "publishedAt": "2026-11-07T21:17:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Shadow of the Sun (2021)",
+      "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+      "summary": "13 points, 4 comments",
+      "publishedAt": "2026-11-07T21:11:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "80 points, 65 comments",
+      "publishedAt": "2026-11-07T20:45:32.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -73,36 +131,36 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "title": "What I run on my $10 USD OpenStick homelab",
       "link": "https://blog.bosscher.ch/posts/openstick/",
-      "summary": "49 points, 9 comments",
+      "summary": "263 points, 64 comments",
       "publishedAt": "2026-11-07T18:12:12.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The End of AI Frontiers",
+      "title": "The end of Microsoft Research's AI Frontiers group",
       "link": "https://hunch.net/?p=13764006",
-      "summary": "55 points, 18 comments",
-      "publishedAt": "2026-11-07T18:04:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-      "summary": "84 points, 20 comments",
+      "summary": "314 points, 178 comments",
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Five Memorable Books About Programming",
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "summary": "36 points, 11 comments",
+      "publishedAt": "2026-11-07T17:54:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Five memorable books about programming (2008)",
       "link": "https://prog21.dadgum.com/19.html",
-      "summary": "20 points, 4 comments",
+      "summary": "72 points, 44 comments",
       "publishedAt": "2026-11-07T17:30:49.000Z"
     },
     {
@@ -111,7 +169,7 @@
       "category": "general",
       "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
       "link": "https://github.com/hedgerow-dev/coldframe",
-      "summary": "84 points, 21 comments",
+      "summary": "172 points, 37 comments",
       "publishedAt": "2026-11-07T17:27:30.000Z"
     },
     {
@@ -129,7 +187,7 @@
       "category": "general",
       "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
       "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "summary": "54 points, 8 comments",
+      "summary": "161 points, 46 comments",
       "publishedAt": "2026-11-07T17:19:00.000Z"
     },
     {
@@ -142,6 +200,15 @@
       "publishedAt": "2026-11-07T17:18:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "summary": "299 points, 203 comments",
+      "publishedAt": "2026-11-07T17:06:36.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -149,33 +216,6 @@
       "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
       "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I…",
       "publishedAt": "2026-11-07T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How Long Can Life Wait?",
-      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "summary": "64 points, 26 comments",
-      "publishedAt": "2026-11-07T16:22:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Every processor die anyone has photographed and given away",
-      "link": "https://sheets.works/data-viz/cpu-dies",
-      "summary": "18 points, 3 comments",
-      "publishedAt": "2026-11-07T16:21:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "link": "https://kevinboone.me/tpwin.html",
-      "summary": "118 points, 74 comments",
-      "publishedAt": "2026-11-07T16:06:27.000Z"
     },
     {
       "source": "The Verge",
@@ -217,10 +257,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "summary": "18 points, 7 comments",
-      "publishedAt": "2026-11-07T15:16:01.000Z"
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "link": "https://www.retrosongbird.com/",
+      "summary": "23 points, 3 comments",
+      "publishedAt": "2026-11-07T15:06:54.000Z"
     },
     {
       "source": "The Verge",
@@ -246,7 +286,7 @@
       "category": "general",
       "title": "The $8 Linux Computer (2022)",
       "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "summary": "150 points, 62 comments",
+      "summary": "191 points, 83 comments",
       "publishedAt": "2026-11-07T14:00:20.000Z"
     },
     {
@@ -275,6 +315,15 @@
       "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
       "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
       "publishedAt": "2026-11-07T12:15:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "summary": "183 points, 180 comments",
+      "publishedAt": "2026-11-07T11:11:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -309,17 +358,8 @@
       "category": "general",
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "summary": "466 points, 268 comments",
+      "summary": "558 points, 327 comments",
       "publishedAt": "2026-11-07T09:46:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Running a law firm on Free software",
-      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "summary": "172 points, 81 comments",
-      "publishedAt": "2026-11-07T09:39:06.000Z"
     },
     {
       "source": "Hacker News",
@@ -327,7 +367,7 @@
       "category": "general",
       "title": "Need for Speed Underground 2 online in the browser",
       "link": "https://nfsu2.xyz/",
-      "summary": "590 points, 176 comments",
+      "summary": "759 points, 215 comments",
       "publishedAt": "2026-11-07T09:36:36.000Z"
     },
     {
@@ -365,15 +405,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil…",
       "publishedAt": "2026-11-06T23:46:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Libghostty 1.0",
-      "link": "https://mitchellh.com/writing/libghostty-1-0",
-      "summary": "952 points, 160 comments",
-      "publishedAt": "2026-11-06T23:30:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -673,24 +704,6 @@
       "publishedAt": "2026-11-06T08:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "publishedAt": "2026-11-06T07:18:44.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "publishedAt": "2026-11-06T06:28:32.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -727,6 +740,15 @@
       "publishedAt": "2026-11-05T17:34:03.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -761,6 +783,15 @@
       "link": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Advait Patel shares a playbook for securing AI agent systems in production. He discusses moving defense boundaries from the prompt to the tool layer, enforcing scoped workload identities, and mitigating prompt injection…",
       "publishedAt": "2026-11-05T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "summary": "33 points, 4 comments",
+      "publishedAt": "2026-11-05T10:52:04.000Z"
     },
     {
       "source": "OpenAI",
@@ -808,15 +839,6 @@
       "publishedAt": "2026-11-05T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Typo Generation Is Damaging Literature",
-      "link": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
-      "summary": "12 points, 2 comments",
-      "publishedAt": "2026-11-04T20:05:56.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -858,7 +880,7 @@
       "category": "general",
       "title": "Text.js: Build full-stack React apps that render inside console.log",
       "link": "https://textjs.org/",
-      "summary": "54 points, 22 comments",
+      "summary": "78 points, 44 comments",
       "publishedAt": "2026-11-04T04:59:36.000Z"
     },
     {
@@ -910,19 +932,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Tasfer: a text editor drawn on a 2D canvas",
-      "link": "https://www.hamza.se/blog/tasfer",
-      "summary": "46 points, 20 comments",
-      "publishedAt": "2026-11-03T20:58:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Optimising the Rail Cube",
-      "link": "https://owenlacey.dev/railcube-optimisation/post",
-      "summary": "16 points, 1 comments",
-      "publishedAt": "2026-11-03T20:31:26.000Z"
+      "title": "Turning Every Radio into a Radar",
+      "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "summary": "11 points, 1 comments",
+      "publishedAt": "2026-11-03T21:18:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -934,6 +947,15 @@
       "publishedAt": "2026-11-03T19:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -941,15 +963,6 @@
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a…",
       "publishedAt": "2026-11-03T16:29:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "British Library Legal deposit and web archiving",
-      "link": "https://www.bl.uk/services/legal-deposit/web-archiving",
-      "summary": "48 points, 24 comments",
-      "publishedAt": "2026-11-03T14:56:30.000Z"
     },
     {
       "source": "OpenAI",
@@ -1150,6 +1163,15 @@
       "publishedAt": "2026-10-30T21:59:22.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1204,6 +1226,24 @@
       "publishedAt": "2026-10-28T23:23:21.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1211,6 +1251,15 @@
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "publishedAt": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "Google AI",
