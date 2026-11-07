@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:59:29.050Z",
+  "updatedAt": "2026-11-07T11:38:29.632Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,90 @@
       "category": "ai"
     }
   ],
-  "itemCount": 149,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 155,
+  "errors": [],
   "items": [
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+      "link": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "The growing adoption of AI coding assistants has accelerated development and increased the volume of code changes per release, bringing more opportunities for defects and crashes, says Grab. To address these challenges,…",
+      "publishedAt": "2026-11-07T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Upload Your RAM",
+      "link": "https://uploadyourram.org",
+      "summary": "70 points, 36 comments",
+      "publishedAt": "2026-11-07T10:15:26.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+      "link": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha. Its PRISM index uses data partitioning and compression instead of the graph-based approach us…",
+      "publishedAt": "2026-11-07T09:49:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "summary": "67 points, 22 comments",
+      "publishedAt": "2026-11-07T09:46:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Port 0: The Port That Does Not Exist",
+      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "summary": "8 points, 2 comments",
+      "publishedAt": "2026-11-07T09:38:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "link": "https://nfsu2.xyz/",
+      "summary": "38 points, 6 comments",
+      "publishedAt": "2026-11-07T09:36:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Components of Agent Memory",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "summary": "56 points, 29 comments",
+      "publishedAt": "2026-11-07T06:39:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "publishedAt": "2026-11-07T05:01:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "summary": "119 points, 83 comments",
+      "publishedAt": "2026-11-07T04:54:36.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -70,33 +146,6 @@
       "publishedAt": "2026-11-07T04:16:43.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Did prediction markets do any predicting this midterms?",
-      "link": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
-      "summary": "9 points, 2 comments",
-      "publishedAt": "2026-11-07T03:50:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lighting the Skies",
-      "link": "https://computer.rip/2026-10-25-searchlights.html",
-      "summary": "9 points, 1 comments",
-      "publishedAt": "2026-11-07T03:40:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "summary": "31 points, 14 comments",
-      "publishedAt": "2026-11-07T02:20:06.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -104,15 +153,6 @@
       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "publishedAt": "2026-11-07T01:40:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "link": "https://josef.cn/blog/unitree",
-      "summary": "75 points, 47 comments",
-      "publishedAt": "2026-11-07T01:05:16.000Z"
     },
     {
       "source": "The Verge",
@@ -129,7 +169,7 @@
       "category": "general",
       "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
       "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "summary": "72 points, 29 comments",
+      "summary": "132 points, 69 comments",
       "publishedAt": "2026-11-06T23:37:19.000Z"
     },
     {
@@ -138,7 +178,7 @@
       "category": "general",
       "title": "Libghostty 1.0",
       "link": "https://mitchellh.com/writing/libghostty-1-0",
-      "summary": "393 points, 64 comments",
+      "summary": "693 points, 115 comments",
       "publishedAt": "2026-11-06T23:30:52.000Z"
     },
     {
@@ -223,15 +263,6 @@
       "publishedAt": "2026-11-06T20:56:41.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "244 points, 189 comments",
-      "publishedAt": "2026-11-06T20:27:23.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -273,7 +304,7 @@
       "category": "general",
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "summary": "399 points, 90 comments",
+      "summary": "498 points, 118 comments",
       "publishedAt": "2026-11-06T19:48:51.000Z"
     },
     {
@@ -291,26 +322,8 @@
       "category": "general",
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "link": "https://pwn.ai/blog/firecracker-escape",
-      "summary": "202 points, 96 comments",
+      "summary": "246 points, 109 comments",
       "publishedAt": "2026-11-06T19:33:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GitHub's new Git storage architecture",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "summary": "98 points, 18 comments",
-      "publishedAt": "2026-11-06T19:24:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "summary": "106 points, 55 comments",
-      "publishedAt": "2026-11-06T19:19:27.000Z"
     },
     {
       "source": "Ars Technica",
@@ -426,7 +439,7 @@
       "category": "general",
       "title": "Notes on San Marino",
       "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-      "summary": "30 points, 3 comments",
+      "summary": "76 points, 25 comments",
       "publishedAt": "2026-11-06T17:12:05.000Z"
     },
     {
@@ -437,15 +450,6 @@
       "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
       "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
       "publishedAt": "2026-11-06T17:06:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "First steps in bare-metal programming using UEFI",
-      "link": "https://kevinboone.me/efitest_index.html",
-      "summary": "206 points, 37 comments",
-      "publishedAt": "2026-11-06T16:50:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -552,7 +556,7 @@
       "category": "general",
       "title": "Tesla to wind down Cybertruck production",
       "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "summary": "921 points, 1776 comments",
+      "summary": "1030 points, 1881 comments",
       "publishedAt": "2026-11-06T12:13:51.000Z"
     },
     {
@@ -615,7 +619,7 @@
       "category": "general",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "summary": "303 points, 244 comments",
+      "summary": "344 points, 279 comments",
       "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
@@ -682,24 +686,6 @@
       "publishedAt": "2026-11-05T22:40:55.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "publishedAt": "2026-11-05T21:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What do the next 4000 emoji look like?",
-      "link": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-      "summary": "20 points, 9 comments",
-      "publishedAt": "2026-11-05T20:46:26.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -716,6 +702,15 @@
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford…",
       "publishedAt": "2026-11-05T17:34:03.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
     },
     {
       "source": "OpenAI",
@@ -790,6 +785,15 @@
       "publishedAt": "2026-11-05T00:45:15.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The great butter and cheese fire of 1991",
+      "link": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "summary": "34 points, 13 comments",
+      "publishedAt": "2026-11-05T00:44:16.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -797,6 +801,15 @@
       "link": "https://openai.com/index/franklin-templeton",
       "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
       "publishedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "8088 Domination Post-Mortem",
+      "link": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "summary": "21 points, 4 comments",
+      "publishedAt": "2026-11-04T18:06:14.000Z"
     },
     {
       "source": "Simon Willison",
@@ -838,9 +851,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "PostgreSQL Internals [pdf]",
+      "link": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "summary": "31 points, 3 comments",
+      "publishedAt": "2026-11-04T05:22:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
       "link": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-      "summary": "52 points, 4 comments",
+      "summary": "117 points, 11 comments",
       "publishedAt": "2026-11-04T02:19:16.000Z"
     },
     {
@@ -892,10 +914,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "link": "https://github.com/AmpereComputing/panthera",
-      "summary": "22 points, 4 comments",
-      "publishedAt": "2026-11-03T19:12:17.000Z"
+      "title": "Enterprise Brain – Memory that learns from work",
+      "link": "https://www.ampup.ai/companybrain",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-11-03T20:31:45.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -910,10 +932,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "summary": "61 points, 3 comments",
-      "publishedAt": "2026-11-03T16:30:23.000Z"
+      "title": "ToothPaste",
+      "link": "https://brisk4t.github.io/blog/toothpaste/",
+      "summary": "3 points, 0 comments",
+      "publishedAt": "2026-11-03T18:27:27.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
     },
     {
       "source": "Simon Willison",
@@ -930,7 +961,7 @@
       "category": "general",
       "title": "The Flash C Compiler",
       "link": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-      "summary": "9 points, 0 comments",
+      "summary": "58 points, 10 comments",
       "publishedAt": "2026-11-03T14:49:42.000Z"
     },
     {
@@ -1132,6 +1163,15 @@
       "publishedAt": "2026-10-30T21:59:22.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1148,24 +1188,6 @@
       "link": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Netflix has detailed how it is building a reliability platform for large-scale GPU training and inference, using layered health checks, automated remediation, and fault-tolerant training to keep jobs running despite hard…",
       "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: The Ladder is Missing Rungs: Engineering Progression When AI Ate the Middle",
-      "link": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context…",
-      "publishedAt": "2026-10-30T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
-      "link": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "This InfoQ Trends Report offers readers a comprehensive overview of emerging trends and technologies in the areas of AI, ML, and Data Engineering. This report summarizes the InfoQ editorial team’s and external guests' vi…",
-      "publishedAt": "2026-10-30T09:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1204,6 +1226,24 @@
       "publishedAt": "2026-10-28T23:23:21.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1211,6 +1251,15 @@
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "publishedAt": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "Google AI",
