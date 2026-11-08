@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:22:15.821Z",
+  "updatedAt": "2026-11-08T23:27:10.788Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -59,6 +59,168 @@
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-gen…",
+      "publishedAt": "2026-11-08T22:54:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at…",
+      "publishedAt": "2026-11-08T22:37:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Chimera Vocal Synth",
+      "link": "https://chimera-vocal-synth.vercel.app/",
+      "summary": "17 points, 5 comments",
+      "publishedAt": "2026-11-08T22:36:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "summary": "12 points, 1 comments",
+      "publishedAt": "2026-11-08T22:35:35.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning st…",
+      "publishedAt": "2026-11-08T22:26:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "summary": "178 points, 151 comments",
+      "publishedAt": "2026-11-08T22:20:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "publishedAt": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50417407",
+      "summary": "65 points, 306 comments",
+      "publishedAt": "2026-11-08T21:20:20.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "publishedAt": "2026-11-08T21:00:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "publishedAt": "2026-11-08T21:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported…",
+      "publishedAt": "2026-11-08T20:52:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "publishedAt": "2026-11-08T20:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "summary": "319 points, 249 comments",
+      "publishedAt": "2026-11-08T20:26:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c…",
+      "publishedAt": "2026-11-08T20:22:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "publishedAt": "2026-11-08T19:51:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "summary": "39 points, 13 comments",
+      "publishedAt": "2026-11-08T19:48:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "summary": "120 points, 108 comments",
+      "publishedAt": "2026-11-08T19:37:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "185 points, 150 comments",
+      "publishedAt": "2026-11-08T19:20:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
       "title": "Apple is racing to make Siri more agentic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de…",
@@ -68,18 +230,27 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "summary": "20 points, 14 comments",
-      "publishedAt": "2026-11-08T18:43:07.000Z"
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "link": "https://duxlabs.dev/",
+      "summary": "153 points, 48 comments",
+      "publishedAt": "2026-11-08T19:08:51.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "Playing with the STM32MP2",
+      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "summary": "23 points, 11 comments",
+      "publishedAt": "2026-11-08T19:04:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "summary": "135 points, 72 comments",
+      "summary": "526 points, 320 comments",
       "publishedAt": "2026-11-08T18:16:07.000Z"
     },
     {
@@ -90,15 +261,6 @@
       "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
       "summary": "SNL seems to have its knives out for tech executives.",
       "publishedAt": "2026-11-08T18:00:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-      "summary": "33 points, 3 comments",
-      "publishedAt": "2026-11-08T17:32:55.000Z"
     },
     {
       "source": "TechCrunch",
@@ -124,17 +286,8 @@
       "category": "general",
       "title": "A Little Snitch for Windows",
       "link": "https://packethound.app/",
-      "summary": "30 points, 16 comments",
+      "summary": "80 points, 37 comments",
       "publishedAt": "2026-11-08T17:16:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A field guide to CAPTCHA types and how they break",
-      "link": "https://github.com/vsmutok/FuckCaptcha",
-      "summary": "24 points, 5 comments",
-      "publishedAt": "2026-11-08T17:09:55.000Z"
     },
     {
       "source": "TechCrunch",
@@ -153,15 +306,6 @@
       "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
       "summary": "A top-down view of the 15-inch MacBook Air, which features Apple’s M5 processor. | Photo: Antonio G. Di Benedetto / The Verge The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time w…",
       "publishedAt": "2026-11-08T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
-      "link": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-      "summary": "41 points, 18 comments",
-      "publishedAt": "2026-11-08T15:57:37.000Z"
     },
     {
       "source": "The Verge",
@@ -187,7 +331,7 @@
       "category": "general",
       "title": "I'm not a fan of Deno's security model (2024)",
       "link": "https://goldstein.lol/posts/deno-security/",
-      "summary": "42 points, 21 comments",
+      "summary": "76 points, 35 comments",
       "publishedAt": "2026-11-08T14:42:38.000Z"
     },
     {
@@ -198,15 +342,6 @@
       "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i…",
       "publishedAt": "2026-11-08T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to prove equations using diagrams, part 1",
-      "link": "https://www.epatters.org/post/e-graphs-1/",
-      "summary": "35 points, 3 comments",
-      "publishedAt": "2026-11-08T12:51:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -221,18 +356,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "link": "https://linebender.org/blog/jit-bitmap-text/",
-      "summary": "80 points, 14 comments",
-      "publishedAt": "2026-11-08T10:42:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Writing as a thinking tool",
       "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "summary": "171 points, 56 comments",
+      "summary": "254 points, 76 comments",
       "publishedAt": "2026-11-08T10:41:52.000Z"
     },
     {
@@ -241,26 +367,8 @@
       "category": "general",
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "link": "https://github.com/synchopate/llama-modchip",
-      "summary": "270 points, 88 comments",
+      "summary": "338 points, 136 comments",
       "publishedAt": "2026-11-08T10:22:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "summary": "142 points, 97 comments",
-      "publishedAt": "2026-11-08T08:40:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Goodbye Claude, hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "summary": "592 points, 384 comments",
-      "publishedAt": "2026-11-08T03:11:48.000Z"
     },
     {
       "source": "Simon Willison",
@@ -290,15 +398,6 @@
       "publishedAt": "2026-11-07T21:17:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "summary": "519 points, 379 comments",
-      "publishedAt": "2026-11-07T20:45:32.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -306,15 +405,6 @@
       "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
       "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
       "publishedAt": "2026-11-07T19:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "link": "https://blog.bosscher.ch/posts/openstick/",
-      "summary": "723 points, 128 comments",
-      "publishedAt": "2026-11-07T18:12:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -342,42 +432,6 @@
       "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
       "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I…",
       "publishedAt": "2026-11-07T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "summary": "The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too…",
-      "publishedAt": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but…",
-      "publishedAt": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "summary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that wo…",
-      "publishedAt": "2026-11-07T15:50:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time…",
-      "publishedAt": "2026-11-07T15:43:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -542,15 +596,6 @@
       "publishedAt": "2026-11-06T18:44:38.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "publishedAt": "2026-11-06T18:44:20.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -578,15 +623,6 @@
       "publishedAt": "2026-11-06T17:43:02.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…",
-      "publishedAt": "2026-11-06T17:23:52.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -605,15 +641,6 @@
       "publishedAt": "2026-11-06T17:06:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "publishedAt": "2026-11-06T16:50:01.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -621,24 +648,6 @@
       "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
       "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
       "publishedAt": "2026-11-06T16:19:12.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Fox completes its $22B acquisition of Roku",
-      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "publishedAt": "2026-11-06T16:05:36.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "publishedAt": "2026-11-06T15:54:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -686,6 +695,15 @@
       "publishedAt": "2026-11-06T12:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Designing Rust APIs around KEM, AEAD and key derivation workflows",
+      "link": "https://github.com/lecodev-26/nexus-q",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-11-06T10:58:29.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -693,15 +711,6 @@
       "link": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "AWS has made Continuum for code vulnerabilities generally available in two regions. The service proves exploitability by running real exploits in a sandbox, then opens fixes as pull requests. Published pricing charges pe…",
       "publishedAt": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Reconstruction of Torn Documents",
-      "link": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "summary": "58 points, 36 comments",
-      "publishedAt": "2026-11-06T09:05:18.000Z"
     },
     {
       "source": "OpenAI",
@@ -833,9 +842,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "summary": "56 points, 16 comments",
+      "publishedAt": "2026-11-04T23:23:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
       "title": "Declarative Dragging",
       "link": "https://declarative-dragging.github.io/",
-      "summary": "12 points, 0 comments",
+      "summary": "253 points, 30 comments",
       "publishedAt": "2026-11-04T17:05:07.000Z"
     },
     {
@@ -846,24 +864,6 @@
       "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
       "publishedAt": "2026-11-04T15:26:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Clj.rs – a Clojure dialect implemented in Rust",
-      "link": "https://clj.rs/",
-      "summary": "136 points, 50 comments",
-      "publishedAt": "2026-11-04T15:23:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "summary": "113 points, 36 comments",
-      "publishedAt": "2026-11-04T15:18:59.000Z"
     },
     {
       "source": "OpenAI",
@@ -880,7 +880,7 @@
       "category": "general",
       "title": "Show HN: Vegetable Gardening for Engineers",
       "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "summary": "69 points, 16 comments",
+      "summary": "145 points, 28 comments",
       "publishedAt": "2026-11-04T08:54:27.000Z"
     },
     {
@@ -972,6 +972,15 @@
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a…",
       "publishedAt": "2026-11-03T16:29:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The History of Djgpp",
+      "link": "https://www.delorie.com/djgpp/history.html",
+      "summary": "28 points, 9 comments",
+      "publishedAt": "2026-11-03T16:10:37.000Z"
     },
     {
       "source": "OpenAI",
@@ -1215,15 +1224,6 @@
       "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
       "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of wha…",
       "publishedAt": "2026-10-29T17:00:26.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Ben Hylak",
-      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us ver…",
-      "publishedAt": "2026-10-29T14:06:27.000Z"
     },
     {
       "source": "Google DeepMind",
