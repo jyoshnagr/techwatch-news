@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:27:10.788Z",
+  "updatedAt": "2026-11-09T05:02:01.481Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,87 @@
   "errors": [],
   "items": [
     {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://st…",
+      "publishedAt": "2026-11-09T04:32:33.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Hide your slop PR descriptions behind",
+      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is…",
+      "publishedAt": "2026-11-09T04:25:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Critique of GPUI",
+      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "summary": "23 points, 5 comments",
+      "publishedAt": "2026-11-09T03:51:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-11-09T03:15:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Bit about Email",
+      "link": "https://maurycyz.com/misc/email/",
+      "summary": "12 points, 1 comments",
+      "publishedAt": "2026-11-09T02:46:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RIP, Harvest",
+      "link": "https://aphyr.com/posts/427-rip-harvest",
+      "summary": "150 points, 52 comments",
+      "publishedAt": "2026-11-09T01:58:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "summary": "163 points, 61 comments",
+      "publishedAt": "2026-11-09T00:10:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I'm not convinced the AI bubble exists",
+      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "103 points, 137 comments",
+      "publishedAt": "2026-11-08T23:44:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "summary": "99 points, 84 comments",
+      "publishedAt": "2026-11-08T23:28:01.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -79,7 +160,7 @@
       "category": "general",
       "title": "Chimera Vocal Synth",
       "link": "https://chimera-vocal-synth.vercel.app/",
-      "summary": "17 points, 5 comments",
+      "summary": "143 points, 22 comments",
       "publishedAt": "2026-11-08T22:36:03.000Z"
     },
     {
@@ -88,7 +169,7 @@
       "category": "general",
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "link": "https://ketchup3d.github.io/app/",
-      "summary": "12 points, 1 comments",
+      "summary": "323 points, 89 comments",
       "publishedAt": "2026-11-08T22:35:35.000Z"
     },
     {
@@ -105,8 +186,8 @@
       "color": "#ff6600",
       "category": "general",
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "summary": "178 points, 151 comments",
+      "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "438 points, 479 comments",
       "publishedAt": "2026-11-08T22:20:09.000Z"
     },
     {
@@ -124,7 +205,7 @@
       "category": "general",
       "title": "Ask HN: What are you working on? (November 2026)",
       "link": "https://news.ycombinator.com/item?id=50417407",
-      "summary": "65 points, 306 comments",
+      "summary": "172 points, 575 comments",
       "publishedAt": "2026-11-08T21:20:20.000Z"
     },
     {
@@ -164,15 +245,6 @@
       "publishedAt": "2026-11-08T20:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "summary": "319 points, 249 comments",
-      "publishedAt": "2026-11-08T20:26:43.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -194,27 +266,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "summary": "39 points, 13 comments",
-      "publishedAt": "2026-11-08T19:48:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How I Fight AI Brain Fry",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "summary": "120 points, 108 comments",
-      "publishedAt": "2026-11-08T19:37:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
       "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "summary": "185 points, 150 comments",
+      "summary": "311 points, 222 comments",
       "publishedAt": "2026-11-08T19:20:32.000Z"
     },
     {
@@ -232,17 +286,8 @@
       "category": "general",
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
       "link": "https://duxlabs.dev/",
-      "summary": "153 points, 48 comments",
+      "summary": "228 points, 72 comments",
       "publishedAt": "2026-11-08T19:08:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Playing with the STM32MP2",
-      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "summary": "23 points, 11 comments",
-      "publishedAt": "2026-11-08T19:04:07.000Z"
     },
     {
       "source": "Hacker News",
@@ -250,7 +295,7 @@
       "category": "general",
       "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "summary": "526 points, 320 comments",
+      "summary": "674 points, 381 comments",
       "publishedAt": "2026-11-08T18:16:07.000Z"
     },
     {
@@ -279,15 +324,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
       "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music…",
       "publishedAt": "2026-11-08T17:23:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A Little Snitch for Windows",
-      "link": "https://packethound.app/",
-      "summary": "80 points, 37 comments",
-      "publishedAt": "2026-11-08T17:16:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -326,15 +362,6 @@
       "publishedAt": "2026-11-08T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "link": "https://goldstein.lol/posts/deno-security/",
-      "summary": "76 points, 35 comments",
-      "publishedAt": "2026-11-08T14:42:38.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -356,18 +383,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Writing as a thinking tool",
-      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "summary": "254 points, 76 comments",
-      "publishedAt": "2026-11-08T10:41:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "link": "https://github.com/synchopate/llama-modchip",
-      "summary": "338 points, 136 comments",
+      "summary": "393 points, 175 comments",
       "publishedAt": "2026-11-08T10:22:04.000Z"
     },
     {
@@ -396,6 +414,15 @@
       "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "publishedAt": "2026-11-07T21:17:08.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Terry Pratchett's Study",
+      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "summary": "My comment on Terry Pratchett&#x27;s Study &mdash; Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Ho…",
+      "publishedAt": "2026-11-07T19:34:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -434,6 +461,15 @@
       "publishedAt": "2026-11-07T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "link": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-11-07T13:35:16.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -461,6 +497,15 @@
       "publishedAt": "2026-11-07T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "link": "https://news.ycombinator.com/item?id=50403153",
+      "summary": "22 points, 19 comments",
+      "publishedAt": "2026-11-07T10:01:48.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -468,6 +513,15 @@
       "link": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha. Its PRISM index uses data partitioning and compression instead of the graph-based approach us…",
       "publishedAt": "2026-11-07T09:49:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "link": "https://github.com/rkaehn/uniform",
+      "summary": "13 points, 4 comments",
+      "publishedAt": "2026-11-07T05:16:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -698,10 +752,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Designing Rust APIs around KEM, AEAD and key derivation workflows",
-      "link": "https://github.com/lecodev-26/nexus-q",
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "link": "https://blue-continuum.com/branching-beyond-leonardo",
       "summary": "5 points, 0 comments",
-      "publishedAt": "2026-11-06T10:58:29.000Z"
+      "publishedAt": "2026-11-06T11:01:12.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -842,18 +896,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "summary": "56 points, 16 comments",
-      "publishedAt": "2026-11-04T23:23:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Declarative Dragging",
       "link": "https://declarative-dragging.github.io/",
-      "summary": "253 points, 30 comments",
+      "summary": "425 points, 54 comments",
       "publishedAt": "2026-11-04T17:05:07.000Z"
     },
     {
@@ -873,15 +918,6 @@
       "link": "https://openai.com/index/openai-to-acquire-pierre",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "publishedAt": "2026-11-04T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "summary": "145 points, 28 comments",
-      "publishedAt": "2026-11-04T08:54:27.000Z"
     },
     {
       "source": "OpenAI",
@@ -968,19 +1004,19 @@
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
+      "title": "AI is destroying my CS degree",
+      "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+      "summary": "My comment on AI is destroying my CS degree &mdash; Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's stil…",
+      "publishedAt": "2026-11-03T16:42:02.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a…",
       "publishedAt": "2026-11-03T16:29:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The History of Djgpp",
-      "link": "https://www.delorie.com/djgpp/history.html",
-      "summary": "28 points, 9 comments",
-      "publishedAt": "2026-11-03T16:10:37.000Z"
     },
     {
       "source": "OpenAI",
@@ -1154,15 +1190,6 @@
       "publishedAt": "2026-10-31T23:15:22.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-llm 0.1a9",
-      "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default…",
-      "publishedAt": "2026-10-31T22:10:01.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1170,15 +1197,6 @@
       "link": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full operation in January. PageBreak uses Gemini models t…",
       "publishedAt": "2026-10-31T06:20:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "dbreunig/nesformer",
-      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mar…",
-      "publishedAt": "2026-10-30T21:59:22.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -1206,24 +1224,6 @@
       "link": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Netflix has detailed how it is building a reliability platform for large-scale GPU training and inference, using layered health checks, automated remediation, and fault-tolerant training to keep jobs running despite hard…",
       "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivale…",
-      "publishedAt": "2026-10-29T22:48:29.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of wha…",
-      "publishedAt": "2026-10-29T17:00:26.000Z"
     },
     {
       "source": "Google DeepMind",
