@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:29:12.247Z",
+  "updatedAt": "2026-11-10T06:20:07.003Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,261 @@
       "category": "ai"
     }
   ],
-  "itemCount": 149,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 154,
+  "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-11-10T06:01:08.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someon…",
+      "publishedAt": "2026-11-10T05:34:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Your TV can see through walls",
+      "link": "https://maurycyz.com/projects/fading/",
+      "summary": "10 points, 0 comments",
+      "publishedAt": "2026-11-10T05:24:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed b…",
+      "publishedAt": "2026-11-10T05:18:43.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "publishedAt": "2026-11-10T04:34:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "link": "https://www.ultorg.com/",
+      "summary": "15 points, 4 comments",
+      "publishedAt": "2026-11-10T03:59:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "summary": "89 points, 37 comments",
+      "publishedAt": "2026-11-10T03:20:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Formalizing CPython",
+      "link": "https://broyojo.com/python-formalization/",
+      "summary": "28 points, 7 comments",
+      "publishedAt": "2026-11-10T01:56:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "publishedAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E…",
+      "publishedAt": "2026-11-10T00:28:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Horible public key tricks",
+      "link": "https://maurycyz.com/projects/badcert/",
+      "summary": "104 points, 37 comments",
+      "publishedAt": "2026-11-10T00:07:17.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-anthropic 0.31",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so cl…",
+      "publishedAt": "2026-11-09T23:58:46.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in th…",
+      "publishedAt": "2026-11-09T23:57:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N…",
+      "publishedAt": "2026-11-09T23:51:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "Jensen Huang and President Trump. | Getty Images President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged…",
+      "publishedAt": "2026-11-09T23:47:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "publishedAt": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "summary": "301 points, 215 comments",
+      "publishedAt": "2026-11-09T23:08:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since…",
+      "publishedAt": "2026-11-09T23:07:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "publishedAt": "2026-11-09T23:03:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Exact – a new cross platform UI framework",
+      "link": "https://github.com/expo/exact",
+      "summary": "100 points, 51 comments",
+      "publishedAt": "2026-11-09T22:59:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "publishedAt": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all…",
+      "publishedAt": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "publishedAt": "2026-11-09T21:55:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $…",
+      "publishedAt": "2026-11-09T21:43:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "publishedAt": "2026-11-09T21:13:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Confer…",
+      "publishedAt": "2026-11-09T21:13:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "publishedAt": "2026-11-09T20:55:34.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "publishedAt": "2026-11-09T20:49:09.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -75,7 +322,7 @@
       "category": "general",
       "title": "USPS now offers official ZIP Code boundary polygons",
       "link": "https://postalpro.usps.com/zcb",
-      "summary": "23 points, 6 comments",
+      "summary": "577 points, 285 comments",
       "publishedAt": "2026-11-09T19:58:59.000Z"
     },
     {
@@ -95,15 +342,6 @@
       "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
       "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
       "publishedAt": "2026-11-09T19:39:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "CUI – Native UI components for C",
-      "link": "https://yappologistic.github.io/CUI/",
-      "summary": "39 points, 7 comments",
-      "publishedAt": "2026-11-09T19:35:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -172,28 +410,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "527 points, 252 comments",
-      "publishedAt": "2026-11-09T18:56:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "E-means: 10x faster k-means at equal loss",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "link": "https://e-means.github.io/",
-      "summary": "65 points, 3 comments",
+      "summary": "346 points, 31 comments",
       "publishedAt": "2026-11-09T18:45:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "link": "https://meowdisplay.app/",
-      "summary": "37 points, 14 comments",
-      "publishedAt": "2026-11-09T18:39:22.000Z"
     },
     {
       "source": "The Verge",
@@ -208,18 +428,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "summary": "78 points, 6 comments",
-      "publishedAt": "2026-11-09T18:33:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
       "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "summary": "51 points, 18 comments",
+      "summary": "125 points, 66 comments",
       "publishedAt": "2026-11-09T18:25:01.000Z"
     },
     {
@@ -241,6 +452,15 @@
       "publishedAt": "2026-11-09T18:07:23.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "summary": "421 points, 728 comments",
+      "publishedAt": "2026-11-09T18:01:10.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -253,9 +473,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "title": "Muse Ember: Our smallest, most efficient model",
       "link": "https://research.meta.ai/blog/muse-ember",
-      "summary": "138 points, 60 comments",
+      "summary": "281 points, 117 comments",
       "publishedAt": "2026-11-09T17:58:46.000Z"
     },
     {
@@ -264,35 +484,8 @@
       "category": "general",
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "link": "https://www.watched.earth",
-      "summary": "77 points, 17 comments",
+      "summary": "294 points, 48 comments",
       "publishedAt": "2026-11-09T17:51:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "summary": "190 points, 160 comments",
-      "publishedAt": "2026-11-09T17:42:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "James Gunn is out as DC movie leader",
-      "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Developmen…",
-      "publishedAt": "2026-11-09T17:39:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "summary": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have gu…",
-      "publishedAt": "2026-11-09T17:36:08.000Z"
     },
     {
       "source": "Ars Technica",
@@ -304,30 +497,12 @@
       "publishedAt": "2026-11-09T17:24:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-11-09T17:00:06.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
       "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
       "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
       "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "publishedAt": "2026-11-09T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Uber wants to park your car now, too",
-      "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition…",
       "publishedAt": "2026-11-09T17:00:00.000Z"
     },
     {
@@ -338,24 +513,6 @@
       "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
       "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
       "publishedAt": "2026-11-09T16:56:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "link": "https://news.ycombinator.com/item?id=50427934",
-      "summary": "65 points, 22 comments",
-      "publishedAt": "2026-11-09T16:36:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-      "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-      "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storag…",
-      "publishedAt": "2026-11-09T16:23:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -372,17 +529,8 @@
       "category": "general",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "summary": "363 points, 196 comments",
+      "summary": "507 points, 278 comments",
       "publishedAt": "2026-11-09T16:00:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claim…",
-      "publishedAt": "2026-11-09T15:50:38.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -401,15 +549,6 @@
       "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
       "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
       "publishedAt": "2026-11-09T15:39:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Disney and Adobe are building generative AI tools together",
-      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "summary": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's prod…",
-      "publishedAt": "2026-11-09T15:38:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -448,15 +587,6 @@
       "publishedAt": "2026-11-09T15:16:31.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "On Being an Engineer in 2026",
-      "link": "https://twitter.com/shaharglazner/status/2119796029256032278",
-      "summary": "22 points, 15 comments",
-      "publishedAt": "2026-11-09T15:07:23.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -469,45 +599,27 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "summary": "182 points, 96 comments",
+      "summary": "296 points, 195 comments",
       "publishedAt": "2026-11-09T14:31:39.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-      "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-      "publishedAt": "2026-11-09T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-      "publishedAt": "2026-11-09T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
-      "publishedAt": "2026-11-09T13:43:28.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "publishedAt": "2026-11-09T13:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "link": "https://www.foldableflight.com",
-      "summary": "689 points, 123 comments",
+      "summary": "935 points, 145 comments",
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -518,24 +630,6 @@
       "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
       "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
       "publishedAt": "2026-11-09T12:00:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What is malloc doing, anyway?",
-      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "summary": "180 points, 40 comments",
-      "publishedAt": "2026-11-09T11:31:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
-      "publishedAt": "2026-11-09T11:30:24.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -559,6 +653,15 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
       "title": "Kuken Industries searches 70 years of drawings in minutes",
       "link": "https://openai.com/index/kuken",
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
@@ -572,24 +675,6 @@
       "link": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Pinterest has moved its user-journey inference system from a multi-stage clustering pipeline to a fine-tuned 4-billion-parameter language model, reporting a 1.1% improvement in email click-through and 1.3% higher push op…",
       "publishedAt": "2026-11-09T07:25:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "summary": "579 points, 399 comments",
-      "publishedAt": "2026-11-09T07:04:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "publishedAt": "2026-11-09T05:26:29.000Z"
     },
     {
       "source": "Simon Willison",
@@ -619,33 +704,6 @@
       "publishedAt": "2026-11-08T22:26:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "publishedAt": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "publishedAt": "2026-11-08T21:00:11.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "publishedAt": "2026-11-08T21:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -658,10 +716,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Deuterium's Impact on OLED Displays (2024)",
-      "link": "https://www.oled-info.com/deuteriums-impact-oled-displays",
-      "summary": "9 points, 4 comments",
-      "publishedAt": "2026-11-08T08:52:33.000Z"
+      "title": "Never Gonna Print You Up",
+      "link": "https://dixken.de/blog/never-gonna-print-you-up",
+      "summary": "32 points, 0 comments",
+      "publishedAt": "2026-11-08T07:15:32.000Z"
     },
     {
       "source": "Simon Willison",
@@ -781,33 +839,6 @@
       "publishedAt": "2026-11-06T19:50:18.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "publishedAt": "2026-11-06T19:12:28.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-      "publishedAt": "2026-11-06T18:30:19.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "You know the launch market is tough when satellite companies start building rockets",
-      "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-      "publishedAt": "2026-11-06T18:20:47.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -858,7 +889,7 @@
       "category": "general",
       "title": "A primer on GPUs and kernel optimization",
       "link": "https://www.nabo.dev/blogs/kernel-primer",
-      "summary": "29 points, 0 comments",
+      "summary": "125 points, 12 comments",
       "publishedAt": "2026-11-05T23:48:04.000Z"
     },
     {
@@ -878,6 +909,15 @@
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford…",
       "publishedAt": "2026-11-05T17:34:03.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
     },
     {
       "source": "OpenAI",
@@ -966,7 +1006,7 @@
       "category": "ai",
       "title": "datasette-llm 0.1a10",
       "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
       "publishedAt": "2026-11-04T15:26:02.000Z"
     },
     {
@@ -1051,6 +1091,15 @@
       "publishedAt": "2026-11-03T19:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1096,15 +1145,6 @@
       "publishedAt": "2026-11-03T08:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "publishedAt": "2026-11-03T08:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1121,15 +1161,6 @@
       "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
       "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vu…",
       "publishedAt": "2026-11-03T05:28:59.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "publishedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1177,31 +1208,31 @@
       "publishedAt": "2026-11-02T13:31:26.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "If in doubt, delete the uv.lock file",
-      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which…",
-      "publishedAt": "2026-11-01T23:24:22.000Z"
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "Quoting Kyle Kingsbury",
-      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to…",
-      "publishedAt": "2026-11-01T16:49:04.000Z"
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "How We Took Over ChatGPT Accounts",
-      "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called…",
-      "publishedAt": "2026-10-31T23:15:22.000Z"
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
     },
     {
       "source": "Google AI",
@@ -1211,6 +1242,15 @@
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "publishedAt": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "Google AI",
