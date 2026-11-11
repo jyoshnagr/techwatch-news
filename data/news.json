@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:31:39.439Z",
+  "updatedAt": "2026-11-11T00:27:27.082Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,392 @@
       "category": "ai"
     }
   ],
-  "itemCount": 159,
-  "errors": [],
+  "itemCount": 152,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-11-10T23:41:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "publishedAt": "2026-11-10T23:30:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "publishedAt": "2026-11-10T23:02:39.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "publishedAt": "2026-11-10T22:35:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "122 points, 41 comments",
+      "publishedAt": "2026-11-10T22:17:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you ca…",
+      "publishedAt": "2026-11-10T22:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "publishedAt": "2026-11-10T21:55:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native pri…",
+      "publishedAt": "2026-11-10T21:40:31.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "publishedAt": "2026-11-10T21:12:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "publishedAt": "2026-11-10T21:08:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some pla…",
+      "publishedAt": "2026-11-10T21:06:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Six Math Essentials by Terence Tao",
+      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "summary": "100 points, 22 comments",
+      "publishedAt": "2026-11-10T20:58:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sherman Anti-Trust Act (1890)",
+      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "summary": "65 points, 35 comments",
+      "publishedAt": "2026-11-10T20:56:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "publishedAt": "2026-11-10T20:52:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "publishedAt": "2026-11-10T20:47:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "publishedAt": "2026-11-10T20:43:55.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "publishedAt": "2026-11-10T20:30:01.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-gemini 0.36",
+      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/mi…",
+      "publishedAt": "2026-11-10T20:09:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of…",
+      "publishedAt": "2026-11-10T19:57:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": "288 points, 202 comments",
+      "publishedAt": "2026-11-10T19:50:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor…",
+      "publishedAt": "2026-11-10T19:40:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "publishedAt": "2026-11-10T19:35:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What objective is reasoning solving?",
+      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "summary": "89 points, 42 comments",
+      "publishedAt": "2026-11-10T19:25:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "publishedAt": "2026-11-10T19:23:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who share…",
+      "publishedAt": "2026-11-10T19:19:12.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Cloudflare Makes Basin Serverless Analytics Generally Available",
+      "link": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Cloudflare has announced the general availability of Basin, a serverless analytics platform built on Apache Iceberg and R2 Object Storage. The managed service supports open data formats and integrates with tools such as…",
+      "publishedAt": "2026-11-10T19:14:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi…",
+      "publishedAt": "2026-11-10T19:04:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A comprehensive study of how fingerprintable users are",
+      "link": "https://fingerprinting.study/",
+      "summary": "59 points, 28 comments",
+      "publishedAt": "2026-11-10T19:03:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "publishedAt": "2026-11-10T19:03:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "publishedAt": "2026-11-10T19:00:26.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google…",
+      "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "link": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite…",
+      "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "publishedAt": "2026-11-10T18:49:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+      "publishedAt": "2026-11-10T18:49:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "link": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "summary": "The Bambu P2S Combo. | Image: Bambu If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s eas…",
+      "publishedAt": "2026-11-10T18:42:03.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "publishedAt": "2026-11-10T18:39:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "273 points, 131 comments",
+      "publishedAt": "2026-11-10T18:02:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "summary": "237 points, 68 comments",
+      "publishedAt": "2026-11-10T18:01:15.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
+      "link": "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "In a recent article, Google senior staff software engineer Sam Saccone and senior staff data scientist Madhuri Garikapati highlighted the cost of agent distraction, where AI coding agents get derailed by stale technical…",
+      "publishedAt": "2026-11-10T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesse…",
+      "publishedAt": "2026-11-10T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Val Town is winding down",
+      "link": "https://blog.val.town/winding-down",
+      "summary": "290 points, 75 comments",
+      "publishedAt": "2026-11-10T17:31:14.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -65,13 +448,13 @@
       "publishedAt": "2026-11-10T17:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Ars Technica",
+      "color": "#ff4e00",
       "category": "general",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. E…",
-      "publishedAt": "2026-11-10T17:30:00.000Z"
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "publishedAt": "2026-11-10T17:26:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -88,14 +471,14 @@
       "category": "general",
       "title": "AMD's Zen 6 Family: Feeding the Beast",
       "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "summary": "10 points, 2 comments",
+      "summary": "177 points, 64 comments",
       "publishedAt": "2026-11-10T17:02:32.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
       "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
       "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
       "publishedAt": "2026-11-10T16:50:38.000Z"
@@ -106,17 +489,8 @@
       "category": "general",
       "title": ".name Grandfathered",
       "link": "https://neil.fraser.name/news/2026/11/10/",
-      "summary": "139 points, 17 comments",
+      "summary": "649 points, 150 comments",
       "publishedAt": "2026-11-10T16:37:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-      "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
-      "summary": "36 points, 16 comments",
-      "publishedAt": "2026-11-10T16:34:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -128,15 +502,6 @@
       "publishedAt": "2026-11-10T16:29:27.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse an…",
-      "publishedAt": "2026-11-10T16:20:30.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -144,33 +509,6 @@
       "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
       "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
       "publishedAt": "2026-11-10T16:17:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "link": "https://www.blender.org/download/releases/5-3/",
-      "summary": "173 points, 25 comments",
-      "publishedAt": "2026-11-10T16:15:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "summary": "183 points, 81 comments",
-      "publishedAt": "2026-11-10T16:07:15.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "publishedAt": "2026-11-10T16:03:47.000Z"
     },
     {
       "source": "TechCrunch",
@@ -182,24 +520,6 @@
       "publishedAt": "2026-11-10T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life?…",
-      "publishedAt": "2026-11-10T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and ca…",
-      "publishedAt": "2026-11-10T16:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -207,15 +527,6 @@
       "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
       "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
       "publishedAt": "2026-11-10T15:54:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-      "link": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-      "summary": "You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current d…",
-      "publishedAt": "2026-11-10T15:47:18.000Z"
     },
     {
       "source": "TechCrunch",
@@ -241,7 +552,7 @@
       "category": "general",
       "title": "Smart home devices should work without the internet",
       "link": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "summary": "77 points, 35 comments",
+      "summary": "663 points, 236 comments",
       "publishedAt": "2026-11-10T15:25:20.000Z"
     },
     {
@@ -250,7 +561,7 @@
       "category": "general",
       "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
       "link": "https://tinyvalencia.com/",
-      "summary": "44 points, 13 comments",
+      "summary": "183 points, 46 comments",
       "publishedAt": "2026-11-10T15:12:16.000Z"
     },
     {
@@ -260,15 +571,6 @@
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "summary": "The new model is up to twice as successful at some tasks.",
-      "publishedAt": "2026-11-10T15:00:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Hardest Tarball?",
-      "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-      "summary": "102 points, 9 comments",
       "publishedAt": "2026-11-10T15:00:39.000Z"
     },
     {
@@ -290,15 +592,6 @@
       "publishedAt": "2026-11-10T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Reddit wants to guide your next purchase",
-      "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-      "summary": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publ…",
-      "publishedAt": "2026-11-10T15:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -317,24 +610,6 @@
       "publishedAt": "2026-11-10T14:43:49.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Death Knell of Digital Search",
-      "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-      "summary": "35 points, 37 comments",
-      "publishedAt": "2026-11-10T14:41:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "link": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web…",
-      "publishedAt": "2026-11-10T14:37:09.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -342,15 +617,6 @@
       "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
       "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
       "publishedAt": "2026-11-10T14:22:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its va…",
-      "publishedAt": "2026-11-10T14:06:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -380,60 +646,6 @@
       "publishedAt": "2026-11-10T14:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-      "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-      "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pix…",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-      "link": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowd…",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "publishedAt": "2026-11-10T13:30:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -443,31 +655,13 @@
       "publishedAt": "2026-11-10T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developer…",
-      "publishedAt": "2026-11-10T13:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Let over Lambda–50 Years of Lisp (2008)",
-      "link": "https://letoverlambda.com/",
-      "summary": "52 points, 13 comments",
-      "publishedAt": "2026-11-10T12:35:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What's new in the .NET 11 runtime",
-      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-      "summary": "120 points, 67 comments",
-      "publishedAt": "2026-11-10T12:20:07.000Z"
+      "title": "Ableton Live 13",
+      "link": "https://www.ableton.com/en/live/",
+      "summary": "267 points, 293 comments",
+      "publishedAt": "2026-11-10T12:58:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -479,13 +673,13 @@
       "publishedAt": "2026-11-10T12:15:32.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AlphaProof Code",
       "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "publishedAt": "2026-11-10T12:02:28.000Z"
+      "summary": "566 points, 174 comments",
+      "publishedAt": "2026-11-10T12:11:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -515,13 +709,13 @@
       "publishedAt": "2026-11-10T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "link": "https://connect.queenslibrary.org/",
-      "summary": "152 points, 99 comments",
-      "publishedAt": "2026-11-10T09:04:39.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "publishedAt": "2026-11-10T10:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -560,24 +754,6 @@
       "publishedAt": "2026-11-10T07:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "publishedAt": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "summary": "592 points, 210 comments",
-      "publishedAt": "2026-11-10T06:01:08.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -587,24 +763,6 @@
       "publishedAt": "2026-11-10T05:34:14.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "California’s proposed ‘billionaire tax’ fails to pass",
-      "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed b…",
-      "publishedAt": "2026-11-10T05:18:43.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "summary": "Huang publicly confessed to the affair just yesterday, so the internet has the rest of the week to get creative.",
-      "publishedAt": "2026-11-10T04:34:15.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -612,15 +770,6 @@
       "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
       "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skil…",
       "publishedAt": "2026-11-10T03:53:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "publishedAt": "2026-11-10T01:27:12.000Z"
     },
     {
       "source": "Simon Willison",
@@ -641,6 +790,15 @@
       "publishedAt": "2026-11-09T23:57:21.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Process Explorer for macOS",
+      "link": "https://github.com/microsoft/Procexp-Mac",
+      "summary": "121 points, 45 comments",
+      "publishedAt": "2026-11-09T22:30:41.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -659,42 +817,6 @@
       "publishedAt": "2026-11-09T21:13:39.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "publishedAt": "2026-11-09T20:49:09.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "publishedAt": "2026-11-09T19:51:47.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "publishedAt": "2026-11-09T19:41:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "publishedAt": "2026-11-09T19:08:37.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -704,24 +826,6 @@
       "publishedAt": "2026-11-09T19:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "821 points, 950 comments",
-      "publishedAt": "2026-11-09T18:01:10.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "publishedAt": "2026-11-09T17:24:26.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -729,42 +833,6 @@
       "link": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has released Gemini 4 Argon framing it as a general-purpose physical-reasoning model for robot control, Real2Sim scene construction, multimodal labeling of robot video, and iterative policy improvement, rather tha…",
       "publishedAt": "2026-11-09T15:44:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-      "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-      "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-      "publishedAt": "2026-11-09T15:39:21.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "publishedAt": "2026-11-09T15:23:20.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "F1 in Brazil: You’ve got to keep your tires alive",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
-      "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
-      "publishedAt": "2026-11-09T15:16:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Taking another shot at the cheap IP camera, part 2",
-      "link": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
-      "summary": "67 points, 32 comments",
-      "publishedAt": "2026-11-09T14:40:42.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -783,15 +851,6 @@
       "link": "https://openai.com/index/control-room",
       "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
       "publishedAt": "2026-11-09T13:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-      "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
-      "publishedAt": "2026-11-09T12:00:05.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -869,37 +928,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "link": "https://www.ghanastreetgames.com/",
-      "summary": "85 points, 18 comments",
-      "publishedAt": "2026-11-08T15:31:52.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "publishedAt": "2026-11-08T12:15:31.000Z"
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "link": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+      "summary": "20 points, 1 comments",
+      "publishedAt": "2026-11-08T11:04:04.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "summary": "86 points, 38 comments",
-      "publishedAt": "2026-11-08T12:07:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PHP2Shell Deep Dive",
-      "link": "https://djad04.github.io/php2shell-deep-dive/",
-      "summary": "18 points, 2 comments",
-      "publishedAt": "2026-11-08T11:25:24.000Z"
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "summary": "12 points, 0 comments",
+      "publishedAt": "2026-11-08T05:13:25.000Z"
     },
     {
       "source": "Simon Willison",
@@ -920,13 +961,13 @@
       "publishedAt": "2026-11-07T19:34:24.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "publishedAt": "2026-11-07T12:15:55.000Z"
+      "title": "Hacking the meta ray-ban smartglasses",
+      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "summary": "18 points, 5 comments",
+      "publishedAt": "2026-11-07T17:19:02.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1001,15 +1042,6 @@
       "publishedAt": "2026-11-05T20:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I deleted all my SSH keys",
-      "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
-      "summary": "17 points, 5 comments",
-      "publishedAt": "2026-11-05T18:17:51.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1017,15 +1049,6 @@
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford…",
       "publishedAt": "2026-11-05T17:34:03.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:05:16.000Z"
     },
     {
       "source": "OpenAI",
@@ -1154,15 +1177,6 @@
       "publishedAt": "2026-11-04T00:29:36.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Introducing Images 2.6",
-      "link": "https://openai.com/index/introducing-images-2-6",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "publishedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1179,24 +1193,6 @@
       "link": "https://simonwillison.net/2026/Nov/3/llm/",
       "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
       "publishedAt": "2026-11-03T21:41:42.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device",
-      "link": "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Google has introduced the LiteRT Tensor API, a lightweight C++ API that allows developers to build, customize, and optimize machine learning models directly for on-device execution. According to Google, it combines the f…",
-      "publishedAt": "2026-11-03T19:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "publishedAt": "2026-11-03T17:01:49.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1217,15 +1213,6 @@
       "publishedAt": "2026-11-03T16:29:48.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Beyond the Harness: Canvas for AI Agents",
-      "link": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Nimisha Asthagiri shares how applying proven product engineering and architecture principles creates a bounded canvas for AI agents. She explains how this model provides agents with bounded autonomy, continuous drift det…",
-      "publishedAt": "2026-11-03T11:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1233,15 +1220,6 @@
       "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "summary": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video sou…",
       "publishedAt": "2026-11-03T05:32:25.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "October sponsors-only newsletter",
-      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vu…",
-      "publishedAt": "2026-11-03T05:28:59.000Z"
     },
     {
       "source": "Google AI",
@@ -1253,33 +1231,6 @@
       "publishedAt": "2026-11-02T17:45:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "publishedAt": "2026-10-30T14:18:30.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:00:58.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "publishedAt": "2026-10-27T16:01:38.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1287,15 +1238,6 @@
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "publishedAt": "2026-10-26T16:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24.000Z"
     },
     {
       "source": "Google AI",
