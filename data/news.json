@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:56:55.464Z",
+  "updatedAt": "2026-11-13T00:55:58.186Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,44 +52,413 @@
       "category": "ai"
     }
   ],
-  "itemCount": 163,
+  "itemCount": 165,
   "errors": [],
   "items": [
     {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
-      "title": "The Jensen Huang scandal is hardly over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "Strap in. | image: The Verge, Getty Images I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of…",
-      "publishedAt": "2026-11-12T17:44:33.000Z"
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump i…",
+      "publishedAt": "2026-11-13T00:46:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Xbox announces Wolfenstein 3",
+      "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "summary": "A screenshot from Wolfenstein II: The New Colossus. It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. W…",
+      "publishedAt": "2026-11-13T00:11:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story…",
+      "publishedAt": "2026-11-12T23:43:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Ga…",
+      "publishedAt": "2026-11-12T23:30:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Microsoft Outlook is still down",
+      "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 3…",
+      "publishedAt": "2026-11-12T23:24:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "18 points, 5 comments",
+      "publishedAt": "2026-11-12T23:06:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xb…",
+      "publishedAt": "2026-11-12T23:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "publishedAt": "2026-11-12T22:59:51.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "llm-gemini 0.37",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini…",
+      "publishedAt": "2026-11-12T22:55:19.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "publishedAt": "2026-11-12T22:42:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "publishedAt": "2026-11-12T22:28:47.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "publishedAt": "2026-11-12T22:22:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "137 points, 39 comments",
+      "publishedAt": "2026-11-12T21:56:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do…",
+      "publishedAt": "2026-11-12T21:55:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q…",
+      "publishedAt": "2026-11-12T21:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "publishedAt": "2026-11-12T21:35:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color,…",
+      "publishedAt": "2026-11-12T21:28:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "publishedAt": "2026-11-12T21:27:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "112 points, 13 comments",
+      "publishedAt": "2026-11-12T21:13:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "summary": "73 points, 69 comments",
+      "publishedAt": "2026-11-12T21:09:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "summary": "The first 25 original Xbox on PC games. | Image: Microsoft For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different…",
+      "publishedAt": "2026-11-12T21:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "publishedAt": "2026-11-12T20:26:47.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "publishedAt": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "publishedAt": "2026-11-12T19:59:59.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "publishedAt": "2026-11-12T19:49:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "publishedAt": "2026-11-12T19:27:45.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "publishedAt": "2026-11-12T19:23:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "publishedAt": "2026-11-12T19:11:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+      "publishedAt": "2026-11-12T19:09:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "summary": "188 points, 92 comments",
+      "publishedAt": "2026-11-12T19:05:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "publishedAt": "2026-11-12T19:03:39.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "publishedAt": "2026-11-12T18:57:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "summary": "282 points, 63 comments",
+      "publishedAt": "2026-11-12T18:52:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadershi…",
+      "publishedAt": "2026-11-12T18:39:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rust 1.100",
+      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "summary": "383 points, 160 comments",
+      "publishedAt": "2026-11-12T18:39:05.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "summary": "\"It's hard being the only honest players in a crooked game.\"",
+      "publishedAt": "2026-11-12T18:38:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "summary": "\"We're not doing this thing because we like rockets.\"",
+      "publishedAt": "2026-11-12T18:28:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "summary": "138 points, 17 comments",
+      "publishedAt": "2026-11-12T18:22:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Service degradation on Microsoft 365",
+      "link": "https://status.cloud.microsoft/",
+      "summary": "466 points, 433 comments",
+      "publishedAt": "2026-11-12T18:20:48.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+      "publishedAt": "2026-11-12T18:17:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "summary": "451 points, 292 comments",
+      "publishedAt": "2026-11-12T18:01:48.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50.000Z"
+    },
+    {
+      "source": "Google AI",
+      "color": "#4285f4",
+      "category": "ai",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "publishedAt": "2026-11-12T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "link": "https://news.ycombinator.com/item?id=50471281",
+      "summary": "37 points, 9 comments",
+      "publishedAt": "2026-11-12T17:51:23.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
       "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
       "publishedAt": "2026-11-12T17:36:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
-      "link": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
-      "summary": "5 points, 1 comments",
-      "publishedAt": "2026-11-12T17:32:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Paths in Pieces",
-      "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-11-12T17:19:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -97,7 +466,7 @@
       "category": "general",
       "title": "The amazing disappearing exoplanet",
       "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "summary": "An exoplanet seems to stopped transiting in front of its host star.",
+      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
       "publishedAt": "2026-11-12T17:18:10.000Z"
     },
     {
@@ -110,22 +479,22 @@
       "publishedAt": "2026-11-12T17:17:58.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "link": "https://github.com/simpsoka/zigzag",
+      "summary": "307 points, 129 comments",
+      "publishedAt": "2026-11-12T17:02:42.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
       "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
       "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
       "publishedAt": "2026-11-12T17:00:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their id…",
-      "publishedAt": "2026-11-12T17:00:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -135,51 +504,6 @@
       "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
       "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
       "publishedAt": "2026-11-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "25 years later, Xbox is trying to reinvent itself again",
-      "link": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, X…",
-      "publishedAt": "2026-11-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusive…",
-      "publishedAt": "2026-11-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. F…",
-      "publishedAt": "2026-11-12T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-      "summary": "25 points, 9 comments",
-      "publishedAt": "2026-11-12T16:59:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google Wallet can finally unlock doors with digital home keys",
-      "link": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
-      "summary": "The Aqara u400 (pictured) is one of the few smart locks that currently supports Google Wallet’s digital home keys. | Photo by Jennifer Pattison Tuohy / The Verge Google has added digital home key support to Google Wallet…",
-      "publishedAt": "2026-11-12T16:56:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -200,24 +524,6 @@
       "publishedAt": "2026-11-12T16:32:33.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his posit…",
-      "publishedAt": "2026-11-12T16:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-      "summary": "84 points, 41 comments",
-      "publishedAt": "2026-11-12T16:29:13.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -236,15 +542,6 @@
       "publishedAt": "2026-11-12T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct re…",
-      "publishedAt": "2026-11-12T15:48:12.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -257,28 +554,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-      "link": "https://github.com/chocoford/ExcalidrawZ",
-      "summary": "47 points, 10 comments",
-      "publishedAt": "2026-11-12T15:25:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "I'm making LLMs work on small and old devices",
       "link": "https://github.com/hyperionaidev/smolmaxxing/",
-      "summary": "91 points, 27 comments",
+      "summary": "275 points, 92 comments",
       "publishedAt": "2026-11-12T15:23:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A power bank that can quickly charge three gadgets is just $49",
-      "link": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
-      "summary": "Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on…",
-      "publishedAt": "2026-11-12T15:19:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -290,15 +569,6 @@
       "publishedAt": "2026-11-12T15:18:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-      "summary": "41 points, 17 comments",
-      "publishedAt": "2026-11-12T15:14:52.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -306,15 +576,6 @@
       "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "summary": "This is Fireworks' second data breach in as many months.",
       "publishedAt": "2026-11-12T15:02:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times rep…",
-      "publishedAt": "2026-11-12T15:01:31.000Z"
     },
     {
       "source": "Ars Technica",
@@ -329,27 +590,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Running web sites makes me not want to",
-      "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-      "summary": "52 points, 28 comments",
-      "publishedAt": "2026-11-12T14:30:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "publishedAt": "2026-11-12T14:30:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "summary": "134 points, 46 comments",
+      "summary": "235 points, 81 comments",
       "publishedAt": "2026-11-12T14:18:49.000Z"
     },
     {
@@ -358,35 +601,8 @@
       "category": "general",
       "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
       "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "summary": "107 points, 1 comments",
+      "summary": "183 points, 2 comments",
       "publishedAt": "2026-11-12T14:12:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Libreagi – Save OSS Models",
-      "link": "https://libreagi.com/",
-      "summary": "70 points, 16 comments",
-      "publishedAt": "2026-11-12T14:11:58.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "publishedAt": "2026-11-12T14:10:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-      "link": "https://spectrum.ieee.org/electric-ship-batteries",
-      "summary": "41 points, 34 comments",
-      "publishedAt": "2026-11-12T14:06:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -394,7 +610,7 @@
       "category": "general",
       "title": "Nvidia CEO Jensen Huang has resigned",
       "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "summary": "Nvidia CEO also had an affair with a senior executive at the firm.",
       "publishedAt": "2026-11-12T14:05:17.000Z"
     },
     {
@@ -410,19 +626,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "NVIDIA Announces CEO Transition",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "summary": "1572 points, 1649 comments",
+      "title": "Jensen Huang resigns",
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "summary": "2873 points, 2722 comments",
       "publishedAt": "2026-11-12T13:52:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "publishedAt": "2026-11-12T13:26:25.000Z"
     },
     {
       "source": "Ars Technica",
@@ -434,13 +641,13 @@
       "publishedAt": "2026-11-12T12:00:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anthropic IPO",
-      "link": "https://ipo.anthropic.com/us/",
-      "summary": "614 points, 617 comments",
-      "publishedAt": "2026-11-12T11:46:41.000Z"
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -455,18 +662,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-      "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-      "summary": "84 points, 46 comments",
-      "publishedAt": "2026-11-12T10:46:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why Writing Correct Software Is Hard",
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
       "link": "https://pron.github.io/posts/correctness-and-complexity",
-      "summary": "275 points, 118 comments",
+      "summary": "353 points, 166 comments",
       "publishedAt": "2026-11-12T10:28:26.000Z"
     },
     {
@@ -497,15 +695,6 @@
       "publishedAt": "2026-11-12T09:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "publishedAt": "2026-11-12T03:13:10.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -524,33 +713,6 @@
       "publishedAt": "2026-11-12T00:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "publishedAt": "2026-11-11T23:28:45.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "publishedAt": "2026-11-11T23:17:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "549 points, 73 comments",
-      "publishedAt": "2026-11-11T22:34:23.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -558,6 +720,15 @@
       "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
       "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and r…",
       "publishedAt": "2026-11-11T22:03:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "link": "https://makepad.github.io/relax/",
+      "summary": "110 points, 46 comments",
+      "publishedAt": "2026-11-11T21:20:01.000Z"
     },
     {
       "source": "Simon Willison",
@@ -585,33 +756,6 @@
       "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
       "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
       "publishedAt": "2026-11-11T20:22:03.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Why the data center you dread might never even be built",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more…",
-      "publishedAt": "2026-11-11T20:15:15.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta is losing its longtime head of infrastructure",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "publishedAt": "2026-11-11T20:12:01.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't m…",
-      "publishedAt": "2026-11-11T20:04:28.000Z"
     },
     {
       "source": "Ars Technica",
@@ -659,15 +803,6 @@
       "publishedAt": "2026-11-11T18:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "publishedAt": "2026-11-11T17:37:32.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -675,24 +810,6 @@
       "link": "https://simonwillison.net/2026/Nov/11/llm/",
       "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai end…",
       "publishedAt": "2026-11-11T17:19:52.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "summary": "Apple has already made the forum read-only.",
-      "publishedAt": "2026-11-11T17:04:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "publishedAt": "2026-11-11T16:33:08.000Z"
     },
     {
       "source": "Google AI",
@@ -704,13 +821,13 @@
       "publishedAt": "2026-11-11T16:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-      "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
-      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
-      "publishedAt": "2026-11-11T15:25:44.000Z"
+      "title": "Before Pixels: Speed-Minder",
+      "link": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "summary": "11 points, 0 comments",
+      "publishedAt": "2026-11-11T15:40:05.000Z"
     },
     {
       "source": "Simon Willison",
@@ -738,15 +855,6 @@
       "link": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "JioHotstar evaluated 6 approaches to code retrieval for AI coding agents using SWE, CodeScale Bench, and an internal question-answering harness. Structural search performed well on concrete tasks, while semantic retrieva…",
       "publishedAt": "2026-11-11T14:28:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
-      "publishedAt": "2026-11-11T14:08:57.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -783,51 +891,6 @@
       "link": "https://openai.com/index/jiostar-vijay-seshadri",
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "publishedAt": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "publishedAt": "2026-11-10T23:30:56.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "publishedAt": "2026-11-10T23:02:39.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "publishedAt": "2026-11-10T22:35:01.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "publishedAt": "2026-11-10T21:55:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "publishedAt": "2026-11-10T21:12:59.000Z"
     },
     {
       "source": "Simon Willison",
@@ -920,15 +983,6 @@
       "publishedAt": "2026-11-10T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Socratic Tutor",
-      "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "summary": "550 points, 129 comments",
-      "publishedAt": "2026-11-10T10:18:22.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -974,6 +1028,15 @@
       "publishedAt": "2026-11-10T07:28:21.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fortune Telling and Speculative Design",
+      "link": "https://maggieappleton.com/fortune-telling",
+      "summary": "4 points, 0 comments",
+      "publishedAt": "2026-11-10T07:28:08.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -990,15 +1053,6 @@
       "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
       "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or pres…",
       "publishedAt": "2026-11-10T05:34:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Decoding REXPaint Files in Odin",
-      "link": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
-      "summary": "10 points, 1 comments",
-      "publishedAt": "2026-11-10T05:18:42.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1071,15 +1125,6 @@
       "link": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Cloudflare is developing a public certificate authority for Merkle Tree Certificates (MTCs) to reduce the bandwidth overhead of post-quantum cryptography. A Chrome experiment served billions of MTCs to 50% of Chrome Beta…",
       "publishedAt": "2026-11-09T14:35:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A live tree of systemd jobs on the boot console",
-      "link": "https://codeberg.org/wvhulle/bootvine",
-      "summary": "285 points, 108 comments",
-      "publishedAt": "2026-11-09T13:02:44.000Z"
     },
     {
       "source": "OpenAI",
@@ -1217,15 +1262,6 @@
       "publishedAt": "2026-11-06T00:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "publishedAt": "2026-11-05T20:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1262,15 +1298,6 @@
       "publishedAt": "2026-11-05T17:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "publishedAt": "2026-11-05T09:00:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1278,15 +1305,6 @@
       "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
       "publishedAt": "2026-11-04T15:26:02.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-apps 0.3a0",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent…",
-      "publishedAt": "2026-11-04T00:29:36.000Z"
     },
     {
       "source": "Google DeepMind",
