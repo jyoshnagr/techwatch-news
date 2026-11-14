@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:13:49.305Z",
+  "updatedAt": "2026-11-14T05:21:23.207Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,22 +52,224 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 166,
+  "errors": [],
   "items": [
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "link": "https://atg.science/careers",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-11-13T21:01:11.000Z"
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "167 points, 93 comments",
+      "publishedAt": "2026-11-14T02:52:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "107 points, 18 comments",
+      "publishedAt": "2026-11-14T02:28:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "summary": "110 points, 27 comments",
+      "publishedAt": "2026-11-14T02:21:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "summary": "92 points, 16 comments",
+      "publishedAt": "2026-11-14T02:02:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from…",
+      "publishedAt": "2026-11-14T01:53:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "summary": "147 points, 47 comments",
+      "publishedAt": "2026-11-14T00:52:29.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "publishedAt": "2026-11-14T00:49:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "summary": "13 points, 0 comments",
+      "publishedAt": "2026-11-14T00:21:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "57 points, 9 comments",
+      "publishedAt": "2026-11-14T00:06:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal…",
+      "publishedAt": "2026-11-13T23:49:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "summary": "94 points, 56 comments",
+      "publishedAt": "2026-11-13T23:48:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "link": "https://grounds.top/",
+      "summary": "85 points, 11 comments",
+      "publishedAt": "2026-11-13T23:17:39.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "publishedAt": "2026-11-13T23:17:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "summary": "162 points, 77 comments",
+      "publishedAt": "2026-11-13T23:06:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How Not to Build a Music Player",
+      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "summary": "64 points, 25 comments",
+      "publishedAt": "2026-11-13T23:04:30.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-cluster-map 0.19",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are reque…",
+      "publishedAt": "2026-11-13T23:02:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "publishedAt": "2026-11-13T23:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "publishedAt": "2026-11-13T22:43:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-leaflet 0.3",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, ca…",
+      "publishedAt": "2026-11-13T22:30:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
+      "summary": "241 points, 55 comments",
+      "publishedAt": "2026-11-13T22:04:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "publishedAt": "2026-11-13T21:59:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "publishedAt": "2026-11-13T21:44:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "publishedAt": "2026-11-13T21:20:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "summary": "1441 points, 1118 comments",
+      "publishedAt": "2026-11-13T21:05:53.000Z"
     },
     {
       "source": "The Verge",
@@ -88,15 +290,6 @@
       "publishedAt": "2026-11-13T20:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Big tech is here to let us down",
-      "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-      "summary": "61 points, 25 comments",
-      "publishedAt": "2026-11-13T20:20:30.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -113,24 +306,6 @@
       "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
       "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
       "publishedAt": "2026-11-13T20:03:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "summary": "9 points, 2 comments",
-      "publishedAt": "2026-11-13T19:58:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "No AI Slop: A Manifesto",
-      "link": "https://www.slopmanifesto.com/",
-      "summary": "74 points, 41 comments",
-      "publishedAt": "2026-11-13T19:51:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -156,7 +331,7 @@
       "category": "general",
       "title": "Found: A protein that drives ageing without unleashing inflammation",
       "link": "https://www.nature.com/articles/d41586-026-03638-3",
-      "summary": "30 points, 3 comments",
+      "summary": "162 points, 24 comments",
       "publishedAt": "2026-11-13T19:25:21.000Z"
     },
     {
@@ -165,7 +340,7 @@
       "category": "general",
       "title": "Perplexity Decider v1.3: Training, eval, and use cases",
       "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "summary": "45 points, 12 comments",
+      "summary": "110 points, 21 comments",
       "publishedAt": "2026-11-13T19:24:47.000Z"
     },
     {
@@ -183,53 +358,17 @@
       "category": "general",
       "title": "FM-1 Workbench",
       "link": "https://open.m-vave.com/fm1-workbench",
-      "summary": "91 points, 54 comments",
+      "summary": "201 points, 136 comments",
       "publishedAt": "2026-11-13T19:14:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "summary": "107 points, 57 comments",
-      "publishedAt": "2026-11-13T18:40:44.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "publishedAt": "2026-11-13T18:40:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Models can now transmit viruses in weight-space",
-      "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-      "summary": "105 points, 37 comments",
-      "publishedAt": "2026-11-13T18:33:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "summary": "39 points, 16 comments",
-      "publishedAt": "2026-11-13T18:23:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-      "summary": "164 points, 75 comments",
-      "publishedAt": "2026-11-13T18:18:37.000Z"
     },
     {
       "source": "The Verge",
@@ -244,28 +383,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "link": "https://isometricsf.com/",
-      "summary": "92 points, 34 comments",
-      "publishedAt": "2026-11-13T17:58:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "link": "https://haddyalchaer.com/jepa",
-      "summary": "155 points, 30 comments",
+      "summary": "233 points, 37 comments",
       "publishedAt": "2026-11-13T17:55:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "summary": "106 points, 42 comments",
-      "publishedAt": "2026-11-13T17:55:23.000Z"
     },
     {
       "source": "The Verge",
@@ -277,20 +398,11 @@
       "publishedAt": "2026-11-13T17:44:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "summary": "244 points, 64 comments",
-      "publishedAt": "2026-11-13T17:30:10.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "publishedAt": "2026-11-13T17:25:45.000Z"
     },
@@ -340,24 +452,6 @@
       "publishedAt": "2026-11-13T16:00:12.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi…",
-      "publishedAt": "2026-11-13T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-      "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Papr…",
-      "publishedAt": "2026-11-13T16:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -388,10 +482,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "summary": "96 points, 57 comments",
-      "publishedAt": "2026-11-13T15:08:07.000Z"
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "summary": "178 points, 179 comments",
+      "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
       "source": "OpenAI",
@@ -430,15 +524,6 @@
       "publishedAt": "2026-11-13T14:44:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A technical vision for the Haskell ecosystem",
-      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "summary": "149 points, 64 comments",
-      "publishedAt": "2026-11-13T14:43:12.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -446,15 +531,6 @@
       "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
       "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
       "publishedAt": "2026-11-13T14:29:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-      "summary": "113 points, 29 comments",
-      "publishedAt": "2026-11-13T14:28:40.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -471,7 +547,7 @@
       "category": "general",
       "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
       "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
       "publishedAt": "2026-11-13T13:15:20.000Z"
     },
     {
@@ -491,15 +567,6 @@
       "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
       "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
       "publishedAt": "2026-11-13T12:28:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "summary": "399 points, 279 comments",
-      "publishedAt": "2026-11-13T12:10:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -529,6 +596,15 @@
       "publishedAt": "2026-11-13T11:50:38.000Z"
     },
     {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "publishedAt": "2026-11-13T08:00:00.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -556,15 +632,6 @@
       "publishedAt": "2026-11-12T22:42:51.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "publishedAt": "2026-11-12T22:28:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -579,7 +646,7 @@
       "category": "general",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "summary": "605 points, 171 comments",
+      "summary": "716 points, 206 comments",
       "publishedAt": "2026-11-12T22:03:09.000Z"
     },
     {
@@ -682,31 +749,13 @@
       "publishedAt": "2026-11-12T18:39:23.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Netflix releases new trailer for Ray Gunn",
-      "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "summary": "\"It's hard being the only honest players in a crooked game.\"",
-      "publishedAt": "2026-11-12T18:38:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-      "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-      "summary": "\"We're not doing this thing because we like rockets.\"",
-      "publishedAt": "2026-11-12T18:28:22.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-      "publishedAt": "2026-11-12T18:17:19.000Z"
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50.000Z"
     },
     {
       "source": "Google AI",
@@ -716,33 +765,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "publishedAt": "2026-11-12T17:36:40.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "publishedAt": "2026-11-12T17:17:58.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "publishedAt": "2026-11-12T17:00:52.000Z"
     },
     {
       "source": "OpenAI",
@@ -788,6 +810,15 @@
       "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "publishedAt": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Other Nefertiti(2015)",
+      "link": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+      "summary": "8 points, 1 comments",
+      "publishedAt": "2026-11-12T04:08:33.000Z"
     },
     {
       "source": "OpenAI",
@@ -871,6 +902,15 @@
       "publishedAt": "2026-11-11T15:11:59.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "publishedAt": "2026-11-11T15:00:15.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -952,6 +992,15 @@
       "publishedAt": "2026-11-10T18:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:03:47.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -970,6 +1019,15 @@
       "publishedAt": "2026-11-10T13:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "publishedAt": "2026-11-10T12:02:28.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -977,6 +1035,15 @@
       "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "publishedAt": "2026-11-10T11:13:04.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1085,6 +1152,15 @@
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in th…",
       "publishedAt": "2026-11-09T23:57:21.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "publishedAt": "2026-11-09T19:51:47.000Z"
     },
     {
       "source": "OpenAI",
@@ -1222,22 +1298,13 @@
       "publishedAt": "2026-11-06T08:00:00.000Z"
     },
     {
-      "source": "OpenAI",
-      "color": "#10a37f",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "publishedAt": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Quoting Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford…",
-      "publishedAt": "2026-11-05T17:34:03.000Z"
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
     },
     {
       "source": "Google AI",
@@ -1249,13 +1316,13 @@
       "publishedAt": "2026-11-05T17:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "datasette-llm 0.1a10",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
-      "publishedAt": "2026-11-04T15:26:02.000Z"
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
     },
     {
       "source": "Google AI",
@@ -1265,6 +1332,33 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "summary": "Here are Google’s latest AI updates from October 2026",
       "publishedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
     },
     {
       "source": "Google AI",
