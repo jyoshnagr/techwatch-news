@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T05:17:16.310Z",
+  "updatedAt": "2026-11-15T16:50:58.176Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,49 +52,152 @@
       "category": "ai"
     }
   ],
-  "itemCount": 155,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 166,
+  "errors": [],
   "items": [
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
+      "source": "TechCrunch",
+      "color": "#0aa860",
       "category": "general",
-      "title": "Kiri – The Modern Container Runtime",
-      "link": "https://runkiri.com/",
-      "summary": "11 points, 2 comments",
-      "publishedAt": "2026-11-15T04:40:41.000Z"
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitt…",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "link": "https://github.com/matheuzgomes/gawain",
-      "summary": "11 points, 0 comments",
-      "publishedAt": "2026-11-15T04:39:25.000Z"
+      "title": "Emacs Is My Browser",
+      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "summary": "30 points, 6 comments",
+      "publishedAt": "2026-11-15T15:21:21.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "summary": "7 points, 0 comments",
-      "publishedAt": "2026-11-15T04:09:11.000Z"
+      "title": "All AI-generated code should be Open Source",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "summary": "310 points, 197 comments",
+      "publishedAt": "2026-11-15T14:46:58.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Osint Case Studies",
-      "link": "https://osintsearch.org/blog/osint-case-studies",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-11-15T03:33:41.000Z"
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "summary": "53 points, 24 comments",
+      "publishedAt": "2026-11-15T14:31:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the…",
+      "publishedAt": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others wou…",
+      "publishedAt": "2026-11-15T13:57:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "link": "https://prog21.dadgum.com/116.html",
+      "summary": "79 points, 26 comments",
+      "publishedAt": "2026-11-15T13:44:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "summary": "193 points, 95 comments",
+      "publishedAt": "2026-11-15T13:15:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba…",
+      "publishedAt": "2026-11-15T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A NES emulator written in Odin",
+      "link": "https://lucypero.com/lucynes.html",
+      "summary": "55 points, 8 comments",
+      "publishedAt": "2026-11-15T12:51:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "summary": "101 points, 1 comments",
+      "publishedAt": "2026-11-15T12:14:06.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "publishedAt": "2026-11-15T12:07:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "summary": "193 points, 82 comments",
+      "publishedAt": "2026-11-15T11:40:51.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code",
+      "link": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-ba…",
+      "publishedAt": "2026-11-15T09:55:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "link": "https://space.stackexchange.com/questions/37775",
+      "summary": "141 points, 100 comments",
+      "publishedAt": "2026-11-15T09:06:43.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -109,19 +212,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "summary": "141 points, 29 comments",
-      "publishedAt": "2026-11-15T02:00:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "US loses measles-free status: Pan American Health Organization (2025)",
-      "link": "https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status",
-      "summary": "58 points, 1 comments",
-      "publishedAt": "2026-11-15T00:48:11.000Z"
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "summary": "372 points, 157 comments",
+      "publishedAt": "2026-11-15T01:18:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -154,10 +248,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "summary": "361 points, 186 comments",
-      "publishedAt": "2026-11-14T22:26:30.000Z"
+      "title": "The Telephone Changed the World",
+      "link": "https://lithub.com/how-the-telephone-changed-the-world/",
+      "summary": "28 points, 6 comments",
+      "publishedAt": "2026-11-14T22:56:09.000Z"
     },
     {
       "source": "Hacker News",
@@ -165,7 +259,7 @@
       "category": "general",
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "link": "https://retrocomputing.stackexchange.com/questions/17957",
-      "summary": "153 points, 60 comments",
+      "summary": "276 points, 144 comments",
       "publishedAt": "2026-11-14T22:22:49.000Z"
     },
     {
@@ -192,7 +286,7 @@
       "category": "general",
       "title": "SpaceX catches the Starship to end Flight 15",
       "link": "https://www.spacex.com/launches/starship-flight-15",
-      "summary": "940 points, 646 comments",
+      "summary": "1469 points, 999 comments",
       "publishedAt": "2026-11-14T21:22:24.000Z"
     },
     {
@@ -223,15 +317,6 @@
       "publishedAt": "2026-11-14T18:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A family tree of software job titles",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "summary": "254 points, 124 comments",
-      "publishedAt": "2026-11-14T17:45:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -248,15 +333,6 @@
       "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
       "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. | Anadolu via Getty Images At a press conference today, Transportation Secretary Sean Duffy…",
       "publishedAt": "2026-11-14T17:44:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "link": "https://www.crissyfield.de/research/lovable-en/",
-      "summary": "722 points, 293 comments",
-      "publishedAt": "2026-11-14T17:43:10.000Z"
     },
     {
       "source": "TechCrunch",
@@ -286,24 +362,6 @@
       "publishedAt": "2026-11-14T16:34:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "summary": "222 points, 97 comments",
-      "publishedAt": "2026-11-14T15:40:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "summary": "208 points, 11 comments",
-      "publishedAt": "2026-11-14T15:04:15.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -331,33 +389,6 @@
       "publishedAt": "2026-11-14T14:18:36.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size ga…",
-      "publishedAt": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "KDE: The documentary [video]",
-      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "summary": "420 points, 91 comments",
-      "publishedAt": "2026-11-14T13:43:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "A gadget to make your dumb house smarter",
-      "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old e…",
-      "publishedAt": "2026-11-14T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -376,15 +407,6 @@
       "publishedAt": "2026-11-14T12:05:51.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triu…",
-      "publishedAt": "2026-11-14T12:00:00.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -392,15 +414,6 @@
       "link": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries w…",
       "publishedAt": "2026-11-14T06:37:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from…",
-      "publishedAt": "2026-11-14T01:53:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -529,15 +542,6 @@
       "publishedAt": "2026-11-13T18:40:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "summary": "9 points, 1 comments",
-      "publishedAt": "2026-11-13T17:37:32.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -646,15 +650,6 @@
       "publishedAt": "2026-11-13T13:53:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "500 Lines or Less A 3D Modeller",
-      "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "summary": "31 points, 3 comments",
-      "publishedAt": "2026-11-13T13:47:42.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -673,15 +668,6 @@
       "publishedAt": "2026-11-13T12:52:19.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "publishedAt": "2026-11-13T12:28:23.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -689,6 +675,15 @@
       "link": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
       "summary": "\"You can simplify it as a big tank feeding engines.\"",
       "publishedAt": "2026-11-13T12:00:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "link": "https://www.niklasroy.com/carton-clock/",
+      "summary": "37 points, 1 comments",
+      "publishedAt": "2026-11-13T12:00:18.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -700,15 +695,6 @@
       "publishedAt": "2026-11-13T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "summary": "16 points, 0 comments",
-      "publishedAt": "2026-11-13T11:55:19.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -716,6 +702,15 @@
       "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
       "summary": "Specialized’s second-fastest bike may be the smart buy.",
       "publishedAt": "2026-11-13T11:50:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What thousands of conversations look like inside a language model",
+      "link": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "summary": "60 points, 19 comments",
+      "publishedAt": "2026-11-13T10:26:01.000Z"
     },
     {
       "source": "OpenAI",
@@ -730,10 +725,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "link": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "summary": "20 points, 0 comments",
-      "publishedAt": "2026-11-12T23:04:23.000Z"
+      "title": "Chasing an audio artifact on power loss",
+      "link": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+      "summary": "31 points, 3 comments",
+      "publishedAt": "2026-11-12T23:11:25.000Z"
     },
     {
       "source": "Ars Technica",
@@ -754,6 +749,15 @@
       "publishedAt": "2026-11-12T22:55:19.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "summary": "52 points, 35 comments",
+      "publishedAt": "2026-11-12T21:27:01.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -772,13 +776,13 @@
       "publishedAt": "2026-11-12T19:59:59.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "publishedAt": "2026-11-12T19:49:11.000Z"
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50.000Z"
     },
     {
       "source": "Google AI",
@@ -788,6 +792,15 @@
       "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "publishedAt": "2026-11-12T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "20 Years of Pyrolog",
+      "link": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "summary": "16 points, 0 comments",
+      "publishedAt": "2026-11-12T14:15:28.000Z"
     },
     {
       "source": "OpenAI",
@@ -835,6 +848,15 @@
       "publishedAt": "2026-11-12T09:30:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "summary": "51 points, 18 comments",
+      "publishedAt": "2026-11-12T05:29:24.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -871,6 +893,15 @@
       "publishedAt": "2026-11-11T21:18:30.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "link": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
+      "summary": "22 points, 4 comments",
+      "publishedAt": "2026-11-11T20:09:34.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -898,15 +929,6 @@
       "publishedAt": "2026-11-11T17:19:52.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Oxford Molecular Motors",
-      "link": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "summary": "30 points, 4 comments",
-      "publishedAt": "2026-11-11T17:06:08.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -923,6 +945,15 @@
       "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
       "summary": "Anthropic&#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compu…",
       "publishedAt": "2026-11-11T15:11:59.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "publishedAt": "2026-11-11T15:00:15.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1006,13 +1037,13 @@
       "publishedAt": "2026-11-10T18:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "summary": "530 points, 291 comments",
-      "publishedAt": "2026-11-10T14:16:05.000Z"
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:03:47.000Z"
     },
     {
       "source": "Google AI",
@@ -1033,6 +1064,15 @@
       "publishedAt": "2026-11-10T13:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "publishedAt": "2026-11-10T12:02:28.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1040,6 +1080,15 @@
       "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "publishedAt": "2026-11-10T11:13:04.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1150,6 +1199,15 @@
       "publishedAt": "2026-11-09T23:57:21.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "publishedAt": "2026-11-09T19:51:47.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1166,15 +1224,6 @@
       "link": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google has released Gemini 4 Argon framing it as a general-purpose physical-reasoning model for robot control, Real2Sim scene construction, multimodal labeling of robot video, and iterative policy improvement, rather tha…",
       "publishedAt": "2026-11-09T15:44:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
-      "link": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Cloudflare is developing a public certificate authority for Merkle Tree Certificates (MTCs) to reduce the bandwidth overhead of post-quantum cryptography. A Chrome experiment served billions of MTCs to 50% of Chrome Beta…",
-      "publishedAt": "2026-11-09T14:35:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1249,6 +1298,15 @@
       "publishedAt": "2026-11-06T08:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1258,6 +1316,15 @@
       "publishedAt": "2026-11-05T17:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1265,6 +1332,33 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "summary": "Here are Google’s latest AI updates from October 2026",
       "publishedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z"
     },
     {
       "source": "Google AI",
