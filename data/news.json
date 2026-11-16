@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:49:08.142Z",
+  "updatedAt": "2026-11-16T05:15:00.899Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,105 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "link": "https://news.ycombinator.com/item?id=50513451",
+      "summary": "39 points, 7 comments",
+      "publishedAt": "2026-11-16T02:53:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Qwen4-Max",
+      "link": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "249 points, 86 comments",
+      "publishedAt": "2026-11-16T02:14:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "link": "https://iter.ca/post/ubo-uxss/",
+      "summary": "179 points, 48 comments",
+      "publishedAt": "2026-11-16T02:04:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "publishedAt": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U…",
+      "publishedAt": "2026-11-16T01:26:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Coles hit by a cybersecurity incident",
+      "link": "https://www.colesgroup.com.au/updates/",
+      "summary": "81 points, 59 comments",
+      "publishedAt": "2026-11-16T01:14:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "87 points, 22 comments",
+      "publishedAt": "2026-11-16T00:21:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "summary": "18 points, 0 comments",
+      "publishedAt": "2026-11-16T00:03:12.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-maplibre 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you s…",
+      "publishedAt": "2026-11-15T23:58:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "152 points, 190 comments",
+      "publishedAt": "2026-11-15T23:55:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Mini.nvim Is Now on Tangled",
+      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "summary": "48 points, 14 comments",
+      "publishedAt": "2026-11-15T23:55:41.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -65,22 +164,22 @@
       "publishedAt": "2026-11-15T23:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Jensen Huang might return to Nvidia as CEO",
-      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-      "summary": "24 points, 8 comments",
-      "publishedAt": "2026-11-15T23:24:53.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 1.0a43",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderer…",
+      "publishedAt": "2026-11-15T23:20:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "link": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-      "summary": "18 points, 5 comments",
-      "publishedAt": "2026-11-15T23:12:38.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette 0.65.6",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be dow…",
+      "publishedAt": "2026-11-15T23:18:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -95,36 +194,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Preserving 30 Years of Salon Journalism",
+      "title": "Preserving 30 years of Salon journalism",
       "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "summary": "22 points, 4 comments",
+      "summary": "115 points, 34 comments",
       "publishedAt": "2026-11-15T23:00:11.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "link": "https://lastcomplication.com/",
-      "summary": "7 points, 1 comments",
-      "publishedAt": "2026-11-15T22:48:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-      "link": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
-      "summary": "8 points, 2 comments",
-      "publishedAt": "2026-11-15T22:26:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Old Bitly Links Are Being Hijacked",
+      "title": "Old Bitly links are being hijacked",
       "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "summary": "92 points, 49 comments",
+      "summary": "223 points, 125 comments",
       "publishedAt": "2026-11-15T22:11:43.000Z"
     },
     {
@@ -164,15 +245,6 @@
       "publishedAt": "2026-11-15T21:49:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Your Agent Will Pick the Hackable One",
-      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-      "summary": "66 points, 39 comments",
-      "publishedAt": "2026-11-15T21:10:39.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -205,14 +277,14 @@
       "category": "general",
       "title": "WebGL Flight Simulator with seed generated terrain",
       "link": "https://baron.by.dai.studio/",
-      "summary": "57 points, 8 comments",
+      "summary": "108 points, 17 comments",
       "publishedAt": "2026-11-15T20:20:05.000Z"
     },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle",
+      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
       "link": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and take real-world actions. Uber developed a…",
       "publishedAt": "2026-11-15T20:00:00.000Z"
@@ -223,7 +295,7 @@
       "category": "general",
       "title": "Handwriting, as a Font",
       "link": "https://ductus.sorenblank.com",
-      "summary": "81 points, 19 comments",
+      "summary": "185 points, 44 comments",
       "publishedAt": "2026-11-15T19:42:13.000Z"
     },
     {
@@ -232,7 +304,7 @@
       "category": "general",
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "link": "https://bruceroettgers.eu/blog/protomaps/",
-      "summary": "108 points, 30 comments",
+      "summary": "237 points, 50 comments",
       "publishedAt": "2026-11-15T19:26:22.000Z"
     },
     {
@@ -243,24 +315,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp…",
       "publishedAt": "2026-11-15T19:15:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "link": "https://github.com/eclipse-mosquitto/mosquitto",
-      "summary": "56 points, 20 comments",
-      "publishedAt": "2026-11-15T18:36:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "summary": "321 points, 158 comments",
-      "publishedAt": "2026-11-15T18:36:10.000Z"
     },
     {
       "source": "TechCrunch",
@@ -277,26 +331,17 @@
       "category": "general",
       "title": "A short explainer on how El Niño works [video]",
       "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "summary": "147 points, 54 comments",
+      "summary": "207 points, 90 comments",
       "publishedAt": "2026-11-15T18:23:21.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "title": "Crows make decisions faster than we can",
       "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "summary": "139 points, 104 comments",
+      "summary": "197 points, 144 comments",
       "publishedAt": "2026-11-15T17:53:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "link": "https://ykiko.me/en/articles/2105384023094834022/",
-      "summary": "80 points, 49 comments",
-      "publishedAt": "2026-11-15T17:22:32.000Z"
     },
     {
       "source": "TechCrunch",
@@ -344,15 +389,6 @@
       "publishedAt": "2026-11-15T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Emacs Is My Browser",
-      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "summary": "168 points, 86 comments",
-      "publishedAt": "2026-11-15T15:21:21.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -376,7 +412,7 @@
       "category": "general",
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "link": "https://prog21.dadgum.com/116.html",
-      "summary": "186 points, 91 comments",
+      "summary": "217 points, 115 comments",
       "publishedAt": "2026-11-15T13:44:16.000Z"
     },
     {
@@ -385,17 +421,8 @@
       "category": "general",
       "title": "The MacBook Pro's OLED PWM problem",
       "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "summary": "394 points, 215 comments",
+      "summary": "443 points, 255 comments",
       "publishedAt": "2026-11-15T13:15:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba…",
-      "publishedAt": "2026-11-15T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -410,10 +437,28 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code",
+      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
       "link": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-ba…",
       "publishedAt": "2026-11-15T09:55:00.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-apps 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support fo…",
+      "publishedAt": "2026-11-15T04:02:45.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "datasette-agent 0.6a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette h…",
+      "publishedAt": "2026-11-15T03:49:47.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -686,13 +731,13 @@
       "publishedAt": "2026-11-13T16:26:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "publishedAt": "2026-11-13T16:00:12.000Z"
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "link": "https://www.paradedb.com/blog/joins",
+      "summary": "43 points, 6 comments",
+      "publishedAt": "2026-11-13T15:31:50.000Z"
     },
     {
       "source": "Ars Technica",
@@ -761,7 +806,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability",
+      "title": "Netflix Turns Operational Data into a Knowledge Graph for AI-Driven Observability",
       "link": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Netflix is developing an ontology-driven knowledge graph to accelerate production investigations and provide AI agents with a shared understanding of its operational environment. By Craig Risi",
       "publishedAt": "2026-11-13T12:00:00.000Z"
@@ -783,6 +828,15 @@
       "link": "https://openai.com/business/customer-stories/shield",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "publishedAt": "2026-11-13T08:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "link": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "summary": "21 points, 2 comments",
+      "publishedAt": "2026-11-13T06:58:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -848,15 +902,6 @@
       "publishedAt": "2026-11-12T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
-      "link": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
-      "summary": "18 points, 3 comments",
-      "publishedAt": "2026-11-12T10:58:00.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -889,7 +934,7 @@
       "category": "general",
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "summary": "304 points, 155 comments",
+      "summary": "381 points, 192 comments",
       "publishedAt": "2026-11-12T05:29:24.000Z"
     },
     {
@@ -1148,7 +1193,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
+      "title": "Article: LLM Reliability Layers under Test: Accuracy, Yield, and the Limits of Verification",
       "link": "https://www.infoq.com/articles/llm-reliability-layers-limits-accuracy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Verification layers sort outputs by trust rather than fixing errors. In a benchmark of six reliability layers, voting and self-correction failed to recover accuracy - they only withheld doubtful records. Production syste…",
       "publishedAt": "2026-11-10T09:00:00.000Z"
@@ -1217,15 +1262,6 @@
       "publishedAt": "2026-11-09T23:58:46.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Locating the source of a mysterious beep with Claude",
-      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in th…",
-      "publishedAt": "2026-11-09T23:57:21.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -1260,42 +1296,6 @@
       "link": "https://openai.com/index/coderabbit-codex-daybreak",
       "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
       "publishedAt": "2026-11-09T08:00:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://st…",
-      "publishedAt": "2026-11-09T04:32:33.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "Hide your slop PR descriptions behind",
-      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is…",
-      "publishedAt": "2026-11-09T04:25:05.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning st…",
-      "publishedAt": "2026-11-08T22:26:00.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-      "summary": "datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP pref…",
-      "publishedAt": "2026-11-07T23:57:46.000Z"
     },
     {
       "source": "Google DeepMind",
