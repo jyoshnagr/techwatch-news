@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:41:21.677Z",
+  "updatedAt": "2026-11-20T13:51:56.343Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,222 @@
   "errors": [],
   "items": [
     {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "publishedAt": "2026-11-20T13:35:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "publishedAt": "2026-11-20T13:25:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "publishedAt": "2026-11-20T13:21:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS dev…",
+      "publishedAt": "2026-11-20T12:30:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Only the Seminole tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "summary": "Gambling? We're just swapping contracts!",
+      "publishedAt": "2026-11-20T12:30:29.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "summary": "Your support for Ars matters more now than ever.",
+      "publishedAt": "2026-11-20T12:15:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "publishedAt": "2026-11-20T12:00:43.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+      "link": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI agent infrastructure under vendor-neutral open-source governance.…",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Why the robots are ditching Uber",
+      "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working togeth…",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Making of Oxygene",
+      "link": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "summary": "73 points, 27 comments",
+      "publishedAt": "2026-11-20T10:41:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "summary": "270 points, 179 comments",
+      "publishedAt": "2026-11-20T10:01:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What people are building, discovered through new domains",
+      "link": "https://startups.novumsignals.com/",
+      "summary": "62 points, 28 comments",
+      "publishedAt": "2026-11-20T09:54:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "UK fridges secured from hackers",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "summary": "79 points, 63 comments",
+      "publishedAt": "2026-11-20T09:52:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "summary": "164 points, 109 comments",
+      "publishedAt": "2026-11-20T09:43:19.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
+      "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution. Daniel Weeks, co-creator of Apache Ice…",
+      "publishedAt": "2026-11-20T09:17:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The U.S. national cyber director is stepping down",
+      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "publishedAt": "2026-11-20T09:14:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "summary": "254 points, 132 comments",
+      "publishedAt": "2026-11-20T09:13:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "\"I can tell you wrote this yourself\"",
+      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "summary": "281 points, 274 comments",
+      "publishedAt": "2026-11-20T07:13:21.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+      "link": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain…",
+      "publishedAt": "2026-11-20T06:53:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "167 points, 104 comments",
+      "publishedAt": "2026-11-20T05:46:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "link": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "200 points, 28 comments",
+      "publishedAt": "2026-11-20T04:02:39.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in…",
+      "publishedAt": "2026-11-20T02:49:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "137 points, 23 comments",
+      "publishedAt": "2026-11-20T02:43:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "304 points, 251 comments",
+      "publishedAt": "2026-11-20T02:01:09.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -92,24 +308,6 @@
       "publishedAt": "2026-11-19T23:37:56.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "link": "https://git-aarvin.github.io/mei/",
-      "summary": "87 points, 44 comments",
-      "publishedAt": "2026-11-19T23:35:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "summary": "77 points, 24 comments",
-      "publishedAt": "2026-11-19T23:32:11.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -128,15 +326,6 @@
       "publishedAt": "2026-11-19T22:31:41.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "RegExr: Temporarily Offline",
-      "link": "https://regexr.com/",
-      "summary": "44 points, 25 comments",
-      "publishedAt": "2026-11-19T22:27:07.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -144,15 +333,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "summary": "Amazon now uses its shopping platform for political purposes.",
       "publishedAt": "2026-11-19T22:16:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Synology Security Advisory",
-      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "summary": "99 points, 64 comments",
-      "publishedAt": "2026-11-19T22:13:40.000Z"
     },
     {
       "source": "The Verge",
@@ -207,15 +387,6 @@
       "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
       "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide…",
       "publishedAt": "2026-11-19T21:12:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "summary": "58 points, 11 comments",
-      "publishedAt": "2026-11-19T20:57:14.000Z"
     },
     {
       "source": "Simon Willison",
@@ -308,15 +479,6 @@
       "publishedAt": "2026-11-19T19:33:22.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to…",
-      "publishedAt": "2026-11-19T19:12:30.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -326,15 +488,6 @@
       "publishedAt": "2026-11-19T19:10:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "73 points, 143 comments",
-      "publishedAt": "2026-11-19T18:47:16.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -342,24 +495,6 @@
       "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
       "summary": "Some models fare better, but all fail in similar ways.",
       "publishedAt": "2026-11-19T18:44:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "198 points, 107 comments",
-      "publishedAt": "2026-11-19T18:35:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "summary": "The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has alrea…",
-      "publishedAt": "2026-11-19T18:33:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -403,26 +538,8 @@
       "category": "general",
       "title": "Claude solves two open problems in the physics of black holes",
       "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "summary": "376 points, 176 comments",
+      "summary": "518 points, 243 comments",
       "publishedAt": "2026-11-19T17:30:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "summary": "578 points, 87 comments",
-      "publishedAt": "2026-11-19T17:25:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Anthropic’s Nasdaq debut",
-      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "summary": "899 points, 1782 comments",
-      "publishedAt": "2026-11-19T17:02:40.000Z"
     },
     {
       "source": "Google AI",
@@ -452,24 +569,6 @@
       "publishedAt": "2026-11-19T16:59:23.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "link": "https://github.com/onlook-dev/onlook/",
-      "summary": "85 points, 68 comments",
-      "publishedAt": "2026-11-19T16:34:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "summary": "498 points, 209 comments",
-      "publishedAt": "2026-11-19T16:21:03.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -477,15 +576,6 @@
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
       "publishedAt": "2026-11-19T16:19:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "link": "https://cornholenews.news",
-      "summary": "186 points, 89 comments",
-      "publishedAt": "2026-11-19T15:38:32.000Z"
     },
     {
       "source": "TechCrunch",
@@ -497,6 +587,15 @@
       "publishedAt": "2026-11-19T15:32:20.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "link": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "summary": "36 points, 13 comments",
+      "publishedAt": "2026-11-19T15:16:02.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -504,6 +603,15 @@
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
       "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
       "publishedAt": "2026-11-19T14:54:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "link": "https://github.com/bigcrimping/floppy3.5",
+      "summary": "12 points, 0 comments",
+      "publishedAt": "2026-11-19T14:29:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -515,24 +623,6 @@
       "publishedAt": "2026-11-19T14:04:38.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-      "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-      "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-      "publishedAt": "2026-11-19T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "publishedAt": "2026-11-19T14:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -542,15 +632,6 @@
       "publishedAt": "2026-11-19T13:40:02.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "summary": "247 points, 55 comments",
-      "publishedAt": "2026-11-19T13:18:11.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -558,15 +639,6 @@
       "link": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "At QCon San Francisco 2026, Jordan Cutler, Senior Staff Engineer and Web Platform Tech Lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same AI tools. By Daniel…",
       "publishedAt": "2026-11-19T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Someone reported java4shell bug in September 2026",
-      "link": "https://github.com/openjdk/jdk/pull/32781",
-      "summary": "367 points, 93 comments",
-      "publishedAt": "2026-11-19T11:47:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -596,15 +668,6 @@
       "publishedAt": "2026-11-19T08:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "link": "https://verialabs.com/ruby2shell/",
-      "summary": "385 points, 165 comments",
-      "publishedAt": "2026-11-19T05:09:11.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -612,15 +675,6 @@
       "link": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Discord’s CTO Stanislav Vishnevskiy recently announced rewriting its desktop and mobile clients in Rust, moving away from Electron and React Native. The project eliminates layers of abstraction to directly leverage the d…",
       "publishedAt": "2026-11-19T03:12:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an…",
-      "publishedAt": "2026-11-19T00:42:56.000Z"
     },
     {
       "source": "OpenAI",
@@ -731,33 +785,6 @@
       "publishedAt": "2026-11-18T19:31:17.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "publishedAt": "2026-11-18T19:19:33.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-      "publishedAt": "2026-11-18T18:46:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "The \"shameful\" measles data that lost the US its elimination status",
-      "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-      "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
-      "publishedAt": "2026-11-18T18:30:23.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -765,15 +792,6 @@
       "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "summary": "",
       "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-      "publishedAt": "2026-11-18T18:10:33.000Z"
     },
     {
       "source": "Simon Willison",
@@ -803,15 +821,6 @@
       "publishedAt": "2026-11-18T15:58:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "link": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "summary": "256 points, 100 comments",
-      "publishedAt": "2026-11-18T14:56:04.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -819,6 +828,15 @@
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your com…",
       "publishedAt": "2026-11-18T14:44:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "link": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "summary": "73 points, 5 comments",
+      "publishedAt": "2026-11-18T13:02:08.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -882,6 +900,15 @@
       "link": "https://openai.com/index/managing-frontier-ai-risk",
       "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
       "publishedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "link": "https://trynotched.com/find",
+      "summary": "67 points, 39 comments",
+      "publishedAt": "2026-11-18T03:40:01.000Z"
     },
     {
       "source": "OpenAI",
@@ -965,15 +992,6 @@
       "publishedAt": "2026-11-17T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "summary": "9 points, 0 comments",
-      "publishedAt": "2026-11-17T11:41:08.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1001,15 +1019,6 @@
       "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "How to CAD Almost Anything",
-      "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "summary": "120 points, 25 comments",
-      "publishedAt": "2026-11-17T06:29:57.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1017,6 +1026,15 @@
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "summary": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
       "publishedAt": "2026-11-17T06:16:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "link": "https://kobi.music/research/dettato",
+      "summary": "6 points, 1 comments",
+      "publishedAt": "2026-11-17T01:03:05.000Z"
     },
     {
       "source": "OpenAI",
@@ -1055,6 +1073,24 @@
       "publishedAt": "2026-11-16T23:57:26.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Strongest Sokoban Solver",
+      "link": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "summary": "99 points, 19 comments",
+      "publishedAt": "2026-11-16T21:04:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I can’t believe it’s 1!",
+      "link": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "summary": "15 points, 8 comments",
+      "publishedAt": "2026-11-16T19:07:13.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1071,15 +1107,6 @@
       "link": "https://openai.com/index/strengthening-online-child-safety",
       "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
       "publishedAt": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Garage Door Spam",
-      "link": "https://blog.harrison.page/garage-door-spam/",
-      "summary": "748 points, 316 comments",
-      "publishedAt": "2026-11-16T16:13:36.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1154,24 +1181,6 @@
       "publishedAt": "2026-11-15T23:18:17.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
-      "link": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and take real-world actions. Uber developed a…",
-      "publishedAt": "2026-11-15T20:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
-      "link": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-ba…",
-      "publishedAt": "2026-11-15T09:55:00.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1188,15 +1197,6 @@
       "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
       "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette h…",
       "publishedAt": "2026-11-15T03:49:47.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
-      "link": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. Wh…",
-      "publishedAt": "2026-11-15T02:42:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1217,6 +1217,15 @@
       "publishedAt": "2026-11-14T17:09:09.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "summary": "26 points, 5 comments",
+      "publishedAt": "2026-11-14T09:13:24.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1233,15 +1242,6 @@
       "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
       "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, ca…",
       "publishedAt": "2026-11-13T22:30:54.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-gemini 0.37",
-      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini…",
-      "publishedAt": "2026-11-12T22:55:19.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -1445,6 +1445,15 @@
       "source": "Anthropic",
       "color": "#d97757",
       "category": "ai",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "link": "https://www.anthropic.com/news/ipo-close",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "source": "Anthropic",
+      "color": "#d97757",
+      "category": "ai",
       "title": "Anthropic prices initial public offering",
       "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "summary": "",
@@ -1573,15 +1582,6 @@
       "category": "ai",
       "title": "Security",
       "link": "https://www.anthropic.com/news/security",
-      "summary": "",
-      "publishedAt": null
-    },
-    {
-      "source": "Anthropic",
-      "color": "#d97757",
-      "category": "ai",
-      "title": "2026 Usage Policy update",
-      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
       "summary": "",
       "publishedAt": null
     }
