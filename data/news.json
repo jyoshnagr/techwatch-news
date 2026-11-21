@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:08:20.957Z",
+  "updatedAt": "2026-11-21T05:57:53.264Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,10 +56,91 @@
   "errors": [],
   "items": [
     {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "publishedAt": "2026-11-21T04:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "summary": "100 points, 24 comments",
+      "publishedAt": "2026-11-21T03:23:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary": "33 points, 6 comments",
+      "publishedAt": "2026-11-21T02:40:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "summary": "52 points, 29 comments",
+      "publishedAt": "2026-11-20T23:29:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary": "74 points, 15 comments",
+      "publishedAt": "2026-11-20T23:19:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "summary": "49 points, 61 comments",
+      "publishedAt": "2026-11-20T23:18:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "summary": "195 points, 49 comments",
+      "publishedAt": "2026-11-20T22:30:47.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "publishedAt": "2026-11-20T22:28:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "publishedAt": "2026-11-20T22:16:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
       "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "publishedAt": "2026-11-20T21:58:29.000Z"
@@ -122,36 +203,18 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-      "summary": "118 points, 43 comments",
-      "publishedAt": "2026-11-20T20:22:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Inkling 2 Mini",
       "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "351 points, 50 comments",
+      "summary": "855 points, 155 comments",
       "publishedAt": "2026-11-20T20:12:19.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Combatting Adversarial Distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation/",
-      "summary": "25 points, 27 comments",
-      "publishedAt": "2026-11-20T20:11:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "And Yet, It Moves",
+      "title": "And yet, it moves",
       "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "summary": "34 points, 16 comments",
+      "summary": "127 points, 75 comments",
       "publishedAt": "2026-11-20T20:07:55.000Z"
     },
     {
@@ -160,7 +223,7 @@
       "category": "general",
       "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
       "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "summary": "31 points, 3 comments",
+      "summary": "164 points, 36 comments",
       "publishedAt": "2026-11-20T20:03:59.000Z"
     },
     {
@@ -169,7 +232,7 @@
       "category": "general",
       "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
       "link": "https://scottaaronson.blog/?p=10344",
-      "summary": "112 points, 72 comments",
+      "summary": "258 points, 231 comments",
       "publishedAt": "2026-11-20T20:03:07.000Z"
     },
     {
@@ -196,26 +259,17 @@
       "category": "general",
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
       "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is…",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It…",
       "publishedAt": "2026-11-20T19:35:06.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "publishedAt": "2026-11-20T19:32:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "link": "https://winedroid.soham.sh/demo/",
-      "summary": "60 points, 25 comments",
-      "publishedAt": "2026-11-20T19:30:16.000Z"
     },
     {
       "source": "Ars Technica",
@@ -268,7 +322,7 @@
       "category": "general",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "1098 points, 516 comments",
+      "summary": "1813 points, 832 comments",
       "publishedAt": "2026-11-20T18:33:14.000Z"
     },
     {
@@ -277,7 +331,7 @@
       "category": "general",
       "title": "We promoted developers into architects without informing them",
       "link": "https://manidoraisamy.com/developer-to-architect.html",
-      "summary": "189 points, 111 comments",
+      "summary": "364 points, 213 comments",
       "publishedAt": "2026-11-20T18:17:51.000Z"
     },
     {
@@ -286,7 +340,7 @@
       "category": "general",
       "title": "Vibecoding an inference chip",
       "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "summary": "78 points, 25 comments",
+      "summary": "132 points, 50 comments",
       "publishedAt": "2026-11-20T18:15:16.000Z"
     },
     {
@@ -340,7 +394,7 @@
       "category": "general",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "summary": "245 points, 70 comments",
+      "summary": "393 points, 159 comments",
       "publishedAt": "2026-11-20T17:21:36.000Z"
     },
     {
@@ -351,15 +405,6 @@
       "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
       "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside…",
       "publishedAt": "2026-11-20T17:05:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "link": "https://news.ycombinator.com/item?id=50577613",
-      "summary": "86 points, 114 comments",
-      "publishedAt": "2026-11-20T16:45:25.000Z"
     },
     {
       "source": "The Verge",
@@ -385,7 +430,7 @@
       "category": "general",
       "title": "Language Models Can Rewrite Their Own Weights",
       "link": "https://arxiv.org/abs/2611.21885",
-      "summary": "293 points, 98 comments",
+      "summary": "374 points, 116 comments",
       "publishedAt": "2026-11-20T16:29:06.000Z"
     },
     {
@@ -430,7 +475,7 @@
       "category": "general",
       "title": "Finite-time blow-up for the Navier–Stokes equations",
       "link": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "summary": "223 points, 75 comments",
+      "summary": "271 points, 86 comments",
       "publishedAt": "2026-11-20T15:34:31.000Z"
     },
     {
@@ -448,7 +493,7 @@
       "category": "general",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "link": "https://alpo.ge/remark.pdf",
-      "summary": "2147 points, 1466 comments",
+      "summary": "2495 points, 1717 comments",
       "publishedAt": "2026-11-20T14:16:21.000Z"
     },
     {
@@ -477,6 +522,15 @@
       "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
       "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
       "publishedAt": "2026-11-20T13:35:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "212 points, 496 comments",
+      "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
       "source": "TechCrunch",
@@ -533,15 +587,6 @@
       "publishedAt": "2026-11-20T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "582 points, 309 comments",
-      "publishedAt": "2026-11-20T10:01:41.000Z"
-    },
-    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -549,24 +594,6 @@
       "link": "https://openai.com/index/combatting-adversarial-distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "publishedAt": "2026-11-20T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "summary": "580 points, 277 comments",
-      "publishedAt": "2026-11-20T09:43:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Signal Is Serious About Protecting Your Privacy",
-      "link": "https://signal.org/blog/protecting-your-privacy/",
-      "summary": "431 points, 272 comments",
-      "publishedAt": "2026-11-20T09:42:16.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -740,33 +767,6 @@
       "publishedAt": "2026-11-19T20:19:28.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "publishedAt": "2026-11-19T20:18:49.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "publishedAt": "2026-11-19T19:52:54.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-      "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-      "summary": "Some models fare better, but all fail in similar ways.",
-      "publishedAt": "2026-11-19T18:44:39.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -873,15 +873,6 @@
       "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "summary": "",
       "publishedAt": "2026-11-18T21:35:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "summary": "44 points, 40 comments",
-      "publishedAt": "2026-11-18T18:50:35.000Z"
     },
     {
       "source": "Google DeepMind",
@@ -992,6 +983,15 @@
       "publishedAt": "2026-11-18T06:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "link": "https://trynotched.com/find",
+      "summary": "147 points, 108 comments",
+      "publishedAt": "2026-11-18T03:40:01.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1055,6 +1055,15 @@
       "publishedAt": "2026-11-17T17:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "summary": "86 points, 35 comments",
+      "publishedAt": "2026-11-17T16:58:30.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1062,15 +1071,6 @@
       "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
       "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost i…",
       "publishedAt": "2026-11-17T16:48:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
-      "link": "https://quebec.yarn.so",
-      "summary": "40 points, 5 comments",
-      "publishedAt": "2026-11-17T15:16:45.000Z"
     },
     {
       "source": "InfoQ AI/ML",
