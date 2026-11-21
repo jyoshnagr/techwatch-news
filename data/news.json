@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T05:57:53.264Z",
+  "updatedAt": "2026-11-21T17:09:31.374Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,185 @@
       "category": "ai"
     }
   ],
-  "itemCount": 169,
-  "errors": [],
+  "itemCount": 159,
+  "errors": [
+    {
+      "source": "Google DeepMind",
+      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    }
+  ],
   "items": [
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-11-21T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "publishedAt": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs,…",
+      "publishedAt": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $11…",
+      "publishedAt": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "summary": "32 points, 20 comments",
+      "publishedAt": "2026-11-21T15:39:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "publishedAt": "2026-11-21T15:18:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T…",
+      "publishedAt": "2026-11-21T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, an…",
+      "publishedAt": "2026-11-21T14:55:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "summary": "301 points, 223 comments",
+      "publishedAt": "2026-11-21T14:36:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku,…",
+      "publishedAt": "2026-11-21T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "summary": "275 points, 159 comments",
+      "publishedAt": "2026-11-21T13:23:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "link": "https://simple-bench.com/",
+      "summary": "101 points, 91 comments",
+      "publishedAt": "2026-11-21T13:16:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means…",
+      "publishedAt": "2026-11-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The game of the year is finally here",
+      "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol…",
+      "publishedAt": "2026-11-21T13:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "publishedAt": "2026-11-21T12:01:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch th…",
+      "publishedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "summary": "238 points, 104 comments",
+      "publishedAt": "2026-11-21T10:36:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "RCE in Gnupg",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "summary": "153 points, 50 comments",
+      "publishedAt": "2026-11-21T08:32:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "link": "http://ricapar.net/ClawDOS/",
+      "summary": "131 points, 42 comments",
+      "publishedAt": "2026-11-21T05:38:01.000Z"
+    },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
@@ -68,45 +244,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "BlackBlaze now explicitly states selling your data for advertisement",
-      "link": "https://www.backblaze.com/company/policy/privacy",
-      "summary": "100 points, 24 comments",
-      "publishedAt": "2026-11-21T03:23:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "summary": "33 points, 6 comments",
-      "publishedAt": "2026-11-21T02:40:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "summary": "52 points, 29 comments",
-      "publishedAt": "2026-11-20T23:29:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "summary": "74 points, 15 comments",
-      "publishedAt": "2026-11-20T23:19:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
       "link": "https://news.ycombinator.com/item?id=50583761",
-      "summary": "49 points, 61 comments",
+      "summary": "414 points, 445 comments",
       "publishedAt": "2026-11-20T23:18:32.000Z"
     },
     {
@@ -115,7 +255,7 @@
       "category": "general",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "link": "https://ninlive.com/",
-      "summary": "195 points, 49 comments",
+      "summary": "322 points, 83 comments",
       "publishedAt": "2026-11-20T22:30:47.000Z"
     },
     {
@@ -205,35 +345,8 @@
       "category": "general",
       "title": "Inkling 2 Mini",
       "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "855 points, 155 comments",
+      "summary": "1213 points, 236 comments",
       "publishedAt": "2026-11-20T20:12:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "And yet, it moves",
-      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "summary": "127 points, 75 comments",
-      "publishedAt": "2026-11-20T20:07:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "summary": "164 points, 36 comments",
-      "publishedAt": "2026-11-20T20:03:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "link": "https://scottaaronson.blog/?p=10344",
-      "summary": "258 points, 231 comments",
-      "publishedAt": "2026-11-20T20:03:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -290,24 +403,6 @@
       "publishedAt": "2026-11-20T19:21:49.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($4…",
-      "publishedAt": "2026-11-20T19:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"…",
-      "publishedAt": "2026-11-20T18:50:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -322,7 +417,7 @@
       "category": "general",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "1813 points, 832 comments",
+      "summary": "2297 points, 1093 comments",
       "publishedAt": "2026-11-20T18:33:14.000Z"
     },
     {
@@ -331,26 +426,8 @@
       "category": "general",
       "title": "We promoted developers into architects without informing them",
       "link": "https://manidoraisamy.com/developer-to-architect.html",
-      "summary": "364 points, 213 comments",
+      "summary": "529 points, 288 comments",
       "publishedAt": "2026-11-20T18:17:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Vibecoding an inference chip",
-      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "summary": "132 points, 50 comments",
-      "publishedAt": "2026-11-20T18:15:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might…",
-      "publishedAt": "2026-11-20T18:15:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -359,15 +436,6 @@
       "title": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
       "link": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution control required to fully exploit modern GPU architectures. By Serg…",
-      "publishedAt": "2026-11-20T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.…",
       "publishedAt": "2026-11-20T18:00:00.000Z"
     },
     {
@@ -380,40 +448,22 @@
       "publishedAt": "2026-11-20T17:40:01.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a…",
-      "publishedAt": "2026-11-20T17:33:59.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "summary": "393 points, 159 comments",
+      "summary": "508 points, 213 comments",
       "publishedAt": "2026-11-20T17:21:36.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside…",
-      "publishedAt": "2026-11-20T17:05:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the he…",
-      "publishedAt": "2026-11-20T16:34:13.000Z"
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "link": "https://klauria.tech/klauria-art/",
+      "summary": "44 points, 7 comments",
+      "publishedAt": "2026-11-20T17:03:39.000Z"
     },
     {
       "source": "Simon Willison",
@@ -423,24 +473,6 @@
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time,…",
       "publishedAt": "2026-11-20T16:30:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "summary": "374 points, 116 comments",
-      "publishedAt": "2026-11-20T16:29:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuos…",
-      "publishedAt": "2026-11-20T16:22:15.000Z"
     },
     {
       "source": "TechCrunch",
@@ -470,15 +502,6 @@
       "publishedAt": "2026-11-20T15:46:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "link": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "summary": "271 points, 86 comments",
-      "publishedAt": "2026-11-20T15:34:31.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -493,7 +516,7 @@
       "category": "general",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "link": "https://alpo.ge/remark.pdf",
-      "summary": "2495 points, 1717 comments",
+      "summary": "2807 points, 1970 comments",
       "publishedAt": "2026-11-20T14:16:21.000Z"
     },
     {
@@ -524,15 +547,6 @@
       "publishedAt": "2026-11-20T13:35:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "212 points, 496 comments",
-      "publishedAt": "2026-11-20T13:29:59.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -549,6 +563,15 @@
       "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
       "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
       "publishedAt": "2026-11-20T13:21:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Deterministic Simulation Testing Is for Everyone",
+      "link": "https://outdata.net/blog/261120",
+      "summary": "27 points, 2 comments",
+      "publishedAt": "2026-11-20T13:19:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -704,33 +727,6 @@
       "publishedAt": "2026-11-19T22:16:37.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "publishedAt": "2026-11-19T21:58:06.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "publishedAt": "2026-11-19T21:42:31.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "summary": "Uber is testing the new program in three U.S. cities.",
-      "publishedAt": "2026-11-19T21:33:24.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -756,15 +752,6 @@
       "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
       "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
       "publishedAt": "2026-11-19T20:29:46.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "publishedAt": "2026-11-19T20:19:28.000Z"
     },
     {
       "source": "Google AI",
@@ -866,24 +853,6 @@
       "publishedAt": "2026-11-18T23:59:20.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 4 Neon",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "summary": "",
-      "publishedAt": "2026-11-18T21:35:43.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Genie 4 is now available",
-      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "summary": "",
-      "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -918,6 +887,15 @@
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your com…",
       "publishedAt": "2026-11-18T14:44:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "summary": "86 points, 64 comments",
+      "publishedAt": "2026-11-18T14:15:58.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -986,10 +964,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "link": "https://trynotched.com/find",
-      "summary": "147 points, 108 comments",
-      "publishedAt": "2026-11-18T03:40:01.000Z"
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "link": "https://github.com/kborer/cells/",
+      "summary": "15 points, 8 comments",
+      "publishedAt": "2026-11-18T02:18:29.000Z"
     },
     {
       "source": "OpenAI",
@@ -1037,6 +1015,15 @@
       "publishedAt": "2026-11-17T21:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "link": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+      "summary": "8 points, 0 comments",
+      "publishedAt": "2026-11-17T17:46:37.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
@@ -1055,15 +1042,6 @@
       "publishedAt": "2026-11-17T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "summary": "86 points, 35 comments",
-      "publishedAt": "2026-11-17T16:58:30.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1071,6 +1049,15 @@
       "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
       "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost i…",
       "publishedAt": "2026-11-17T16:48:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "summary": "414 points, 142 comments",
+      "publishedAt": "2026-11-17T15:22:57.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1244,15 +1231,6 @@
       "publishedAt": "2026-11-14T17:09:09.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "summary": "",
-      "publishedAt": "2026-11-12T18:00:50.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1280,15 +1258,6 @@
       "publishedAt": "2026-11-11T16:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "publishedAt": "2026-11-11T15:00:15.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1305,15 +1274,6 @@
       "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "publishedAt": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "publishedAt": "2026-11-10T16:03:47.000Z"
     },
     {
       "source": "Google AI",
@@ -1334,42 +1294,6 @@
       "publishedAt": "2026-11-10T13:00:00.000Z"
     },
     {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "publishedAt": "2026-11-10T12:02:28.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Opening the datasets behind our AI weather models",
-      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "publishedAt": "2026-11-10T11:13:04.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "publishedAt": "2026-11-09T19:51:47.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:05:16.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1377,15 +1301,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "publishedAt": "2026-11-05T17:00:00.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "publishedAt": "2026-11-03T17:01:49.000Z"
     },
     {
       "source": "Google AI",
