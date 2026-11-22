@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:08:02.751Z",
+  "updatedAt": "2026-11-22T13:06:48.164Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,14 +52,135 @@
       "category": "ai"
     }
   ],
-  "itemCount": 159,
-  "errors": [
-    {
-      "source": "Google DeepMind",
-      "error": "Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    }
-  ],
+  "itemCount": 169,
+  "errors": [],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "summary": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of quest…",
+      "publishedAt": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday…",
+      "publishedAt": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "link": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "The PostgreSQL Global Development Group released PostgreSQL 19, introducing changes to database maintenance, query planning, replication, and application development. The release focuses on reducing administrative overhe…",
+      "publishedAt": "2026-11-22T12:54:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "publishedAt": "2026-11-22T12:07:41.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature",
+      "link": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines to implement \"Don't Ask Again\". The company identified…",
+      "publishedAt": "2026-11-22T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "summary": "41 points, 5 comments",
+      "publishedAt": "2026-11-22T06:52:25.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments. The design keeps credentials, API…",
+      "publishedAt": "2026-11-22T06:30:00.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+      "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, a…",
+      "publishedAt": "2026-11-22T06:27:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: The Riemann Proof Handbook",
+      "link": "https://github.com/tamnd/riemann-handbook",
+      "summary": "67 points, 36 comments",
+      "publishedAt": "2026-11-22T05:46:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "link": "https://github.com/EL4CTEO/fast-anything",
+      "summary": "63 points, 43 comments",
+      "publishedAt": "2026-11-22T04:10:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "summary": "663 points, 402 comments",
+      "publishedAt": "2026-11-22T04:04:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "summary": "181 points, 68 comments",
+      "publishedAt": "2026-11-22T02:14:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "summary": "329 points, 114 comments",
+      "publishedAt": "2026-11-22T00:07:59.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Muru",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the…",
+      "publishedAt": "2026-11-21T23:56:28.000Z"
+    },
     {
       "source": "Ars Technica",
       "color": "#ff4e00",
@@ -75,7 +196,7 @@
       "category": "general",
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
       "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "summary": "31 points, 3 comments",
+      "summary": "128 points, 18 comments",
       "publishedAt": "2026-11-21T22:09:58.000Z"
     },
     {
@@ -100,10 +221,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "link": "https://tasklet.ai/careers",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-11-21T21:11:08.000Z"
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
+      "summary": "196 points, 88 comments",
+      "publishedAt": "2026-11-21T21:17:53.000Z"
     },
     {
       "source": "TechCrunch",
@@ -118,10 +239,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-      "summary": "16 points, 10 comments",
-      "publishedAt": "2026-11-21T21:06:14.000Z"
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "link": "https://www.pandex.io",
+      "summary": "108 points, 28 comments",
+      "publishedAt": "2026-11-21T20:47:41.000Z"
     },
     {
       "source": "The Verge",
@@ -145,18 +266,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "link": "https://pwn.ai/upload2shell",
-      "summary": "68 points, 25 comments",
-      "publishedAt": "2026-11-21T18:29:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "summary": "327 points, 87 comments",
+      "summary": "486 points, 124 comments",
       "publishedAt": "2026-11-21T18:02:19.000Z"
     },
     {
@@ -167,15 +279,6 @@
       "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
       "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this ti…",
       "publishedAt": "2026-11-21T17:42:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PostgreSQL Extensions in Go",
-      "link": "https://jespino.github.io/gopgext/",
-      "summary": "113 points, 20 comments",
-      "publishedAt": "2026-11-21T17:08:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -214,24 +317,6 @@
       "publishedAt": "2026-11-21T16:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "link": "https://math.mit.edu/~drew/grh/",
-      "summary": "87 points, 34 comments",
-      "publishedAt": "2026-11-21T15:54:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "link": "https://onurgumus.github.io/zero-csharp/index.html",
-      "summary": "121 points, 93 comments",
-      "publishedAt": "2026-11-21T15:39:09.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -264,7 +349,7 @@
       "category": "general",
       "title": "Lean verification of the Riemann Hypothesis",
       "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "summary": "783 points, 618 comments",
+      "summary": "1083 points, 903 comments",
       "publishedAt": "2026-11-21T14:36:45.000Z"
     },
     {
@@ -282,26 +367,8 @@
       "category": "general",
       "title": "Detonating a pile of lead azide",
       "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "summary": "493 points, 325 comments",
+      "summary": "633 points, 399 comments",
       "publishedAt": "2026-11-21T13:23:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means…",
-      "publishedAt": "2026-11-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The game of the year is finally here",
-      "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol…",
-      "publishedAt": "2026-11-21T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -318,7 +385,7 @@
       "category": "general",
       "title": "My monitor was cutting my download speed by 75%",
       "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "summary": "450 points, 221 comments",
+      "summary": "608 points, 280 comments",
       "publishedAt": "2026-11-21T10:36:32.000Z"
     },
     {
@@ -354,7 +421,7 @@
       "category": "general",
       "title": "Getting the mind to steer the body to steer you",
       "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "summary": "124 points, 46 comments",
+      "summary": "315 points, 106 comments",
       "publishedAt": "2026-11-20T22:11:05.000Z"
     },
     {
@@ -381,7 +448,7 @@
       "category": "general",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "summary": "493 points, 124 comments",
+      "summary": "1104 points, 238 comments",
       "publishedAt": "2026-11-20T21:03:12.000Z"
     },
     {
@@ -419,15 +486,6 @@
       "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
       "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
       "publishedAt": "2026-11-20T20:26:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "1367 points, 278 comments",
-      "publishedAt": "2026-11-20T20:12:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -482,15 +540,6 @@
       "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
       "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
       "publishedAt": "2026-11-20T18:34:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "2381 points, 1151 comments",
-      "publishedAt": "2026-11-20T18:33:14.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -673,6 +722,15 @@
       "publishedAt": "2026-11-20T06:53:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "If tiny 'primordial' black holes exist",
+      "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "summary": "44 points, 27 comments",
+      "publishedAt": "2026-11-20T03:37:41.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -736,13 +794,13 @@
       "publishedAt": "2026-11-19T22:16:37.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "publishedAt": "2026-11-19T21:19:12.000Z"
+      "title": "Self-hosted library branch over public web OPDS",
+      "link": "https://joinmayberry.com/",
+      "summary": "27 points, 3 comments",
+      "publishedAt": "2026-11-19T21:15:47.000Z"
     },
     {
       "source": "Simon Willison",
@@ -775,10 +833,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Windows has two settings that bring work back after restart, both off by default",
-      "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-      "summary": "22 points, 20 comments",
-      "publishedAt": "2026-11-19T14:00:08.000Z"
+      "title": "Is 'fork' missing operation in sandboxes?",
+      "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+      "summary": "10 points, 7 comments",
+      "publishedAt": "2026-11-19T13:28:43.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -786,7 +844,7 @@
       "category": "ai",
       "title": "QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer",
       "link": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "At QCon San Francisco 2026, Jordan Cutler, Senior Staff Engineer and Web Platform Tech Lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same AI tools. By Daniel…",
+      "summary": "At QCon San Francisco 2026, Jordan Cutler, senior staff engineer and web platform tech lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same AI tools. By Daniel…",
       "publishedAt": "2026-11-19T13:00:00.000Z"
     },
     {
@@ -862,6 +920,33 @@
       "publishedAt": "2026-11-18T23:59:20.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "publishedAt": "2026-11-18T21:35:43.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:13:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "String Art Font (2017)",
+      "link": "https://erikdemaine.org/fonts/stringart/",
+      "summary": "6 points, 0 comments",
+      "publishedAt": "2026-11-18T17:42:57.000Z"
+    },
+    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -896,15 +981,6 @@
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your com…",
       "publishedAt": "2026-11-18T14:44:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Exponential Behavior in Magic: The Gathering",
-      "link": "https://levineuwirth.org/essays/exponential-magic/",
-      "summary": "86 points, 61 comments",
-      "publishedAt": "2026-11-18T14:07:09.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1045,28 +1121,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "summary": "22 points, 23 comments",
-      "publishedAt": "2026-11-17T16:12:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "summary": "710 points, 227 comments",
-      "publishedAt": "2026-11-17T15:22:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-      "summary": "36 points, 17 comments",
-      "publishedAt": "2026-11-17T15:08:54.000Z"
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "link": "https://github.com/pithings/unkernel",
+      "summary": "93 points, 30 comments",
+      "publishedAt": "2026-11-17T16:35:46.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1076,24 +1134,6 @@
       "link": "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Datadog is extending its Agent Observability platform with Online Experiments, allowing engineering teams to compare AI agent versions against real production traffic rather than relying exclusively on predefined evaluat…",
       "publishedAt": "2026-11-17T12:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Production AI, Architecture Trade-Offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
-      "link": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "From agent reliability to architecture decisions and delivery bottlenecks, InfoQ’s January 2027 cohorts give senior practitioners five weeks to examine current challenges, test approaches in their own work, and compare r…",
-      "publishedAt": "2026-11-17T11:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
-      "link": "https://www.infoq.com/presentations/scale-llm-ranking-systems-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Sundara Raman Ramachandran shares how LinkedIn productionizes LLM ranking under strict P99 latency SLAs. He discusses distilling a 7B model down to 400M parameters, compressing job contexts into single-token embeddings f…",
-      "publishedAt": "2026-11-17T11:00:00.000Z"
     },
     {
       "source": "OpenAI",
@@ -1150,15 +1190,6 @@
       "publishedAt": "2026-11-16T23:57:26.000Z"
     },
     {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
-      "link": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Uber’s Legal Redlining Agent reviews contract changes in Microsoft Word using RAG, historical lawyer feedback, and deterministic policy rules. Built with LangGraph, OpenSearch, and Redis, the system reports more than 20%…",
-      "publishedAt": "2026-11-16T14:37:00.000Z"
-    },
-    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1166,15 +1197,6 @@
       "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
       "publishedAt": "2026-11-16T14:00:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
-      "link": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Airbnb researchers have introduced CASTLE, a framework designed to address the cold-start problem in natural language search. The approach uses de-identified booking sessions and large language models (LLMs) to jointly g…",
-      "publishedAt": "2026-11-16T12:25:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1222,13 +1244,13 @@
       "publishedAt": "2026-11-15T03:49:47.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
+      "source": "Google DeepMind",
+      "color": "#3762e2",
       "category": "ai",
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you…",
-      "publishedAt": "2026-11-14T23:59:28.000Z"
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50.000Z"
     },
     {
       "source": "Google AI",
@@ -1258,6 +1280,15 @@
       "publishedAt": "2026-11-11T16:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "publishedAt": "2026-11-11T15:00:15.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1274,6 +1305,15 @@
       "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:03:47.000Z"
     },
     {
       "source": "Google AI",
@@ -1294,6 +1334,42 @@
       "publishedAt": "2026-11-10T13:00:00.000Z"
     },
     {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "publishedAt": "2026-11-10T12:02:28.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "publishedAt": "2026-11-10T11:13:04.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "publishedAt": "2026-11-09T19:51:47.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z"
+    },
+    {
       "source": "Google AI",
       "color": "#4285f4",
       "category": "ai",
@@ -1301,6 +1377,15 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "publishedAt": "2026-11-05T17:00:00.000Z"
+    },
+    {
+      "source": "Google DeepMind",
+      "color": "#3762e2",
+      "category": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49.000Z"
     },
     {
       "source": "Google AI",
