@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:06:48.164Z",
+  "updatedAt": "2026-11-22T20:56:36.547Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,6 +56,204 @@
   "errors": [],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "link": "https://nyx.net/",
+      "summary": "7 points, 0 comments",
+      "publishedAt": "2026-11-22T20:15:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "summary": "28 points, 10 comments",
+      "publishedAt": "2026-11-22T19:51:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "summary": "106 points, 30 comments",
+      "publishedAt": "2026-11-22T19:20:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "105 points, 20 comments",
+      "publishedAt": "2026-11-22T19:10:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Dirac's Theorem at a Dinner Party",
+      "link": "https://prideout.net/blog/dirac-dinner-party/",
+      "summary": "12 points, 2 comments",
+      "publishedAt": "2026-11-22T18:50:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "publishedAt": "2026-11-22T18:08:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "A Delta Air Lines Airbus A220. | Photo: Saul Loeb / AFP via Getty Images All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight a…",
+      "publishedAt": "2026-11-22T17:46:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Was software just always too complex for humans?",
+      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+      "summary": "14 points, 9 comments",
+      "publishedAt": "2026-11-22T17:32:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs…",
+      "publishedAt": "2026-11-22T17:25:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": "337 points, 220 comments",
+      "publishedAt": "2026-11-22T17:06:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-11-22T17:06:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "summary": "This ain’t gonna buff out. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as wel…",
+      "publishedAt": "2026-11-22T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's…",
+      "publishedAt": "2026-11-22T16:33:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "summary": "91 points, 24 comments",
+      "publishedAt": "2026-11-22T15:35:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Open Social Web Alliance",
+      "link": "https://osw-alliance.net/en/",
+      "summary": "176 points, 181 comments",
+      "publishedAt": "2026-11-22T15:24:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Protesters storm Meta offices in India",
+      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company r…",
+      "publishedAt": "2026-11-22T15:15:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Can a TV be too large? An investigation",
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "publishedAt": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time…",
+      "publishedAt": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "summary": "Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of peo…",
+      "publishedAt": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "summary": "220 points, 52 comments",
+      "publishedAt": "2026-11-22T13:56:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of…",
+      "publishedAt": "2026-11-22T13:15:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Testing Terraform with AWS Emulator",
+      "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "summary": "48 points, 5 comments",
+      "publishedAt": "2026-11-22T13:00:36.000Z"
+    },
+    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -104,10 +302,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "summary": "41 points, 5 comments",
-      "publishedAt": "2026-11-22T06:52:25.000Z"
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "summary": "736 points, 773 comments",
+      "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -131,37 +329,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Show HN: The Riemann Proof Handbook",
-      "link": "https://github.com/tamnd/riemann-handbook",
-      "summary": "67 points, 36 comments",
-      "publishedAt": "2026-11-22T05:46:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "link": "https://github.com/EL4CTEO/fast-anything",
-      "summary": "63 points, 43 comments",
-      "publishedAt": "2026-11-22T04:10:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "summary": "663 points, 402 comments",
+      "summary": "1092 points, 639 comments",
       "publishedAt": "2026-11-22T04:04:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Data Processing Incidents on Inference Providers",
-      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "summary": "181 points, 68 comments",
-      "publishedAt": "2026-11-22T02:14:14.000Z"
     },
     {
       "source": "Hacker News",
@@ -169,8 +340,17 @@
       "category": "general",
       "title": "Sandwich Simulator",
       "link": "https://stulle.app/",
-      "summary": "329 points, 114 comments",
+      "summary": "526 points, 185 comments",
       "publishedAt": "2026-11-22T00:07:59.000Z"
+    },
+    {
+      "source": "OpenAI",
+      "color": "#10a37f",
+      "category": "ai",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "publishedAt": "2026-11-22T00:00:00.000Z"
     },
     {
       "source": "Simon Willison",
@@ -182,6 +362,15 @@
       "publishedAt": "2026-11-21T23:56:28.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Better Vocabulary for Testing",
+      "link": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "summary": "86 points, 22 comments",
+      "publishedAt": "2026-11-21T22:15:39.000Z"
+    },
+    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -189,24 +378,6 @@
       "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
       "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
       "publishedAt": "2026-11-21T22:12:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "summary": "128 points, 18 comments",
-      "publishedAt": "2026-11-21T22:09:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "summary": "Amazon is getting increasingly aggressive about not wanting to employ its army of delivery workers. | Photo: The Verge Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery…",
-      "publishedAt": "2026-11-21T21:59:31.000Z"
     },
     {
       "source": "TechCrunch",
@@ -218,15 +389,6 @@
       "publishedAt": "2026-11-21T21:37:10.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Advice for the next 100 Rust GUIs",
-      "link": "https://linebender.org/blog/next-100-guis/",
-      "summary": "196 points, 88 comments",
-      "publishedAt": "2026-11-21T21:17:53.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -236,24 +398,6 @@
       "publishedAt": "2026-11-21T21:07:42.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "link": "https://www.pandex.io",
-      "summary": "108 points, 28 comments",
-      "publishedAt": "2026-11-21T20:47:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a…",
-      "publishedAt": "2026-11-21T20:03:37.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -261,24 +405,6 @@
       "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
       "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
       "publishedAt": "2026-11-21T18:44:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "summary": "486 points, 124 comments",
-      "publishedAt": "2026-11-21T18:02:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The FBI and USDA were reportedly hacked",
-      "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this ti…",
-      "publishedAt": "2026-11-21T17:42:27.000Z"
     },
     {
       "source": "TechCrunch",
@@ -299,24 +425,6 @@
       "publishedAt": "2026-11-21T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs,…",
-      "publishedAt": "2026-11-21T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $11…",
-      "publishedAt": "2026-11-21T16:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -326,51 +434,6 @@
       "publishedAt": "2026-11-21T15:18:29.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T…",
-      "publishedAt": "2026-11-21T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, an…",
-      "publishedAt": "2026-11-21T14:55:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "summary": "1083 points, 903 comments",
-      "publishedAt": "2026-11-21T14:36:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku,…",
-      "publishedAt": "2026-11-21T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Detonating a pile of lead azide",
-      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "summary": "633 points, 399 comments",
-      "publishedAt": "2026-11-21T13:23:14.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -378,15 +441,6 @@
       "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
       "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
       "publishedAt": "2026-11-21T12:01:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "My monitor was cutting my download speed by 75%",
-      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "summary": "608 points, 280 comments",
-      "publishedAt": "2026-11-21T10:36:32.000Z"
     },
     {
       "source": "TechCrunch",
@@ -416,15 +470,6 @@
       "publishedAt": "2026-11-20T22:16:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Getting the mind to steer the body to steer you",
-      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "summary": "315 points, 106 comments",
-      "publishedAt": "2026-11-20T22:11:05.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -441,15 +486,6 @@
       "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
       "publishedAt": "2026-11-20T21:47:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "summary": "1104 points, 238 comments",
-      "publishedAt": "2026-11-20T21:03:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -695,6 +731,15 @@
       "publishedAt": "2026-11-20T10:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
+      "link": "https://hrih.si/projects/deflate-xray/",
+      "summary": "7 points, 1 comments",
+      "publishedAt": "2026-11-20T09:47:15.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -704,15 +749,6 @@
       "publishedAt": "2026-11-20T09:17:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The US national cyber director is stepping down",
-      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-      "publishedAt": "2026-11-20T09:14:19.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -720,15 +756,6 @@
       "link": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain…",
       "publishedAt": "2026-11-20T06:53:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "If tiny 'primordial' black holes exist",
-      "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-      "summary": "44 points, 27 comments",
-      "publishedAt": "2026-11-20T03:37:41.000Z"
     },
     {
       "source": "Simon Willison",
@@ -747,24 +774,6 @@
       "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in…",
       "publishedAt": "2026-11-20T02:49:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "publishedAt": "2026-11-20T00:56:01.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "publishedAt": "2026-11-20T00:43:50.000Z"
     },
     {
       "source": "OpenAI",
@@ -792,15 +801,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "summary": "Amazon now uses its shopping platform for political purposes.",
       "publishedAt": "2026-11-19T22:16:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Self-hosted library branch over public web OPDS",
-      "link": "https://joinmayberry.com/",
-      "summary": "27 points, 3 comments",
-      "publishedAt": "2026-11-19T21:15:47.000Z"
     },
     {
       "source": "Simon Willison",
@@ -833,10 +833,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Is 'fork' missing operation in sandboxes?",
-      "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
-      "summary": "10 points, 7 comments",
-      "publishedAt": "2026-11-19T13:28:43.000Z"
+      "title": "Inside PyPy: First Contact with RPython",
+      "link": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "summary": "35 points, 4 comments",
+      "publishedAt": "2026-11-19T16:26:51.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -846,6 +846,15 @@
       "link": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "At QCon San Francisco 2026, Jordan Cutler, senior staff engineer and web platform tech lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same AI tools. By Daniel…",
       "publishedAt": "2026-11-19T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Transvoxel Algorithm",
+      "link": "https://transvoxel.org/",
+      "summary": "39 points, 1 comments",
+      "publishedAt": "2026-11-19T12:50:25.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -866,6 +875,15 @@
       "publishedAt": "2026-11-19T08:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Agentics: Mushy Software",
+      "link": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+      "summary": "14 points, 0 comments",
+      "publishedAt": "2026-11-19T05:02:09.000Z"
+    },
+    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -875,12 +893,21 @@
       "publishedAt": "2026-11-19T03:12:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "link": "https://news.ycombinator.com/item?id=50555002",
+      "summary": "79 points, 60 comments",
+      "publishedAt": "2026-11-19T01:37:45.000Z"
+    },
+    {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "publishedAt": "2026-11-19T00:00:00.000Z"
     },
     {
@@ -905,9 +932,9 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "publishedAt": "2026-11-19T00:00:00.000Z"
     },
     {
@@ -936,15 +963,6 @@
       "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "summary": "",
       "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "String Art Font (2017)",
-      "link": "https://erikdemaine.org/fonts/stringart/",
-      "summary": "6 points, 0 comments",
-      "publishedAt": "2026-11-18T17:42:57.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1013,18 +1031,18 @@
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
       "source": "OpenAI",
       "color": "#10a37f",
       "category": "ai",
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
@@ -1118,15 +1136,6 @@
       "publishedAt": "2026-11-17T16:48:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "link": "https://github.com/pithings/unkernel",
-      "summary": "93 points, 30 comments",
-      "publishedAt": "2026-11-17T16:35:46.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -1160,15 +1169,6 @@
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "publishedAt": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "source": "OpenAI",
-      "color": "#10a37f",
-      "category": "ai",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "publishedAt": "2026-11-17T00:00:00.000Z"
     },
     {
