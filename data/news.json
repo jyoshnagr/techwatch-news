@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:47:25.088Z",
+  "updatedAt": "2026-11-26T02:40:37.981Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -61,6 +61,204 @@
   ],
   "items": [
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "link": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "92 points, 38 comments",
+      "publishedAt": "2026-11-26T00:43:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
+      "publishedAt": "2026-11-26T00:04:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav…",
+      "publishedAt": "2026-11-25T23:56:44.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Scott Aaronson",
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenh…",
+      "publishedAt": "2026-11-25T23:26:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "link": "https://modaic.dev/blog/latency-doesnt-lie",
+      "summary": "231 points, 67 comments",
+      "publishedAt": "2026-11-25T22:57:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "publishedAt": "2026-11-25T22:44:32.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "publishedAt": "2026-11-25T22:36:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Bare Metal Qwen",
+      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "68 points, 10 comments",
+      "publishedAt": "2026-11-25T22:15:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "44 points, 3 comments",
+      "publishedAt": "2026-11-25T22:12:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The…",
+      "publishedAt": "2026-11-25T21:51:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "summary": "297 points, 136 comments",
+      "publishedAt": "2026-11-25T21:48:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
+      "publishedAt": "2026-11-25T21:48:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "216 points, 177 comments",
+      "publishedAt": "2026-11-25T21:18:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "publishedAt": "2026-11-25T20:57:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "publishedAt": "2026-11-25T20:56:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Slow Ubuntu security response times",
+      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "156 points, 68 comments",
+      "publishedAt": "2026-11-25T20:38:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "summary": "90 points, 28 comments",
+      "publishedAt": "2026-11-25T20:35:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platf…",
+      "publishedAt": "2026-11-25T20:31:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "publishedAt": "2026-11-25T20:03:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "publishedAt": "2026-11-25T19:54:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "publishedAt": "2026-11-25T19:54:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "summary": "Debris flies into the air after the Army detonated several tons of highly-volatile, degraded lead azide on the grounds of the Iowa Army Ammunition Plant on November 25th, 2026. | Photo: Getty Images Saying it was necessa…",
+      "publishedAt": "2026-11-25T19:45:51.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -73,9 +271,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "link": "https://scottaaronson.blog/?p=10379",
-      "summary": "83 points, 28 comments",
+      "summary": "951 points, 799 comments",
       "publishedAt": "2026-11-25T19:11:27.000Z"
     },
     {
@@ -115,6 +313,15 @@
       "publishedAt": "2026-11-25T18:22:38.000Z"
     },
     {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Multiagent coding is the future",
+      "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "summary": "40 points, 24 comments",
+      "publishedAt": "2026-11-25T18:20:11.000Z"
+    },
+    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -151,15 +358,6 @@
       "publishedAt": "2026-11-25T17:44:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Britain's ghost stations",
-      "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "summary": "29 points, 5 comments",
-      "publishedAt": "2026-11-25T17:43:46.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -183,7 +381,7 @@
       "category": "general",
       "title": "The polynomial Hirsch conjecture is false [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "summary": "14 points, 0 comments",
+      "summary": "126 points, 34 comments",
       "publishedAt": "2026-11-25T17:34:34.000Z"
     },
     {
@@ -210,17 +408,8 @@
       "category": "general",
       "title": "1Password Security Incident",
       "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "517 points, 226 comments",
+      "summary": "1192 points, 506 comments",
       "publishedAt": "2026-11-25T17:18:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Deriving Black-Scholes",
-      "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-      "summary": "27 points, 13 comments",
-      "publishedAt": "2026-11-25T17:18:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -238,15 +427,6 @@
       "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
       "link": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world envir…",
-      "publishedAt": "2026-11-25T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to le…",
       "publishedAt": "2026-11-25T17:00:00.000Z"
     },
     {
@@ -277,24 +457,6 @@
       "publishedAt": "2026-11-25T16:33:45.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo…",
-      "publishedAt": "2026-11-25T16:00:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Investigating degraded experiences across GitHub products",
-      "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "summary": "161 points, 86 comments",
-      "publishedAt": "2026-11-25T15:59:23.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -307,46 +469,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "In C++, = default and {} are not the same constructor",
-      "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-      "summary": "67 points, 125 comments",
-      "publishedAt": "2026-11-25T15:20:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "summary": "338 points, 86 comments",
+      "summary": "445 points, 109 comments",
       "publishedAt": "2026-11-25T15:14:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-      "summary": "334 points, 227 comments",
-      "publishedAt": "2026-11-25T15:08:44.000Z"
     },
     {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
-      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
       "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
       "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
       "publishedAt": "2026-11-25T15:08:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with…",
-      "publishedAt": "2026-11-25T15:00:00.000Z"
     },
     {
       "source": "Hacker News",
@@ -354,7 +489,7 @@
       "category": "general",
       "title": "I checked Clojure's core with Lean and found unreported bugs",
       "link": "https://s.conao3.com/blog/2026/e4f733",
-      "summary": "111 points, 41 comments",
+      "summary": "189 points, 66 comments",
       "publishedAt": "2026-11-25T14:56:52.000Z"
     },
     {
@@ -385,15 +520,6 @@
       "publishedAt": "2026-11-25T14:20:28.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of prod…",
-      "publishedAt": "2026-11-25T14:12:33.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -401,24 +527,6 @@
       "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
       "publishedAt": "2026-11-25T14:10:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
-      "summary": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much…",
-      "publishedAt": "2026-11-25T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
-      "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
-      "summary": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 204…",
-      "publishedAt": "2026-11-25T14:00:00.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -435,7 +543,7 @@
       "category": "general",
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "summary": "365 points, 281 comments",
+      "summary": "450 points, 336 comments",
       "publishedAt": "2026-11-25T13:33:07.000Z"
     },
     {
@@ -471,17 +579,8 @@
       "category": "general",
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "link": "https://github.com/xoxorwr/pw-loudness-eq",
-      "summary": "270 points, 162 comments",
+      "summary": "321 points, 178 comments",
       "publishedAt": "2026-11-25T11:34:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
-      "link": "https://arxiv.org/abs/2611.31286",
-      "summary": "53 points, 74 comments",
-      "publishedAt": "2026-11-25T08:23:34.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -491,33 +590,6 @@
       "link": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "At QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Data Infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a data platform, but for the open-ended operational work that i…",
       "publishedAt": "2026-11-25T06:20:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "link": "https://buttons.joshwcomeau.com/",
-      "summary": "764 points, 121 comments",
-      "publishedAt": "2026-11-25T03:23:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "summary": "409 points, 178 comments",
-      "publishedAt": "2026-11-25T02:34:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "summary": "944 points, 529 comments",
-      "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
       "source": "TechCrunch",
@@ -565,15 +637,6 @@
       "publishedAt": "2026-11-24T22:36:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Predicting LoRA size for any dataset",
-      "link": "https://engram.com/blog/lora-size",
-      "summary": "74 points, 8 comments",
-      "publishedAt": "2026-11-24T22:34:29.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -581,51 +644,6 @@
       "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "publishedAt": "2026-11-24T22:27:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "publishedAt": "2026-11-24T21:48:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Even the best AI agents struggle with everyday life",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "publishedAt": "2026-11-24T21:33:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "publishedAt": "2026-11-24T21:32:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-      "publishedAt": "2026-11-24T21:19:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-      "publishedAt": "2026-11-24T21:09:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -682,15 +700,6 @@
       "publishedAt": "2026-11-24T18:03:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
-      "link": "https://joonoo.art/create-comic",
-      "summary": "13 points, 3 comments",
-      "publishedAt": "2026-11-24T17:53:53.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -700,15 +709,6 @@
       "publishedAt": "2026-11-24T17:34:34.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-      "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-      "summary": "Technical details are still limited, but we already know it's fun to drive.",
-      "publishedAt": "2026-11-24T16:58:20.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -716,15 +716,6 @@
       "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to aut…",
       "publishedAt": "2026-11-24T16:53:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "No more heated seat subscriptions for cars in New York from 2027",
-      "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-      "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
-      "publishedAt": "2026-11-24T16:20:37.000Z"
     },
     {
       "source": "Google AI",
@@ -795,7 +786,7 @@
       "category": "general",
       "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
       "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "summary": "137 points, 60 comments",
+      "summary": "231 points, 95 comments",
       "publishedAt": "2026-11-24T06:22:36.000Z"
     },
     {
@@ -815,6 +806,15 @@
       "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hash…",
       "publishedAt": "2026-11-24T03:45:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hacking radiators",
+      "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "summary": "38 points, 13 comments",
+      "publishedAt": "2026-11-24T02:56:41.000Z"
     },
     {
       "source": "OpenAI",
@@ -934,15 +934,6 @@
       "publishedAt": "2026-11-23T08:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Can a TV be too large? An investigation",
-      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "summary": "8 points, 2 comments",
-      "publishedAt": "2026-11-23T06:27:47.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -968,6 +959,15 @@
       "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
       "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing…",
       "publishedAt": "2026-11-22T19:45:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "summary": "258 points, 76 comments",
+      "publishedAt": "2026-11-22T16:44:48.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1004,6 +1004,15 @@
       "link": "https://simonwillison.net/2026/Nov/21/muru/",
       "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the…",
       "publishedAt": "2026-11-21T23:56:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "SSH is a GUI framework",
+      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "summary": "140 points, 73 comments",
+      "publishedAt": "2026-11-21T14:52:41.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1220,15 +1229,6 @@
       "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
       "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection at…",
       "publishedAt": "2026-11-17T22:52:29.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as…",
-      "publishedAt": "2026-11-17T22:38:52.000Z"
     },
     {
       "source": "Google AI",
