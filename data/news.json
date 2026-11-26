@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:46:41.572Z",
+  "updatedAt": "2026-11-26T23:31:41.456Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,261 @@
       "category": "ai"
     }
   ],
-  "itemCount": 171,
+  "itemCount": 169,
   "errors": [],
   "items": [
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "link": "https://kendell.dev/blog/arkwrapper/",
+      "summary": "5 points, 0 comments",
+      "publishedAt": "2026-11-26T21:59:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AI made self-hosting fun again",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "132 points, 78 comments",
+      "publishedAt": "2026-11-26T21:47:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "179 points, 31 comments",
+      "publishedAt": "2026-11-26T21:08:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
+      "publishedAt": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "publishedAt": "2026-11-26T20:03:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Is Alice Huang a spy or not?",
+      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "publishedAt": "2026-11-26T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "summary": "18 points, 11 comments",
+      "publishedAt": "2026-11-26T19:44:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "X finally gets parental controls after 20 years",
+      "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "publishedAt": "2026-11-26T19:31:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "link": "https://github.com/eisenzopf/rvoip",
+      "summary": "60 points, 13 comments",
+      "publishedAt": "2026-11-26T19:18:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "summary": "The Forerunner 265S is great for runners with small wrists. | Photo by Amelia Holowaty Krales / The Verge The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing…",
+      "publishedAt": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "link": "https://bui.preetham.top/charts/",
+      "summary": "33 points, 2 comments",
+      "publishedAt": "2026-11-26T18:37:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "George Whitesides, 1939-2026",
+      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "summary": "46 points, 6 comments",
+      "publishedAt": "2026-11-26T18:13:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "publishedAt": "2026-11-26T18:00:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "summary": "179 points, 82 comments",
+      "publishedAt": "2026-11-26T17:47:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "210 points, 295 comments",
+      "publishedAt": "2026-11-26T17:36:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "AMD-specific fork of llama.cpp",
+      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "257 points, 63 comments",
+      "publishedAt": "2026-11-26T17:11:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, i…",
+      "publishedAt": "2026-11-26T17:07:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Android app developers will soon have to share their address publicly",
+      "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to m…",
+      "publishedAt": "2026-11-26T17:06:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "publishedAt": "2026-11-26T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The best Black Friday deals we’ve already found",
+      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favori…",
+      "publishedAt": "2026-11-26T16:55:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "link": "https://github.com/rxliuli/sim-drop",
+      "summary": "35 points, 8 comments",
+      "publishedAt": "2026-11-26T16:51:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First A…",
+      "publishedAt": "2026-11-26T16:38:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "color": "#0aa860",
+      "category": "general",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "summary": "HBO’s A Knight of the Seven Kingdoms takes a surprisingly charming approach to Westerosi medievalism. | Image: HBO Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch…",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "GTA VI developers vote against unionization",
+      "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of G…",
+      "publishedAt": "2026-11-26T15:55:24.000Z"
+    },
+    {
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "Quoting Jack Despain Zhou",
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pit…",
+      "publishedAt": "2026-11-26T15:09:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "link": "https://michidk.github.io/sidebyside/",
+      "summary": "105 points, 26 comments",
+      "publishedAt": "2026-11-26T15:00:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl…",
+      "publishedAt": "2026-11-26T15:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "color": "#fa4616",
@@ -62,15 +314,6 @@
       "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
       "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
       "summary": "The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Sw…",
-      "publishedAt": "2026-11-26T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-      "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-      "summary": "Samsung’s premium RGB LED TV has the widest color gamut I’ve measured this year. RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher br…",
       "publishedAt": "2026-11-26T14:00:00.000Z"
     },
     {
@@ -92,30 +335,12 @@
       "publishedAt": "2026-11-26T12:00:14.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-      "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-      "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to ov…",
-      "publishedAt": "2026-11-26T12:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Head of Software Engineering – NOX Metals",
-      "link": "https://news.ycombinator.com/item?id=50654353",
-      "summary": "1 points, 0 comments",
-      "publishedAt": "2026-11-26T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "title": "Nextcloud Office Desktop app",
       "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "summary": "173 points, 67 comments",
+      "summary": "389 points, 199 comments",
       "publishedAt": "2026-11-26T11:50:49.000Z"
     },
     {
@@ -128,31 +353,31 @@
       "publishedAt": "2026-11-26T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "X is finally getting its first parental controls",
-      "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how…",
-      "publishedAt": "2026-11-26T10:45:50.000Z"
+      "title": "Intel One Mono font (2023)",
+      "link": "https://github.com/intel/intel-one-mono",
+      "summary": "448 points, 234 comments",
+      "publishedAt": "2026-11-26T10:11:01.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Intel One Mono font",
-      "link": "https://github.com/intel/intel-one-mono",
-      "summary": "230 points, 142 comments",
-      "publishedAt": "2026-11-26T10:11:01.000Z"
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "summary": "196 points, 184 comments",
+      "publishedAt": "2026-11-26T09:44:23.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs ac…",
-      "publishedAt": "2026-11-26T09:54:40.000Z"
+      "title": "OpenAI may be in cost control mode",
+      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "summary": "223 points, 211 comments",
+      "publishedAt": "2026-11-26T07:33:12.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -162,15 +387,6 @@
       "link": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Entra, and Defender. Highlights include Cobalt 200 VMs, Azur…",
       "publishedAt": "2026-11-26T06:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Moat: Your OpenRouter Replacement",
-      "link": "https://commandcode.ai/moat",
-      "summary": "138 points, 90 comments",
-      "publishedAt": "2026-11-26T06:32:48.000Z"
     },
     {
       "source": "Simon Willison",
@@ -185,64 +401,37 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "An algebraic quantization of gravity from the null cone",
-      "link": "https://arxiv.org/abs/2611.34924",
-      "summary": "95 points, 23 comments",
-      "publishedAt": "2026-11-26T05:37:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
       "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "summary": "171 points, 31 comments",
+      "summary": "270 points, 61 comments",
       "publishedAt": "2026-11-26T05:12:59.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
-      "summary": "201 points, 31 comments",
-      "publishedAt": "2026-11-26T03:00:48.000Z"
+      "source": "Simon Willison",
+      "color": "#b3541e",
+      "category": "ai",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly…",
+      "publishedAt": "2026-11-26T05:08:46.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Tell HN: Lots of Ask HNs again",
-      "link": "https://news.ycombinator.com/item?id=50649864",
-      "summary": "329 points, 130 comments",
-      "publishedAt": "2026-11-26T00:43:34.000Z"
+      "title": "NormalScript: A perfectly normal scripting language",
+      "link": "https://psychoscript.com/",
+      "summary": "67 points, 12 comments",
+      "publishedAt": "2026-11-26T04:32:26.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Collection of preserved UI style guides",
-      "link": "https://aresluna.org/ui-style-guides/",
-      "summary": "298 points, 50 comments",
-      "publishedAt": "2026-11-26T00:40:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th…",
-      "publishedAt": "2026-11-26T00:04:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav…",
-      "publishedAt": "2026-11-25T23:56:44.000Z"
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "link": "https://olumino.app",
+      "summary": "53 points, 31 comments",
+      "publishedAt": "2026-11-26T03:33:06.000Z"
     },
     {
       "source": "Simon Willison",
@@ -272,42 +461,6 @@
       "publishedAt": "2026-11-25T22:36:45.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The…",
-      "publishedAt": "2026-11-25T21:51:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "summary": "496 points, 306 comments",
-      "publishedAt": "2026-11-25T21:48:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they…",
-      "publishedAt": "2026-11-25T21:48:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "491 points, 410 comments",
-      "publishedAt": "2026-11-25T21:18:02.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -324,24 +477,6 @@
       "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
       "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
       "publishedAt": "2026-11-25T20:56:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Slow Ubuntu security response times",
-      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "summary": "346 points, 195 comments",
-      "publishedAt": "2026-11-25T20:38:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platf…",
-      "publishedAt": "2026-11-25T20:31:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -378,15 +513,6 @@
       "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "publishedAt": "2026-11-25T19:44:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "link": "https://scottaaronson.blog/?p=10379",
-      "summary": "1750 points, 1594 comments",
-      "publishedAt": "2026-11-25T19:11:27.000Z"
     },
     {
       "source": "TechCrunch",
@@ -468,15 +594,6 @@
       "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
       "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
       "publishedAt": "2026-11-25T17:28:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "1Password Security Incident",
-      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "1540 points, 661 comments",
-      "publishedAt": "2026-11-25T17:18:26.000Z"
     },
     {
       "source": "Ars Technica",
@@ -587,24 +704,6 @@
       "publishedAt": "2026-11-25T13:57:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-      "publishedAt": "2026-11-25T13:08:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-      "publishedAt": "2026-11-25T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -623,22 +722,13 @@
       "publishedAt": "2026-11-25T06:20:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "color": "#0aa860",
+      "source": "Hacker News",
+      "color": "#ff6600",
       "category": "general",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l…",
-      "publishedAt": "2026-11-25T00:12:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips…",
-      "publishedAt": "2026-11-25T00:10:27.000Z"
+      "title": "Curiosity Is No Solo Act",
+      "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "summary": "115 points, 28 comments",
+      "publishedAt": "2026-11-25T00:37:07.000Z"
     },
     {
       "source": "Simon Willison",
@@ -666,24 +756,6 @@
       "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
       "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
       "publishedAt": "2026-11-24T22:36:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "color": "#0aa860",
-      "category": "general",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "publishedAt": "2026-11-24T22:27:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The history of civilization is the history of wheat",
-      "link": "https://asteriskmag.com/issues/16/marginal-grains",
-      "summary": "80 points, 46 comments",
-      "publishedAt": "2026-11-24T20:40:18.000Z"
     },
     {
       "source": "Ars Technica",
@@ -720,15 +792,6 @@
       "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
       "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
       "publishedAt": "2026-11-24T18:30:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "How brewers can protect beers from smoke-tainted hops",
-      "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-      "publishedAt": "2026-11-24T18:18:37.000Z"
     },
     {
       "source": "Simon Willison",
@@ -794,15 +857,6 @@
       "publishedAt": "2026-11-24T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "link": "https://www.friedgil.com/vpvnp",
-      "summary": "176 points, 59 comments",
-      "publishedAt": "2026-11-24T10:56:56.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -846,15 +900,6 @@
       "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hash…",
       "publishedAt": "2026-11-24T03:45:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Synth Patch Hero",
-      "link": "https://swarkentin.github.io/synth-patch-hero/",
-      "summary": "93 points, 19 comments",
-      "publishedAt": "2026-11-24T03:24:22.000Z"
     },
     {
       "source": "OpenAI",
@@ -909,15 +954,6 @@
       "link": "https://openai.com/index/introducing-shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "publishedAt": "2026-11-23T21:20:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "summary": "27 points, 17 comments",
-      "publishedAt": "2026-11-23T21:18:49.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -1017,24 +1053,6 @@
       "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
       "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing…",
       "publishedAt": "2026-11-22T19:45:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "summary": "417 points, 118 comments",
-      "publishedAt": "2026-11-22T16:44:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "summary": "123 points, 49 comments",
-      "publishedAt": "2026-11-22T11:29:44.000Z"
     },
     {
       "source": "OpenAI",
@@ -1190,15 +1208,6 @@
       "publishedAt": "2026-11-19T00:00:00.000Z"
     },
     {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "llm-gemini 0.38",
-      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hy…",
-      "publishedAt": "2026-11-18T23:59:20.000Z"
-    },
-    {
       "source": "Google DeepMind",
       "color": "#3762e2",
       "category": "ai",
@@ -1215,15 +1224,6 @@
       "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "summary": "",
       "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
-      "source": "Simon Willison",
-      "color": "#b3541e",
-      "category": "ai",
-      "title": "datasette-arrows 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table…",
-      "publishedAt": "2026-11-18T17:09:59.000Z"
     },
     {
       "source": "Google AI",
@@ -1395,24 +1395,6 @@
       "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "publishedAt": "2026-11-09T19:51:47.000Z"
-    },
-    {
-      "source": "Google DeepMind",
-      "color": "#3762e2",
-      "category": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:05:16.000Z"
-    },
-    {
-      "source": "Google AI",
-      "color": "#4285f4",
-      "category": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "publishedAt": "2026-11-05T17:00:00.000Z"
     },
     {
       "source": "Anthropic",
