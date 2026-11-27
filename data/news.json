@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:31:41.456Z",
+  "updatedAt": "2026-11-27T07:10:18.190Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -56,12 +56,66 @@
   "errors": [],
   "items": [
     {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+      "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada. Users can choose among…",
+      "publishedAt": "2026-11-27T06:58:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "summary": "14 points, 3 comments",
+      "publishedAt": "2026-11-27T06:44:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "70 points, 42 comments",
+      "publishedAt": "2026-11-27T05:22:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "70 points, 40 comments",
+      "publishedAt": "2026-11-27T04:56:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "The Cutthroat Business of Shipwrecks",
+      "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "summary": "17 points, 2 comments",
+      "publishedAt": "2026-11-27T01:21:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "273 points, 173 comments",
+      "publishedAt": "2026-11-27T01:13:49.000Z"
+    },
+    {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
       "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
       "link": "https://kendell.dev/blog/arkwrapper/",
-      "summary": "5 points, 0 comments",
+      "summary": "89 points, 11 comments",
       "publishedAt": "2026-11-26T21:59:19.000Z"
     },
     {
@@ -70,7 +124,7 @@
       "category": "general",
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "132 points, 78 comments",
+      "summary": "560 points, 288 comments",
       "publishedAt": "2026-11-26T21:47:45.000Z"
     },
     {
@@ -79,7 +133,7 @@
       "category": "general",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "summary": "179 points, 31 comments",
+      "summary": "335 points, 77 comments",
       "publishedAt": "2026-11-26T21:08:05.000Z"
     },
     {
@@ -90,6 +144,15 @@
       "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
       "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
       "publishedAt": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "260 points, 116 comments",
+      "publishedAt": "2026-11-26T20:49:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -110,15 +173,6 @@
       "publishedAt": "2026-11-26T20:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Top-cited AI scientists at four US companies compared",
-      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "summary": "18 points, 11 comments",
-      "publishedAt": "2026-11-26T19:44:31.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -131,10 +185,19 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "title": "Rvoip: VoIP stack in Rust",
       "link": "https://github.com/eisenzopf/rvoip",
-      "summary": "60 points, 13 comments",
+      "summary": "115 points, 24 comments",
       "publishedAt": "2026-11-26T19:18:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "An introduction to uncertainty in machine learning",
+      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "summary": "57 points, 1 comments",
+      "publishedAt": "2026-11-26T19:04:50.000Z"
     },
     {
       "source": "The Verge",
@@ -151,7 +214,7 @@
       "category": "general",
       "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
       "link": "https://bui.preetham.top/charts/",
-      "summary": "33 points, 2 comments",
+      "summary": "93 points, 20 comments",
       "publishedAt": "2026-11-26T18:37:24.000Z"
     },
     {
@@ -160,7 +223,7 @@
       "category": "general",
       "title": "George Whitesides, 1939-2026",
       "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "summary": "46 points, 6 comments",
+      "summary": "73 points, 7 comments",
       "publishedAt": "2026-11-26T18:13:07.000Z"
     },
     {
@@ -176,9 +239,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "179 points, 82 comments",
+      "summary": "247 points, 122 comments",
       "publishedAt": "2026-11-26T17:47:45.000Z"
     },
     {
@@ -187,7 +250,7 @@
       "category": "general",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "link": "https://github.com/antonpictures/youtube-punisher",
-      "summary": "210 points, 295 comments",
+      "summary": "352 points, 419 comments",
       "publishedAt": "2026-11-26T17:36:47.000Z"
     },
     {
@@ -196,7 +259,7 @@
       "category": "general",
       "title": "AMD-specific fork of llama.cpp",
       "link": "https://devnull.land/amd-specific-llama-cpp",
-      "summary": "257 points, 63 comments",
+      "summary": "332 points, 81 comments",
       "publishedAt": "2026-11-26T17:11:29.000Z"
     },
     {
@@ -234,15 +297,6 @@
       "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
       "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favori…",
       "publishedAt": "2026-11-26T16:55:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "link": "https://github.com/rxliuli/sim-drop",
-      "summary": "35 points, 8 comments",
-      "publishedAt": "2026-11-26T16:51:38.000Z"
     },
     {
       "source": "The Verge",
@@ -290,15 +344,6 @@
       "publishedAt": "2026-11-26T15:09:31.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "link": "https://michidk.github.io/sidebyside/",
-      "summary": "105 points, 26 comments",
-      "publishedAt": "2026-11-26T15:00:06.000Z"
-    },
-    {
       "source": "The Verge",
       "color": "#fa4616",
       "category": "general",
@@ -306,6 +351,15 @@
       "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
       "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl…",
       "publishedAt": "2026-11-26T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "link": "http://themouseless.dev/vim/",
+      "summary": "128 points, 42 comments",
+      "publishedAt": "2026-11-26T14:44:22.000Z"
     },
     {
       "source": "The Verge",
@@ -335,15 +389,6 @@
       "publishedAt": "2026-11-26T12:00:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Nextcloud Office Desktop app",
-      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "summary": "389 points, 199 comments",
-      "publishedAt": "2026-11-26T11:50:49.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -358,7 +403,7 @@
       "category": "general",
       "title": "Intel One Mono font (2023)",
       "link": "https://github.com/intel/intel-one-mono",
-      "summary": "448 points, 234 comments",
+      "summary": "503 points, 248 comments",
       "publishedAt": "2026-11-26T10:11:01.000Z"
     },
     {
@@ -367,17 +412,8 @@
       "category": "general",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "196 points, 184 comments",
+      "summary": "314 points, 268 comments",
       "publishedAt": "2026-11-26T09:44:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "OpenAI may be in cost control mode",
-      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "summary": "223 points, 211 comments",
-      "publishedAt": "2026-11-26T07:33:12.000Z"
     },
     {
       "source": "InfoQ AI/ML",
@@ -398,15 +434,6 @@
       "publishedAt": "2026-11-26T06:08:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "summary": "270 points, 61 comments",
-      "publishedAt": "2026-11-26T05:12:59.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -419,18 +446,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "NormalScript: A perfectly normal scripting language",
-      "link": "https://psychoscript.com/",
-      "summary": "67 points, 12 comments",
-      "publishedAt": "2026-11-26T04:32:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
       "link": "https://olumino.app",
-      "summary": "53 points, 31 comments",
+      "summary": "97 points, 43 comments",
       "publishedAt": "2026-11-26T03:33:06.000Z"
     },
     {
@@ -698,7 +716,7 @@
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
-      "title": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
+      "title": "Vercel Launched Experimental Board to Coordinate Tasks across Humans and Coding Agents",
       "link": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Vercel's experimental Board is a headless message store where people and coding agents claim leased tasks, declare dependencies, and sync threads with Slack, GitHub, and Linear. By Daniel Dominguez",
       "publishedAt": "2026-11-25T13:57:00.000Z"
@@ -718,17 +736,8 @@
       "category": "ai",
       "title": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
       "link": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "At QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Data Infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a data platform, but for the open-ended operational work that i…",
+      "summary": "At QCon San Francisco 2026, Mouli Mukherjee, engineering manager for data infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a data platform, but for the open-ended operational work that i…",
       "publishedAt": "2026-11-25T06:20:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Curiosity Is No Solo Act",
-      "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "summary": "115 points, 28 comments",
-      "publishedAt": "2026-11-25T00:37:07.000Z"
     },
     {
       "source": "Simon Willison",
@@ -1035,15 +1044,6 @@
       "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
       "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a fu…",
       "publishedAt": "2026-11-23T00:37:20.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
-      "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does…",
-      "publishedAt": "2026-11-22T22:44:00.000Z"
     },
     {
       "source": "Simon Willison",
