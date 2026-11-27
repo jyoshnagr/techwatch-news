@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:10:18.190Z",
+  "updatedAt": "2026-11-27T19:22:21.323Z",
   "sources": [
     {
       "name": "OpenAI",
@@ -52,9 +52,261 @@
       "category": "ai"
     }
   ],
-  "itemCount": 169,
+  "itemCount": 168,
   "errors": [],
   "items": [
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video g…",
+      "publishedAt": "2026-11-27T18:59:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "link": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "summary": "Anker’s 100W universal travel charger has a tiny screen for monitoring your power usage. | Image: Anker During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20…",
+      "publishedAt": "2026-11-27T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "44 points, 9 comments",
+      "publishedAt": "2026-11-27T18:02:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "I'm Scared of AI",
+      "link": "https://thesoapbox.email/archive/3",
+      "summary": "156 points, 158 comments",
+      "publishedAt": "2026-11-27T17:45:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "link": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo s…",
+      "publishedAt": "2026-11-27T17:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "The best Black Friday deals Ars could find",
+      "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "publishedAt": "2026-11-27T17:05:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "summary": "The MacBook Pro with PROLED XDR has hit a new low price just a few months after release. | Photo: Antonio G. Di Benedetto / The Verge Black Friday is one of the best times of the year to save some cash on a new pair of A…",
+      "publishedAt": "2026-11-27T16:30:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "197 points, 114 comments",
+      "publishedAt": "2026-11-27T15:40:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+      "summary": "It’s time to say goodbye to your multi-headed USB-C cable. | Photo: Sean Hollister / The Verge If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the…",
+      "publishedAt": "2026-11-27T15:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "110 points, 46 comments",
+      "publishedAt": "2026-11-27T15:26:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "summary": "AirPods Pro 3. | Photo: Amelia Holowaty Krales / The Verge The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149…",
+      "publishedAt": "2026-11-27T15:15:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "147 points, 61 comments",
+      "publishedAt": "2026-11-27T15:03:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "summary": "260 points, 79 comments",
+      "publishedAt": "2026-11-27T15:01:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "summary": "34 points, 6 comments",
+      "publishedAt": "2026-11-27T14:37:02.000Z"
+    },
+    {
+      "source": "InfoQ AI/ML",
+      "color": "#7b3fe4",
+      "category": "ai",
+      "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
+      "link": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "summary": "PyTorch now lets an AI reviewer approve pull requests from its own maintainers. GreenLight is an open-source take on RADAR, the system Meta uses to auto-land low-risk diffs after safety checks, a risk score and an LLM re…",
+      "publishedAt": "2026-11-27T14:36:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "summary": "Affordable laptops are even more affordable right now. | Photo: Antonio G. Di Benedetto / The Verge Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expen…",
+      "publishedAt": "2026-11-27T14:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "summary": "50 points, 7 comments",
+      "publishedAt": "2026-11-27T14:02:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time…",
+      "publishedAt": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+      "link": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+      "summary": "Every thug needs a lady, and every Hall effect mouse needs adjustable haptic vibrations. | Photo: Antonio G. Di Benedetto / The Verge When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A ch…",
+      "publishedAt": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "color": "#fa4616",
+      "category": "general",
+      "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
+      "summary": "The Oura Ring 5 is smaller and more comfortable to wear than the Ring 4 (surprise, surprise). | Photo: Amelia Holowaty Krales / The Verge If you’ve been curious about smart rings but have been put off by their high price…",
+      "publishedAt": "2026-11-27T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "summary": "253 points, 155 comments",
+      "publishedAt": "2026-11-27T12:54:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "summary": "157 points, 177 comments",
+      "publishedAt": "2026-11-27T12:43:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "link": "https://eprint.iacr.org/2026/3020.pdf",
+      "summary": "189 points, 81 comments",
+      "publishedAt": "2026-11-27T12:08:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "publishedAt": "2026-11-27T12:05:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "link": "https://www.kimi.ai/news/kimi-for-science-program",
+      "summary": "169 points, 139 comments",
+      "publishedAt": "2026-11-27T12:03:11.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+      "publishedAt": "2026-11-27T11:30:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "color": "#ff6600",
+      "category": "general",
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "summary": "409 points, 205 comments",
+      "publishedAt": "2026-11-27T08:28:08.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "color": "#ff4e00",
+      "category": "general",
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "summary": "There’s just one thing we still don’t know: How much will they cost?",
+      "publishedAt": "2026-11-27T08:00:53.000Z"
+    },
     {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
@@ -68,9 +320,9 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Group chat where your AI talks behind your back",
       "link": "https://construct22.com/",
-      "summary": "14 points, 3 comments",
+      "summary": "608 points, 257 comments",
       "publishedAt": "2026-11-27T06:44:34.000Z"
     },
     {
@@ -79,44 +331,17 @@
       "category": "general",
       "title": "The need for a formally verifiable mainstream programming language",
       "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "summary": "70 points, 42 comments",
+      "summary": "264 points, 269 comments",
       "publishedAt": "2026-11-27T05:22:06.000Z"
     },
     {
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "title": "\"What's Claude's fursona?\" and other questions",
       "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "summary": "70 points, 40 comments",
+      "summary": "139 points, 104 comments",
       "publishedAt": "2026-11-27T04:56:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "The Cutthroat Business of Shipwrecks",
-      "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "summary": "17 points, 2 comments",
-      "publishedAt": "2026-11-27T01:21:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Hard Drive pricing has gotten bad",
-      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "summary": "273 points, 173 comments",
-      "publishedAt": "2026-11-27T01:13:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "link": "https://kendell.dev/blog/arkwrapper/",
-      "summary": "89 points, 11 comments",
-      "publishedAt": "2026-11-26T21:59:19.000Z"
     },
     {
       "source": "Hacker News",
@@ -124,7 +349,7 @@
       "category": "general",
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "560 points, 288 comments",
+      "summary": "1020 points, 486 comments",
       "publishedAt": "2026-11-26T21:47:45.000Z"
     },
     {
@@ -133,26 +358,8 @@
       "category": "general",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "summary": "335 points, 77 comments",
+      "summary": "485 points, 124 comments",
       "publishedAt": "2026-11-26T21:08:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar…",
-      "publishedAt": "2026-11-26T21:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "summary": "260 points, 116 comments",
-      "publishedAt": "2026-11-26T20:49:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -182,51 +389,6 @@
       "publishedAt": "2026-11-26T19:31:50.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Rvoip: VoIP stack in Rust",
-      "link": "https://github.com/eisenzopf/rvoip",
-      "summary": "115 points, 24 comments",
-      "publishedAt": "2026-11-26T19:18:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "An introduction to uncertainty in machine learning",
-      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "summary": "57 points, 1 comments",
-      "publishedAt": "2026-11-26T19:04:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "summary": "The Forerunner 265S is great for runners with small wrists. | Photo by Amelia Holowaty Krales / The Verge The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing…",
-      "publishedAt": "2026-11-26T19:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "link": "https://bui.preetham.top/charts/",
-      "summary": "93 points, 20 comments",
-      "publishedAt": "2026-11-26T18:37:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "George Whitesides, 1939-2026",
-      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "summary": "73 points, 7 comments",
-      "publishedAt": "2026-11-26T18:13:07.000Z"
-    },
-    {
       "source": "Ars Technica",
       "color": "#ff4e00",
       "category": "general",
@@ -239,46 +401,10 @@
       "source": "Hacker News",
       "color": "#ff6600",
       "category": "general",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "247 points, 122 comments",
-      "publishedAt": "2026-11-26T17:47:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "link": "https://github.com/antonpictures/youtube-punisher",
-      "summary": "352 points, 419 comments",
+      "summary": "512 points, 616 comments",
       "publishedAt": "2026-11-26T17:36:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "AMD-specific fork of llama.cpp",
-      "link": "https://devnull.land/amd-specific-llama-cpp",
-      "summary": "332 points, 81 comments",
-      "publishedAt": "2026-11-26T17:11:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, i…",
-      "publishedAt": "2026-11-26T17:07:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Android app developers will soon have to share their address publicly",
-      "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to m…",
-      "publishedAt": "2026-11-26T17:06:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -290,24 +416,6 @@
       "publishedAt": "2026-11-26T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "The best Black Friday deals we’ve already found",
-      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favori…",
-      "publishedAt": "2026-11-26T16:55:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First A…",
-      "publishedAt": "2026-11-26T16:38:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "color": "#0aa860",
       "category": "general",
@@ -317,24 +425,6 @@
       "publishedAt": "2026-11-26T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
-      "summary": "HBO’s A Knight of the Seven Kingdoms takes a surprisingly charming approach to Westerosi medievalism. | Image: HBO Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch…",
-      "publishedAt": "2026-11-26T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "GTA VI developers vote against unionization",
-      "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of G…",
-      "publishedAt": "2026-11-26T15:55:24.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -342,33 +432,6 @@
       "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
       "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pit…",
       "publishedAt": "2026-11-26T15:09:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Why GTA VI’s version of Florida feels so real",
-      "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl…",
-      "publishedAt": "2026-11-26T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "link": "http://themouseless.dev/vim/",
-      "summary": "128 points, 42 comments",
-      "publishedAt": "2026-11-26T14:44:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "color": "#fa4616",
-      "category": "general",
-      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-      "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-      "summary": "The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Sw…",
-      "publishedAt": "2026-11-26T14:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -398,24 +461,6 @@
       "publishedAt": "2026-11-26T11:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Intel One Mono font (2023)",
-      "link": "https://github.com/intel/intel-one-mono",
-      "summary": "503 points, 248 comments",
-      "publishedAt": "2026-11-26T10:11:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "314 points, 268 comments",
-      "publishedAt": "2026-11-26T09:44:23.000Z"
-    },
-    {
       "source": "InfoQ AI/ML",
       "color": "#7b3fe4",
       "category": "ai",
@@ -441,15 +486,6 @@
       "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
       "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly…",
       "publishedAt": "2026-11-26T05:08:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "color": "#ff6600",
-      "category": "general",
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "link": "https://olumino.app",
-      "summary": "97 points, 43 comments",
-      "publishedAt": "2026-11-26T03:33:06.000Z"
     },
     {
       "source": "Simon Willison",
@@ -767,42 +803,6 @@
       "publishedAt": "2026-11-24T22:36:28.000Z"
     },
     {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "What's going on with the Riemann hypothesis?",
-      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "publishedAt": "2026-11-24T20:34:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-      "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-      "publishedAt": "2026-11-24T20:00:18.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "publishedAt": "2026-11-24T18:47:57.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "color": "#ff4e00",
-      "category": "general",
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "publishedAt": "2026-11-24T18:30:36.000Z"
-    },
-    {
       "source": "Simon Willison",
       "color": "#b3541e",
       "category": "ai",
@@ -1008,15 +1008,6 @@
       "link": "https://www.infoq.com/news/2026/11/agoda-modular-monolith-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "summary": "Agoda introduced a modular monolith framework in its post-booking API to reduce coupling without a full rewrite. The platform uses domain components, Data Mapper patterns, typed builders, and ArchUnit tests to enforce bo…",
       "publishedAt": "2026-11-23T14:33:00.000Z"
-    },
-    {
-      "source": "InfoQ AI/ML",
-      "color": "#7b3fe4",
-      "category": "ai",
-      "title": "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
-      "link": "https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "summary": "Anthropic's experimental Code Mode lets Claude Code write JavaScript that chains, parallelizes, and filters Bash, Read, and Edit calls, with changes to how auto mode and hooks review those calls. By Daniel Dominguez",
-      "publishedAt": "2026-11-23T12:17:00.000Z"
     },
     {
       "source": "OpenAI",
